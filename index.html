@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Pulse — Daily AI News</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+</head>
+<body class="dark">
+
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">AI Pulse</span>
+        <span class="logo-badge">Daily</span>
+      </div>
+      <div class="header-right">
+        <div class="live-dot-wrap">
+          <span class="live-dot"></span>
+          <span class="live-label">Live</span>
+        </div>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+          <span class="theme-icon">☀️</span>
+        </button>
+      </div>
+    </div>
+    <div class="header-date" id="headerDate"></div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>What's happening in AI <span class="today-label">today</span></h1>
+      <p class="hero-sub">Curated articles from across the web, refreshed every 24 hours.</p>
+
+      <div class="filters" id="filters">
+        <button class="filter-btn active" data-query="all">All</button>
+        <button class="filter-btn" data-query="llm">LLMs</button>
+        <button class="filter-btn" data-query="research">Research</button>
+        <button class="filter-btn" data-query="openai">OpenAI</button>
+        <button class="filter-btn" data-query="google">Google</button>
+        <button class="filter-btn" data-query="robotics">Robotics</button>
+        <button class="filter-btn" data-query="opensource">Open Source</button>
+      </div>
+    </section>
+
+    <div class="stats-bar" id="statsBar">
+      <span id="articleCount">Loading articles…</span>
+      <span class="stats-sep">·</span>
+      <span id="lastUpdated"></span>
+    </div>
+
+    <div id="errorBanner" class="error-banner hidden">
+      <span>⚠️</span>
+      <span id="errorMsg">Could not load articles. Showing cached results.</span>
+    </div>
+
+    <div class="grid" id="articleGrid">
+      <!-- Skeleton cards while loading -->
+      <div class="card skeleton"></div>
+      <div class="card skeleton"></div>
+      <div class="card skeleton"></div>
+      <div class="card skeleton"></div>
+      <div class="card skeleton"></div>
+      <div class="card skeleton"></div>
+    </div>
+
+    <div class="load-more-wrap" id="loadMoreWrap" style="display:none">
+      <button class="load-more-btn" id="loadMoreBtn">Load more articles</button>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>Sources: <a href="https://news.ycombinator.com" target="_blank" rel="noopener">Hacker News</a> via Algolia API</p>
+      <p class="footer-note">Data refreshes automatically every 24 hours. All articles link to original sources.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
