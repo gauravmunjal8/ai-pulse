@@ -269,6 +269,16 @@ main {
   color: #fff;
 }
 
+.funding-btn {
+  border-color: color-mix(in srgb, var(--orange) 40%, var(--border));
+  color: var(--orange);
+}
+.funding-btn:hover, .funding-btn.active {
+  background: var(--orange);
+  border-color: var(--orange);
+  color: #fff;
+}
+
 /* ---------- Stats bar ---------- */
 .stats-bar {
   display: flex;

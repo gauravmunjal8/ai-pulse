@@ -22,7 +22,16 @@ const FILTERS = {
   google:     { devto: ['googleai', 'gemini', 'tensorflow'],                 hn: 'Google DeepMind Gemini' },
   robotics:   { devto: ['robotics', 'ros'],                                  hn: 'AI robotics' },
   opensource: { devto: ['opensource', 'llm', 'huggingface'],                 hn: 'open source AI model' },
+  funding:    { devto: ['startup', 'artificial-intelligence', 'machinelearning'], hn: 'AI startup funding raises million' },
 };
+
+// Keywords that identify a funding article
+const FUNDING_KEYWORDS = [
+  'raises', 'funding', 'raised', 'series a', 'series b', 'series c', 'series d',
+  'seed round', 'investment', 'investor', 'venture', 'valuation', 'valued at',
+  'million', 'billion', 'backed', 'round led', 'secures', 'secured', 'acqui',
+  'ipo', 'unicorn', 'pre-seed', 'growth round', 'led by', 'capital',
+];
 
 /* ── Auto-tag map ─────────────────────────────────────────── */
 const TAG_MAP = [
@@ -32,7 +41,8 @@ const TAG_MAP = [
   { label: 'Robotics',    words: ['robot','robotic','autonomous','drone'] },
   { label: 'Image/Video', words: ['image','video','diffusion','sora','midjourney','dall-e','stable diffusion'] },
   { label: 'Safety',      words: ['safety','alignment','bias','ethics','regulation'] },
-  { label: 'Business',    words: ['startup','funding','raises','billion','valuation','acquisition'] },
+  { label: 'Funding',     words: ['raises','raised','funding','series a','series b','series c','seed','investment','million','billion','ipo','unicorn','venture','valuation','backed'] },
+  { label: 'Acquisition', words: ['acqui','acquired','acquisition','merger','buys','bought'] },
 ];
 
 /* ── State ────────────────────────────────────────────────── */
@@ -259,6 +269,13 @@ async function load(filter = 'all', force = false) {
     ]);
 
     allArticles = merge(devto, hn);
+
+    // For funding filter: keep only articles that mention funding keywords
+    if (filter === 'funding') {
+      allArticles = allArticles.filter(a =>
+        FUNDING_KEYWORDS.some(kw => (a.title || '').toLowerCase().includes(kw))
+      );
+    }
 
     if (allArticles.length > 0) {
       saveCache(filter, allArticles);
