@@ -393,6 +393,16 @@ main {
 
 .card:hover .card-title { color: var(--accent); }
 
+/* Claude-generated summary */
+.card-summary {
+  font-size: 0.82rem;
+  color: var(--text-2);
+  line-height: 1.65;
+  border-left: 2px solid var(--border);
+  padding-left: 0.75rem;
+  margin-top: 2px;
+}
+
 /* Card footer */
 .card-footer {
   display: flex;
