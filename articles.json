@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25T08:06:02Z",
+  "updated_at": "2026-02-26T08:03:41Z",
   "count": 60,
   "articles": [
     {
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-3281899",
+      "title": "How AI is Reducing Clinician Burnout in Modern Clinics",
+      "description": "Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...",
+      "url": "https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb",
+      "source": "dev.to",
+      "points": 67,
+      "comments": 26,
+      "published_at": "2026-02-24T18:15:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -310,19 +323,6 @@
       "points": 56,
       "comments": 6,
       "published_at": "2021-03-08T14:59:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3281899",
-      "title": "How AI is Reducing Clinician Burnout in Modern Clinics",
-      "description": "Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...",
-      "url": "https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb",
-      "source": "dev.to",
-      "points": 55,
-      "comments": 20,
-      "published_at": "2026-02-24T18:15:05Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -373,7 +373,7 @@
       "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
       "source": "dev.to",
       "points": 41,
-      "comments": 13,
+      "comments": 16,
       "published_at": "2026-02-22T14:24:05Z",
       "summary": "",
       "category": "all",
@@ -388,6 +388,19 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3279865",
+      "title": "Software 3.1? - AI Functions",
+      "description": "Watch: AI Functions Deep Dive:                                  Andrej Karpathy has a...",
+      "url": "https://dev.to/aws/software-31-ai-functions-5acn",
+      "source": "dev.to",
+      "points": 36,
+      "comments": 3,
+      "published_at": "2026-02-24T06:19:23Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -432,51 +445,12 @@
       "tags": []
     },
     {
-      "id": "devto-3279865",
-      "title": "Software 3.1? - AI Functions",
-      "description": "Andrej Karpathy has a version numbering scheme for how software gets written. Software 1.0 is code...",
-      "url": "https://dev.to/aws/software-31-ai-functions-5acn",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 3,
-      "published_at": "2026-02-24T06:19:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3263666",
-      "title": "The Foundation Update: From Theory to Working Federation",
-      "description": "TL;DR: Last week I shipped The Foundation with clipboard capture and security theater. Today it's a...",
-      "url": "https://dev.to/the-foundation/the-foundation-update-from-theory-to-working-federation-2ejm",
-      "source": "dev.to",
-      "points": 19,
-      "comments": 12,
-      "published_at": "2026-02-18T11:24:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3267028",
-      "title": "Taming non-determinism: from logic gates to LLMs",
-      "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
-      "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 2,
-      "published_at": "2026-02-19T03:47:38Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3242212",
       "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
       "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
       "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
       "source": "dev.to",
-      "points": 16,
+      "points": 20,
       "comments": 5,
       "published_at": "2026-02-21T20:34:35Z",
       "summary": "",
@@ -489,22 +463,9 @@
       "description": "On February 13, Google announced the Early Preview of WebMCP, introducing a browser-native way for AI...",
       "url": "https://dev.to/astrodevil/webmcp-a-browser-native-execution-model-for-ai-agents-125n",
       "source": "dev.to",
-      "points": 14,
+      "points": 15,
       "comments": 3,
       "published_at": "2026-02-22T16:37:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3264844",
-      "title": "I Read 20+ Books on AI and LLM Engineering: Here Are My Top 10 Recommendations",
-      "description": "These are the best books you can read in 2026 to learn AI and LLM Engineering in 2026.",
-      "url": "https://dev.to/somadevtoo/i-read-20-books-on-ai-and-llm-engineering-here-are-my-top-10-recommendations-3ab",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 0,
-      "published_at": "2026-02-18T09:05:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,19 +497,6 @@
       "tags": []
     },
     {
-      "id": "devto-3269026",
-      "title": "Understanding RNNs – Part 4: The Vanishing and Exploding Gradient Problem",
-      "description": "In the previous article, we understood the concept of unrolling a network. In this article, we will...",
-      "url": "https://dev.to/rijultp/understanding-rnns-part-4-the-vanishing-and-exploding-gradient-problem-3odo",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 0,
-      "published_at": "2026-02-19T19:50:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3267748",
       "title": "5 DataFrame Operations LLMs Handle Better Than Code",
       "description": "There are things I do with DataFrames all the time that pandas was never built for. Filtering by...",
@@ -562,14 +510,27 @@
       "tags": []
     },
     {
-      "id": "devto-3265511",
-      "title": "Every AI Agent Framework Trusts the Agent. That's the Problem.",
-      "description": "Every AI agent framework trusts the agent.  LangChain. AutoGen. CrewAI. Anthropic Tool Use. OpenAI...",
-      "url": "https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa",
+      "id": "devto-3274360",
+      "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
+      "description": "Every coding agent demo looks magical... until you point it at a real codebase. Then it...",
+      "url": "https://dev.to/badmonster0/i-built-a-tiny-mcp-that-understands-your-code-and-saves-70-tokens-2hp4",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 0,
+      "published_at": "2026-02-22T04:11:28Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3285716",
+      "title": "Understanding LSTMs – Part 4: How LSTM Decides What to Forget",
+      "description": "In the previous article, we completed the first part of the LSTM and obtained the result from the...",
+      "url": "https://dev.to/rijultp/understanding-lstms-part-4-how-lstm-decides-what-to-forget-c9o",
       "source": "dev.to",
       "points": 10,
-      "comments": 15,
-      "published_at": "2026-02-18T13:10:27Z",
+      "comments": 0,
+      "published_at": "2026-02-25T20:46:37Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,14 +549,14 @@
       "tags": []
     },
     {
-      "id": "devto-3274360",
-      "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
-      "description": "Every coding agent demo looks magical... until you point it at a real codebase. Then it...",
-      "url": "https://dev.to/badmonster0/i-built-a-tiny-mcp-that-understands-your-code-and-saves-70-tokens-2hp4",
+      "id": "devto-3278233",
+      "title": "Why I’m building NF-1: A Language for the \"Resource-Zero\" Generation (at 14).",
+      "description": "(...)Hey Dev Community! I am Aditya Rai, a 15-year-old developer from India. Most modern languages...",
+      "url": "https://dev.to/aditya_rai_2f211fe3d3a90f/why-im-building-nf-1-a-language-for-the-resource-zero-generation-at-14-2ji8",
       "source": "dev.to",
       "points": 9,
-      "comments": 0,
-      "published_at": "2026-02-22T04:11:28Z",
+      "comments": 5,
+      "published_at": "2026-02-23T14:40:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,6 +614,32 @@
       "tags": []
     },
     {
+      "id": "devto-3282405",
+      "title": "Debugging the Job Search: Lessons from Germany’s 2026 Hiring Market",
+      "description": "How (senior) candidates can read the logs behind stalled applications, phantom offers, and executive...",
+      "url": "https://dev.to/abdulosman/debugging-the-job-search-lessons-from-germanys-2026-hiring-market-5902",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-02-25T07:31:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3284360",
+      "title": "What I am currently reading (Feb 24th)",
+      "description": "What I am currently reading ( 23rd Feb 26 )   These are the current online posts that I...",
+      "url": "https://dev.to/094459/what-i-am-currently-reading-feb-24th-3dfg",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-02-25T11:09:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -661,6 +648,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3273922",
+      "title": "Why Multitasking With AI Coding Agents Breaks Down (And How I Fixed It)",
+      "description": "AI coding agents are powerful — but running multiple sessions in parallel quickly becomes chaotic. Here’s what breaks, and how I approached fixing it.",
+      "url": "https://dev.to/johannesjo/why-multitasking-with-ai-coding-agents-breaks-down-and-how-i-fixed-it-2lm0",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-02-21T20:02:43Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -708,7 +708,7 @@
       "id": "devto-3268724",
       "title": "Will GBMs Still Dominate Tabular Data for the Next Decade?",
       "description": "Gradient Boosting Machines (GBMs) have become the dominant approach for tabular data because they...",
-      "url": "https://dev.to/jashwanth_thatipamula_8ee/will-gbms-still-dominate-tabular-data-for-the-next-decade-30he",
+      "url": "https://dev.to/smarteco/will-gbms-still-dominate-tabular-data-for-the-next-decade-30he",
       "source": "dev.to",
       "points": 5,
       "comments": 0,
@@ -744,19 +744,6 @@
       "tags": []
     },
     {
-      "id": "devto-3268138",
-      "title": "SaaS Uptime Monitoring Explained: How Late Outage Detection Hurts Growth and Trust",
-      "description": "Most founders think downtime is the problem - It is not. The real problem is discovering outages from...",
-      "url": "https://dev.to/mukul_sharma/saas-uptime-monitoring-explained-how-late-outage-detection-hurts-growth-and-trust-34ib",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-02-20T07:37:34Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3279057",
       "title": "I built an open-source alternative to Toast and Square for restaurant management",
       "description": "The Problem   If you run a small restaurant, your options for online ordering and management...",
@@ -770,14 +757,27 @@
       "tags": []
     },
     {
-      "id": "devto-3273922",
-      "title": "Why Multitasking With AI Coding Agents Breaks Down (And How I Fixed It)",
-      "description": "AI coding agents are powerful — but running multiple sessions in parallel quickly becomes chaotic. Here’s what breaks, and how I approached fixing it.",
-      "url": "https://dev.to/johannesjo/why-multitasking-with-ai-coding-agents-breaks-down-and-how-i-fixed-it-2lm0",
+      "id": "devto-3274523",
+      "title": "To the Programmer Quietly Drowning in AI Anxiety",
+      "description": "A quiet word for those who feel like they’re falling behind     Let me guess how your morning...",
+      "url": "https://dev.to/kaniel_outis/to-the-programmer-quietly-drowning-in-ai-anxiety-42pm",
       "source": "dev.to",
-      "points": 5,
+      "points": 4,
+      "comments": 0,
+      "published_at": "2026-02-22T07:22:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3279097",
+      "title": "Your AI Coding Agent Has a Plan. You Just Can't See It.",
+      "description": "I've been using Claude Code and Cursor daily for over a year now. They've genuinely changed how I...",
+      "url": "https://dev.to/sixth_adewole_jasper/your-ai-coding-agent-has-a-plan-you-just-cant-see-it-4lnf",
+      "source": "dev.to",
+      "points": 4,
       "comments": 1,
-      "published_at": "2026-02-21T20:02:43Z",
+      "published_at": "2026-02-23T22:35:52Z",
       "summary": "",
       "category": "all",
       "tags": []
