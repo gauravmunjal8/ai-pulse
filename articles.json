@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-27T07:59:48Z",
+  "updated_at": "2026-02-28T07:04:51Z",
   "count": 60,
   "articles": [
     {
@@ -294,8 +294,8 @@
       "description": "Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...",
       "url": "https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb",
       "source": "dev.to",
-      "points": 67,
-      "comments": 26,
+      "points": 72,
+      "comments": 28,
       "published_at": "2026-02-24T18:15:05Z",
       "summary": "",
       "category": "all",
@@ -354,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-3275292",
+      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
+      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
+      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
+      "source": "dev.to",
+      "points": 52,
+      "comments": 24,
+      "published_at": "2026-02-22T14:24:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -362,19 +375,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3275292",
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
-      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
-      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
-      "source": "dev.to",
-      "points": 42,
-      "comments": 19,
-      "published_at": "2026-02-22T14:24:05Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -401,6 +401,19 @@
       "points": 37,
       "comments": 4,
       "published_at": "2026-02-24T06:19:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3285136",
+      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
+      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
+      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
+      "source": "dev.to",
+      "points": 31,
+      "comments": 0,
+      "published_at": "2026-02-25T16:08:56Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -445,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-3291391",
+      "title": "My Take On AI and Technology (Besides the Pure Developer PoV)",
+      "description": "Hello Dev.to community !  I hope you're all doing well, today I decided for a little bit more...",
+      "url": "https://dev.to/luftietheanonymous/my-take-on-ai-and-technology-besides-the-pure-developer-pov-cce",
+      "source": "dev.to",
+      "points": 24,
+      "comments": 2,
+      "published_at": "2026-02-27T09:55:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3242212",
       "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
       "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
@@ -458,6 +484,19 @@
       "tags": []
     },
     {
+      "id": "devto-3289251",
+      "title": "Understanding LSTMs – Part 5: The Input Gate Explained",
+      "description": "In the previous article, we have just went through the 2nd and 3rd components in LSTM, we will...",
+      "url": "https://dev.to/rijultp/understanding-lstms-part-5-the-input-gate-explained-1mop",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 1,
+      "published_at": "2026-02-26T21:33:21Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3275579",
       "title": "WebMCP: A Browser-Native Execution Model for AI Agents",
       "description": "On February 13, Google announced the Early Preview of WebMCP, introducing a browser-native way for AI...",
@@ -466,19 +505,6 @@
       "points": 15,
       "comments": 3,
       "published_at": "2026-02-22T16:37:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3285716",
-      "title": "Understanding LSTMs – Part 4: How LSTM Decides What to Forget",
-      "description": "In the previous article, we completed the first part of the LSTM and obtained the result from the...",
-      "url": "https://dev.to/rijultp/understanding-lstms-part-4-how-lstm-decides-what-to-forget-c9o",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 0,
-      "published_at": "2026-02-25T20:46:37Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,19 +536,6 @@
       "tags": []
     },
     {
-      "id": "devto-3289251",
-      "title": "Understanding LSTMs – Part 5: The Input Gate Explained",
-      "description": "In the previous article, we have just went through the 2nd and 3rd components in LSTM, we will...",
-      "url": "https://dev.to/rijultp/understanding-lstms-part-5-the-input-gate-explained-1mop",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 1,
-      "published_at": "2026-02-26T21:33:21Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3274360",
       "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
       "description": "Every coding agent demo looks magical... until you point it at a real codebase. Then it...",
@@ -536,6 +549,19 @@
       "tags": []
     },
     {
+      "id": "devto-3278233",
+      "title": "Why I’m building NF-1: A Language for the \"Resource-Zero\" Generation (at 14).",
+      "description": "(...)Hey Dev Community! I am Aditya Rai, a 15-year-old developer from India. Most modern languages...",
+      "url": "https://dev.to/aditya_rai_2f211fe3d3a90f/why-im-building-nf-1-a-language-for-the-resource-zero-generation-at-14-2ji8",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 6,
+      "published_at": "2026-02-23T14:40:02Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -544,19 +570,6 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3278233",
-      "title": "Why I’m building NF-1: A Language for the \"Resource-Zero\" Generation (at 14).",
-      "description": "(...)Hey Dev Community! I am Aditya Rai, a 15-year-old developer from India. Most modern languages...",
-      "url": "https://dev.to/aditya_rai_2f211fe3d3a90f/why-im-building-nf-1-a-language-for-the-resource-zero-generation-at-14-2ji8",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 6,
-      "published_at": "2026-02-23T14:40:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -580,7 +593,7 @@
       "description": "Hi all, I maintain an open-source project called StenoAI. I’m happy to answer questions or go deep on...",
       "url": "https://dev.to/ruzin_saleem_2b30cf073fd8/stenoai-privacy-focused-ai-meeting-intelligence-380-github-stars-1000-downloads-4o1m",
       "source": "dev.to",
-      "points": 8,
+      "points": 9,
       "comments": 7,
       "published_at": "2026-02-26T02:11:16Z",
       "summary": "",
@@ -628,7 +641,7 @@
     },
     {
       "id": "devto-3284360",
-      "title": "What I am currently reading (Feb 24th)",
+      "title": "What I am currently reading (Feb 23rd)",
       "description": "What I am currently reading ( 23rd Feb 26 )   These are the current online posts that I...",
       "url": "https://dev.to/094459/what-i-am-currently-reading-feb-24th-3dfg",
       "source": "dev.to",
@@ -648,6 +661,19 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-02-25T07:31:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3292336",
+      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
+      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
+      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-02-27T15:27:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,6 +718,19 @@
       "tags": []
     },
     {
+      "id": "devto-3284366",
+      "title": "My \"simple\" plan to build a SaaS from $0 to $1M valuation",
+      "description": "There are a thousand ways to make 1 million dollars in life and one of the best chances I, the nerdy...",
+      "url": "https://dev.to/anthonyriera/my-simple-plan-to-build-a-saas-from-0-to-1m-valuation-1mef",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-02-25T11:11:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3273922",
       "title": "Why Multitasking With AI Coding Agents Breaks Down (And How I Fixed It)",
       "description": "AI coding agents are powerful — but running multiple sessions in parallel quickly becomes chaotic. Here’s what breaks, and how I approached fixing it.",
@@ -731,53 +770,14 @@
       "tags": []
     },
     {
-      "id": "devto-3278974",
-      "title": "Designing Success: Hadrius (YC W23) Is Hiring Designers Who Code",
-      "description": "Explore how Hadrius is redefining design roles and why coding designers are essential for innovation in tech.",
-      "url": "https://dev.to/dd8888/designing-success-hadrius-yc-w23-is-hiring-designers-who-code-2o75",
+      "id": "devto-3290176",
+      "title": "I built an AI contract scanner for freelancers in a day, it just caught a $52,000 trap in a $15,000 contract",
+      "description": "I'm a solo builder. A few weeks ago I got frustrated watching freelancers — designers, developers,...",
+      "url": "https://dev.to/richied5/i-built-an-ai-contract-scanner-for-freelancers-in-a-day-it-just-caught-a-52000-trap-in-a-15000-nd0",
       "source": "dev.to",
       "points": 5,
       "comments": 0,
-      "published_at": "2026-02-23T20:48:40Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3278651",
-      "title": "What happens when an AI has actual bills to pay",
-      "description": "What happens when an AI has actual bills to pay   Most AI systems don't have skin in the...",
-      "url": "https://dev.to/adamai/what-happens-when-an-ai-has-actual-bills-to-pay-3082",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-02-23T17:44:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3279057",
-      "title": "I built an open-source alternative to Toast and Square for restaurant management",
-      "description": "The Problem   If you run a small restaurant, your options for online ordering and management...",
-      "url": "https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 5,
-      "published_at": "2026-02-23T21:47:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-44845327",
-      "title": "Gptoss120B – OpenAI Open Source Large Language Model GPT-OSS-120B Official Site",
-      "description": "",
-      "url": "https://gptoss120b.app/",
-      "source": "gptoss120b.app",
-      "points": 4,
-      "comments": 0,
-      "published_at": "2025-08-09T10:10:22Z",
+      "published_at": "2026-02-27T03:39:21Z",
       "summary": "",
       "category": "all",
       "tags": []
