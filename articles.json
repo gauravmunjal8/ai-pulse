@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28T07:04:51Z",
+  "updated_at": "2026-03-01T06:30:54Z",
   "count": 60,
   "articles": [
     {
@@ -341,6 +341,19 @@
       "tags": []
     },
     {
+      "id": "devto-3275292",
+      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
+      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
+      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
+      "source": "dev.to",
+      "points": 54,
+      "comments": 25,
+      "published_at": "2026-02-22T14:24:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-40151104",
       "title": "Apple Releases Open Source AI Models That Run On-Device",
       "description": "",
@@ -349,19 +362,6 @@
       "points": 54,
       "comments": 13,
       "published_at": "2024-04-24T23:17:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3275292",
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
-      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
-      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
-      "source": "dev.to",
-      "points": 52,
-      "comments": 24,
-      "published_at": "2026-02-22T14:24:05Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -464,21 +464,8 @@
       "url": "https://dev.to/luftietheanonymous/my-take-on-ai-and-technology-besides-the-pure-developer-pov-cce",
       "source": "dev.to",
       "points": 24,
-      "comments": 2,
-      "published_at": "2026-02-27T09:55:50Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3242212",
-      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
-      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
-      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
-      "source": "dev.to",
-      "points": 22,
       "comments": 6,
-      "published_at": "2026-02-21T20:34:35Z",
+      "published_at": "2026-02-27T09:55:50Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -502,8 +489,8 @@
       "description": "On February 13, Google announced the Early Preview of WebMCP, introducing a browser-native way for AI...",
       "url": "https://dev.to/astrodevil/webmcp-a-browser-native-execution-model-for-ai-agents-125n",
       "source": "dev.to",
-      "points": 15,
-      "comments": 3,
+      "points": 16,
+      "comments": 4,
       "published_at": "2026-02-22T16:37:51Z",
       "summary": "",
       "category": "all",
@@ -531,19 +518,6 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3274360",
-      "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
-      "description": "Every coding agent demo looks magical... until you point it at a real codebase. Then it...",
-      "url": "https://dev.to/badmonster0/i-built-a-tiny-mcp-that-understands-your-code-and-saves-70-tokens-2hp4",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 0,
-      "published_at": "2026-02-22T04:11:28Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,6 +614,19 @@
       "tags": []
     },
     {
+      "id": "devto-3292336",
+      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
+      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
+      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 9,
+      "published_at": "2026-02-27T15:27:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3284360",
       "title": "What I am currently reading (Feb 23rd)",
       "description": "What I am currently reading ( 23rd Feb 26 )   These are the current online posts that I...",
@@ -661,19 +648,6 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-02-25T07:31:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3292336",
-      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
-      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
-      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 2,
-      "published_at": "2026-02-27T15:27:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,6 +692,19 @@
       "tags": []
     },
     {
+      "id": "devto-3279104",
+      "title": "How I Self-Host Metabase & Why Your Team Should Too",
+      "description": "If you have not yet explored Metabase, this is for you.  I have had this piece sitting in my drafts...",
+      "url": "https://dev.to/paschalogu/how-i-self-host-metabase-why-your-team-should-too-1a6l",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-02-24T22:26:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3284366",
       "title": "My \"simple\" plan to build a SaaS from $0 to $1M valuation",
       "description": "There are a thousand ways to make 1 million dollars in life and one of the best chances I, the nerdy...",
@@ -731,14 +718,14 @@
       "tags": []
     },
     {
-      "id": "devto-3273922",
-      "title": "Why Multitasking With AI Coding Agents Breaks Down (And How I Fixed It)",
-      "description": "AI coding agents are powerful — but running multiple sessions in parallel quickly becomes chaotic. Here’s what breaks, and how I approached fixing it.",
-      "url": "https://dev.to/johannesjo/why-multitasking-with-ai-coding-agents-breaks-down-and-how-i-fixed-it-2lm0",
+      "id": "devto-3282077",
+      "title": "Air-Gapped Drone Data Operations with Delayed Sync and Auditability",
+      "description": "Drones in air-gapped environments produce a lot of data (camera images, telemetry, logs, model...",
+      "url": "https://dev.to/reductstore/air-gapped-drone-data-operations-with-delayed-sync-and-auditability-55ne",
       "source": "dev.to",
       "points": 6,
-      "comments": 1,
-      "published_at": "2026-02-21T20:02:43Z",
+      "comments": 0,
+      "published_at": "2026-02-24T00:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,6 +752,19 @@
       "points": 5,
       "comments": 1,
       "published_at": "2023-02-02T22:45:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3290603",
+      "title": "Why Benchmarks Lie in Machine Learning",
+      "description": "Benchmarks are everywhere in machine learning.  Model A is 2× faster. Library B is 5× more...",
+      "url": "https://dev.to/siddhartha_reddy/why-benchmarks-lie-in-machine-learning-3jmn",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-02-27T06:35:56Z",
       "summary": "",
       "category": "all",
       "tags": []
