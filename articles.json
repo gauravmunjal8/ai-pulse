@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-01T06:30:54Z",
+  "updated_at": "2026-03-02T06:40:31Z",
   "count": 60,
   "articles": [
     {
@@ -341,19 +341,6 @@
       "tags": []
     },
     {
-      "id": "devto-3275292",
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
-      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
-      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
-      "source": "dev.to",
-      "points": 54,
-      "comments": 25,
-      "published_at": "2026-02-22T14:24:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40151104",
       "title": "Apple Releases Open Source AI Models That Run On-Device",
       "description": "",
@@ -398,8 +385,8 @@
       "description": "Watch: AI Functions Deep Dive:                                  Andrej Karpathy has a...",
       "url": "https://dev.to/aws/software-31-ai-functions-5acn",
       "source": "dev.to",
-      "points": 37,
-      "comments": 4,
+      "points": 38,
+      "comments": 6,
       "published_at": "2026-02-24T06:19:23Z",
       "summary": "",
       "category": "all",
@@ -492,19 +479,6 @@
       "points": 16,
       "comments": 4,
       "published_at": "2026-02-22T16:37:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3274521",
-      "title": "Hello World, Literally: Mapping Real-World Data using Geospatial Python",
-      "description": "This article was co-authored by @shin462.  In standard programming, the first task given to...",
-      "url": "https://dev.to/up_min_sparcs/hello-world-literally-mapping-real-world-data-using-geospatial-python-4995",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 0,
-      "published_at": "2026-02-22T07:20:43Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -620,7 +594,7 @@
       "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
       "source": "dev.to",
       "points": 7,
-      "comments": 9,
+      "comments": 12,
       "published_at": "2026-02-27T15:27:49Z",
       "summary": "",
       "category": "all",
@@ -635,6 +609,19 @@
       "points": 7,
       "comments": 1,
       "published_at": "2026-02-25T11:09:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3278685",
+      "title": "The Notebook Illusion: Why ML Feels Simple Until It Isn’t",
+      "description": "Machine learning feels deceptively easy.  Open a notebook. Import a dataset. Train a model. Plot a...",
+      "url": "https://dev.to/siddhartha_reddy/the-notebook-illusion-why-ml-feels-simple-until-it-isnt-32o3",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-02-23T18:03:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,6 +679,19 @@
       "tags": []
     },
     {
+      "id": "devto-3293201",
+      "title": "🦈 Analyzing Open Data shark attacks with gemini-cli and Quarto 📊",
+      "description": "This is a submission for the Built with Google Gemini: Writing Challenge           😂 Spoiler alert :...",
+      "url": "https://dev.to/adriens/analyzing-open-data-shark-attacks-with-gemini-cli-and-quarto-3pe8",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 3,
+      "published_at": "2026-02-28T06:55:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3279104",
       "title": "How I Self-Host Metabase & Why Your Team Should Too",
       "description": "If you have not yet explored Metabase, this is for you.  I have had this piece sitting in my drafts...",
@@ -731,6 +731,19 @@
       "tags": []
     },
     {
+      "id": "devto-3297088",
+      "title": "I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device",
+      "description": "Every AI coding assistant requires typing. GitHub Copilot, Continue, Kiro — they all expect you to...",
+      "url": "https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-02-28T21:50:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3279097",
       "title": "Your AI Coding Agent Has a Plan. You Just Can't See It.",
       "description": "I've been using Claude Code and Cursor daily for over a year now. They've genuinely changed how I...",
@@ -765,19 +778,6 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-02-27T06:35:56Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3290176",
-      "title": "I built an AI contract scanner for freelancers in a day, it just caught a $52,000 trap in a $15,000 contract",
-      "description": "I'm a solo builder. A few weeks ago I got frustrated watching freelancers — designers, developers,...",
-      "url": "https://dev.to/richied5/i-built-an-ai-contract-scanner-for-freelancers-in-a-day-it-just-caught-a-52000-trap-in-a-15000-nd0",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-02-27T03:39:21Z",
       "summary": "",
       "category": "all",
       "tags": []
