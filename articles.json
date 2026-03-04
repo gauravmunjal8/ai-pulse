@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03T06:34:52Z",
+  "updated_at": "2026-03-04T06:31:18Z",
   "count": 60,
   "articles": [
     {
@@ -289,19 +289,6 @@
       "tags": []
     },
     {
-      "id": "devto-3281899",
-      "title": "How AI is Reducing Clinician Burnout in Modern Clinics",
-      "description": "Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...",
-      "url": "https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb",
-      "source": "dev.to",
-      "points": 77,
-      "comments": 30,
-      "published_at": "2026-02-24T18:15:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -385,7 +372,7 @@
       "description": "This is a submission for the DEV Weekend Challenge: Community           The Community   I've spent...",
       "url": "https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md",
       "source": "dev.to",
-      "points": 37,
+      "points": 38,
       "comments": 4,
       "published_at": "2026-03-01T11:50:52Z",
       "summary": "",
@@ -432,6 +419,19 @@
       "tags": []
     },
     {
+      "id": "devto-3291391",
+      "title": "My Take On AI and Technology (Besides the Pure Developer PoV)",
+      "description": "Hello Dev.to community !  I hope you're all doing well, today I decided for a little bit more...",
+      "url": "https://dev.to/luftietheanonymous/my-take-on-ai-and-technology-besides-the-pure-developer-pov-cce",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 6,
+      "published_at": "2026-02-27T09:55:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -445,14 +445,27 @@
       "tags": []
     },
     {
-      "id": "devto-3291391",
-      "title": "My Take On AI and Technology (Besides the Pure Developer PoV)",
-      "description": "Hello Dev.to community !  I hope you're all doing well, today I decided for a little bit more...",
-      "url": "https://dev.to/luftietheanonymous/my-take-on-ai-and-technology-besides-the-pure-developer-pov-cce",
+      "id": "devto-3296669",
+      "title": "AI Can Write Code. But It Can’t Build Products.",
+      "description": "It's been 2 years since I started doing AI development, but there is one thing that was lacking when...",
+      "url": "https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0",
       "source": "dev.to",
-      "points": 24,
-      "comments": 6,
-      "published_at": "2026-02-27T09:55:50Z",
+      "points": 22,
+      "comments": 10,
+      "published_at": "2026-02-28T17:09:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3305196",
+      "title": "How to make your first contribution to an open source project",
+      "description": "Getting involved in open source doesn't have to be scary! Understand how to find a great project and...",
+      "url": "https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50",
+      "source": "dev.to",
+      "points": 21,
+      "comments": 1,
+      "published_at": "2026-03-03T12:25:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,14 +484,14 @@
       "tags": []
     },
     {
-      "id": "devto-3275579",
-      "title": "WebMCP: A Browser-Native Execution Model for AI Agents",
-      "description": "On February 13, Google announced the Early Preview of WebMCP, introducing a browser-native way for AI...",
-      "url": "https://dev.to/astrodevil/webmcp-a-browser-native-execution-model-for-ai-agents-125n",
+      "id": "devto-3210004",
+      "title": "Using Slightly Broken Smartphones thanks to Accessibility",
+      "description": "I rescued my water-damaged phone thanks to Android's powerful accessibility features and open-source...",
+      "url": "https://dev.to/ingosteinke/using-slightly-broken-smartphones-thanks-to-accessibility-28pf",
       "source": "dev.to",
-      "points": 16,
-      "comments": 4,
-      "published_at": "2026-02-22T16:37:51Z",
+      "points": 17,
+      "comments": 3,
+      "published_at": "2026-03-02T17:57:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -503,34 +516,8 @@
       "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
       "source": "dev.to",
       "points": 12,
-      "comments": 12,
+      "comments": 13,
       "published_at": "2026-02-27T15:27:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3296669",
-      "title": "AI Can Write Code. But It Can’t Build Products.",
-      "description": "It's been 2 years since I started doing AI development, but there is one thing that was lacking when...",
-      "url": "https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 7,
-      "published_at": "2026-02-28T17:09:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3278233",
-      "title": "Why I’m building NF-1: A Language for the \"Resource-Zero\" Generation (at 14).",
-      "description": "(...)Hey Dev Community! I am Aditya Rai, a 15-year-old developer from India. Most modern languages...",
-      "url": "https://dev.to/aditya_rai_2f211fe3d3a90f/why-im-building-nf-1-a-language-for-the-resource-zero-generation-at-14-2ji8",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 6,
-      "published_at": "2026-02-23T14:40:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -541,9 +528,22 @@
       "description": "This is a submission for the Built with Google Gemini: Writing Challenge           What I Built with...",
       "url": "https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm",
       "source": "dev.to",
-      "points": 11,
+      "points": 12,
       "comments": 13,
       "published_at": "2026-02-28T05:22:47Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3304997",
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 7,
+      "published_at": "2026-03-03T10:41:20Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,6 +562,19 @@
       "tags": []
     },
     {
+      "id": "devto-3298867",
+      "title": "Writing System Prompts That Actually Work: The RISEN Framework for AI Agents",
+      "description": "Most AI agent system prompts are one sentence of vague instructions. The RISEN framework (Role, Instructions, Steps, Expectation, Narrowing) turns system prompts into behavioral contracts that produce consistently structured, actionable output. This post walks through the framework with three runnable scenarios comparing basic prompts to RISEN prompts.",
+      "url": "https://dev.to/gunnargrosch/writing-system-prompts-that-actually-work-the-risen-framework-for-ai-agents-4p94",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 5,
+      "published_at": "2026-03-01T17:32:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3286133",
       "title": "StenoAI - Privacy Focused AI meeting intelligence. 380+ GitHub stars, 1000+ downloads",
       "description": "Hi all, I maintain an open-source project called StenoAI. I’m happy to answer questions or go deep on...",
@@ -575,14 +588,14 @@
       "tags": []
     },
     {
-      "id": "devto-3298867",
-      "title": "Writing System Prompts That Actually Work: The RISEN Framework for AI Agents",
-      "description": "Most AI agent system prompts are one sentence of vague instructions. The RISEN framework (Role, Instructions, Steps, Expectation, Narrowing) turns system prompts into behavioral contracts that produce consistently structured, actionable output. This post walks through the framework with three runnable scenarios comparing basic prompts to RISEN prompts.",
-      "url": "https://dev.to/gunnargrosch/writing-system-prompts-that-actually-work-the-risen-framework-for-ai-agents-4p94",
+      "id": "devto-3293691",
+      "title": "Gemini 3.1 Pro & \"Nano Banana 2\": A Technical Review and Real-World Tests for Devs",
+      "description": "While the hype around new AI models in the last week of February has everyone distracted generating...",
+      "url": "https://dev.to/gde/gemini-31-pro-nano-banana-2-a-technical-review-and-real-world-tests-for-devs-2jog",
       "source": "dev.to",
       "points": 8,
-      "comments": 2,
-      "published_at": "2026-03-01T17:32:04Z",
+      "comments": 0,
+      "published_at": "2026-02-28T02:51:27Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,27 +666,14 @@
       "tags": []
     },
     {
-      "id": "devto-3210004",
-      "title": "Using Slightly Broken Smartphones thanks to Accessibility",
-      "description": "I rescued my water-damaged phone thanks to Android's powerful accessibility features and open-source...",
-      "url": "https://dev.to/ingosteinke/using-slightly-broken-smartphones-thanks-to-accessibility-28pf",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 1,
-      "published_at": "2026-03-02T17:57:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3293691",
-      "title": "Gemini 3.1 Pro & \"Nano Banana 2\": A Technical Review and Real-World Tests for Devs",
-      "description": "While the hype around new AI models in the last week of February has everyone distracted generating...",
-      "url": "https://dev.to/gde/gemini-31-pro-nano-banana-2-a-technical-review-and-real-world-tests-for-devs-2jog",
+      "id": "devto-3303443",
+      "title": "Poking a 200-Line GPT Until It Breaks (So You Understand Bigger Models Better)",
+      "description": "Big LLMs are opaque. Billions of parameters, months of training, layers of RLHF and safety...",
+      "url": "https://dev.to/narnaiezzsshaa/poking-a-200-line-gpt-until-it-breaks-so-you-understand-bigger-models-better-3hph",
       "source": "dev.to",
       "points": 6,
-      "comments": 0,
-      "published_at": "2026-02-28T02:51:27Z",
+      "comments": 2,
+      "published_at": "2026-03-03T00:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -687,19 +687,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-02-25T08:40:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3281909",
-      "title": "OpenCode vs Claude Code: Which AI CLI Coding Agent Wins in 2026?",
-      "description": "In the rapidly evolving landscape of AI development tools, 2026 has brought the battle of the...",
-      "url": "https://dev.to/tech_croc_f32fbb6ea8ed4/opencode-vs-claude-code-which-ai-cli-coding-agent-wins-in-2026-45md",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-02-24T17:22:52Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -724,21 +711,8 @@
       "url": "https://dev.to/adriens/analyzing-open-data-shark-attacks-with-gemini-cli-and-quarto-3pe8",
       "source": "dev.to",
       "points": 6,
-      "comments": 3,
+      "comments": 7,
       "published_at": "2026-02-28T06:55:37Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3279104",
-      "title": "How I Self-Host Metabase & Why Your Team Should Too",
-      "description": "If you have not yet explored Metabase, this is for you.  I have had this piece sitting in my drafts...",
-      "url": "https://dev.to/paschalogu/how-i-self-host-metabase-why-your-team-should-too-1a6l",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-02-24T22:26:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -750,8 +724,21 @@
       "url": "https://dev.to/hqqqqy/the-same-data-opposite-predictions-3-data-normalization-crash-scenarios-3hmc",
       "source": "dev.to",
       "points": 6,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-03-02T03:14:02Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3290176",
+      "title": "I built an AI contract scanner for freelancers in a day, it just caught a $52,000 trap in a $15,000 contract",
+      "description": "I'm a solo builder. A few weeks ago I got frustrated watching freelancers — designers, developers,...",
+      "url": "https://dev.to/richied5/i-built-an-ai-contract-scanner-for-freelancers-in-a-day-it-just-caught-a-52000-trap-in-a-15000-nd0",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-02-27T03:39:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +765,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-02-24T00:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3297088",
+      "title": "I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device",
+      "description": "Every AI coding assistant requires typing. GitHub Copilot, Continue, Kiro — they all expect you to...",
+      "url": "https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-02-28T21:50:23Z",
       "summary": "",
       "category": "all",
       "tags": []
