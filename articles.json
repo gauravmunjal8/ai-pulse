@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-04T06:31:18Z",
+  "updated_at": "2026-03-05T06:34:33Z",
   "count": 60,
   "articles": [
     {
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-3306770",
+      "title": "I Created An Enterprise MCP Gateway",
+      "description": "When you start building AI applications beyond simple experiments, everything changes. Models need...",
+      "url": "https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg",
+      "source": "dev.to",
+      "points": 105,
+      "comments": 8,
+      "published_at": "2026-03-03T21:52:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -380,19 +393,6 @@
       "tags": []
     },
     {
-      "id": "devto-3285136",
-      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
-      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
-      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
-      "source": "dev.to",
-      "points": 31,
-      "comments": 0,
-      "published_at": "2026-02-25T16:08:56Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -432,6 +432,19 @@
       "tags": []
     },
     {
+      "id": "devto-3268356",
+      "title": "I Shipped Broken Code and Wrote an Article About It",
+      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 2,
+      "published_at": "2026-03-04T11:13:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -450,9 +463,22 @@
       "description": "It's been 2 years since I started doing AI development, but there is one thing that was lacking when...",
       "url": "https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0",
       "source": "dev.to",
-      "points": 22,
-      "comments": 10,
+      "points": 24,
+      "comments": 16,
       "published_at": "2026-02-28T17:09:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3304997",
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "source": "dev.to",
+      "points": 23,
+      "comments": 11,
+      "published_at": "2026-03-03T10:41:20Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,6 +523,19 @@
       "tags": []
     },
     {
+      "id": "devto-3293845",
+      "title": "Building a Privacy-First Mobile Speech Assistant Using Google Gemini",
+      "description": "This is a submission for the Built with Google Gemini: Writing Challenge           What I Built with...",
+      "url": "https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 14,
+      "published_at": "2026-02-28T05:22:47Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -523,27 +562,27 @@
       "tags": []
     },
     {
-      "id": "devto-3293845",
-      "title": "Building a Privacy-First Mobile Speech Assistant Using Google Gemini",
-      "description": "This is a submission for the Built with Google Gemini: Writing Challenge           What I Built with...",
-      "url": "https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm",
+      "id": "devto-3298867",
+      "title": "Writing System Prompts That Actually Work: The RISEN Framework for AI Agents",
+      "description": "Most AI agent system prompts are one sentence of vague instructions. The RISEN framework (Role, Instructions, Steps, Expectation, Narrowing) turns system prompts into behavioral contracts that produce consistently structured, actionable output. This post walks through the framework with three runnable scenarios comparing basic prompts to RISEN prompts.",
+      "url": "https://dev.to/gunnargrosch/writing-system-prompts-that-actually-work-the-risen-framework-for-ai-agents-4p94",
       "source": "dev.to",
-      "points": 12,
-      "comments": 13,
-      "published_at": "2026-02-28T05:22:47Z",
+      "points": 10,
+      "comments": 5,
+      "published_at": "2026-03-01T17:32:04Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3304997",
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "id": "devto-3310569",
+      "title": "Top Fintech APIs for Startups",
+      "description": "Building a fintech product means making critical infrastructure decisions early. The APIs you choose...",
+      "url": "https://dev.to/apideck/top-fintech-apis-for-startups-5df5",
       "source": "dev.to",
       "points": 10,
-      "comments": 7,
-      "published_at": "2026-03-03T10:41:20Z",
+      "comments": 0,
+      "published_at": "2026-03-05T04:47:04Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,32 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-3298867",
-      "title": "Writing System Prompts That Actually Work: The RISEN Framework for AI Agents",
-      "description": "Most AI agent system prompts are one sentence of vague instructions. The RISEN framework (Role, Instructions, Steps, Expectation, Narrowing) turns system prompts into behavioral contracts that produce consistently structured, actionable output. This post walks through the framework with three runnable scenarios comparing basic prompts to RISEN prompts.",
-      "url": "https://dev.to/gunnargrosch/writing-system-prompts-that-actually-work-the-risen-framework-for-ai-agents-4p94",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 5,
-      "published_at": "2026-03-01T17:32:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3286133",
-      "title": "StenoAI - Privacy Focused AI meeting intelligence. 380+ GitHub stars, 1000+ downloads",
-      "description": "Hi all, I maintain an open-source project called StenoAI. I’m happy to answer questions or go deep on...",
-      "url": "https://dev.to/ruzin_saleem_2b30cf073fd8/stenoai-privacy-focused-ai-meeting-intelligence-380-github-stars-1000-downloads-4o1m",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 8,
-      "published_at": "2026-02-26T02:11:16Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3293691",
       "title": "Gemini 3.1 Pro & \"Nano Banana 2\": A Technical Review and Real-World Tests for Devs",
       "description": "While the hype around new AI models in the last week of February has everyone distracted generating...",
@@ -596,6 +609,19 @@
       "points": 8,
       "comments": 0,
       "published_at": "2026-02-28T02:51:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3310164",
+      "title": "Which Programming Language Is Best for Claude Code?",
+      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
+      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-03-05T01:09:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,51 +653,12 @@
       "tags": []
     },
     {
-      "id": "devto-3285971",
-      "title": "Orchids as Cybersecurity, AI, and ML Systems: A Substrate-Layer Mapping",
-      "description": "Orchids are not decorative. They are adversarial survivors, sparse optimizers, identity-first...",
-      "url": "https://dev.to/narnaiezzsshaa/orchids-as-cybersecurity-ai-and-ml-systems-a-substrate-layer-mapping-5c4n",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 2,
-      "published_at": "2026-02-25T23:20:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3284360",
-      "title": "What I am currently reading (Feb 23rd)",
-      "description": "What I am currently reading ( 23rd Feb 26 )   These are the current online posts that I...",
-      "url": "https://dev.to/094459/what-i-am-currently-reading-feb-24th-3dfg",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 1,
-      "published_at": "2026-02-25T11:09:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3282405",
-      "title": "Debugging the Job Search: Lessons from Germany’s 2026 Hiring Market",
-      "description": "How (senior) candidates can read the logs behind stalled applications, phantom offers, and executive...",
-      "url": "https://dev.to/abdulosman/debugging-the-job-search-lessons-from-germanys-2026-hiring-market-5902",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-02-25T07:31:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3303443",
       "title": "Poking a 200-Line GPT Until It Breaks (So You Understand Bigger Models Better)",
       "description": "Big LLMs are opaque. Billions of parameters, months of training, layers of RLHF and safety...",
       "url": "https://dev.to/narnaiezzsshaa/poking-a-200-line-gpt-until-it-breaks-so-you-understand-bigger-models-better-3hph",
       "source": "dev.to",
-      "points": 6,
+      "points": 7,
       "comments": 2,
       "published_at": "2026-03-03T00:00:00Z",
       "summary": "",
@@ -679,14 +666,14 @@
       "tags": []
     },
     {
-      "id": "devto-3283907",
-      "title": "How to Set Up an OpenAI API Proxy with Bifrost in 30 Seconds",
-      "description": "Setting up an OpenAI API proxy typically requires configuring NGINX, managing SSL certificates,...",
-      "url": "https://dev.to/pranay_batta/how-to-set-up-an-openai-api-proxy-with-bifrost-in-30-seconds-5d0n",
+      "id": "devto-3302027",
+      "title": "Building an Indian Privacy-First Autonomous AI CLI Agent with Background Automation (SamarthyaBot)",
+      "description": "When I started building SamarthyaBot, I wasn’t interested in making another website. Websites are...",
+      "url": "https://dev.to/mebishnusahu0595/building-an-indian-privacy-first-autonomous-ai-cli-agent-with-background-automation-samarthyabot-2l78",
       "source": "dev.to",
       "points": 6,
-      "comments": 0,
-      "published_at": "2026-02-25T08:40:39Z",
+      "comments": 1,
+      "published_at": "2026-03-02T11:19:20Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -711,7 +698,7 @@
       "url": "https://dev.to/adriens/analyzing-open-data-shark-attacks-with-gemini-cli-and-quarto-3pe8",
       "source": "dev.to",
       "points": 6,
-      "comments": 7,
+      "comments": 8,
       "published_at": "2026-02-28T06:55:37Z",
       "summary": "",
       "category": "all",
@@ -744,32 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-3284366",
-      "title": "My \"simple\" plan to build a SaaS from $0 to $1M valuation",
-      "description": "There are a thousand ways to make 1 million dollars in life and one of the best chances I, the nerdy...",
-      "url": "https://dev.to/anthonyriera/my-simple-plan-to-build-a-saas-from-0-to-1m-valuation-1mef",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 2,
-      "published_at": "2026-02-25T11:11:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3282077",
-      "title": "Air-Gapped Drone Data Operations with Delayed Sync and Auditability",
-      "description": "Drones in air-gapped environments produce a lot of data (camera images, telemetry, logs, model...",
-      "url": "https://dev.to/reductstore/air-gapped-drone-data-operations-with-delayed-sync-and-auditability-55ne",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-02-24T00:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3297088",
       "title": "I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device",
       "description": "Every AI coding assistant requires typing. GitHub Copilot, Continue, Kiro — they all expect you to...",
@@ -778,6 +739,45 @@
       "points": 6,
       "comments": 1,
       "published_at": "2026-02-28T21:50:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3298615",
+      "title": "Upscale Any Image with AI for Free (Right Inside DEV): 7 Hugging Face Enhancers",
+      "description": "Upscale any image with AI for free, without leaving DEV. Below is a handpicked collection of 7...",
+      "url": "https://dev.to/axrisi/upscale-any-image-with-ai-for-free-right-inside-dev-7-hugging-face-enhancers-1km",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-01T15:21:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3309169",
+      "title": "Our Trading Bot Rewrites Its Own Rules. Here's How (and What Went Wrong).",
+      "description": "We lost $100 on a single hockey bet. Our system had an 83% win rate at the time. The math still...",
+      "url": "https://dev.to/up2itnow0822/our-trading-bot-rewrites-its-own-rules-heres-how-and-what-went-wrong-5dg9",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-03-04T16:12:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3307703",
+      "title": "I launched a tiny macOS tool yesterday and woke up to 100+ installs",
+      "description": "Yesterday I shared a small tool I was working on with friends called TokenBar and the response...",
+      "url": "https://dev.to/jack__altman__/i-launched-a-tiny-macos-tool-yesterday-and-woke-up-to-100-installs-280i",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-03-04T06:00:05Z",
       "summary": "",
       "category": "all",
       "tags": []
