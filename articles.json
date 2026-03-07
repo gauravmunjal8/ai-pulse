@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06T06:32:03Z",
+  "updated_at": "2026-03-07T06:22:56Z",
   "count": 60,
   "articles": [
     {
@@ -372,9 +372,22 @@
       "description": "Switching from ChatGPT to Claude is no longer a risky reset. What used to feel like abandoning months...",
       "url": "https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d",
       "source": "dev.to",
-      "points": 45,
+      "points": 46,
       "comments": 20,
       "published_at": "2026-03-03T08:15:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3308985",
+      "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
+      "description": "Claude Code is one of the most capable terminal-based coding agents available today. It can read your...",
+      "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
+      "source": "dev.to",
+      "points": 39,
+      "comments": 11,
+      "published_at": "2026-03-06T11:08:30Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -411,9 +424,35 @@
       "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
       "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
       "source": "dev.to",
-      "points": 36,
-      "comments": 5,
+      "points": 38,
+      "comments": 7,
       "published_at": "2026-03-04T11:13:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3304997",
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 39,
+      "published_at": "2026-03-03T10:41:20Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3309486",
+      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
+      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
+      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 7,
+      "published_at": "2026-03-04T21:01:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -427,19 +466,6 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3304997",
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
-      "source": "dev.to",
-      "points": 28,
-      "comments": 29,
-      "published_at": "2026-03-03T10:41:20Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,6 +497,19 @@
       "tags": []
     },
     {
+      "id": "devto-3296669",
+      "title": "AI Can Write Code. But It Can’t Build Products.",
+      "description": "It's been 2 years since I started doing AI development, but there is one thing that was lacking when...",
+      "url": "https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 17,
+      "published_at": "2026-02-28T17:09:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -484,14 +523,14 @@
       "tags": []
     },
     {
-      "id": "devto-3296669",
-      "title": "AI Can Write Code. But It Can’t Build Products.",
-      "description": "It's been 2 years since I started doing AI development, but there is one thing that was lacking when...",
-      "url": "https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0",
+      "id": "devto-3310164",
+      "title": "Which Programming Language Is Best for Claude Code?",
+      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
+      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
       "source": "dev.to",
-      "points": 25,
-      "comments": 16,
-      "published_at": "2026-02-28T17:09:51Z",
+      "points": 22,
+      "comments": 5,
+      "published_at": "2026-03-05T01:09:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -502,7 +541,7 @@
       "description": "Getting involved in open source doesn't have to be scary! Understand how to find a great project and...",
       "url": "https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50",
       "source": "dev.to",
-      "points": 21,
+      "points": 22,
       "comments": 1,
       "published_at": "2026-03-03T12:25:26Z",
       "summary": "",
@@ -523,6 +562,19 @@
       "tags": []
     },
     {
+      "id": "devto-3313285",
+      "title": "Playground to test Open-Source LLMs in action (GPT-OSS, Qwen3.5, DeepSeek) with Tools and RAG [Free and No signup]",
+      "description": "Link: devforth.io/lab/chat  No signup needed. Every model available there can be executed on own...",
+      "url": "https://dev.to/ivictbor/playground-to-test-open-source-llms-in-action-gpt-oss-qwen35-deepseek-with-tools-and-rag-free-480l",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 1,
+      "published_at": "2026-03-05T20:10:19Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3210004",
       "title": "Using Slightly Broken Smartphones thanks to Accessibility",
       "description": "I rescued my water-damaged phone thanks to Android's powerful accessibility features and open-source...",
@@ -531,32 +583,6 @@
       "points": 17,
       "comments": 3,
       "published_at": "2026-03-02T17:57:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3293845",
-      "title": "Building a Privacy-First Mobile Speech Assistant Using Google Gemini",
-      "description": "This is a submission for the Built with Google Gemini: Writing Challenge           What I Built with...",
-      "url": "https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 14,
-      "published_at": "2026-02-28T05:22:47Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3310164",
-      "title": "Which Programming Language Is Best for Claude Code?",
-      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
-      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 4,
-      "published_at": "2026-03-05T01:09:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,32 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-3310389",
-      "title": "The State of Financial APIs in 2026: 80+ Frameworks, Zero Convergence, and Why AI Agents Aren't Ready",
-      "description": "We've tracked 80+ regulatory frameworks, 50,000+ financial institutions, and hundreds of APIs. The...",
-      "url": "https://dev.to/gdewilde/the-state-of-financial-apis-in-2026-80-frameworks-zero-convergence-and-why-ai-agents-arent-5a09",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 2,
-      "published_at": "2026-03-05T02:59:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3292336",
-      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
-      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
-      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 13,
-      "published_at": "2026-02-27T15:27:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3298867",
       "title": "Writing System Prompts That Actually Work: The RISEN Framework for AI Agents",
       "description": "Most AI agent system prompts are one sentence of vague instructions. The RISEN framework (Role, Instructions, Steps, Expectation, Narrowing) turns system prompts into behavioral contracts that produce consistently structured, actionable output. This post walks through the framework with three runnable scenarios comparing basic prompts to RISEN prompts.",
@@ -609,6 +609,19 @@
       "points": 10,
       "comments": 5,
       "published_at": "2026-03-01T17:32:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3312650",
+      "title": "Your MCP server's tool descriptions are an attack surface",
+      "description": "MCP tool descriptions are text. When your agent calls tools/list, the server returns JSON with a...",
+      "url": "https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 10,
+      "published_at": "2026-03-05T16:09:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,27 +640,14 @@
       "tags": []
     },
     {
-      "id": "devto-3293691",
-      "title": "Gemini 3.1 Pro & \"Nano Banana 2\": A Technical Review and Real-World Tests for Devs",
-      "description": "While the hype around new AI models in the last week of February has everyone distracted generating...",
-      "url": "https://dev.to/gde/gemini-31-pro-nano-banana-2-a-technical-review-and-real-world-tests-for-devs-2jog",
+      "id": "devto-3298615",
+      "title": "Upscale Any Image with AI for Free (Right Inside DEV): 7 Hugging Face Enhancers",
+      "description": "Upscale any image with AI for free, without leaving DEV. Below is a handpicked collection of 7...",
+      "url": "https://dev.to/axrisi/upscale-any-image-with-ai-for-free-right-inside-dev-7-hugging-face-enhancers-1km",
       "source": "dev.to",
       "points": 8,
-      "comments": 0,
-      "published_at": "2026-02-28T02:51:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3312650",
-      "title": "Your MCP server's tool descriptions are an attack surface",
-      "description": "MCP tool descriptions are text. When your agent calls tools/list, the server returns JSON with a...",
-      "url": "https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 9,
-      "published_at": "2026-03-05T16:09:35Z",
+      "comments": 1,
+      "published_at": "2026-03-01T15:21:04Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,19 +718,6 @@
       "tags": []
     },
     {
-      "id": "devto-3298615",
-      "title": "Upscale Any Image with AI for Free (Right Inside DEV): 7 Hugging Face Enhancers",
-      "description": "Upscale any image with AI for free, without leaving DEV. Below is a handpicked collection of 7...",
-      "url": "https://dev.to/axrisi/upscale-any-image-with-ai-for-free-right-inside-dev-7-hugging-face-enhancers-1km",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-03-01T15:21:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3302027",
       "title": "Building an Indian Privacy-First Autonomous AI CLI Agent with Background Automation (SamarthyaBot)",
       "description": "When I started building SamarthyaBot, I wasn’t interested in making another website. Websites are...",
@@ -763,7 +750,7 @@
       "url": "https://dev.to/adriens/analyzing-open-data-shark-attacks-with-gemini-cli-and-quarto-3pe8",
       "source": "dev.to",
       "points": 6,
-      "comments": 10,
+      "comments": 15,
       "published_at": "2026-02-28T06:55:37Z",
       "summary": "",
       "category": "all",
@@ -778,6 +765,19 @@
       "points": 6,
       "comments": 2,
       "published_at": "2026-03-02T03:14:02Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3310708",
+      "title": "Accounting Integration",
+      "description": "Your finance team didn't sign up to be data-entry clerks. Neither did your customers.  Yet every day,...",
+      "url": "https://dev.to/apideck/accounting-integration-2967",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-05T05:42:01Z",
       "summary": "",
       "category": "all",
       "tags": []
