@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-09T06:44:46Z",
+  "updated_at": "2026-03-10T06:32:48Z",
   "count": 60,
   "articles": [
     {
@@ -354,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-3327960",
+      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
+      "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
+      "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
+      "source": "dev.to",
+      "points": 53,
+      "comments": 1,
+      "published_at": "2026-03-09T04:37:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -386,7 +399,7 @@
       "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
       "source": "dev.to",
       "points": 42,
-      "comments": 51,
+      "comments": 52,
       "published_at": "2026-03-03T10:41:20Z",
       "summary": "",
       "category": "all",
@@ -432,19 +445,6 @@
       "tags": []
     },
     {
-      "id": "devto-3323523",
-      "title": "Why Owasp BLT ? Contribution from 5 to 50+ prs !",
-      "description": "It was the time when I thought to get some open source contribution after I was done from my...",
-      "url": "https://dev.to/owaspblt/why-owasp-blt-contribution-from-5-to-50-prs--1j7o",
-      "source": "dev.to",
-      "points": 29,
-      "comments": 8,
-      "published_at": "2026-03-07T16:40:02Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -471,6 +471,19 @@
       "tags": []
     },
     {
+      "id": "devto-3310164",
+      "title": "Which Programming Language Is Best for Claude Code?",
+      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
+      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 5,
+      "published_at": "2026-03-05T01:09:13Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -484,40 +497,14 @@
       "tags": []
     },
     {
-      "id": "devto-3310164",
-      "title": "Which Programming Language Is Best for Claude Code?",
-      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
-      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
-      "source": "dev.to",
-      "points": 24,
-      "comments": 5,
-      "published_at": "2026-03-05T01:09:13Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3305196",
       "title": "How to make your first contribution to an open source project",
       "description": "Getting involved in open source doesn't have to be scary! Understand how to find a great project and...",
       "url": "https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50",
       "source": "dev.to",
-      "points": 22,
-      "comments": 1,
+      "points": 23,
+      "comments": 2,
       "published_at": "2026-03-03T12:25:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3210004",
-      "title": "Using Slightly Broken Smartphones thanks to Accessibility",
-      "description": "I rescued my water-damaged phone thanks to Android's powerful accessibility features and open-source...",
-      "url": "https://dev.to/ingosteinke/using-slightly-broken-smartphones-thanks-to-accessibility-28pf",
-      "source": "dev.to",
-      "points": 18,
-      "comments": 3,
-      "published_at": "2026-03-02T17:57:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,19 +523,6 @@
       "tags": []
     },
     {
-      "id": "devto-3310389",
-      "title": "The State of Financial APIs in 2026: 80+ Frameworks, Zero Convergence, and Why AI Agents Aren't Ready",
-      "description": "We've tracked 80+ regulatory frameworks, 50,000+ financial institutions, and hundreds of APIs. The...",
-      "url": "https://dev.to/gdewilde/the-state-of-financial-apis-in-2026-80-frameworks-zero-convergence-and-why-ai-agents-arent-5a09",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 2,
-      "published_at": "2026-03-05T02:59:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3309169",
       "title": "Our Trading Bot Rewrites Its Own Rules. Here's How (and What Went Wrong).",
       "description": "We lost $100 on a single hockey bet. Our system had an 83% win rate at the time. The math still...",
@@ -557,6 +531,45 @@
       "points": 11,
       "comments": 7,
       "published_at": "2026-03-04T16:12:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3330192",
+      "title": "Machines can learn from data. Should humans still learn statistics?",
+      "description": "Artificial intelligence can already analyze massive datasets, build predictive models, and discover...",
+      "url": "https://dev.to/aleksandra_6bf530a531488b/machines-can-learn-from-data-should-humans-still-learn-statistics-3mco",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 1,
+      "published_at": "2026-03-09T10:13:19Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3330870",
+      "title": "I got tired of color contrast tools that break brand colors. So I built my own.",
+      "description": "You run a contrast check. It fails. You change the color. It passes WCAG. But now it looks nothing...",
+      "url": "https://dev.to/danishmk1286/i-got-tired-of-color-contrast-tools-that-break-brand-colors-so-i-built-my-own-4ani",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 3,
+      "published_at": "2026-03-09T13:20:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3328016",
+      "title": "I built a 56-language Telegram bot in 10 days, hit the marketing wall. Then Telegram shipped the same feature",
+      "description": "Every side project has an origin story. Mine started with grocery shopping.  My wife sends me grocery...",
+      "url": "https://dev.to/alex_238be592ca4b365382f1/i-built-a-56-language-telegram-bot-in-10-days-hit-the-marketing-wall-then-telegram-shipped-the-4l5i",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 4,
+      "published_at": "2026-03-08T22:25:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -583,19 +596,6 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3327234",
-      "title": "How NVIDIA Technology Is Helping Us Understand Space",
-      "description": "Space exploration requires massive computing power. From simulating galaxies to training AI models...",
-      "url": "https://dev.to/sahas_fernando_772518ebde/how-nvidia-technology-is-helping-us-understand-space-l8e",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-03-08T15:52:23Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,14 +679,27 @@
       "tags": []
     },
     {
-      "id": "devto-3302027",
-      "title": "Building an Indian Privacy-First Autonomous AI CLI Agent with Background Automation (SamarthyaBot)",
-      "description": "When I started building SamarthyaBot, I wasn’t interested in making another website. Websites are...",
-      "url": "https://dev.to/mebishnusahu0595/building-an-indian-privacy-first-autonomous-ai-cli-agent-with-background-automation-samarthyabot-2l78",
+      "id": "devto-3325173",
+      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
+      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
+      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-03-08T03:08:41Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3327532",
+      "title": "How to Reduce OpenAI Bill Without Hurting Quality: A Practical Audit Framework",
+      "description": "Most teams try to reduce an OpenAI bill by cutting prompts, lowering max_tokens, or swapping to a...",
+      "url": "https://dev.to/optyxstack/how-to-reduce-openai-bill-without-hurting-quality-a-practical-audit-framework-170e",
       "source": "dev.to",
       "points": 6,
-      "comments": 2,
-      "published_at": "2026-03-02T11:19:20Z",
+      "comments": 3,
+      "published_at": "2026-03-08T17:56:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,27 +731,14 @@
       "tags": []
     },
     {
-      "id": "devto-3325173",
-      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
-      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
-      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-03-08T03:08:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3327532",
-      "title": "How to Reduce OpenAI Bill Without Hurting Quality: A Practical Audit Framework",
-      "description": "Most teams try to reduce an OpenAI bill by cutting prompts, lowering max_tokens, or swapping to a...",
-      "url": "https://dev.to/optyxstack/how-to-reduce-openai-bill-without-hurting-quality-a-practical-audit-framework-170e",
+      "id": "devto-3316928",
+      "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
+      "description": "I asked Claude to recreate the classic 1986 game Thrust for me in the browser. It created slop but...",
+      "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
       "source": "dev.to",
       "points": 5,
-      "comments": 2,
-      "published_at": "2026-03-08T17:56:26Z",
+      "comments": 0,
+      "published_at": "2026-03-06T19:12:30Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,14 +757,14 @@
       "tags": []
     },
     {
-      "id": "devto-3302495",
-      "title": "I Benchmarked 8 ML Models on CPU (No Tuning, No Tricks). Here’s What Happened",
-      "description": "What I Did   All models were tested under the same rules: Default settings from their libraries No...",
-      "url": "https://dev.to/smarteco/i-benchmarked-8-ml-models-on-cpu-no-tuning-no-tricks-heres-what-happened-1bai",
+      "id": "devto-3320478",
+      "title": "Understanding the Transformer Architecture : A Student's Journey from Classroom to Exam Hall",
+      "description": "A student who studies well encodes knowledge. A student who writes the exam well decodes...",
+      "url": "https://dev.to/sreeni5018/understanding-the-transformer-architecture-a-studentsjourney-from-classroom-to-exam-hall-11ol",
       "source": "dev.to",
       "points": 5,
-      "comments": 0,
-      "published_at": "2026-03-02T14:12:25Z",
+      "comments": 16,
+      "published_at": "2026-03-07T04:07:42Z",
       "summary": "",
       "category": "all",
       "tags": []
