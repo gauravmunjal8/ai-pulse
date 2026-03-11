@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T06:32:48Z",
+  "updated_at": "2026-03-11T06:35:36Z",
   "count": 60,
   "articles": [
     {
@@ -289,19 +289,6 @@
       "tags": []
     },
     {
-      "id": "devto-3306770",
-      "title": "I Created An Enterprise MCP Gateway",
-      "description": "When you start building AI applications beyond simple experiments, everything changes. Models need...",
-      "url": "https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg",
-      "source": "dev.to",
-      "points": 110,
-      "comments": 11,
-      "published_at": "2026-03-03T21:52:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -310,6 +297,19 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3327960",
+      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
+      "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
+      "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
+      "source": "dev.to",
+      "points": 59,
+      "comments": 1,
+      "published_at": "2026-03-09T04:37:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -354,19 +354,6 @@
       "tags": []
     },
     {
-      "id": "devto-3327960",
-      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
-      "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
-      "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
-      "source": "dev.to",
-      "points": 53,
-      "comments": 1,
-      "published_at": "2026-03-09T04:37:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -380,38 +367,12 @@
       "tags": []
     },
     {
-      "id": "devto-3304527",
-      "title": "How to Switch from ChatGPT to Claude Without Losing Context",
-      "description": "Switching from ChatGPT to Claude is no longer a risky reset. What used to feel like abandoning months...",
-      "url": "https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d",
-      "source": "dev.to",
-      "points": 47,
-      "comments": 21,
-      "published_at": "2026-03-03T08:15:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3304997",
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
-      "source": "dev.to",
-      "points": 42,
-      "comments": 52,
-      "published_at": "2026-03-03T10:41:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3268356",
       "title": "I Shipped Broken Code and Wrote an Article About It",
       "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
       "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
       "source": "dev.to",
-      "points": 40,
+      "points": 41,
       "comments": 9,
       "published_at": "2026-03-04T11:13:54Z",
       "summary": "",
@@ -437,9 +398,48 @@
       "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
       "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
       "source": "dev.to",
-      "points": 36,
+      "points": 38,
       "comments": 8,
       "published_at": "2026-03-04T21:01:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3331164",
+      "title": "Building a Text-to-Speech Engine in Pure C",
+      "description": "Building a minimal Text-to-Speech engine in pure C using Qwen3-TTS without ML frameworks.",
+      "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 0,
+      "published_at": "2026-03-09T14:49:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3333279",
+      "title": "Your Agent Is a Small, Low-Stakes HAL",
+      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
+      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
+      "source": "dev.to",
+      "points": 33,
+      "comments": 0,
+      "published_at": "2026-03-10T05:08:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3329280",
+      "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
+      "description": "Last month I hit $180 on my Claude Code bill. I use Opus daily — refactoring, bug fixes, code...",
+      "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 1,
+      "published_at": "2026-03-09T06:34:30Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -458,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-3310164",
+      "title": "Which Programming Language Is Best for Claude Code?",
+      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
+      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 6,
+      "published_at": "2026-03-05T01:09:13Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39677525",
       "title": "Jail time for open source AI models",
       "description": "",
@@ -466,19 +479,6 @@
       "points": 28,
       "comments": 12,
       "published_at": "2024-03-12T09:09:08Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3310164",
-      "title": "Which Programming Language Is Best for Claude Code?",
-      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
-      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
-      "source": "dev.to",
-      "points": 26,
-      "comments": 5,
-      "published_at": "2026-03-05T01:09:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,14 +497,14 @@
       "tags": []
     },
     {
-      "id": "devto-3305196",
-      "title": "How to make your first contribution to an open source project",
-      "description": "Getting involved in open source doesn't have to be scary! Understand how to find a great project and...",
-      "url": "https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50",
+      "id": "devto-3313285",
+      "title": "Playground to test Open-Source LLMs in action (GPT-OSS, Qwen3.5, DeepSeek) with Tools and RAG [Free and No signup]",
+      "description": "Link: devforth.io/lab/chat  No signup needed. Every model available there can be executed on own...",
+      "url": "https://dev.to/ivictbor/playground-to-test-open-source-llms-in-action-gpt-oss-qwen35-deepseek-with-tools-and-rag-free-480l",
       "source": "dev.to",
-      "points": 23,
+      "points": 21,
       "comments": 2,
-      "published_at": "2026-03-03T12:25:26Z",
+      "published_at": "2026-03-05T20:10:19Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,13 +523,26 @@
       "tags": []
     },
     {
+      "id": "devto-3330870",
+      "title": "I got tired of color contrast tools that break brand colors. So I built my own.",
+      "description": "You run a contrast check. It fails. You change the color. It passes WCAG. But now it looks nothing...",
+      "url": "https://dev.to/danishmk1286/i-got-tired-of-color-contrast-tools-that-break-brand-colors-so-i-built-my-own-4ani",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 4,
+      "published_at": "2026-03-09T13:20:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3309169",
       "title": "Our Trading Bot Rewrites Its Own Rules. Here's How (and What Went Wrong).",
       "description": "We lost $100 on a single hockey bet. Our system had an 83% win rate at the time. The math still...",
       "url": "https://dev.to/ai-agent-economy/our-trading-bot-rewrites-its-own-rules-heres-how-and-what-went-wrong-5dg9",
       "source": "dev.to",
       "points": 11,
-      "comments": 7,
+      "comments": 8,
       "published_at": "2026-03-04T16:12:05Z",
       "summary": "",
       "category": "all",
@@ -549,25 +562,12 @@
       "tags": []
     },
     {
-      "id": "devto-3330870",
-      "title": "I got tired of color contrast tools that break brand colors. So I built my own.",
-      "description": "You run a contrast check. It fails. You change the color. It passes WCAG. But now it looks nothing...",
-      "url": "https://dev.to/danishmk1286/i-got-tired-of-color-contrast-tools-that-break-brand-colors-so-i-built-my-own-4ani",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 3,
-      "published_at": "2026-03-09T13:20:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3328016",
       "title": "I built a 56-language Telegram bot in 10 days, hit the marketing wall. Then Telegram shipped the same feature",
       "description": "Every side project has an origin story. Mine started with grocery shopping.  My wife sends me grocery...",
       "url": "https://dev.to/alex_238be592ca4b365382f1/i-built-a-56-language-telegram-bot-in-10-days-hit-the-marketing-wall-then-telegram-shipped-the-4l5i",
       "source": "dev.to",
-      "points": 10,
+      "points": 11,
       "comments": 4,
       "published_at": "2026-03-08T22:25:45Z",
       "summary": "",
@@ -581,7 +581,7 @@
       "url": "https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj",
       "source": "dev.to",
       "points": 10,
-      "comments": 15,
+      "comments": 18,
       "published_at": "2026-03-05T16:09:35Z",
       "summary": "",
       "category": "all",
@@ -609,6 +609,45 @@
       "points": 9,
       "comments": 2,
       "published_at": "2026-03-04T06:00:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3327309",
+      "title": "AWS Strands Replaced 40 Lines of LangGraph With 3. Here’s the Full Story",
+      "description": "At work, we build agents using LangChain and LangGraph. It works, but it takes a while to get...",
+      "url": "https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 1,
+      "published_at": "2026-03-08T16:13:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3324409",
+      "title": "I overpowered AI by inventing \"Brilliant\" code by AI opinion itself",
+      "description": "As it always happens to me, I started from describing a simple API client, then I started playing...",
+      "url": "https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 1,
+      "published_at": "2026-03-07T21:35:20Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3325173",
+      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
+      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
+      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-03-08T03:08:41Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,19 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-3324409",
-      "title": "I overpowered AI by inventing \"Brilliant\" code by AI opinion itself",
-      "description": "As it always happens to me, I started from describing a simple API client, then I started playing...",
-      "url": "https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 1,
-      "published_at": "2026-03-07T21:35:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3309572",
       "title": "I Built a Starter Repo That Turns AI Coding Tools Into Senior Engineers",
       "description": "I Built a Starter Repo That Turns AI Coding Tools Into Senior Engineers   Every new project...",
@@ -674,19 +700,6 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-03-04T19:40:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3325173",
-      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
-      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
-      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-03-08T03:08:41Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,19 +778,6 @@
       "points": 5,
       "comments": 16,
       "published_at": "2026-03-07T04:07:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3296889",
-      "title": "Mastering Joins and Window SQL Functions for Relational Databases.",
-      "description": "This article will explain SQL Joins and Window Functions — two powerful tools that will help you...",
-      "url": "https://dev.to/juliet_kiplimo_b9a825c95a/joins-and-window-sql-functions-for-relational-databases-50h8",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-03-03T13:54:29Z",
       "summary": "",
       "category": "all",
       "tags": []
