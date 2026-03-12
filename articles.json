@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T06:35:36Z",
+  "updated_at": "2026-03-12T06:37:40Z",
   "count": 60,
   "articles": [
     {
@@ -307,7 +307,7 @@
       "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
       "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
       "source": "dev.to",
-      "points": 59,
+      "points": 61,
       "comments": 1,
       "published_at": "2026-03-09T04:37:00Z",
       "summary": "",
@@ -367,19 +367,6 @@
       "tags": []
     },
     {
-      "id": "devto-3268356",
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "source": "dev.to",
-      "points": 41,
-      "comments": 9,
-      "published_at": "2026-03-04T11:13:54Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -393,14 +380,27 @@
       "tags": []
     },
     {
-      "id": "devto-3309486",
-      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
-      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
-      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+      "id": "devto-3336567",
+      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
+      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
+      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
       "source": "dev.to",
-      "points": 38,
-      "comments": 8,
-      "published_at": "2026-03-04T21:01:29Z",
+      "points": 35,
+      "comments": 1,
+      "published_at": "2026-03-10T23:13:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3333279",
+      "title": "Your Agent Is a Small, Low-Stakes HAL",
+      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
+      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 2,
+      "published_at": "2026-03-10T05:08:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -419,27 +419,27 @@
       "tags": []
     },
     {
-      "id": "devto-3333279",
-      "title": "Your Agent Is a Small, Low-Stakes HAL",
-      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
-      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
-      "source": "dev.to",
-      "points": 33,
-      "comments": 0,
-      "published_at": "2026-03-10T05:08:29Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3329280",
       "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
       "description": "Last month I hit $180 on my Claude Code bill. I use Opus daily — refactoring, bug fixes, code...",
       "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
       "source": "dev.to",
-      "points": 30,
+      "points": 31,
       "comments": 1,
       "published_at": "2026-03-09T06:34:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3323523",
+      "title": "Why Owasp BLT ? Contribution from 5 to 50+ prs !",
+      "description": "It was the time when I thought to get some open source contribution after I was done from my...",
+      "url": "https://dev.to/owaspblt/why-owasp-blt-contribution-from-5-to-50-prs--1j7o",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 8,
+      "published_at": "2026-03-07T16:40:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -453,19 +453,6 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3310164",
-      "title": "Which Programming Language Is Best for Claude Code?",
-      "description": "TL;DR   I had Claude Code implement a very simplified version of Git in 13 languages. Ruby,...",
-      "url": "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a",
-      "source": "dev.to",
-      "points": 28,
-      "comments": 6,
-      "published_at": "2026-03-05T01:09:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,6 +497,19 @@
       "tags": []
     },
     {
+      "id": "devto-3332071",
+      "title": "How I Got My First Open Source Pull Request Merged (Beginner Guide)",
+      "description": "My First Open Source Contribution Got Merged 🎉   Today is a special milestone in my...",
+      "url": "https://dev.to/maibhushan/my-first-open-source-contribution-got-merged-1c8k",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 4,
+      "published_at": "2026-03-10T04:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -536,14 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-3309169",
-      "title": "Our Trading Bot Rewrites Its Own Rules. Here's How (and What Went Wrong).",
-      "description": "We lost $100 on a single hockey bet. Our system had an 83% win rate at the time. The math still...",
-      "url": "https://dev.to/ai-agent-economy/our-trading-bot-rewrites-its-own-rules-heres-how-and-what-went-wrong-5dg9",
+      "id": "devto-3316928",
+      "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
+      "description": "I asked Claude to recreate the classic 1986 game Thrust for me in the browser. It created slop but...",
+      "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
       "source": "dev.to",
-      "points": 11,
-      "comments": 8,
-      "published_at": "2026-03-04T16:12:05Z",
+      "points": 12,
+      "comments": 1,
+      "published_at": "2026-03-06T19:12:30Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,13 +575,26 @@
       "tags": []
     },
     {
+      "id": "devto-3326188",
+      "title": "Why Asking an LLM for JSON Isn’t Enough",
+      "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
+      "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 14,
+      "published_at": "2026-03-11T05:30:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3312650",
       "title": "Your MCP server's tool descriptions are an attack surface",
       "description": "MCP tool descriptions are text. When your agent calls tools/list, the server returns JSON with a...",
       "url": "https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj",
       "source": "dev.to",
       "points": 10,
-      "comments": 18,
+      "comments": 20,
       "published_at": "2026-03-05T16:09:35Z",
       "summary": "",
       "category": "all",
@@ -596,19 +609,6 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3307703",
-      "title": "I launched a tiny macOS tool yesterday and woke up to 100+ installs",
-      "description": "Yesterday I shared a small tool I was working on with friends called TokenBar and the response...",
-      "url": "https://dev.to/jack__altman__/i-launched-a-tiny-macos-tool-yesterday-and-woke-up-to-100-installs-280i",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-03-04T06:00:05Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,19 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-3309572",
-      "title": "I Built a Starter Repo That Turns AI Coding Tools Into Senior Engineers",
-      "description": "I Built a Starter Repo That Turns AI Coding Tools Into Senior Engineers   Every new project...",
-      "url": "https://dev.to/humzakt/i-built-a-starter-repo-that-turns-ai-coding-tools-into-senior-engineers-1m76",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-03-04T19:40:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3327532",
       "title": "How to Reduce OpenAI Bill Without Hurting Quality: A Practical Audit Framework",
       "description": "Most teams try to reduce an OpenAI bill by cutting prompts, lowering max_tokens, or swapping to a...",
@@ -731,6 +718,19 @@
       "tags": []
     },
     {
+      "id": "devto-3335497",
+      "title": "The Most Dangerous Number in Machine Learning: Accuracy",
+      "description": "Accuracy is often the first metric people learn in machine learning.  Train a model. Evaluate it. See...",
+      "url": "https://dev.to/siddhartha_reddy/the-most-dangerous-number-in-machine-learning-accuracy-1ei4",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-10T15:47:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3310708",
       "title": "Accounting Integration",
       "description": "Your finance team didn't sign up to be data-entry clerks. Neither did your customers.  Yet every day,...",
@@ -744,40 +744,40 @@
       "tags": []
     },
     {
-      "id": "devto-3316928",
-      "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
-      "description": "I asked Claude to recreate the classic 1986 game Thrust for me in the browser. It created slop but...",
-      "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
+      "id": "devto-3336862",
+      "title": "The Ephemerality Gap: Tackling Data Loss in AI-Generated UIs with an Open-Source Fix",
+      "description": "I’m not a professional writer, and this is a relatively new problem space, so I’ll do my best to...",
+      "url": "https://dev.to/bryton_cooper_4e4f5d12665/the-ephemerality-gap-tackling-data-loss-in-ai-generated-uis-with-an-open-source-fix-57e0",
       "source": "dev.to",
-      "points": 5,
+      "points": 6,
       "comments": 0,
-      "published_at": "2026-03-06T19:12:30Z",
+      "published_at": "2026-03-11T01:45:34Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3320478",
-      "title": "Understanding the Transformer Architecture : A Student's Journey from Classroom to Exam Hall",
-      "description": "A student who studies well encodes knowledge. A student who writes the exam well decodes...",
-      "url": "https://dev.to/sreeni5018/understanding-the-transformer-architecture-a-studentsjourney-from-classroom-to-exam-hall-11ol",
+      "id": "devto-3318536",
+      "title": "Making AI Empathic",
+      "description": "What creating a conversational AI based on Viktor Frankl's work taught me about parenting LLMs",
+      "url": "https://dev.to/aigal/making-ai-empathic-im4",
       "source": "dev.to",
       "points": 5,
-      "comments": 16,
-      "published_at": "2026-03-07T04:07:42Z",
+      "comments": 5,
+      "published_at": "2026-03-06T23:04:31Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3330478",
+      "title": "What I have been reading this week (2nd - 9th of March)",
+      "description": "This is what I read about and tried this week.           AI    A graph-based tool routing library for...",
+      "url": "https://dev.to/094459/what-i-have-been-reading-this-week-2nd-9th-of-march-6fp",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 2,
+      "published_at": "2026-03-09T11:16:13Z",
       "summary": "",
       "category": "all",
       "tags": []
