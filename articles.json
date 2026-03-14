@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13T06:35:43Z",
+  "updated_at": "2026-03-14T06:30:49Z",
   "count": 60,
   "articles": [
     {
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-3327960",
+      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
+      "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
+      "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
+      "source": "dev.to",
+      "points": 69,
+      "comments": 2,
+      "published_at": "2026-03-09T04:37:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -297,19 +310,6 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3327960",
-      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
-      "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
-      "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
-      "source": "dev.to",
-      "points": 62,
-      "comments": 1,
-      "published_at": "2026-03-09T04:37:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -393,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-3336547",
+      "title": "Autonomous AI Research Does Not Need a Giant Framework",
+      "description": "A lot of the conversation around AI agents has drifted toward increasingly complex frameworks,...",
+      "url": "https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 17,
+      "published_at": "2026-03-12T12:45:10Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3336567",
       "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
       "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
@@ -432,40 +445,40 @@
       "tags": []
     },
     {
-      "id": "devto-3336547",
-      "title": "Autonomous AI Research Does Not Need a Giant Framework",
-      "description": "A lot of the conversation around AI agents has drifted toward increasingly complex frameworks,...",
-      "url": "https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el",
-      "source": "dev.to",
-      "points": 31,
-      "comments": 17,
-      "published_at": "2026-03-12T12:45:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3329280",
       "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
       "description": "Last month I hit $180 on my Claude Code bill. I use Opus daily — refactoring, bug fixes, code...",
       "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
       "source": "dev.to",
-      "points": 31,
-      "comments": 1,
+      "points": 34,
+      "comments": 3,
       "published_at": "2026-03-09T06:34:30Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3323523",
-      "title": "Why Owasp BLT ? Contribution from 5 to 50+ prs !",
-      "description": "It was the time when I thought to get some open source contribution after I was done from my...",
-      "url": "https://dev.to/owaspblt/why-owasp-blt-contribution-from-5-to-50-prs--1j7o",
+      "id": "devto-3340092",
+      "title": "Using Claude Code with Any LLM: Why a Gateway Changes Everything",
+      "description": "I've been using Claude Code for a while now, and if you're a developer who has added it to your daily...",
+      "url": "https://dev.to/varshithvhegde/using-claude-code-with-any-llm-why-a-gateway-changes-everything-4a0c",
       "source": "dev.to",
-      "points": 30,
-      "comments": 8,
-      "published_at": "2026-03-07T16:40:02Z",
+      "points": 29,
+      "comments": 3,
+      "published_at": "2026-03-13T03:30:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3323136",
+      "title": "How To Use Claude Code With Any AI Model Using an LLM Gateway (Bifrost)",
+      "description": "Unless you live under a rock, vibe coding has been the talk of the town in software development for a...",
+      "url": "https://dev.to/the_greatbonnie/how-to-use-claude-code-with-any-ai-model-using-an-llm-gateway-bifrost-50of",
+      "source": "dev.to",
+      "points": 29,
+      "comments": 1,
+      "published_at": "2026-03-07T15:49:40Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -479,6 +492,19 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3344524",
+      "title": "Embedding Accessibility into AI based software development",
+      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
+      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 0,
+      "published_at": "2026-03-12T16:07:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,6 +536,19 @@
       "tags": []
     },
     {
+      "id": "devto-3340936",
+      "title": "One command to add structured markup to your AI agent",
+      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
+      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
+      "source": "dev.to",
+      "points": 23,
+      "comments": 1,
+      "published_at": "2026-03-11T21:41:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3341108",
       "title": "OpenAI’s Postgres Architecture: A Brilliant Fix for a Billion-Dollar Mistake",
       "description": "Author: Matthew Penaroza, Head of AI Solution Architecture at SurrealDB  OpenAI’s write-up on scaling...",
@@ -528,7 +567,7 @@
       "description": "My First Open Source Contribution Got Merged 🎉   Today is a special milestone in my...",
       "url": "https://dev.to/maibhushan/my-first-open-source-contribution-got-merged-1c8k",
       "source": "dev.to",
-      "points": 15,
+      "points": 17,
       "comments": 5,
       "published_at": "2026-03-10T04:00:00Z",
       "summary": "",
@@ -542,7 +581,7 @@
       "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
       "source": "dev.to",
       "points": 14,
-      "comments": 25,
+      "comments": 27,
       "published_at": "2026-03-11T05:30:00Z",
       "summary": "",
       "category": "all",
@@ -562,19 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-3316928",
-      "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
-      "description": "I asked Claude to recreate the classic 1986 game Thrust for me in the browser. It created slop but...",
-      "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 1,
-      "published_at": "2026-03-06T19:12:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3330870",
       "title": "I got tired of color contrast tools that break brand colors. So I built my own.",
       "description": "You run a contrast check. It fails. You change the color. It passes WCAG. But now it looks nothing...",
@@ -583,6 +609,19 @@
       "points": 13,
       "comments": 5,
       "published_at": "2026-03-09T13:20:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3328016",
+      "title": "I built a 56-language Telegram bot in 10 days, hit the marketing wall. Then Telegram shipped the same feature",
+      "description": "Every side project has an origin story. Mine started with grocery shopping.  My wife sends me grocery...",
+      "url": "https://dev.to/alex_238be592ca4b365382f1/i-built-a-56-language-telegram-bot-in-10-days-hit-the-marketing-wall-then-telegram-shipped-the-4l5i",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 4,
+      "published_at": "2026-03-08T22:25:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -601,14 +640,14 @@
       "tags": []
     },
     {
-      "id": "devto-3328016",
-      "title": "I built a 56-language Telegram bot in 10 days, hit the marketing wall. Then Telegram shipped the same feature",
-      "description": "Every side project has an origin story. Mine started with grocery shopping.  My wife sends me grocery...",
-      "url": "https://dev.to/alex_238be592ca4b365382f1/i-built-a-56-language-telegram-bot-in-10-days-hit-the-marketing-wall-then-telegram-shipped-the-4l5i",
+      "id": "devto-3349201",
+      "title": "I built a personal budget app with React Native here's what I learned",
+      "description": "An honest retrospective on building Trya, a personal finance mobile app. From the first commit to...",
+      "url": "https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe",
       "source": "dev.to",
       "points": 11,
-      "comments": 4,
-      "published_at": "2026-03-08T22:25:45Z",
+      "comments": 0,
+      "published_at": "2026-03-13T19:07:47Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -642,7 +681,7 @@
     {
       "id": "devto-3342318",
       "title": "Building AI-Powered APIs with ASP.NET Core and OpenAI (.NET 8 Guide)",
-      "description": "AI features are slowly becoming part of normal backend work.  A few years ago most APIs were just...",
+      "description": "AI features are slowly becoming part of normal backend work.  A few years ago, most APIs were simple...",
       "url": "https://dev.to/alinabi19/building-ai-powered-apis-with-aspnet-core-and-openai-net-8-guide-2nam",
       "source": "dev.to",
       "points": 9,
@@ -661,19 +700,6 @@
       "points": 9,
       "comments": 1,
       "published_at": "2026-03-07T21:35:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3327309",
-      "title": "AWS Strands Replaced 40 Lines of LangGraph With 3. Here’s the Full Story",
-      "description": "At work, we build agents using LangChain and LangGraph. It works, but it takes a while to get...",
-      "url": "https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2026-03-08T16:13:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -752,32 +778,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3335497",
-      "title": "The Most Dangerous Number in Machine Learning: Accuracy",
-      "description": "Accuracy is often the first metric people learn in machine learning.  Train a model. Evaluate it. See...",
-      "url": "https://dev.to/siddhartha_reddy/the-most-dangerous-number-in-machine-learning-accuracy-1ei4",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-03-10T15:47:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3340010",
-      "title": "The Hidden Complexity of a 60-Line Script: Why Visual Programming and Testing Are the Next Step",
-      "description": "You've written a neat little script. Sixty lines, maybe seventy. It loads some data, runs a few...",
-      "url": "https://dev.to/robert_cizmas/the-hidden-complexity-of-a-60-line-script-why-visual-programming-and-testing-are-the-next-step-13p4",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-03-11T15:02:56Z",
       "summary": "",
       "category": "all",
       "tags": []
