@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T06:30:49Z",
+  "updated_at": "2026-03-15T06:41:12Z",
   "count": 60,
   "articles": [
     {
@@ -294,8 +294,8 @@
       "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
       "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
       "source": "dev.to",
-      "points": 69,
-      "comments": 2,
+      "points": 75,
+      "comments": 3,
       "published_at": "2026-03-09T04:37:00Z",
       "summary": "",
       "category": "all",
@@ -367,6 +367,19 @@
       "tags": []
     },
     {
+      "id": "devto-3340092",
+      "title": "Using Claude Code with Any LLM: Why a Gateway Changes Everything",
+      "description": "I've been using Claude Code for a while now, and if you're a developer who has added it to your daily...",
+      "url": "https://dev.to/varshithvhegde/using-claude-code-with-any-llm-why-a-gateway-changes-everything-4a0c",
+      "source": "dev.to",
+      "points": 42,
+      "comments": 3,
+      "published_at": "2026-03-13T03:30:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -380,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-3336547",
+      "title": "Autonomous AI Research Does Not Need a Giant Framework",
+      "description": "A lot of the conversation around AI agents has drifted toward increasingly complex frameworks,...",
+      "url": "https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el",
+      "source": "dev.to",
+      "points": 36,
+      "comments": 17,
+      "published_at": "2026-03-12T12:45:10Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3339971",
       "title": "Your AI code reviewer has no one to disagree with",
       "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
@@ -388,19 +414,6 @@
       "points": 36,
       "comments": 1,
       "published_at": "2026-03-11T14:48:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3336547",
-      "title": "Autonomous AI Research Does Not Need a Giant Framework",
-      "description": "A lot of the conversation around AI agents has drifted toward increasingly complex frameworks,...",
-      "url": "https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el",
-      "source": "dev.to",
-      "points": 35,
-      "comments": 17,
-      "published_at": "2026-03-12T12:45:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -425,7 +438,7 @@
       "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
       "source": "dev.to",
       "points": 35,
-      "comments": 2,
+      "comments": 6,
       "published_at": "2026-03-10T05:08:29Z",
       "summary": "",
       "category": "all",
@@ -458,32 +471,6 @@
       "tags": []
     },
     {
-      "id": "devto-3340092",
-      "title": "Using Claude Code with Any LLM: Why a Gateway Changes Everything",
-      "description": "I've been using Claude Code for a while now, and if you're a developer who has added it to your daily...",
-      "url": "https://dev.to/varshithvhegde/using-claude-code-with-any-llm-why-a-gateway-changes-everything-4a0c",
-      "source": "dev.to",
-      "points": 29,
-      "comments": 3,
-      "published_at": "2026-03-13T03:30:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3323136",
-      "title": "How To Use Claude Code With Any AI Model Using an LLM Gateway (Bifrost)",
-      "description": "Unless you live under a rock, vibe coding has been the talk of the town in software development for a...",
-      "url": "https://dev.to/the_greatbonnie/how-to-use-claude-code-with-any-ai-model-using-an-llm-gateway-bifrost-50of",
-      "source": "dev.to",
-      "points": 29,
-      "comments": 1,
-      "published_at": "2026-03-07T15:49:40Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -503,7 +490,7 @@
       "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
       "source": "dev.to",
       "points": 28,
-      "comments": 0,
+      "comments": 1,
       "published_at": "2026-03-12T16:07:21Z",
       "summary": "",
       "category": "all",
@@ -549,6 +536,32 @@
       "tags": []
     },
     {
+      "id": "devto-3344701",
+      "title": "I Got Lost in Canary Wharf for 30 Minutes, But I Found the Future of SRE",
+      "description": "If you've ever been to Canary Wharf, you know it's less of a business district and more of a...",
+      "url": "https://dev.to/maame-codes/i-got-lost-in-canary-wharf-for-30-minutes-but-i-found-the-future-of-sre-202k",
+      "source": "dev.to",
+      "points": 22,
+      "comments": 17,
+      "published_at": "2026-03-12T17:15:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3332071",
+      "title": "How I Got My First Open Source Pull Request Merged (Beginner Guide)",
+      "description": "My First Open Source Contribution Got Merged 🎉   Today is a special milestone in my...",
+      "url": "https://dev.to/maibhushan/my-first-open-source-contribution-got-merged-1c8k",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 5,
+      "published_at": "2026-03-10T04:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3341108",
       "title": "OpenAI’s Postgres Architecture: A Brilliant Fix for a Billion-Dollar Mistake",
       "description": "Author: Matthew Penaroza, Head of AI Solution Architecture at SurrealDB  OpenAI’s write-up on scaling...",
@@ -562,26 +575,13 @@
       "tags": []
     },
     {
-      "id": "devto-3332071",
-      "title": "How I Got My First Open Source Pull Request Merged (Beginner Guide)",
-      "description": "My First Open Source Contribution Got Merged 🎉   Today is a special milestone in my...",
-      "url": "https://dev.to/maibhushan/my-first-open-source-contribution-got-merged-1c8k",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 5,
-      "published_at": "2026-03-10T04:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3326188",
       "title": "Why Asking an LLM for JSON Isn’t Enough",
       "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
       "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
       "source": "dev.to",
-      "points": 14,
-      "comments": 27,
+      "points": 15,
+      "comments": 34,
       "published_at": "2026-03-11T05:30:00Z",
       "summary": "",
       "category": "all",
@@ -692,45 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-3324409",
-      "title": "I overpowered AI by inventing \"Brilliant\" code by AI opinion itself",
-      "description": "As it always happens to me, I started from describing a simple API client, then I started playing...",
-      "url": "https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 1,
-      "published_at": "2026-03-07T21:35:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3325173",
-      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
-      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
-      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 2,
-      "published_at": "2026-03-08T03:08:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3313213",
-      "title": "ICE AGE INVESTMENT - AI BUSINESS INTELLIGENCE SYSTEM",
-      "description": "Part 1 Test Stage Complete - Developer Breakdown  Dataset:...",
-      "url": "https://dev.to/peacebinflow/ice-age-investment-ai-business-intelligence-system-4nb7",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 0,
-      "published_at": "2026-03-05T19:34:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40728988",
       "title": "Not all 'open source' AI models are open",
       "description": "",
@@ -778,6 +739,45 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3335497",
+      "title": "The Most Dangerous Number in Machine Learning: Accuracy",
+      "description": "Accuracy is often the first metric people learn in machine learning.  Train a model. Evaluate it. See...",
+      "url": "https://dev.to/siddhartha_reddy/the-most-dangerous-number-in-machine-learning-accuracy-1ei4",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-10T15:47:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3338189",
+      "title": "Your Training Data Is Teaching Your Model the Wrong Things",
+      "description": "You train a machine learning model.  The training accuracy looks good. The validation accuracy looks...",
+      "url": "https://dev.to/siddhartha_reddy/your-training-data-is-teaching-your-model-the-wrong-things-379m",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-11T07:40:40Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3340010",
+      "title": "The Hidden Complexity of a 60-Line Script: Why Visual Programming and Testing Are the Next Step",
+      "description": "You've written a neat little script. Sixty lines, maybe seventy. It loads some data, runs a few...",
+      "url": "https://dev.to/robert_cizmas/the-hidden-complexity-of-a-60-line-script-why-visual-programming-and-testing-are-the-next-step-13p4",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-11T15:02:56Z",
       "summary": "",
       "category": "all",
       "tags": []
