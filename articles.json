@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T06:41:12Z",
+  "updated_at": "2026-03-16T07:01:55Z",
   "count": 60,
   "articles": [
     {
@@ -289,19 +289,6 @@
       "tags": []
     },
     {
-      "id": "devto-3327960",
-      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
-      "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
-      "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
-      "source": "dev.to",
-      "points": 75,
-      "comments": 3,
-      "published_at": "2026-03-09T04:37:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -458,19 +445,6 @@
       "tags": []
     },
     {
-      "id": "devto-3329280",
-      "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
-      "description": "Last month I hit $180 on my Claude Code bill. I use Opus daily — refactoring, bug fixes, code...",
-      "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
-      "source": "dev.to",
-      "points": 34,
-      "comments": 3,
-      "published_at": "2026-03-09T06:34:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -490,7 +464,7 @@
       "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
       "source": "dev.to",
       "points": 28,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-03-12T16:07:21Z",
       "summary": "",
       "category": "all",
@@ -529,7 +503,7 @@
       "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
       "source": "dev.to",
       "points": 23,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-03-11T21:41:26Z",
       "summary": "",
       "category": "all",
@@ -549,13 +523,26 @@
       "tags": []
     },
     {
+      "id": "devto-3326188",
+      "title": "Why Asking an LLM for JSON Isn’t Enough",
+      "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
+      "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 38,
+      "published_at": "2026-03-11T05:30:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3332071",
       "title": "How I Got My First Open Source Pull Request Merged (Beginner Guide)",
       "description": "My First Open Source Contribution Got Merged 🎉   Today is a special milestone in my...",
       "url": "https://dev.to/maibhushan/my-first-open-source-contribution-got-merged-1c8k",
       "source": "dev.to",
       "points": 18,
-      "comments": 5,
+      "comments": 6,
       "published_at": "2026-03-10T04:00:00Z",
       "summary": "",
       "category": "all",
@@ -570,19 +557,6 @@
       "points": 17,
       "comments": 0,
       "published_at": "2026-03-11T23:33:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3326188",
-      "title": "Why Asking an LLM for JSON Isn’t Enough",
-      "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
-      "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 34,
-      "published_at": "2026-03-11T05:30:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,14 +588,14 @@
       "tags": []
     },
     {
-      "id": "devto-3328016",
-      "title": "I built a 56-language Telegram bot in 10 days, hit the marketing wall. Then Telegram shipped the same feature",
-      "description": "Every side project has an origin story. Mine started with grocery shopping.  My wife sends me grocery...",
-      "url": "https://dev.to/alex_238be592ca4b365382f1/i-built-a-56-language-telegram-bot-in-10-days-hit-the-marketing-wall-then-telegram-shipped-the-4l5i",
+      "id": "devto-3353822",
+      "title": "LLM-as-a-Judge: Evaluate Your Models Without Human Reviewers",
+      "description": "Human eval does not scale. LLM-as-a-Judge matches human agreement rates at 1000x the throughput. Here are 3 patterns with working Python code.",
+      "url": "https://dev.to/klement_gunndu/llm-as-a-judge-evaluate-your-models-without-human-reviewers-2c4b",
       "source": "dev.to",
-      "points": 12,
-      "comments": 4,
-      "published_at": "2026-03-08T22:25:45Z",
+      "points": 11,
+      "comments": 5,
+      "published_at": "2026-03-15T08:06:15Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,14 +614,14 @@
       "tags": []
     },
     {
-      "id": "devto-3349201",
-      "title": "I built a personal budget app with React Native here's what I learned",
-      "description": "An honest retrospective on building Trya, a personal finance mobile app. From the first commit to...",
-      "url": "https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe",
+      "id": "devto-3348772",
+      "title": "Why We Need a Standard Language for Agentic Workflows (And Why I Built One)",
+      "description": "Everyone is building **multi-agent systems. Nobody agrees on how to describe them.     I've been...",
+      "url": "https://dev.to/argonauta/why-we-need-a-standard-language-for-agentic-workflows-and-why-i-built-one-138",
       "source": "dev.to",
-      "points": 11,
-      "comments": 0,
-      "published_at": "2026-03-13T19:07:47Z",
+      "points": 10,
+      "comments": 9,
+      "published_at": "2026-03-13T16:19:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -661,19 +635,6 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3327234",
-      "title": "How NVIDIA Technology Is Helping Us Understand Space",
-      "description": "Space exploration requires massive computing power. From simulating galaxies to training AI models...",
-      "url": "https://dev.to/sahas_fernando_772518ebde/how-nvidia-technology-is-helping-us-understand-space-l8e",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-03-08T15:52:23Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +739,45 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-03-11T15:02:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3353378",
+      "title": "Developers Are Invisible, But Forg.to Wants to Change That",
+      "description": "The modern developer’s identity is scattered across the web, hidden in fragments that never tell the...",
+      "url": "https://dev.to/kislay/developers-are-invisible-but-forgto-wants-to-change-that-44ha",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-15T02:44:31Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3340340",
+      "title": "Cake - Topographical Version Control",
+      "description": "Github Repo for Cake           The VCS Landscape   Version control has used the same mental model...",
+      "url": "https://dev.to/gregstrange/cake-topographical-version-control-4igd",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-03-11T17:56:13Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3332583",
+      "title": "I built a VS Code extension that lets you chat with your database - everything runs locally",
+      "description": "I spent a week onboarding into a project with a SQL Server database I'd never seen before. Dozens of...",
+      "url": "https://dev.to/hitesh1326/i-built-a-vs-code-extension-that-lets-you-chat-with-your-database-everything-runs-locally-2kio",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-03-10T00:39:59Z",
       "summary": "",
       "category": "all",
       "tags": []
