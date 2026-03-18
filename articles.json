@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T06:47:28Z",
+  "updated_at": "2026-03-18T06:45:51Z",
   "count": 60,
   "articles": [
     {
@@ -359,8 +359,8 @@
       "description": "I've been using Claude Code for a while now, and if you're a developer who has added it to your daily...",
       "url": "https://dev.to/varshithvhegde/using-claude-code-with-any-llm-why-a-gateway-changes-everything-4a0c",
       "source": "dev.to",
-      "points": 42,
-      "comments": 4,
+      "points": 43,
+      "comments": 8,
       "published_at": "2026-03-13T03:30:00Z",
       "summary": "",
       "category": "all",
@@ -406,14 +406,14 @@
       "tags": []
     },
     {
-      "id": "devto-3336567",
-      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
-      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
-      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
+      "id": "devto-3357647",
+      "title": "I Built a Browser UI for Claude Code — Here's Why",
+      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
+      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
       "source": "dev.to",
-      "points": 35,
-      "comments": 1,
-      "published_at": "2026-03-10T23:13:04Z",
+      "points": 36,
+      "comments": 8,
+      "published_at": "2026-03-16T08:15:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -466,6 +466,19 @@
       "points": 26,
       "comments": 6,
       "published_at": "2024-09-12T11:11:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3357267",
+      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
+      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
+      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
+      "source": "dev.to",
+      "points": 25,
+      "comments": 4,
+      "published_at": "2026-03-16T06:29:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,14 +549,27 @@
       "tags": []
     },
     {
-      "id": "devto-3336140",
-      "title": "Understanding Word2Vec – Part 5: How Training Creates Word Embeddings",
-      "description": "In the previous article, we visualized the vectors on a graph and saw how we can represent similarity...",
-      "url": "https://dev.to/rijultp/understanding-word2vec-part-5-how-training-creates-word-embeddings-14a4",
+      "id": "devto-3355851",
+      "title": "Understanding Seq2Seq Neural Networks – Part 3: Stacking LSTMs in the Encoder",
+      "description": "In the previous article, we created an embedding layer for the input vocabulary  In this article, we...",
+      "url": "https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-3-stacking-lstms-in-the-encoder-cj1",
       "source": "dev.to",
       "points": 15,
       "comments": 0,
-      "published_at": "2026-03-10T19:30:32Z",
+      "published_at": "2026-03-15T19:18:46Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3355365",
+      "title": "So, you know what? I just wasted 3 months of my life",
+      "description": "Hey bros and sisters and other fellow developers. I am a human man. And I am sharing my personal...",
+      "url": "https://dev.to/ddebajyati/so-you-know-what-i-just-wasted-3-months-of-my-life-16e1",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 5,
+      "published_at": "2026-03-15T20:01:52Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,6 +588,19 @@
       "tags": []
     },
     {
+      "id": "devto-3340668",
+      "title": "Understanding Word2Vec – Part 6: Two Ways Word2Vec Learns Context",
+      "description": "In the previous article, we saw the word embeddings concept, and how training causes similar words to...",
+      "url": "https://dev.to/rijultp/understanding-word2vec-part-6-two-ways-word2vec-learns-context-3ppl",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 0,
+      "published_at": "2026-03-11T19:19:15Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3349201",
       "title": "I built a personal budget app with React Native here's what I learned",
       "description": "An honest retrospective on building Trya, a personal finance mobile app. From the first commit to...",
@@ -570,45 +609,6 @@
       "points": 12,
       "comments": 0,
       "published_at": "2026-03-13T19:07:47Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3357267",
-      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
-      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
-      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 2,
-      "published_at": "2026-03-16T06:29:54Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3355365",
-      "title": "So, you know what? I just wasted 3 months of my life",
-      "description": "Hey bros and sisters and other fellow developers. I am a human man. And I am sharing my personal...",
-      "url": "https://dev.to/ddebajyati/so-you-know-what-i-just-wasted-3-months-of-my-life-16e1",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 5,
-      "published_at": "2026-03-15T20:01:52Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3348772",
-      "title": "Why We Need a Standard Language for Agentic Workflows (And Why I Built One)",
-      "description": "Everyone is building **multi-agent systems. Nobody agrees on how to describe them.     I've been...",
-      "url": "https://dev.to/argonauta/why-we-need-a-standard-language-for-agentic-workflows-and-why-i-built-one-138",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 14,
-      "published_at": "2026-03-13T16:19:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,6 +679,19 @@
       "tags": []
     },
     {
+      "id": "devto-3346454",
+      "title": "The Battle Between RAG and Long Context",
+      "description": "Introduction   Large Language Models arrive with a fundamental limitation known as the...",
+      "url": "https://dev.to/tomerbendavid/the-battle-between-rag-and-long-context-4ilc",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-03-13T06:27:21Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -700,19 +713,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-03-11T07:40:40Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3335497",
-      "title": "The Most Dangerous Number in Machine Learning: Accuracy",
-      "description": "Accuracy is often the first metric people learn in machine learning.  Train a model. Evaluate it. See...",
-      "url": "https://dev.to/siddhartha_reddy/the-most-dangerous-number-in-machine-learning-accuracy-1ei4",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-03-10T15:47:30Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,14 +757,14 @@
       "tags": []
     },
     {
-      "id": "devto-3346454",
-      "title": "The Battle Between RAG and Long Context",
-      "description": "Introduction   Large Language Models arrive with a fundamental limitation known as the...",
-      "url": "https://dev.to/tomerbendavid/the-battle-between-rag-and-long-context-4ilc",
+      "id": "devto-3339243",
+      "title": "I Built a DevOps Simulator to Practice Kubernetes Debugging",
+      "description": "Most DevOps tutorials have a problem.  They explain things like this:  “Here is what CrashLoopBackOff...",
+      "url": "https://dev.to/farooqshabbir/i-built-a-devops-simulator-to-practice-kubernetes-debugging-3pc5",
       "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-03-13T06:27:21Z",
+      "points": 6,
+      "comments": 4,
+      "published_at": "2026-03-11T11:18:12Z",
       "summary": "",
       "category": "all",
       "tags": []
