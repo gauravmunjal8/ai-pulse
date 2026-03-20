@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T06:41:30Z",
+  "updated_at": "2026-03-20T06:38:16Z",
   "count": 60,
   "articles": [
     {
@@ -354,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-3368026",
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "source": "dev.to",
+      "points": 50,
+      "comments": 4,
+      "published_at": "2026-03-18T14:39:24Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3340092",
       "title": "Using Claude Code with Any LLM: Why a Gateway Changes Everything",
       "description": "I've been using Claude Code for a while now, and if you're a developer who has added it to your daily...",
@@ -362,32 +375,6 @@
       "points": 43,
       "comments": 8,
       "published_at": "2026-03-13T03:30:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3368026",
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "source": "dev.to",
-      "points": 43,
-      "comments": 3,
-      "published_at": "2026-03-18T14:39:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3336547",
-      "title": "Autonomous AI Research Does Not Need a Giant Framework",
-      "description": "A lot of the conversation around AI agents has drifted toward increasingly complex frameworks,...",
-      "url": "https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el",
-      "source": "dev.to",
-      "points": 39,
-      "comments": 19,
-      "published_at": "2026-03-12T12:45:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -424,7 +411,7 @@
       "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
       "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
       "source": "dev.to",
-      "points": 31,
+      "points": 32,
       "comments": 6,
       "published_at": "2026-03-16T06:29:54Z",
       "summary": "",
@@ -432,14 +419,27 @@
       "tags": []
     },
     {
-      "id": "devto-3344524",
-      "title": "Embedding Accessibility into AI based software development",
-      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
-      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
+      "id": "devto-3369180",
+      "title": "Kaspersky Found 512 Bugs in OpenClaw. So I Built a Monitor to Catch AI Agents Misbehaving.",
+      "description": "How this started   I didn't plan to build a security tool. I'm a CS student in Toronto. My...",
+      "url": "https://dev.to/id_1/kaspersky-found-512-bugs-in-openclaw-so-i-built-a-monitor-to-catch-ai-agents-misbehaving-30a9",
       "source": "dev.to",
-      "points": 29,
-      "comments": 2,
-      "published_at": "2026-03-12T16:07:21Z",
+      "points": 32,
+      "comments": 5,
+      "published_at": "2026-03-18T22:35:10Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3369319",
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "source": "dev.to",
+      "points": 31,
+      "comments": 8,
+      "published_at": "2026-03-18T23:20:04Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,26 +497,13 @@
       "tags": []
     },
     {
-      "id": "devto-3344701",
-      "title": "I Got Lost in Canary Wharf for 30 Minutes, But I Found the Future of SRE",
-      "description": "If you've ever been to Canary Wharf, you know it's less of a business district and more of a...",
-      "url": "https://dev.to/maame-codes/i-got-lost-in-canary-wharf-for-30-minutes-but-i-found-the-future-of-sre-202k",
-      "source": "dev.to",
-      "points": 22,
-      "comments": 22,
-      "published_at": "2026-03-12T17:15:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3355365",
       "title": "So, you know what? I just wasted 3 months of my life",
       "description": "Hey bros and sisters and other fellow developers. I am a human man. And I am sharing my personal...",
       "url": "https://dev.to/ddebajyati/so-you-know-what-i-just-wasted-3-months-of-my-life-16e1",
       "source": "dev.to",
-      "points": 16,
-      "comments": 5,
+      "points": 17,
+      "comments": 6,
       "published_at": "2026-03-15T20:01:52Z",
       "summary": "",
       "category": "all",
@@ -528,22 +515,9 @@
       "description": "TL;DR: Karpathy's autoresearch runs hundreds of GPT pretraining experiments overnight. It doesn't...",
       "url": "https://dev.to/dean0x/how-i-built-eval-tools-for-karpathys-autoresearch-144b",
       "source": "dev.to",
-      "points": 15,
-      "comments": 1,
+      "points": 16,
+      "comments": 3,
       "published_at": "2026-03-18T14:50:31Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3353822",
-      "title": "LLM-as-a-Judge: Evaluate Your Models Without Human Reviewers",
-      "description": "Human eval does not scale. LLM-as-a-Judge matches human agreement rates at 1000x the throughput. Here are 3 patterns with working Python code.",
-      "url": "https://dev.to/klement_gunndu/llm-as-a-judge-evaluate-your-models-without-human-reviewers-2c4b",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 6,
-      "published_at": "2026-03-15T08:06:15Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -554,8 +528,8 @@
       "description": "My name is Edward Hsing.  I’m 18, and I build internet infrastructure.  Today, something I started at...",
       "url": "https://dev.to/edwardhsing/i-bought-a-domain-at-15-now-it-powers-400000-users-7ol",
       "source": "dev.to",
-      "points": 15,
-      "comments": 5,
+      "points": 16,
+      "comments": 6,
       "published_at": "2026-03-18T10:09:04Z",
       "summary": "",
       "category": "all",
@@ -570,19 +544,6 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3349201",
-      "title": "I built a personal budget app with React Native here's what I learned",
-      "description": "An honest retrospective on building Trya, a personal finance mobile app. From the first commit to...",
-      "url": "https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 0,
-      "published_at": "2026-03-13T19:07:47Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,14 +575,14 @@
       "tags": []
     },
     {
-      "id": "devto-3342318",
-      "title": "Building AI-Powered APIs with ASP.NET Core and OpenAI (.NET 8 Guide)",
-      "description": "AI features are slowly becoming part of normal backend work.  A few years ago, most APIs were simple...",
-      "url": "https://dev.to/alinabi19/building-ai-powered-apis-with-aspnet-core-and-openai-net-8-guide-2nam",
+      "id": "devto-3368579",
+      "title": "The AI Industry Has an E-Waste Problem. We're Mining Crypto on PowerBook G4s to Fix It.",
+      "description": "62 million tonnes of e-waste per year. The AI boom is making it worse. What if the blockchain itself could incentivize hardware preservation instead of hardware churn?",
+      "url": "https://dev.to/scottcjn/the-ai-industry-has-an-e-waste-problem-were-mining-crypto-on-powerbook-g4s-to-fix-it-4cdi",
       "source": "dev.to",
-      "points": 9,
+      "points": 8,
       "comments": 0,
-      "published_at": "2026-03-12T07:43:16Z",
+      "published_at": "2026-03-18T17:47:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,6 +614,32 @@
       "tags": []
     },
     {
+      "id": "devto-3327382",
+      "title": "Chat Completions vs OpenAI Responses API: What Actually Changed",
+      "description": "While learning about structured outputs, I noticed something strange. Almost every tutorial, course,...",
+      "url": "https://dev.to/dev-in-progress/chat-completions-vs-openai-responses-api-what-actually-changed-4bco",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-03-18T05:30:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3366756",
+      "title": "Building a Platform With the Platform: How AI Agents Built Bridge ACE",
+      "description": "Bridge ACE was built by AI agents coordinating through Bridge ACE itself. Meet the team: Assi, Viktor, Nova, Buddy, and Luan.",
+      "url": "https://dev.to/bridgeace/building-a-platform-with-the-platform-how-ai-agents-built-bridge-ace-577p",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 1,
+      "published_at": "2026-03-18T08:49:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3353378",
       "title": "Developers Are Invisible, But Forg.to Wants to Change That",
       "description": "The modern developer’s identity is scattered across the web, hidden in fragments that never tell the...",
@@ -666,26 +653,13 @@
       "tags": []
     },
     {
-      "id": "devto-3368579",
-      "title": "The AI Industry Has an E-Waste Problem. We're Mining Crypto on PowerBook G4s to Fix It.",
-      "description": "62 million tonnes of e-waste per year. The AI boom is making it worse. What if the blockchain itself could incentivize hardware preservation instead of hardware churn?",
-      "url": "https://dev.to/scottcjn/the-ai-industry-has-an-e-waste-problem-were-mining-crypto-on-powerbook-g4s-to-fix-it-4cdi",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-03-18T17:47:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3367732",
       "title": "How I Built an AI That Breeds Its Own Jailbreaks Using Genetic Algorithms",
       "description": "Static jailbreak lists are dead.  Every time a model provider patches their safety filters, your...",
       "url": "https://dev.to/regaan/how-i-built-an-ai-that-breeds-its-own-jailbreaks-using-genetic-algorithms-270l",
       "source": "dev.to",
       "points": 6,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-03-18T12:49:37Z",
       "summary": "",
       "category": "all",
@@ -700,19 +674,6 @@
       "points": 6,
       "comments": 2,
       "published_at": "2026-03-13T06:27:21Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3327382",
-      "title": "Chat Completions vs OpenAI Responses API: What Actually Changed",
-      "description": "While learning about structured outputs, I noticed something strange. Almost every tutorial, course,...",
-      "url": "https://dev.to/dev-in-progress/chat-completions-vs-openai-responses-api-what-actually-changed-4bco",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-03-18T05:30:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,6 +705,19 @@
       "tags": []
     },
     {
+      "id": "devto-3359820",
+      "title": "I Stopped Paying $30/month for Video Resizing. Here's the Open-Source Alternative.",
+      "description": "Every social platform wants a different video size.  TikTok wants 9:16. YouTube wants 16:9. Instagram...",
+      "url": "https://dev.to/lakshmisravyavedantham/i-stopped-paying-30month-for-video-resizing-heres-the-open-source-alternative-4mgc",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-03-16T17:38:10Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3349787",
       "title": "Luminary: Week 2 — Building the Core",
       "description": "Welcome back to another week of work on the luminary project, for those of us who are new here,...",
@@ -770,6 +744,19 @@
       "tags": []
     },
     {
+      "id": "devto-3352561",
+      "title": "Heavy AI agent frameworks were too slow for my Raspberry Pi. So I built a different one",
+      "description": "The problem   I’ve been experimenting with AI agents on a Raspberry Pi 5, and I kept hitting...",
+      "url": "https://dev.to/evgenii_engineer/heavy-ai-agent-frameworks-were-too-slow-for-my-raspberry-pi-so-i-built-a-different-one-4iee",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 6,
+      "published_at": "2026-03-14T18:38:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34634357",
       "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
       "description": "",
@@ -778,6 +765,19 @@
       "points": 5,
       "comments": 1,
       "published_at": "2023-02-02T22:45:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3367829",
+      "title": "I Automated Hiring Like a Pipeline — and Stopped Wasting Time on Screening",
+      "description": "Initial candidate screening is the most soul-crushing part of hiring. If you're a tech lead or...",
+      "url": "https://dev.to/samandar_yusupov/i-automated-hiring-like-a-pipeline-and-stopped-wasting-time-on-screening-4op3",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-03-18T13:27:20Z",
       "summary": "",
       "category": "all",
       "tags": []
