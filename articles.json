@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T06:38:16Z",
+  "updated_at": "2026-03-21T06:27:00Z",
   "count": 60,
   "articles": [
     {
@@ -393,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-3369319",
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "source": "dev.to",
+      "points": 37,
+      "comments": 11,
+      "published_at": "2026-03-18T23:20:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3357647",
       "title": "I Built a Browser UI for Claude Code — Here's Why",
       "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
@@ -427,19 +440,6 @@
       "points": 32,
       "comments": 5,
       "published_at": "2026-03-18T22:35:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3369319",
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "source": "dev.to",
-      "points": 31,
-      "comments": 8,
-      "published_at": "2026-03-18T23:20:04Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -518,6 +518,19 @@
       "points": 16,
       "comments": 3,
       "published_at": "2026-03-18T14:50:31Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3353822",
+      "title": "LLM-as-a-Judge: Evaluate Your Models Without Human Reviewers",
+      "description": "Human eval does not scale. LLM-as-a-Judge matches human agreement rates at 1000x the throughput. Here are 3 patterns with working Python code.",
+      "url": "https://dev.to/klement_gunndu/llm-as-a-judge-evaluate-your-models-without-human-reviewers-2c4b",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 6,
+      "published_at": "2026-03-15T08:06:15Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -609,6 +622,19 @@
       "points": 8,
       "comments": 1,
       "published_at": "2024-05-07T19:43:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3354847",
+      "title": "The Next Big Trend in AI: Tool-Using Agents",
+      "description": "Chatbots were only the beginning. The real revolution is tool-using AI agents—systems that don’t just...",
+      "url": "https://dev.to/safdarali25/the-next-big-trend-in-ai-tool-using-agents-5157",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 1,
+      "published_at": "2026-03-20T23:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -752,32 +778,6 @@
       "points": 5,
       "comments": 6,
       "published_at": "2026-03-14T18:38:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3367829",
-      "title": "I Automated Hiring Like a Pipeline — and Stopped Wasting Time on Screening",
-      "description": "Initial candidate screening is the most soul-crushing part of hiring. If you're a tech lead or...",
-      "url": "https://dev.to/samandar_yusupov/i-automated-hiring-like-a-pipeline-and-stopped-wasting-time-on-screening-4op3",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-03-18T13:27:20Z",
       "summary": "",
       "category": "all",
       "tags": []
