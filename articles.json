@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T06:47:43Z",
+  "updated_at": "2026-03-25T06:46:08Z",
   "count": 60,
   "articles": [
     {
@@ -341,6 +341,19 @@
       "tags": []
     },
     {
+      "id": "devto-3368026",
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "source": "dev.to",
+      "points": 51,
+      "comments": 6,
+      "published_at": "2026-03-18T14:39:24Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -349,19 +362,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3368026",
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "source": "dev.to",
-      "points": 50,
-      "comments": 5,
-      "published_at": "2026-03-18T14:39:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -399,7 +399,7 @@
       "url": "https://dev.to/tyler_biffle_1ca74cc0e8ee/i-stopped-prompting-gpt-5-this-45-line-context-engine-fixed-my-hallucinations-11nn",
       "source": "dev.to",
       "points": 35,
-      "comments": 4,
+      "comments": 5,
       "published_at": "2026-03-19T14:50:51Z",
       "summary": "",
       "category": "all",
@@ -445,19 +445,6 @@
       "tags": []
     },
     {
-      "id": "devto-3364128",
-      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
-      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
-      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
-      "source": "dev.to",
-      "points": 26,
-      "comments": 2,
-      "published_at": "2026-03-17T17:43:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -476,8 +463,8 @@
       "description": "I recently worked on a machine learning challenge on HackerRank and got a strong score with a real...",
       "url": "https://dev.to/realactioner/when-10000-means-nothing-gaming-coding-assessments-3e4l",
       "source": "dev.to",
-      "points": 20,
-      "comments": 1,
+      "points": 22,
+      "comments": 2,
       "published_at": "2026-03-23T18:55:40Z",
       "summary": "",
       "category": "all",
@@ -549,25 +536,12 @@
       "tags": []
     },
     {
-      "id": "devto-3365950",
-      "title": "I built a free, open-source alternative to LocalStack — CloudDev",
-      "description": "I built a free, open-source alternative to LocalStack — CloudDev   If you've been following...",
-      "url": "https://dev.to/jeffrin-dev/i-built-a-free-open-source-alternative-to-localstack-clouddev-59k",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 1,
-      "published_at": "2026-03-18T05:39:19Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3381604",
       "title": "What is MCP?",
       "description": "If you've been anywhere near developer Twitter or LinkedIn lately, you've probably seen this diagram...",
       "url": "https://dev.to/evanlausier/what-is-mcp-443b",
       "source": "dev.to",
-      "points": 10,
+      "points": 11,
       "comments": 2,
       "published_at": "2026-03-21T21:40:33Z",
       "summary": "",
@@ -575,14 +549,14 @@
       "tags": []
     },
     {
-      "id": "devto-3327382",
-      "title": "Chat Completions vs OpenAI Responses API: What Actually Changed",
-      "description": "While learning about structured outputs, I noticed something strange. Almost every tutorial, course,...",
-      "url": "https://dev.to/dev-in-progress/chat-completions-vs-openai-responses-api-what-actually-changed-4bco",
+      "id": "devto-3382995",
+      "title": "Built a CLI that gives your codebase a memory",
+      "description": "Two weeks ago I was debugging a module I had written myself. Sat staring at it for twenty minutes....",
+      "url": "https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o",
       "source": "dev.to",
-      "points": 10,
-      "comments": 0,
-      "published_at": "2026-03-18T05:30:00Z",
+      "points": 11,
+      "comments": 22,
+      "published_at": "2026-03-22T08:31:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -635,19 +609,6 @@
       "points": 9,
       "comments": 0,
       "published_at": "2026-03-20T02:50:55Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3382995",
-      "title": "Built a CLI that gives your codebase a memory",
-      "description": "Two weeks ago I was debugging a module I had written myself. Sat staring at it for twenty minutes....",
-      "url": "https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 21,
-      "published_at": "2026-03-22T08:31:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,13 +718,39 @@
       "tags": []
     },
     {
+      "id": "devto-3387199",
+      "title": "Implementing a RAG system: Crawl",
+      "description": "I'm starting a \"Crawl, walk, run\" series of posts on various topics and decided to start with...",
+      "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 3,
+      "published_at": "2026-03-24T18:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3378060",
+      "title": "I built a 1.7kb VDOM-less framework, it went \"viral\", and Reddit banned me 🤣",
+      "description": "Have you ever spent days crafting an open-source project, finally launched it, watched it get 20K...",
+      "url": "https://dev.to/murillobrand/i-built-a-17kb-vdom-less-framework-it-went-viral-and-reddit-banned-me-5gmp",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-03-20T20:27:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3381032",
       "title": "We Replaced Every Tool Claude Code Ships With",
       "description": "The Problem: Claude Code's Tools Don't Scale   Claude Code ships with a reasonable set of...",
       "url": "https://dev.to/neil_agentic/we-replaced-every-tool-claude-code-ships-with-522j",
       "source": "dev.to",
       "points": 5,
-      "comments": 12,
+      "comments": 13,
       "published_at": "2026-03-21T16:40:11Z",
       "summary": "",
       "category": "all",
@@ -778,6 +765,19 @@
       "points": 5,
       "comments": 1,
       "published_at": "2026-03-24T01:20:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "hn-34634357",
+      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
+      "description": "",
+      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
+      "source": "theregister.com",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2023-02-02T22:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
