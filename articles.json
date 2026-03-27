@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T06:53:19Z",
+  "updated_at": "2026-03-27T06:53:25Z",
   "count": 60,
   "articles": [
     {
@@ -367,14 +367,14 @@
       "tags": []
     },
     {
-      "id": "devto-3372616",
-      "title": "I Stopped \"Prompting\" GPT-5. This 45-Line Context Engine Fixed My Hallucinations.",
-      "description": "Yesterday at 3:00 AM, I was ready to throw my M4 Mac Mini out the window.  I was locked in a...",
-      "url": "https://dev.to/tyler_biffle_1ca74cc0e8ee/i-stopped-prompting-gpt-5-this-45-line-context-engine-fixed-my-hallucinations-11nn",
+      "id": "devto-3400005",
+      "title": "The Missing Link Between AI Agents and the Code They Modify",
+      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
+      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
       "source": "dev.to",
-      "points": 35,
-      "comments": 6,
-      "published_at": "2026-03-19T14:50:51Z",
+      "points": 29,
+      "comments": 3,
+      "published_at": "2026-03-25T12:07:47Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -393,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-3408110",
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 8,
+      "published_at": "2026-03-26T10:50:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39677525",
       "title": "Jail time for open source AI models",
       "description": "",
@@ -401,6 +414,19 @@
       "points": 28,
       "comments": 12,
       "published_at": "2024-03-12T09:09:08Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3396106",
+      "title": "The Vonage Dev Discussion: Open Source",
+      "description": "At Women+ in Open Source Day, I got to try my hand at making a contribution to Apache Spark. While I...",
+      "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 13,
+      "published_at": "2026-03-25T16:59:12Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -419,6 +445,19 @@
       "tags": []
     },
     {
+      "id": "devto-3375685",
+      "title": "We made a free Ask AI widget for open-source GitHub projects",
+      "description": "If you maintain an open-source project on GitHub, you can now add a free Ask AI widget that learns...",
+      "url": "https://dev.to/ivictbor/we-made-a-free-ask-ai-widget-for-open-source-github-projects-252c",
+      "source": "dev.to",
+      "points": 25,
+      "comments": 1,
+      "published_at": "2026-03-20T09:45:40Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3391255",
       "title": "When 100.00 Means Nothing: Gaming Coding Assessments",
       "description": "I recently worked on a machine learning challenge on HackerRank and got a strong score with a real...",
@@ -432,14 +471,27 @@
       "tags": []
     },
     {
-      "id": "devto-3389218",
-      "title": "Unlock the full potential of AI workflows! 🔥 Learn how to run MCP servers in production with security, scaling & governance, and why a centralized AI gateway like Bifrost is a game changer.",
-      "description": "How to Run MCP Servers in Production (Security, Scaling &amp; Governance for AI Tooling)       ...",
-      "url": "https://dev.to/hadil/unlock-the-full-potential-of-ai-workflows-learn-how-to-run-mcp-servers-in-production-with-4e2i",
+      "id": "devto-3396977",
+      "title": "Engram: A new type of AI",
+      "description": "From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...",
+      "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
       "source": "dev.to",
-      "points": 20,
+      "points": 22,
       "comments": 1,
-      "published_at": "2026-03-23T13:05:24Z",
+      "published_at": "2026-03-24T21:05:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3382995",
+      "title": "Built a CLI that gives your codebase a memory",
+      "description": "Two weeks ago I was debugging a module I had written myself. Sat staring at it for twenty minutes....",
+      "url": "https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 27,
+      "published_at": "2026-03-22T08:31:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -466,19 +518,6 @@
       "points": 11,
       "comments": 2,
       "published_at": "2026-03-21T21:40:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3382995",
-      "title": "Built a CLI that gives your codebase a memory",
-      "description": "Two weeks ago I was debugging a module I had written myself. Sat staring at it for twenty minutes....",
-      "url": "https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 24,
-      "published_at": "2026-03-22T08:31:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -516,21 +555,8 @@
       "url": "https://dev.to/amandamartindev/choosing-a-model-means-measuring-cost-vs-quality-on-your-data-1e58",
       "source": "dev.to",
       "points": 9,
-      "comments": 0,
+      "comments": 1,
       "published_at": "2026-03-22T16:01:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3374296",
-      "title": "Dash It All! Is AI Em Dash Addiction Real?",
-      "description": "Happy Friday. Let's talk about punctuation.  If you've spent any time reading AI-generated text,...",
-      "url": "https://dev.to/aws/dash-it-all-is-ai-em-dash-addiction-real-40bh",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 0,
-      "published_at": "2026-03-20T02:50:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -607,21 +633,8 @@
       "url": "https://dev.to/neil_agentic/we-replaced-every-tool-claude-code-ships-with-522j",
       "source": "dev.to",
       "points": 6,
-      "comments": 14,
+      "comments": 16,
       "published_at": "2026-03-21T16:40:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3400005",
-      "title": "The Missing Link Between AI Agents and the Code They Modify",
-      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
-      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 3,
-      "published_at": "2026-03-25T12:07:47Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,19 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-3396106",
-      "title": "The Vonage Dev Discussion: Open Source",
-      "description": "At Women+ in Open Source Day, I got to try my hand at making a contribution to Apache Spark. While I...",
-      "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 6,
-      "published_at": "2026-03-25T16:59:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3391762",
       "title": "Why Purging Nginx Cache Is Only Half the Job (And How I Built the Other Half)",
       "description": "A deep dive into NPP — the WordPress plugin that purges Nginx cache and immediately preloads it. Covers the 3-layer purge strategy, Vary header trap, Redis sync, WooCommerce hooks, safexec, and more.",
@@ -700,19 +700,6 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-03-24T02:18:52Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3373117",
-      "title": "Sub Agent that executes Claude AI CLI requirements in a work-pipeline",
-      "description": "TL;DR   I built uctm (Universal Claude Task Manager) — an npm package that...",
-      "url": "https://dev.to/ucjung/sub-agent-that-executes-claude-ai-cli-requirements-in-a-work-pipeline-3lpk",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-03-19T18:40:58Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +765,19 @@
       "points": 4,
       "comments": 1,
       "published_at": "2025-12-29T17:06:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3387359",
+      "title": "I Built an MCP Server to Automate Dropshipping Product Imports",
+      "description": "How I turned a repetitive dropshipping workflow into a Model Context Protocol server — the architecture decisions, tool design, and what I learned publishing to 8 platforms.",
+      "url": "https://dev.to/_95a3e57463e6442feacd0/i-built-an-mcp-server-to-automate-dropshipping-product-imports-3m5b",
+      "source": "dev.to",
+      "points": 4,
+      "comments": 0,
+      "published_at": "2026-03-23T06:38:33Z",
       "summary": "",
       "category": "all",
       "tags": []
