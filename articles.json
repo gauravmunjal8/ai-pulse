@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T06:49:13Z",
+  "updated_at": "2026-03-30T07:12:17Z",
   "count": 60,
   "articles": [
     {
@@ -367,14 +367,14 @@
       "tags": []
     },
     {
-      "id": "devto-3408110",
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "id": "devto-3391606",
+      "title": "✅ Benefits of the FTI Architecture — The Cleanest Way to Build Production ML Systems✅",
+      "description": "When ML systems grow, complexity grows faster.  More data. More models. More pipelines. More...",
+      "url": "https://dev.to/tomorrmonkey/benefits-of-the-fti-architecture-the-cleanest-way-to-build-production-ml-systems-222",
       "source": "dev.to",
-      "points": 33,
-      "comments": 10,
-      "published_at": "2026-03-26T10:50:55Z",
+      "points": 37,
+      "comments": 5,
+      "published_at": "2026-03-23T20:54:58Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -385,9 +385,22 @@
       "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
       "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
       "source": "dev.to",
-      "points": 31,
-      "comments": 7,
+      "points": 36,
+      "comments": 9,
       "published_at": "2026-03-25T12:07:47Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3408110",
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 11,
+      "published_at": "2026-03-26T10:50:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,19 +484,6 @@
       "tags": []
     },
     {
-      "id": "devto-3382995",
-      "title": "Built a CLI that gives your codebase a memory",
-      "description": "Two weeks ago I was debugging a module I had written myself. Sat staring at it for twenty minutes....",
-      "url": "https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 28,
-      "published_at": "2026-03-22T08:31:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3404203",
       "title": "Building a Network of AI-Native CTOs",
       "description": "Thinking through how the CTO role is evolving in smaller, AI-driven teams—and what we’re trying as an alternative.",
@@ -505,32 +505,6 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3381604",
-      "title": "What is MCP?",
-      "description": "If you've been anywhere near developer Twitter or LinkedIn lately, you've probably seen this diagram...",
-      "url": "https://dev.to/evanlausier/what-is-mcp-443b",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 2,
-      "published_at": "2026-03-21T21:40:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3385037",
-      "title": "Choosing a model means measuring cost vs quality on your data",
-      "description": "I wanted to evaluate model-based extraction in a way that would tell me more than benchmarks alone....",
-      "url": "https://dev.to/amandamartindev/choosing-a-model-means-measuring-cost-vs-quality-on-your-data-1e58",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 2,
-      "published_at": "2026-03-22T16:01:27Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-3423757",
+      "title": "Build a Data Science Query Language in Python using Lark",
+      "description": "Build a Data Science Query Language in Python using Lark   What if you could write something...",
+      "url": "https://dev.to/pjdeveloper896/build-a-data-science-query-language-in-python-using-lark-pgo",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-03-29T06:10:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3409296",
       "title": "I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned",
       "description": "The Setup   I was paying $15/month for Uptime Robot.  I used maybe 30% of it. Most days I...",
@@ -705,14 +692,14 @@
       "tags": []
     },
     {
-      "id": "devto-3423757",
-      "title": "Build a Data Science Query Language in Python using Lark",
-      "description": "Build a Data Science Query Language in Python using Lark   What if you could write something...",
-      "url": "https://dev.to/pjdeveloper896/build-a-data-science-query-language-in-python-using-lark-pgo",
+      "id": "devto-3425980",
+      "title": "Building a Trading Bot That Could Turn $10K into $102K: xLSTM (DL) + PPO (RL)",
+      "description": "My trading bot lost $176 in its first real backtest.  Not because of a bug. Not because of bad data....",
+      "url": "https://dev.to/0xrelogic/building-a-trading-bot-that-could-turn-10k-into-102k-xlstm-dl-ppo-rl-3iko",
       "source": "dev.to",
       "points": 5,
       "comments": 0,
-      "published_at": "2026-03-29T06:10:14Z",
+      "published_at": "2026-03-29T15:36:07Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,6 +731,19 @@
       "tags": []
     },
     {
+      "id": "devto-3391616",
+      "title": "I Built 7 MCP Servers for Security Tools. The Protocol Was the Easy Part.",
+      "description": "I wanted my AI agent to talk directly to my security stack. Not through copy-pasted log snippets. Not...",
+      "url": "https://dev.to/solomonneas/i-built-7-mcp-servers-for-security-tools-the-protocol-was-the-easy-part-4137",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 2,
+      "published_at": "2026-03-23T20:59:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3409162",
       "title": "Your AI Agent is Failing. You Just Don’t Know Where.",
       "description": "Launching SkillCompass: Diagnose and Improve AI Agent Skills Across 6 Dimensions  TL;DR: AI agent...",
@@ -757,19 +757,6 @@
       "tags": []
     },
     {
-      "id": "devto-3381537",
-      "title": "Flash-KMeans Dropped and It Makes sklearn Look Slow",
-      "description": "Flash-KMeans brings Flash Attention-style optimizations to K-Means clustering — 5-16x faster with less memory. Here's what it means for your ML pipelines.",
-      "url": "https://dev.to/alanwest/flash-kmeans-dropped-and-it-makes-sklearn-look-slow-4i40",
-      "source": "dev.to",
-      "points": 4,
-      "comments": 1,
-      "published_at": "2026-03-21T20:55:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3162473",
       "title": "Taming the Glucose Spike: Predicting Postprandial Peaks with Transformers and PyTorch",
       "description": "Living with a Continuous Glucose Monitor (CGM) is like having a dashboard for your metabolism. But...",
@@ -778,6 +765,19 @@
       "points": 4,
       "comments": 0,
       "published_at": "2026-03-28T00:40:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3393196",
+      "title": "Deploying CVAT on AWS for Image and Video Annotation",
+      "description": "Building a computer vision model starts with labelled data, and that labelling work is where a...",
+      "url": "https://dev.to/gowtham21/deploying-cvat-on-aws-for-image-and-video-annotation-425i",
+      "source": "dev.to",
+      "points": 4,
+      "comments": 0,
+      "published_at": "2026-03-24T06:40:16Z",
       "summary": "",
       "category": "all",
       "tags": []
