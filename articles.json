@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T06:59:06Z",
+  "updated_at": "2026-04-01T07:05:40Z",
   "count": 60,
   "articles": [
     {
@@ -367,26 +367,13 @@
       "tags": []
     },
     {
-      "id": "devto-3391606",
-      "title": "✅ Benefits of the FTI Architecture — The Cleanest Way to Build Production ML Systems✅",
-      "description": "When ML systems grow, complexity grows faster.  More data. More models. More pipelines. More...",
-      "url": "https://dev.to/tomorrmonkey/benefits-of-the-fti-architecture-the-cleanest-way-to-build-production-ml-systems-222",
-      "source": "dev.to",
-      "points": 37,
-      "comments": 5,
-      "published_at": "2026-03-23T20:54:58Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3400005",
       "title": "The Missing Link Between AI Agents and the Code They Modify",
       "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
       "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
       "source": "dev.to",
       "points": 36,
-      "comments": 9,
+      "comments": 10,
       "published_at": "2026-03-25T12:07:47Z",
       "summary": "",
       "category": "all",
@@ -398,7 +385,7 @@
       "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
       "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
       "source": "dev.to",
-      "points": 35,
+      "points": 36,
       "comments": 15,
       "published_at": "2026-03-26T10:50:55Z",
       "summary": "",
@@ -411,9 +398,35 @@
       "description": "At Women+ in Open Source Day, I got to try my hand at making a contribution to Apache Spark. While I...",
       "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb",
       "source": "dev.to",
-      "points": 35,
+      "points": 36,
       "comments": 14,
       "published_at": "2026-03-25T16:59:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3377343",
+      "title": "Prompt Stuffing Is Killing Your Agent",
+      "description": "Classic RAG retrieves everything and hopes for the best. Agentic RAG uses conditional retrieval with validation loops — and it's cheaper too.",
+      "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
+      "source": "dev.to",
+      "points": 32,
+      "comments": 2,
+      "published_at": "2026-03-30T15:49:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3428870",
+      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
+      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 9,
+      "published_at": "2026-03-30T06:21:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -445,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-3429516",
+      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
+      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
+      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
+      "source": "dev.to",
+      "points": 27,
+      "comments": 0,
+      "published_at": "2026-03-30T08:15:13Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -464,34 +490,8 @@
       "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
       "source": "dev.to",
       "points": 23,
-      "comments": 5,
+      "comments": 6,
       "published_at": "2026-03-24T21:05:54Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3416692",
-      "title": "Understanding Attention Mechanisms – Part 2: Comparing Encoder and Decoder Outputs",
-      "description": "In the previous article, we explored the main idea of attention and the modifications it requires in...",
-      "url": "https://dev.to/rijultp/understanding-attention-mechanisms-part-2-comparing-encoder-and-decoder-outputs-22ch",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-03-27T19:16:17Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3410792",
-      "title": "Understanding Attention Mechanisms – Part 1: Why Long Sentences Break Encoder–Decoders",
-      "description": "In the previous articles, we understood Seq2Seq models. Now, on the path toward transformers, we need...",
-      "url": "https://dev.to/rijultp/understanding-attention-mechanisms-part-1-why-long-sentences-break-encoder-decoders-lm9",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-03-26T19:48:40Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,19 +523,6 @@
       "tags": []
     },
     {
-      "id": "devto-3428870",
-      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
-      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
-      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 6,
-      "published_at": "2026-03-30T06:21:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3426329",
       "title": "Run Any HuggingFace Model on TPUs: A Beginner's Guide to TorchAX",
       "description": "Learn how to run PyTorch HuggingFace models on Google TPUs using torchax — no JAX rewrite needed. Includes benchmarks, text classification, text generation, and a Colab notebook.",
@@ -549,6 +536,19 @@
       "tags": []
     },
     {
+      "id": "devto-3413493",
+      "title": "How I Built a Memory System for Claude Code and Open-Sourced It",
+      "description": "You open Claude Code. You work for an hour — refactoring, debugging, building something real. You...",
+      "url": "https://dev.to/awrshift/how-i-built-a-memory-system-for-claude-code-and-open-sourced-it-3m31",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 12,
+      "published_at": "2026-03-27T08:50:34Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -557,19 +557,6 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3387199",
-      "title": "Implementing a RAG system: Crawl",
-      "description": "I'm starting a \"Crawl, walk, run\" series of posts on various topics and decided to start with...",
-      "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 4,
-      "published_at": "2026-03-24T18:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,27 +601,14 @@
       "tags": []
     },
     {
-      "id": "devto-3409484",
-      "title": "I Built a Monitoring Tool Because Uptime Checks Kept Lying to Me",
-      "description": "If you deploy sites to Netlify, Vercel, Cloudflare Pages or pretty much any modern platform — you've...",
-      "url": "https://dev.to/nickycdk/i-built-a-monitoring-tool-because-uptime-checks-kept-lying-to-me-35mf",
+      "id": "devto-3409296",
+      "title": "I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned",
+      "description": "The Setup   I was paying $15/month for Uptime Robot.  I used maybe 30% of it. Most days I...",
+      "url": "https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih",
       "source": "dev.to",
       "points": 7,
       "comments": 0,
-      "published_at": "2026-03-26T14:18:02Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3395455",
-      "title": "Your AI Agent Can Be Hijacked With 3 Lines of JSON",
-      "description": "MCP tool poisoning, rug pulls, and schema injection are real. Here is how to detect and block them.",
-      "url": "https://dev.to/acacian/your-ai-agent-can-be-hijacked-with-3-lines-of-json-5878",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 16,
-      "published_at": "2026-03-24T14:29:58Z",
+      "published_at": "2026-03-26T13:09:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,14 +666,14 @@
       "tags": []
     },
     {
-      "id": "devto-3409296",
-      "title": "I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned",
-      "description": "The Setup   I was paying $15/month for Uptime Robot.  I used maybe 30% of it. Most days I...",
-      "url": "https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih",
+      "id": "devto-3417248",
+      "title": "You inherited a .NET codebase with zero tests. Now what?",
+      "description": "Every .NET developer has had that moment.  You join a new team, clone the repo, open the solution,...",
+      "url": "https://dev.to/ebrahimsayed/you-inherited-a-net-codebase-with-zero-tests-now-what-46ca",
       "source": "dev.to",
       "points": 6,
       "comments": 0,
-      "published_at": "2026-03-26T13:09:55Z",
+      "published_at": "2026-03-27T23:02:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -713,6 +687,19 @@
       "points": 6,
       "comments": 3,
       "published_at": "2026-03-26T12:42:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3427232",
+      "title": "Why SSE for AI agents keeps breaking at 2am",
+      "description": "Why SSE for AI agents keeps breaking at 2am Every team building AI agent UIs writes their own SSE...",
+      "url": "https://dev.to/abhishek_chatterjee_33b9d/why-sse-for-ai-agents-keeps-breaking-at-2am-55ie",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 10,
+      "published_at": "2026-03-29T21:18:40Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +765,19 @@
       "points": 5,
       "comments": 4,
       "published_at": "2026-03-25T09:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3361362",
+      "title": "Bridging Fintech and Agentic AI: Building a Paystack MCP Server in Python",
+      "description": "If you’ve been following the AI space lately, you’ve probably heard of the Model Context Protocol...",
+      "url": "https://dev.to/thisishaykins/bridging-fintech-and-agentic-ai-building-a-paystack-mcp-server-in-python-43f0",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 2,
+      "published_at": "2026-03-25T05:09:06Z",
       "summary": "",
       "category": "all",
       "tags": []
