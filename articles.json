@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T06:43:43Z",
+  "updated_at": "2026-04-05T06:51:47Z",
   "count": 60,
   "articles": [
     {
@@ -354,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-3421386",
+      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
+      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
+      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "source": "dev.to",
+      "points": 40,
+      "comments": 10,
+      "published_at": "2026-04-01T12:44:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -367,26 +380,13 @@
       "tags": []
     },
     {
-      "id": "devto-3421386",
-      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
-      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
-      "source": "dev.to",
-      "points": 38,
-      "comments": 9,
-      "published_at": "2026-04-01T12:44:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3428870",
       "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
       "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
       "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
       "source": "dev.to",
-      "points": 36,
-      "comments": 14,
+      "points": 37,
+      "comments": 16,
       "published_at": "2026-03-30T06:21:06Z",
       "summary": "",
       "category": "all",
@@ -523,6 +523,19 @@
       "tags": []
     },
     {
+      "id": "devto-3450122",
+      "title": "We Taught a Drone to Fly Itself Using a Tiny 1.7M Parameter Neural Network, No GPS, No Markers",
+      "description": "What if a drone could learn to position itself precisely in a room using nothing but a camera and a...",
+      "url": "https://dev.to/sebastian_mocanu/i-taught-a-drone-to-fly-itself-using-a-tiny-17m-parameter-neural-network-no-gps-no-markers-3c7p",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 1,
+      "published_at": "2026-04-03T14:03:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3443075",
       "title": "I Built an AI Assistant for the Most Legendary Car in the Balkans",
       "description": "This is a submission for the DEV April Fools Challenge              🚗 Golf 2 AI Assistant™           ...",
@@ -601,19 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-3423757",
-      "title": "Build a Data Science Query Language in Python using Lark",
-      "description": "Build a Data Science Query Language in Python using Lark   What if you could write something...",
-      "url": "https://dev.to/pjdeveloper896/build-a-data-science-query-language-in-python-using-lark-pgo",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 2,
-      "published_at": "2026-03-29T06:10:14Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -627,14 +627,40 @@
       "tags": []
     },
     {
+      "id": "devto-3446554",
+      "title": "No It Wasn't A Waste Entirely",
+      "description": "So, hello everyone! It is a follow-up article to my last article about mirroring two datasets to...",
+      "url": "https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-04-03T11:21:08Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3447903",
       "title": "Why I built a self-hosted centralized backup manager",
       "description": "There’s no shortage of backup tools.  But none of them gave me a simple way to manage backups across...",
       "url": "https://dev.to/filippocrotti/why-i-built-a-self-hosted-centralized-backup-manager-22f2",
       "source": "dev.to",
       "points": 6,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-04-03T06:49:42Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3453560",
+      "title": "You Can Now Learn Anything 100x Faster With Claude.",
+      "description": "Most people use AI to draft emails or summarize articles.  And honestly, that is totally fine. There...",
+      "url": "https://dev.to/web_dev-usman/you-can-now-learn-anything-100x-faster-with-claude-4gcc",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-04-04T11:49:39Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,6 +718,19 @@
       "tags": []
     },
     {
+      "id": "devto-3445699",
+      "title": "GEO Optimizer v4.0.0 is Stable — What We Fixed, What We Built, What's Next",
+      "description": "v4.0.0 is out.  Not beta. Not release candidate. Stable.  This post is the honest story of how it got...",
+      "url": "https://dev.to/juan_camiloauriti_646918/geo-optimizer-v400-is-stable-what-we-fixed-what-we-built-whats-next-481b",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-04-02T14:10:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3445792",
       "title": "How I Built Persistent Memory for Claude Code",
       "description": "Every Claude Code session starts from zero. Close the terminal and everything is gone. Decisions you...",
@@ -739,45 +778,6 @@
       "points": 4,
       "comments": 0,
       "published_at": "2022-08-10T17:16:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3162473",
-      "title": "Taming the Glucose Spike: Predicting Postprandial Peaks with Transformers and PyTorch",
-      "description": "Living with a Continuous Glucose Monitor (CGM) is like having a dashboard for your metabolism. But...",
-      "url": "https://dev.to/beck_moulton/taming-the-glucose-spike-predicting-postprandial-peaks-with-transformers-and-pytorch-olo",
-      "source": "dev.to",
-      "points": 4,
-      "comments": 0,
-      "published_at": "2026-03-28T00:40:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3417400",
-      "title": "Building an AI Social Media Autopilot — The Technical Decisions That Actually Matter",
-      "description": "I’ve spent the past year building Do Not Eat, an AI platform that generates, publishes, and manages...",
-      "url": "https://dev.to/donot_eat_ffa468446e53242/building-an-ai-social-media-autopilot-the-technical-decisions-that-actually-matter-3604",
-      "source": "dev.to",
-      "points": 4,
-      "comments": 1,
-      "published_at": "2026-03-28T00:10:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-46422675",
-      "title": "4dev.com Unveils Funding Hub, Simplifying Cross-Border Investment in Startups",
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id=46422675",
-      "source": "news.ycombinator.com",
-      "points": 4,
-      "comments": 1,
-      "published_at": "2025-12-29T17:06:00Z",
       "summary": "",
       "category": "all",
       "tags": []
