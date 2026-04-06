@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T06:51:47Z",
+  "updated_at": "2026-04-06T07:13:58Z",
   "count": 60,
   "articles": [
     {
@@ -359,7 +359,7 @@
       "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
       "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
       "source": "dev.to",
-      "points": 40,
+      "points": 41,
       "comments": 10,
       "published_at": "2026-04-01T12:44:00Z",
       "summary": "",
@@ -375,19 +375,6 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3428870",
-      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
-      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
-      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
-      "source": "dev.to",
-      "points": 37,
-      "comments": 16,
-      "published_at": "2026-03-30T06:21:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -476,8 +463,8 @@
       "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
       "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
       "source": "dev.to",
-      "points": 22,
-      "comments": 9,
+      "points": 23,
+      "comments": 10,
       "published_at": "2026-04-01T10:00:00Z",
       "summary": "",
       "category": "all",
@@ -562,6 +549,19 @@
       "tags": []
     },
     {
+      "id": "devto-3441625",
+      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
+      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
+      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 4,
+      "published_at": "2026-04-01T16:19:39Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3431778",
       "title": "200GB of Raw Rover Data and No Pipeline to Process It. So I Wrote One.",
       "description": "Building a 33-module Python pipeline that takes raw GoPro/Insta360 recordings and turns them into...",
@@ -640,6 +640,32 @@
       "tags": []
     },
     {
+      "id": "devto-3455561",
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-04-05T04:48:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3456045",
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-04-05T08:48:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3447903",
       "title": "Why I built a self-hosted centralized backup manager",
       "description": "There’s no shortage of backup tools.  But none of them gave me a simple way to manage backups across...",
@@ -666,19 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-3427232",
-      "title": "Why SSE for AI agents keeps breaking at 2am",
-      "description": "Why SSE for AI agents keeps breaking at 2am Every team building AI agent UIs writes their own SSE...",
-      "url": "https://dev.to/abhishek_chatterjee_33b9d/why-sse-for-ai-agents-keeps-breaking-at-2am-55ie",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 10,
-      "published_at": "2026-03-29T21:18:40Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-34634357",
       "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
       "description": "",
@@ -692,27 +705,14 @@
       "tags": []
     },
     {
-      "id": "devto-3425980",
-      "title": "Building a Trading Bot That Could Turn $10K into $102K: xLSTM (DL) + PPO (RL)",
-      "description": "My trading bot lost $176 in its first real backtest.  Not because of a bug. Not because of bad data....",
-      "url": "https://dev.to/0xrelogic/building-a-trading-bot-that-could-turn-10k-into-102k-xlstm-dl-ppo-rl-3iko",
+      "id": "devto-3436400",
+      "title": "Why Your Machine Learning Model Breaks When Nothing Seems Wrong?",
+      "description": "You trained your model.  The accuracy looked good. Validation results were consistent. The pipeline...",
+      "url": "https://dev.to/siddhartha_reddy/why-your-machine-learning-model-breaks-when-nothing-seems-wrong-19o7",
       "source": "dev.to",
       "points": 5,
       "comments": 0,
-      "published_at": "2026-03-29T15:36:07Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3441625",
-      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
-      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
-      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 4,
-      "published_at": "2026-04-01T16:19:39Z",
+      "published_at": "2026-03-31T13:16:58Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,13 +731,26 @@
       "tags": []
     },
     {
+      "id": "devto-3457780",
+      "title": "Building a Decentralized Mesh Network in Rust — Lessons from the Global South",
+      "description": "The Problem   2.6 billion people lack reliable internet access. When disasters...",
+      "url": "https://dev.to/phantomojo/building-a-decentralized-mesh-network-in-rust-lessons-from-the-global-south-k44",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-04-05T20:09:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3445792",
       "title": "How I Built Persistent Memory for Claude Code",
       "description": "Every Claude Code session starts from zero. Close the terminal and everything is gone. Decisions you...",
       "url": "https://dev.to/mikeadolan/how-i-built-persistent-memory-for-claude-code-1dn7",
       "source": "dev.to",
       "points": 4,
-      "comments": 1,
+      "comments": 7,
       "published_at": "2026-04-02T14:41:41Z",
       "summary": "",
       "category": "all",
@@ -757,27 +770,14 @@
       "tags": []
     },
     {
-      "id": "hn-44845327",
-      "title": "Gptoss120B – OpenAI Open Source Large Language Model GPT-OSS-120B Official Site",
-      "description": "",
-      "url": "https://gptoss120b.app/",
-      "source": "gptoss120b.app",
+      "id": "devto-3457093",
+      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
+      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+      "source": "dev.to",
       "points": 4,
       "comments": 0,
-      "published_at": "2025-08-09T10:10:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-32415445",
-      "title": "Large language models like GPT3 achieve meaning",
-      "description": "",
-      "url": "https://arxiv.org/abs/2208.02957",
-      "source": "arxiv.org",
-      "points": 4,
-      "comments": 0,
-      "published_at": "2022-08-10T17:16:53Z",
+      "published_at": "2026-04-05T16:04:44Z",
       "summary": "",
       "category": "all",
       "tags": []
