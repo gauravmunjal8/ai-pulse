@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T07:03:10Z",
+  "updated_at": "2026-04-09T07:06:54Z",
   "count": 60,
   "articles": [
     {
@@ -294,8 +294,8 @@
       "description": "Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...",
       "url": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
       "source": "dev.to",
-      "points": 110,
-      "comments": 12,
+      "points": 120,
+      "comments": 14,
       "published_at": "2026-04-06T13:09:38Z",
       "summary": "",
       "category": "all",
@@ -367,14 +367,14 @@
       "tags": []
     },
     {
-      "id": "devto-3421386",
-      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
-      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "id": "devto-3470559",
+      "title": "AIMock: One Mock Server For Your Entire AI Stack",
+      "description": "TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...",
+      "url": "https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp",
       "source": "dev.to",
-      "points": 44,
-      "comments": 10,
-      "published_at": "2026-04-01T12:44:00Z",
+      "points": 47,
+      "comments": 2,
+      "published_at": "2026-04-08T17:14:01Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -432,27 +432,27 @@
       "tags": []
     },
     {
-      "id": "devto-3439601",
-      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
-      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
-      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
-      "source": "dev.to",
-      "points": 25,
-      "comments": 11,
-      "published_at": "2026-04-01T10:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3455561",
       "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
       "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
       "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
       "source": "dev.to",
-      "points": 19,
-      "comments": 2,
+      "points": 20,
+      "comments": 3,
       "published_at": "2026-04-05T04:48:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3469892",
+      "title": "Clawshier OpenClaw Skill",
+      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
+      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 1,
+      "published_at": "2026-04-08T12:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,14 +497,14 @@
       "tags": []
     },
     {
-      "id": "devto-3443075",
-      "title": "I Built an AI Assistant for the Most Legendary Car in the Balkans",
-      "description": "This is a submission for the DEV April Fools Challenge              🚗 Golf 2 AI Assistant™           ...",
-      "url": "https://dev.to/davidkljajo/i-built-an-ai-assistant-for-the-most-legendary-car-in-the-balkans-362",
+      "id": "devto-3467297",
+      "title": "I Built an Open-Source Visual Kubernetes Orchestration Platform — No YAML Required",
+      "description": "If you've ever stared at a 400-line Kubernetes YAML file at 2am trying to figure out why your service...",
+      "url": "https://dev.to/mohit_nagaraj/i-built-an-open-source-visual-kubernetes-orchestration-platform-no-yaml-required-26hm",
       "source": "dev.to",
       "points": 13,
-      "comments": 10,
-      "published_at": "2026-04-02T04:09:36Z",
+      "comments": 0,
+      "published_at": "2026-04-08T02:49:08Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,27 +536,27 @@
       "tags": []
     },
     {
-      "id": "devto-3466556",
-      "title": "Utility is all you need",
-      "description": "Closing the Agent Learning Loop with Utility-Ranked Memory   Your agent failed on the same...",
-      "url": "https://dev.to/akshayballal/utility-is-all-you-need-823",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 2,
-      "published_at": "2026-04-07T13:54:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3457780",
       "title": "Building a Decentralized Mesh Network in Rust — Lessons from the Global South",
       "description": "The Problem   2.6 billion people lack reliable internet access. When disasters...",
       "url": "https://dev.to/phantomojo/building-a-decentralized-mesh-network-in-rust-lessons-from-the-global-south-k44",
       "source": "dev.to",
-      "points": 10,
-      "comments": 2,
+      "points": 11,
+      "comments": 3,
       "published_at": "2026-04-05T20:09:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3461936",
+      "title": "I built a linter that proves 74% of your AGENTS.md is wasting your AI agent's time",
+      "description": "If you use Claude Code, Cursor, Codex, or Gemini CLI, you probably have an AGENTS.md or CLAUDE.md...",
+      "url": "https://dev.to/vamshidhar_reddy_392c2302/i-built-a-linter-that-proves-74-of-your-agentsmd-is-wasting-your-ai-agents-time-46an",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 5,
+      "published_at": "2026-04-06T18:11:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,14 +575,14 @@
       "tags": []
     },
     {
-      "id": "devto-3441625",
-      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
-      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
-      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
+      "id": "devto-3447903",
+      "title": "Why I built a self-hosted centralized backup manager",
+      "description": "There’s no shortage of backup tools.  But none of them gave me a simple way to manage backups across...",
+      "url": "https://dev.to/filippocrotti/why-i-built-a-self-hosted-centralized-backup-manager-22f2",
       "source": "dev.to",
       "points": 9,
       "comments": 4,
-      "published_at": "2026-04-01T16:19:39Z",
+      "published_at": "2026-04-03T06:49:42Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -601,19 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-3431778",
-      "title": "200GB of Raw Rover Data and No Pipeline to Process It. So I Wrote One.",
-      "description": "Building a 33-module Python pipeline that takes raw GoPro/Insta360 recordings and turns them into...",
-      "url": "https://dev.to/sherinjosephroy/200gb-of-raw-rover-data-and-no-pipeline-to-process-it-so-i-wrote-one-5abb",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 0,
-      "published_at": "2026-03-30T17:00:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3456045",
       "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
       "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
@@ -622,32 +609,6 @@
       "points": 8,
       "comments": 10,
       "published_at": "2026-04-05T08:48:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3447903",
-      "title": "Why I built a self-hosted centralized backup manager",
-      "description": "There’s no shortage of backup tools.  But none of them gave me a simple way to manage backups across...",
-      "url": "https://dev.to/filippocrotti/why-i-built-a-self-hosted-centralized-backup-manager-22f2",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 4,
-      "published_at": "2026-04-03T06:49:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3461936",
-      "title": "I built a linter that proves 74% of your AGENTS.md is wasting your AI agent's time",
-      "description": "If you use Claude Code, Cursor, Codex, or Gemini CLI, you probably have an AGENTS.md or CLAUDE.md...",
-      "url": "https://dev.to/vamshidhar_reddy_392c2302/i-built-a-linter-that-proves-74-of-your-agentsmd-is-wasting-your-ai-agents-time-46an",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 4,
-      "published_at": "2026-04-06T18:11:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,6 +679,19 @@
       "tags": []
     },
     {
+      "id": "devto-3451435",
+      "title": "I Built a Visual Spec-Driven Development Extension for VS Code That Works With Any LLM",
+      "description": "Caramelo brings GitHub's Spec Kit workflow to VS Code with a visual UI, approval gates, Jira integration, and support for any LLM — from local Ollama to GitHub Copilot to corporate proxies.",
+      "url": "https://dev.to/fabian_silva_/i-built-a-visual-spec-driven-development-extension-for-vs-code-that-works-with-any-llm-36ok",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 5,
+      "published_at": "2026-04-03T21:50:42Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3453560",
       "title": "You Can Now Learn Anything 100x Faster With Claude.",
       "description": "Most people use AI to draft emails or summarize articles.  And honestly, that is totally fine. There...",
@@ -726,6 +700,45 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-04-04T11:49:39Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3452459",
+      "title": "Same Model, Different Environment, Different Results",
+      "description": "The environment around an LLM shapes its retrieval, its reasoning, and its blind spots — before the question is even parsed.",
+      "url": "https://dev.to/john_wade_dev/same-model-different-environment-different-results-kdb",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 4,
+      "published_at": "2026-04-04T06:08:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3452130",
+      "title": "Token Usage Is the New RAM Usage",
+      "description": "There's a generational marker in software. Ask any dev who built things in the early 2000s and...",
+      "url": "https://dev.to/godnick/token-usage-is-the-new-ram-usage-53oo",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 3,
+      "published_at": "2026-04-04T04:06:46Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3468844",
+      "title": "Anthropic Insecure? The Explosive Claude Drama: OpenClaw Ban, DMCA Takedowns, Mythos Leak, and Enterprise Power Plays Explained",
+      "description": "Anthropic has built its brand on being the responsible AI company. It champions Constitutional AI and...",
+      "url": "https://dev.to/grenishrai/anthropic-insecure-the-explosive-claude-drama-openclaw-ban-dmca-takedowns-mythos-leak-and-4c6o",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-04-08T00:29:05Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,27 +770,14 @@
       "tags": []
     },
     {
-      "id": "devto-3445699",
-      "title": "GEO Optimizer v4.0.0 is Stable — What We Fixed, What We Built, What's Next",
-      "description": "v4.0.0 is out.  Not beta. Not release candidate. Stable.  This post is the honest story of how it got...",
-      "url": "https://dev.to/juan_camiloauriti_646918/geo-optimizer-v400-is-stable-what-we-fixed-what-we-built-whats-next-481b",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-04-02T14:10:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3467297",
-      "title": "I Built an Open-Source Visual Kubernetes Orchestration Platform — No YAML Required",
-      "description": "If you've ever stared at a 400-line Kubernetes YAML file at 2am trying to figure out why your service...",
-      "url": "https://dev.to/mohit_nagaraj/i-built-an-open-source-visual-kubernetes-orchestration-platform-no-yaml-required-26hm",
+      "id": "devto-3412504",
+      "title": "Why Senior Engineers Choose Boring Go Over Exciting Rust",
+      "description": "How a $3.2M production disaster taught us that technical excellence doesn’t always align with...",
+      "url": "https://dev.to/speed_engineer/why-senior-engineers-choose-boring-go-over-exciting-rust-lod",
       "source": "dev.to",
       "points": 5,
       "comments": 0,
-      "published_at": "2026-04-08T02:49:08Z",
+      "published_at": "2026-04-08T04:56:32Z",
       "summary": "",
       "category": "all",
       "tags": []
