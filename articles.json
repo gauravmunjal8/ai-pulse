@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T07:14:52Z",
+  "updated_at": "2026-04-17T07:15:24Z",
   "count": 60,
   "articles": [
     {
@@ -294,8 +294,8 @@
       "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
       "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
       "source": "dev.to",
-      "points": 95,
-      "comments": 59,
+      "points": 101,
+      "comments": 64,
       "published_at": "2026-04-11T15:55:53Z",
       "summary": "",
       "category": "all",
@@ -310,6 +310,19 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3496217",
+      "title": "The Open Sourcerer of Forem: Beyond the UI",
+      "description": "Introducing a New Series \"The Open Sourcerer of Forem\"!   I have been wanting to get into...",
+      "url": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "source": "dev.to",
+      "points": 59,
+      "comments": 25,
+      "published_at": "2026-04-13T21:42:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -367,14 +380,14 @@
       "tags": []
     },
     {
-      "id": "devto-3496217",
-      "title": "The Open Sourcerer of Forem: Beyond the UI",
-      "description": "Introducing a New Series \"The Open Sourcerer of Forem\"!   I have been wanting to get into...",
-      "url": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "id": "devto-3493601",
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
+      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
       "source": "dev.to",
-      "points": 46,
-      "comments": 17,
-      "published_at": "2026-04-13T21:42:25Z",
+      "points": 49,
+      "comments": 8,
+      "published_at": "2026-04-13T09:11:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -385,22 +398,9 @@
       "description": "Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...",
       "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
       "source": "dev.to",
-      "points": 44,
-      "comments": 4,
+      "points": 46,
+      "comments": 5,
       "published_at": "2026-04-13T15:00:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3493601",
-      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
-      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
-      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
-      "source": "dev.to",
-      "points": 41,
-      "comments": 7,
-      "published_at": "2026-04-13T09:11:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -414,6 +414,32 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3503726",
+      "title": "Stop Building AI Features Nobody Asked For",
+      "description": "In an era where AI makes prototyping dangerously fast, this piece serves as a wake-up call for builders to stop \"polishing curiosity\" and start solving actual pain.",
+      "url": "https://dev.to/strauss/stop-building-ai-features-nobody-asked-for-koa",
+      "source": "dev.to",
+      "points": 38,
+      "comments": 2,
+      "published_at": "2026-04-15T08:40:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3501734",
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 19,
+      "published_at": "2026-04-14T20:15:22Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -458,19 +484,6 @@
       "tags": []
     },
     {
-      "id": "devto-3501734",
-      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 18,
-      "published_at": "2026-04-14T20:15:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -489,9 +502,22 @@
       "description": "The era of shipping all your personal data to cloud APIs just to turn down the thermostat or write a...",
       "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
       "source": "dev.to",
-      "points": 21,
-      "comments": 4,
+      "points": 22,
+      "comments": 5,
       "published_at": "2026-04-14T04:49:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3497658",
+      "title": "TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform",
+      "description": "What changed since v1   When I posted the first version of TraceMind, I got one clear piece...",
+      "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 6,
+      "published_at": "2026-04-14T05:39:42Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,14 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-3471519",
-      "title": "Memory-Aware Shopping Agents with Strands Agents and Mem0",
-      "description": "A research paper from Alibaba proposes a two-stage e-commerce agent that remembers customer...",
-      "url": "https://dev.to/aws-builders/memory-aware-shopping-agents-with-strands-agents-and-mem0-50b",
+      "id": "devto-3510890",
+      "title": "Why Token Counting in Multi-LLM Systems Is Harder Than You Think",
+      "description": "When we set out to build our adaptive context window management component, we ran into a problem that...",
+      "url": "https://dev.to/robimbeault/why-token-counting-in-multi-llm-systems-is-harder-than-you-think-1moj",
       "source": "dev.to",
-      "points": 16,
-      "comments": 2,
-      "published_at": "2026-04-09T13:05:20Z",
+      "points": 15,
+      "comments": 1,
+      "published_at": "2026-04-16T14:09:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,14 +562,14 @@
       "tags": []
     },
     {
-      "id": "devto-3497658",
-      "title": "TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform",
-      "description": "What changed since v1   When I posted the first version of TraceMind, I got one clear piece...",
-      "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn",
+      "id": "devto-3508869",
+      "title": "Why Agent Frameworks End Up As SDK Wrappers - And How To Overcome It",
+      "description": "Today, most frameworks for building AI agents are missing something fundamental. If you look closely...",
+      "url": "https://dev.to/jigjoy/why-agent-frameworks-end-up-as-sdk-wrappers-and-how-to-overcome-it-51j9",
       "source": "dev.to",
       "points": 12,
-      "comments": 5,
-      "published_at": "2026-04-14T05:39:42Z",
+      "comments": 4,
+      "published_at": "2026-04-16T07:48:43Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,14 +614,27 @@
       "tags": []
     },
     {
-      "id": "devto-3500588",
-      "title": "How I Made a Free Automated PDF Invoice Maker for Batch Billing All My Contractors",
-      "description": "Why I needed this in the first place   I run a platform for distributing game graphics...",
-      "url": "https://dev.to/gdoc/how-i-made-a-free-automated-pdf-invoice-maker-for-batch-billing-all-my-contractors-1jha",
+      "id": "devto-3496834",
+      "title": "LiteLLM got hacked. I built a simpler LLM gateway you can actually audit.",
+      "description": "On March 24, 2026, LiteLLM versions 1.82.7 and 1.82.8 were uploaded to PyPI with a credential...",
+      "url": "https://dev.to/devansh365/litellm-got-hacked-i-built-a-simpler-llm-gateway-you-can-actually-audit-3hia",
       "source": "dev.to",
       "points": 8,
       "comments": 0,
-      "published_at": "2026-04-14T15:39:58Z",
+      "published_at": "2026-04-14T00:10:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3499580",
+      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
+      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
+      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-04-14T13:08:46Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,19 +666,6 @@
       "tags": []
     },
     {
-      "id": "devto-3496834",
-      "title": "LiteLLM got hacked. I built a simpler LLM gateway you can actually audit.",
-      "description": "On March 24, 2026, LiteLLM versions 1.82.7 and 1.82.8 were uploaded to PyPI with a credential...",
-      "url": "https://dev.to/devansh365/litellm-got-hacked-i-built-a-simpler-llm-gateway-you-can-actually-audit-3hia",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-04-14T00:10:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3496626",
       "title": "You Asked AI to Analyze Your Users. The Report Looks Amazing. It's Probably Wrong.",
       "description": "I collected 3,368 data points and let AI produce deep behavioral analyses. When I validated the output, I found a pattern that changes how I think about AI-driven research.",
@@ -661,6 +687,19 @@
       "points": 7,
       "comments": 2,
       "published_at": "2026-04-13T03:16:31Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3498212",
+      "title": "From Form Response to Figma Wireframe: MCP Orchestration in Practice",
+      "description": "My previous Dev.to post described MCP cross-service orchestration in general terms -- how form...",
+      "url": "https://dev.to/lovanaut55/from-form-response-to-figma-wireframe-mcp-orchestration-in-practice-28id",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-04-14T07:35:12Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,19 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-3477120",
-      "title": "47 Blog Posts, Zero Traffic: What I Learned About SEO the Hard Way",
-      "description": "I wrote 47 blog posts for my startup. Google Search Console says I get about 45 impressions per...",
-      "url": "https://dev.to/ifs_space/47-blog-posts-zero-traffic-what-i-learned-about-seo-the-hard-way-5cl3",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 2,
-      "published_at": "2026-04-09T14:39:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3495985",
       "title": "ArchPath AI",
       "description": "I am graduating with my BCA in 2026, and I realized a terrifying truth this semester: The gap between...",
@@ -713,32 +739,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-04-13T18:53:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3498212",
-      "title": "From Form Response to Figma Wireframe: MCP Orchestration in Practice",
-      "description": "My previous Dev.to post described MCP cross-service orchestration in general terms -- how form...",
-      "url": "https://dev.to/lovanaut55/from-form-response-to-figma-wireframe-mcp-orchestration-in-practice-28id",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-14T07:35:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3475905",
-      "title": "TurboQuant on a MacBook: building a one-command local stack with Ollama, MLX, and an automatic routing proxy",
-      "description": "Everyone is talking about TurboQuant, and a lot of people summarize it with a line like this:   run...",
-      "url": "https://dev.to/anderson_leite/turboquant-on-a-macbook-building-a-one-command-local-stack-with-ollama-mlx-and-an-automatic-4cn7",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-04-09T10:31:45Z",
       "summary": "",
       "category": "all",
       "tags": []
