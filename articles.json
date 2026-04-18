@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T07:15:24Z",
+  "updated_at": "2026-04-18T06:53:41Z",
   "count": 60,
   "articles": [
     {
@@ -294,9 +294,22 @@
       "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
       "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
       "source": "dev.to",
-      "points": 101,
+      "points": 105,
       "comments": 64,
       "published_at": "2026-04-11T15:55:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3496217",
+      "title": "The Open Sourcerer of Forem: Beyond the UI",
+      "description": "Introducing a New Series \"The Open Sourcerer of Forem\"!   I have been wanting to get into...",
+      "url": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "source": "dev.to",
+      "points": 76,
+      "comments": 28,
+      "published_at": "2026-04-13T21:42:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -310,19 +323,6 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3496217",
-      "title": "The Open Sourcerer of Forem: Beyond the UI",
-      "description": "Introducing a New Series \"The Open Sourcerer of Forem\"!   I have been wanting to get into...",
-      "url": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
-      "source": "dev.to",
-      "points": 59,
-      "comments": 25,
-      "published_at": "2026-04-13T21:42:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -367,6 +367,19 @@
       "tags": []
     },
     {
+      "id": "devto-3493601",
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
+      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
+      "source": "dev.to",
+      "points": 51,
+      "comments": 11,
+      "published_at": "2026-04-13T09:11:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -375,19 +388,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3493601",
-      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
-      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
-      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
-      "source": "dev.to",
-      "points": 49,
-      "comments": 8,
-      "published_at": "2026-04-13T09:11:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -425,8 +425,21 @@
       "url": "https://dev.to/strauss/stop-building-ai-features-nobody-asked-for-koa",
       "source": "dev.to",
       "points": 38,
-      "comments": 2,
+      "comments": 4,
       "published_at": "2026-04-15T08:40:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3500926",
+      "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
+      "description": "Background   I needed high-quality instruction datasets for fine-tuning local LLMs, but...",
+      "url": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
+      "source": "dev.to",
+      "points": 33,
+      "comments": 1,
+      "published_at": "2026-04-14T16:39:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -437,22 +450,9 @@
       "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
       "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
       "source": "dev.to",
-      "points": 30,
-      "comments": 19,
+      "points": 31,
+      "comments": 20,
       "published_at": "2026-04-14T20:15:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3481980",
-      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
-      "description": "The email I couldn't ignore   A few months into organising DevFest Ireland 2025, I received...",
-      "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
-      "source": "dev.to",
-      "points": 30,
-      "comments": 6,
-      "published_at": "2026-04-10T13:18:59Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,12 +497,25 @@
       "tags": []
     },
     {
+      "id": "devto-3502321",
+      "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
+      "description": "Regex-based safety classification fails in both directions. It flags \"the bank of the river\" as...",
+      "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
+      "source": "dev.to",
+      "points": 24,
+      "comments": 1,
+      "published_at": "2026-04-15T00:49:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3497517",
       "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
       "description": "The era of shipping all your personal data to cloud APIs just to turn down the thermostat or write a...",
       "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
       "source": "dev.to",
-      "points": 22,
+      "points": 23,
       "comments": 5,
       "published_at": "2026-04-14T04:49:51Z",
       "summary": "",
@@ -515,7 +528,7 @@
       "description": "What changed since v1   When I posted the first version of TraceMind, I got one clear piece...",
       "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn",
       "source": "dev.to",
-      "points": 18,
+      "points": 19,
       "comments": 6,
       "published_at": "2026-04-14T05:39:42Z",
       "summary": "",
@@ -531,19 +544,6 @@
       "points": 16,
       "comments": 0,
       "published_at": "2026-04-11T19:26:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3510890",
-      "title": "Why Token Counting in Multi-LLM Systems Is Harder Than You Think",
-      "description": "When we set out to build our adaptive context window management component, we ran into a problem that...",
-      "url": "https://dev.to/robimbeault/why-token-counting-in-multi-llm-systems-is-harder-than-you-think-1moj",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 1,
-      "published_at": "2026-04-16T14:09:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -570,6 +570,19 @@
       "points": 12,
       "comments": 4,
       "published_at": "2026-04-16T07:48:43Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3512276",
+      "title": "Understanding Transformers Part 8: Shared Weights in Self-Attention",
+      "description": "In the previous article, we started calculating the self-attention values.  Let’s now calculate the...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-8-shared-weights-in-self-attention-2pbe",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-04-16T21:08:46Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,6 +731,19 @@
       "tags": []
     },
     {
+      "id": "devto-3516290",
+      "title": "Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete",
+      "description": "You're probably dropping $20 a month for ChatGPT, another $20 for Claude, and then paying GitHub...",
+      "url": "https://dev.to/syedahmershah/your-20mo-ai-wrapper-is-dead-why-openclaw-is-making-60-of-saas-tools-obsolete-3p51",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-04-17T15:39:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -752,32 +778,6 @@
       "points": 5,
       "comments": 1,
       "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3488933",
-      "title": "The Inference Reckoning: From Training Buildout to Monetization",
-      "description": "$20 per million tokens. That was the price in early 2023. Today it's $0.40. A 50x collapse. Some...",
-      "url": "https://dev.to/practiceoverflow/the-inference-reckoning-from-training-buildout-to-monetization-ggf",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-12T01:52:16Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3499810",
-      "title": "Why Model Upgrades in Causal Inference Pipelines Are Never Just a Pricing Decision",
-      "description": "Last month we decided to take advantage of Anthropic’s 67% price reduction on Opus 4.6 and its new 1M...",
-      "url": "https://dev.to/claire_dubois/why-model-upgrades-in-causal-inference-pipelines-are-never-just-a-pricing-decision-2bn1",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-14T13:00:28Z",
       "summary": "",
       "category": "all",
       "tags": []
