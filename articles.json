@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T07:03:39Z",
+  "updated_at": "2026-04-20T07:45:44Z",
   "count": 60,
   "articles": [
     {
@@ -359,8 +359,8 @@
       "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
       "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
       "source": "dev.to",
-      "points": 52,
-      "comments": 12,
+      "points": 53,
+      "comments": 21,
       "published_at": "2026-04-13T09:11:53Z",
       "summary": "",
       "category": "all",
@@ -385,7 +385,7 @@
       "description": "Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...",
       "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
       "source": "dev.to",
-      "points": 46,
+      "points": 49,
       "comments": 5,
       "published_at": "2026-04-13T15:00:23Z",
       "summary": "",
@@ -424,8 +424,8 @@
       "description": "Background   I needed high-quality instruction datasets for fine-tuning local LLMs, but...",
       "url": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
       "source": "dev.to",
-      "points": 35,
-      "comments": 2,
+      "points": 37,
+      "comments": 3,
       "published_at": "2026-04-14T16:39:36Z",
       "summary": "",
       "category": "all",
@@ -434,11 +434,11 @@
     {
       "id": "devto-3501734",
       "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "description": "Teams overengineer routing, memory, guardrails, and error handling. The LLM already handles most of it. Stop building what you don't need.",
       "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
       "source": "dev.to",
-      "points": 34,
-      "comments": 22,
+      "points": 35,
+      "comments": 23,
       "published_at": "2026-04-14T20:15:22Z",
       "summary": "",
       "category": "all",
@@ -490,7 +490,7 @@
       "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
       "source": "dev.to",
       "points": 25,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-04-15T00:49:38Z",
       "summary": "",
       "category": "all",
@@ -523,26 +523,13 @@
       "tags": []
     },
     {
-      "id": "devto-3488271",
-      "title": "Understanding Transformers Part 5: Queries, Keys, and Similarity",
-      "description": "In the previous article, we explored the self-attention concept for transformers, in this article we...",
-      "url": "https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 1,
-      "published_at": "2026-04-11T19:26:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3508869",
       "title": "Why Agent Frameworks End Up As SDK Wrappers - And How To Overcome It",
       "description": "Today, most frameworks for building AI agents are missing something fundamental. If you look closely...",
       "url": "https://dev.to/jigjoy/why-agent-frameworks-end-up-as-sdk-wrappers-and-how-to-overcome-it-51j9",
       "source": "dev.to",
       "points": 14,
-      "comments": 5,
+      "comments": 6,
       "published_at": "2026-04-16T07:48:43Z",
       "summary": "",
       "category": "all",
@@ -562,19 +549,6 @@
       "tags": []
     },
     {
-      "id": "devto-3496146",
-      "title": "Understanding Transformers Part 6: Calculating Similarity Between Queries and Keys",
-      "description": "In the previous article, we explored the concepts of Queries and Keys. Now we will see how to...",
-      "url": "https://dev.to/rijultp/understanding-transformers-part-6-calculating-similarity-between-queries-and-keys-25o7",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 0,
-      "published_at": "2026-04-13T20:02:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3502515",
       "title": "Understanding Transformers Part 7: From Similarity Scores to Self-Attention",
       "description": "In the previous article, we calculated the similarities between Queries and Keys.  We can use the...",
@@ -583,6 +557,19 @@
       "points": 11,
       "comments": 0,
       "published_at": "2026-04-15T02:24:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3496146",
+      "title": "Understanding Transformers Part 6: Calculating Similarity Between Queries and Keys",
+      "description": "In the previous article, we explored the concepts of Queries and Keys. Now we will see how to...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-6-calculating-similarity-between-queries-and-keys-25o7",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 0,
+      "published_at": "2026-04-13T20:02:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -601,6 +588,19 @@
       "tags": []
     },
     {
+      "id": "devto-3517046",
+      "title": "Understanding Transformers Part 9: Stacking Self-Attention Layers",
+      "description": "In the previous article, we explored how the weights are shared in self-attention.  Now we will see...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-9-stacking-self-attention-layers-3gg3",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-04-17T20:50:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3498267",
       "title": "How to Store and Manage Robotics Data",
       "description": "Robots generate massive amounts of data, and managing it well is harder than it looks. Storage fills...",
@@ -614,19 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-3489592",
-      "title": "DualClip - Update_2026.04.12.",
-      "description": "Last week, I shared the first round of updates for DualClip, my open-source macOS clipboard manager....",
-      "url": "https://dev.to/rakkunn/dualclip-update20260412-4pb7",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 0,
-      "published_at": "2026-04-12T07:48:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -635,6 +622,19 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3499580",
+      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
+      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
+      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 0,
+      "published_at": "2026-04-14T13:08:46Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -666,6 +666,19 @@
       "tags": []
     },
     {
+      "id": "devto-3496626",
+      "title": "You Asked AI to Analyze Your Users. The Report Looks Amazing. It's Probably Wrong.",
+      "description": "I collected 3,368 data points and let AI produce deep behavioral analyses. When I validated the output, I found a pattern that changes how I think about AI-driven research.",
+      "url": "https://dev.to/matthewhou/you-asked-ai-to-analyze-your-users-the-report-looks-amazing-its-probably-wrong-1lpm",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-04-13T23:04:33Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3500588",
       "title": "How I Made a Free Automated PDF Invoice Maker for Batch Billing All My Contractors",
       "description": "Why I needed this in the first place   I run a platform for distributing game graphics...",
@@ -674,19 +687,6 @@
       "points": 8,
       "comments": 0,
       "published_at": "2026-04-14T15:39:58Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3499580",
-      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
-      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
-      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 0,
-      "published_at": "2026-04-14T13:08:46Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,14 +718,14 @@
       "tags": []
     },
     {
-      "id": "devto-3496626",
-      "title": "You Asked AI to Analyze Your Users. The Report Looks Amazing. It's Probably Wrong.",
-      "description": "I collected 3,368 data points and let AI produce deep behavioral analyses. When I validated the output, I found a pattern that changes how I think about AI-driven research.",
-      "url": "https://dev.to/matthewhou/you-asked-ai-to-analyze-your-users-the-report-looks-amazing-its-probably-wrong-1lpm",
+      "id": "devto-3510897",
+      "title": "Part 1: What We Built - A Tiny AI System for Support Ticket Classification",
+      "description": "Why this series exists   If you are a backend engineer, you already know how to build...",
+      "url": "https://dev.to/prince_raj/part-1-what-we-built-a-tiny-ai-system-for-support-ticket-classification-4ihl",
       "source": "dev.to",
       "points": 7,
-      "comments": 0,
-      "published_at": "2026-04-13T23:04:33Z",
+      "comments": 1,
+      "published_at": "2026-04-16T14:07:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,14 +744,14 @@
       "tags": []
     },
     {
-      "id": "devto-3492262",
-      "title": "\"My AI Coding Tools Were Running Up a Tab I Couldn't See — So I Fixed That\"",
-      "description": "I had no idea which model was being called, by which tool, or how much it cost — until I added per-model cost tracking to my local AI proxy.",
-      "url": "https://dev.to/codekingai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67",
+      "id": "devto-3520095",
+      "title": "I got tired of wiring the same caching stack every project, so I built LayerCache",
+      "description": "Every Node.js service I've worked on hits the same caching wall. It always starts the same way.  You...",
+      "url": "https://dev.to/flyingsquirrel0419/i-got-tired-of-wiring-the-same-caching-stack-every-project-so-i-built-layercache-52e2",
       "source": "dev.to",
       "points": 7,
-      "comments": 2,
-      "published_at": "2026-04-13T03:16:31Z",
+      "comments": 0,
+      "published_at": "2026-04-18T16:40:12Z",
       "summary": "",
       "category": "all",
       "tags": []
