@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T06:59:00Z",
+  "updated_at": "2026-04-26T07:13:14Z",
   "count": 60,
   "articles": [
     {
@@ -432,6 +432,19 @@
       "tags": []
     },
     {
+      "id": "devto-3525215",
+      "title": "🧠 Dev.to Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List",
+      "description": "🧠 Dev.to, Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List   You know the...",
+      "url": "https://dev.to/usman_awan/devto-un-stuck-the-chrome-extension-that-finally-fixes-your-reading-list-43ia",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 8,
+      "published_at": "2026-04-20T06:23:06Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3531982",
       "title": "Fine-Tuning LLMs for Legal Tech: Nebius AI Cloud vs Nebius Token Factory — A Developer's Honest Comparison",
       "description": "A hands-on walkthrough of fine-tuning the same legal Q&amp;A dataset on two very different platforms...",
@@ -440,32 +453,6 @@
       "points": 16,
       "comments": 0,
       "published_at": "2026-04-21T12:33:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3512276",
-      "title": "Understanding Transformers Part 8: Shared Weights in Self-Attention",
-      "description": "In the previous article, we started calculating the self-attention values.  Let’s now calculate the...",
-      "url": "https://dev.to/rijultp/understanding-transformers-part-8-shared-weights-in-self-attention-2pbe",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-04-16T21:08:46Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3517046",
-      "title": "Understanding Transformers Part 9: Stacking Self-Attention Layers",
-      "description": "In the previous article, we explored how the weights are shared in self-attention.  Now we will see...",
-      "url": "https://dev.to/rijultp/understanding-transformers-part-9-stacking-self-attention-layers-3gg3",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-04-17T20:50:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,6 +497,32 @@
       "tags": []
     },
     {
+      "id": "devto-3545183",
+      "title": "DeepSeek Just Dropped V4. Here's What the Benchmarks Actually Tell You.",
+      "description": "Open-source AI has spent two years being \"almost there.\" With DeepSeek-V4-Pro, the gap with frontier...",
+      "url": "https://dev.to/om_shree_0709/deepseek-just-dropped-v4-heres-what-the-benchmarks-actually-tell-you-1oae",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 6,
+      "published_at": "2026-04-24T09:01:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3550986",
+      "title": "Understanding Transformers Part 13: Introducing Encoder–Decoder Attention",
+      "description": "In the previous article, we built up the decoder layers and stopped at the relationship between input...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-13-introducing-encoder-decoder-attention-544e",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-04-25T19:40:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -523,14 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-3520095",
-      "title": "I got tired of wiring the same caching stack every project, so I built LayerCache",
-      "description": "Every Node.js service I've worked on hits the same caching wall. It always starts the same way.  You...",
-      "url": "https://dev.to/flyingsquirrel0419/i-got-tired-of-wiring-the-same-caching-stack-every-project-so-i-built-layercache-52e2",
+      "id": "devto-3548652",
+      "title": "10 Questions Every Non-Technical Founder Should Ask Before Their First Web App Build",
+      "description": "TL;DR: Most non-technical founders pick a build approach (no-code, freelancer, agency, AI tool,...",
+      "url": "https://dev.to/aadesh-kumar/10-questions-every-non-technical-founder-should-ask-before-their-first-web-app-build-34g0",
       "source": "dev.to",
       "points": 9,
-      "comments": 0,
-      "published_at": "2026-04-18T16:40:12Z",
+      "comments": 1,
+      "published_at": "2026-04-25T06:32:27Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -541,9 +554,35 @@
       "description": "I built a JavaScript framework called Brisa. The kind of framework that needs to parse every single...",
       "url": "https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo",
       "source": "dev.to",
-      "points": 8,
+      "points": 9,
       "comments": 4,
       "published_at": "2026-04-23T20:30:35Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3547483",
+      "title": "I Ran a Neural Network in a Browser Tab to Split a Song into Stems",
+      "description": "Last week a friend sent me a voice memo. \"I found this incredible bass line in an old soul track,\" he...",
+      "url": "https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-04-24T20:17:22Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3547488",
+      "title": "The Hidden Challenge of Multi-LLM Context Management",
+      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
+      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 1,
+      "published_at": "2026-04-24T20:19:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,14 +614,14 @@
       "tags": []
     },
     {
-      "id": "devto-3510897",
-      "title": "Part 1: What We Built - A Tiny AI System for Support Ticket Classification",
-      "description": "Why this series exists   If you are a backend engineer, you already know how to build...",
-      "url": "https://dev.to/prince_raj/part-1-what-we-built-a-tiny-ai-system-for-support-ticket-classification-4ihl",
+      "id": "devto-3531898",
+      "title": "15 Engineering Decisions Behind RAG Hybrid Search",
+      "description": "Most people think hybrid search in RAG is just \"run BM25 and vector search, combine the...",
+      "url": "https://dev.to/klement_gunndu/15-engineering-decisions-behind-rag-hybrid-search-ecp",
       "source": "dev.to",
       "points": 7,
-      "comments": 1,
-      "published_at": "2026-04-16T14:07:48Z",
+      "comments": 0,
+      "published_at": "2026-04-21T12:19:27Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -601,27 +640,14 @@
       "tags": []
     },
     {
-      "id": "devto-3506830",
-      "title": "The ‘Missing Middle’ of Data Processing in Java (10M Rows in ~40s)",
-      "description": "10M Records, 40s: Exploring the \"Missing Middle\" of Data Processing in Java   I’ve always...",
-      "url": "https://dev.to/shridey/10m-records-40-seconds-o1-memory-why-i-built-a-lightweight-etl-engine-for-java-l1n",
+      "id": "devto-3538201",
+      "title": "Announcing ObjeX | We Built Our Own S3",
+      "description": "We at Centro Labs recently built and released ObjeX, our own self-hosted S3-compatible blob...",
+      "url": "https://dev.to/meritonaliu/announcing-objex-we-built-our-own-s3-459l",
       "source": "dev.to",
       "points": 7,
-      "comments": 1,
-      "published_at": "2026-04-16T12:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3547488",
-      "title": "The Hidden Challenge of Multi-LLM Context Management",
-      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
-      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
-      "source": "dev.to",
-      "points": 6,
       "comments": 0,
-      "published_at": "2026-04-24T20:19:51Z",
+      "published_at": "2026-04-22T22:16:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -666,14 +692,14 @@
       "tags": []
     },
     {
-      "id": "devto-3538201",
-      "title": "Announcing ObjeX | We Built Our Own S3",
-      "description": "We at Centro Labs recently built and released ObjeX, our own self-hosted S3-compatible blob...",
-      "url": "https://dev.to/meritonaliu/announcing-objex-we-built-our-own-s3-459l",
+      "id": "devto-3313217",
+      "title": "Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know",
+      "description": "SQL is the backbone of data analysis. While basic SQL allows you to query and filter data, advanced...",
+      "url": "https://dev.to/mburu_champ/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3hjm",
       "source": "dev.to",
       "points": 6,
       "comments": 0,
-      "published_at": "2026-04-22T22:16:25Z",
+      "published_at": "2026-04-25T17:25:14Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,19 +757,6 @@
       "tags": []
     },
     {
-      "id": "devto-3511917",
-      "title": "AWS Data & AI Stories #01: Multimodal AI",
-      "description": "In traditional AI systems, text was usually the main input.  But to solve real life problem, text is...",
-      "url": "https://dev.to/aws-builders/aws-data-ai-stories-01-multimodal-ai-2k4k",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-16T18:49:58Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3532183",
       "title": "15 Best Websites to Launch Your Startup in 2026",
       "description": "Launching a startup is no longer just about announcing your product. It is about reaching the right...",
@@ -765,19 +778,6 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-04-20T16:31:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3528910",
-      "title": "We Open Sourced the Djowda Platform — Here Are 6 Challenges for the Community",
-      "description": "Following the WFP Hunger Map Live release, we're contributing back by open sourcing the Djowda platform architecture — a DIFP-based Android food coordination component. Fork it, break it, build on it.",
-      "url": "https://dev.to/djowda/we-open-sourced-the-djowda-platform-here-are-6-challenges-for-the-community-38op",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-04-20T23:07:54Z",
       "summary": "",
       "category": "all",
       "tags": []
