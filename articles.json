@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T07:13:14Z",
+  "updated_at": "2026-04-27T07:59:36Z",
   "count": 60,
   "articles": [
     {
@@ -432,19 +432,6 @@
       "tags": []
     },
     {
-      "id": "devto-3525215",
-      "title": "🧠 Dev.to Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List",
-      "description": "🧠 Dev.to, Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List   You know the...",
-      "url": "https://dev.to/usman_awan/devto-un-stuck-the-chrome-extension-that-finally-fixes-your-reading-list-43ia",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 8,
-      "published_at": "2026-04-20T06:23:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3531982",
       "title": "Fine-Tuning LLMs for Legal Tech: Nebius AI Cloud vs Nebius Token Factory — A Developer's Honest Comparison",
       "description": "A hands-on walkthrough of fine-tuning the same legal Q&amp;A dataset on two very different platforms...",
@@ -453,19 +440,6 @@
       "points": 16,
       "comments": 0,
       "published_at": "2026-04-21T12:33:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3522837",
-      "title": "The Mental Framework for Unlocking Agentic Workflows",
-      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
-      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 5,
-      "published_at": "2026-04-19T15:22:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -484,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-3545183",
+      "title": "DeepSeek Just Dropped V4. Here's What the Benchmarks Actually Tell You.",
+      "description": "Open-source AI has spent two years being \"almost there.\" With DeepSeek-V4-Pro, the gap with frontier...",
+      "url": "https://dev.to/om_shree_0709/deepseek-just-dropped-v4-heres-what-the-benchmarks-actually-tell-you-1oae",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 7,
+      "published_at": "2026-04-24T09:01:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -497,27 +484,40 @@
       "tags": []
     },
     {
-      "id": "devto-3545183",
-      "title": "DeepSeek Just Dropped V4. Here's What the Benchmarks Actually Tell You.",
-      "description": "Open-source AI has spent two years being \"almost there.\" With DeepSeek-V4-Pro, the gap with frontier...",
-      "url": "https://dev.to/om_shree_0709/deepseek-just-dropped-v4-heres-what-the-benchmarks-actually-tell-you-1oae",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 6,
-      "published_at": "2026-04-24T09:01:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3550986",
       "title": "Understanding Transformers Part 13: Introducing Encoder–Decoder Attention",
       "description": "In the previous article, we built up the decoder layers and stopped at the relationship between input...",
       "url": "https://dev.to/rijultp/understanding-transformers-part-13-introducing-encoder-decoder-attention-544e",
       "source": "dev.to",
-      "points": 10,
+      "points": 11,
       "comments": 0,
       "published_at": "2026-04-25T19:40:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3541186",
+      "title": "10 Chunking Strategies That Make or Break Your RAG Pipeline",
+      "description": "A 2025 peer-reviewed study (Vectara, NAACL 2025) found something most RAG teams get...",
+      "url": "https://dev.to/klement_gunndu/10-chunking-strategies-that-make-or-break-your-rag-pipeline-4cng",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-04-23T11:44:32Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3553477",
+      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
+      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
+      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 6,
+      "published_at": "2026-04-26T14:31:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -531,6 +531,45 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3547483",
+      "title": "I Ran a Neural Network in a Browser Tab to Split a Song into Stems",
+      "description": "Last week a friend sent me a voice memo. \"I found this incredible bass line in an old soul track,\" he...",
+      "url": "https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 0,
+      "published_at": "2026-04-24T20:17:22Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3547488",
+      "title": "The Hidden Challenge of Multi-LLM Context Management",
+      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
+      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 3,
+      "published_at": "2026-04-24T20:19:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3539280",
+      "title": "gpt-image-2 API Developer Guide: Pricing, Thinking Mode, and Production Integration (2026)",
+      "description": "gpt-image-2 API Developer Guide: Pricing, Thinking Mode, and Production Integration...",
+      "url": "https://dev.to/tokenmixai/gpt-image-2-api-developer-guide-pricing-thinking-mode-and-production-integration-2026-28p5",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 0,
+      "published_at": "2026-04-23T05:31:08Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -557,32 +596,6 @@
       "points": 9,
       "comments": 4,
       "published_at": "2026-04-23T20:30:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3547483",
-      "title": "I Ran a Neural Network in a Browser Tab to Split a Song into Stems",
-      "description": "Last week a friend sent me a voice memo. \"I found this incredible bass line in an old soul track,\" he...",
-      "url": "https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 0,
-      "published_at": "2026-04-24T20:17:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3547488",
-      "title": "The Hidden Challenge of Multi-LLM Context Management",
-      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
-      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2026-04-24T20:19:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,6 +640,19 @@
       "tags": []
     },
     {
+      "id": "devto-3553796",
+      "title": "How We Built CropGuard AI — Plant Disease Detection with Django, MongoDB Atlas and Deep Learning",
+      "description": "CropGuard AI is a Django-served Python web application backed by MongoDB Atlas for application...",
+      "url": "https://dev.to/aakarsh_chimmani/how-we-built-cropguard-ai-plant-disease-detection-with-django-mongodb-atlas-and-deep-learning-1l2d",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-04-26T16:20:40Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3538865",
       "title": "Ten CLAUDE.md rules for Claude Code - four edit-time, six runtime",
       "description": "Forrestchang's andrej-karpathy-skills CLAUDE.md is four rules aimed at the moment Claude is writing...",
@@ -653,27 +679,14 @@
       "tags": []
     },
     {
-      "id": "devto-3523715",
-      "title": "Aprenda avaliar a qualidade do seu agente de AI, RAG e LLM",
-      "description": "Introdução   Exatamente hoje 19/04/2025 eu venho acompanhando ou pelo menos tentando...",
-      "url": "https://dev.to/airton_lirajunior_2ddebd/aprenda-avaliar-a-qualidade-do-seu-agente-de-ai-rag-e-llm-2369",
+      "id": "devto-3549001",
+      "title": "🤖 Learn Harness Engineering by Building a Mini Openclaw 🦞",
+      "description": "Table of Contents    🔀 Origin &amp; Modifications 🤔 What is this? 🏗️ Architecture 🔗 Section...",
+      "url": "https://dev.to/truongpx396/learn-harness-engineering-by-building-a-mini-openclaw-bdm",
       "source": "dev.to",
       "points": 6,
       "comments": 0,
-      "published_at": "2026-04-19T19:59:02Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3539280",
-      "title": "gpt-image-2 API Developer Guide: Pricing, Thinking Mode, and Production Integration (2026)",
-      "description": "gpt-image-2 API Developer Guide: Pricing, Thinking Mode, and Production Integration...",
-      "url": "https://dev.to/tokenmixai/gpt-image-2-api-developer-guide-pricing-thinking-mode-and-production-integration-2026-28p5",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-04-23T05:31:08Z",
+      "published_at": "2026-04-25T08:34:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -700,6 +713,32 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-04-25T17:25:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3548283",
+      "title": "A CNN Grid Encoding for Snake AI That DOUBLES! the Best Published Score",
+      "description": "A traditional Snake game grid has only 4 states each grid point can be in: empty, head, body, or...",
+      "url": "https://dev.to/stat_phantom/a-cnn-grid-encoding-for-snake-ai-that-doubles-the-best-published-score-245p",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 2,
+      "published_at": "2026-04-25T04:39:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3555235",
+      "title": "Why Your Diffusion Model Is Slow at Inference (And It's Not the UNet)",
+      "description": "TL;DR: Most inference bottlenecks in diffusion pipelines are not in the UNet denoising loop. They are...",
+      "url": "https://dev.to/elise_moreau/why-your-diffusion-model-is-slow-at-inference-and-its-not-the-unet-3m0h",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-04-27T04:48:07Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -739,45 +778,6 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-04-19T23:30:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3532183",
-      "title": "15 Best Websites to Launch Your Startup in 2026",
-      "description": "Launching a startup is no longer just about announcing your product. It is about reaching the right...",
-      "url": "https://dev.to/lightningdev123/15-best-websites-to-launch-your-startup-in-2026-421j",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-21T13:20:14Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3527978",
-      "title": "Software Testing Life Cycle (STLC): From Manual Chaos to Automated Confidence with Keploy",
-      "description": "Shipping reliable software quickly is one of the hardest challenges in modern development. The...",
-      "url": "https://dev.to/michael_burry_00/software-testing-life-cycle-stlc-from-manual-chaos-to-automated-confidence-with-keploy-3peg",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-20T16:31:42Z",
       "summary": "",
       "category": "all",
       "tags": []
