@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T07:59:36Z",
+  "updated_at": "2026-04-28T06:47:44Z",
   "count": 60,
   "articles": [
     {
@@ -367,6 +367,19 @@
       "tags": []
     },
     {
+      "id": "devto-3553477",
+      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
+      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
+      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
+      "source": "dev.to",
+      "points": 41,
+      "comments": 35,
+      "published_at": "2026-04-26T14:31:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -445,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-3545183",
+      "title": "DeepSeek Just Dropped V4. Here's What the Benchmarks Actually Tell You.",
+      "description": "Open-source AI has spent two years being \"almost there.\" With DeepSeek-V4-Pro, the gap with frontier...",
+      "url": "https://dev.to/om_shree_0709/deepseek-just-dropped-v4-heres-what-the-benchmarks-actually-tell-you-1oae",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 9,
+      "published_at": "2026-04-24T09:01:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3526915",
       "title": "The Gap Andrej Karpathy Didn't Fill",
       "description": "I was debugging a customer support issue and typed the question into Claude.  Perfect answer. Wrong...",
@@ -458,14 +484,14 @@
       "tags": []
     },
     {
-      "id": "devto-3545183",
-      "title": "DeepSeek Just Dropped V4. Here's What the Benchmarks Actually Tell You.",
-      "description": "Open-source AI has spent two years being \"almost there.\" With DeepSeek-V4-Pro, the gap with frontier...",
-      "url": "https://dev.to/om_shree_0709/deepseek-just-dropped-v4-heres-what-the-benchmarks-actually-tell-you-1oae",
+      "id": "devto-3554341",
+      "title": "Understanding Transformers Part 14: Calculating Encoder–Decoder Attention",
+      "description": "In the previous article, we just began introducing the concept of encoder-decoder attention.   Now...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-14-calculating-encoder-decoder-attention-2hjl",
       "source": "dev.to",
       "points": 15,
-      "comments": 7,
-      "published_at": "2026-04-24T09:01:03Z",
+      "comments": 0,
+      "published_at": "2026-04-26T19:34:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,27 +523,27 @@
       "tags": []
     },
     {
-      "id": "devto-3541186",
-      "title": "10 Chunking Strategies That Make or Break Your RAG Pipeline",
-      "description": "A 2025 peer-reviewed study (Vectara, NAACL 2025) found something most RAG teams get...",
-      "url": "https://dev.to/klement_gunndu/10-chunking-strategies-that-make-or-break-your-rag-pipeline-4cng",
+      "id": "devto-3542950",
+      "title": "One PR to a parser unlocked prerendering in Brisa",
+      "description": "I built a JavaScript framework called Brisa. The kind of framework that needs to parse every single...",
+      "url": "https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo",
       "source": "dev.to",
-      "points": 10,
-      "comments": 0,
-      "published_at": "2026-04-23T11:44:32Z",
+      "points": 11,
+      "comments": 5,
+      "published_at": "2026-04-23T20:30:35Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3553477",
-      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
-      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
-      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
+      "id": "devto-3556117",
+      "title": "Searching Billions in Seconds: How HNSW Solved the Scale Problem",
+      "description": "We have a massive problem with how computers find things. If you have a few hundred photos on your...",
+      "url": "https://dev.to/lincemathew/searching-billions-in-seconds-how-hnsw-solved-the-scale-problem-b64",
       "source": "dev.to",
       "points": 10,
-      "comments": 6,
-      "published_at": "2026-04-26T14:31:29Z",
+      "comments": 0,
+      "published_at": "2026-04-27T08:10:56Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,14 +614,27 @@
       "tags": []
     },
     {
-      "id": "devto-3542950",
-      "title": "One PR to a parser unlocked prerendering in Brisa",
-      "description": "I built a JavaScript framework called Brisa. The kind of framework that needs to parse every single...",
-      "url": "https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo",
+      "id": "devto-3556295",
+      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
+      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
+      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
       "source": "dev.to",
-      "points": 9,
-      "comments": 4,
-      "published_at": "2026-04-23T20:30:35Z",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-04-27T08:45:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3557111",
+      "title": "MEMORY.md Every Turn? That’s Noise, Not Memory.",
+      "description": "Full context feels safe until it isn’t. Here’s the engineering fork in the road — and real numbers...",
+      "url": "https://dev.to/seekdb/memorymd-every-turn-thats-noise-not-memory-51j",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-04-27T11:23:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,32 +666,6 @@
       "tags": []
     },
     {
-      "id": "devto-3531898",
-      "title": "15 Engineering Decisions Behind RAG Hybrid Search",
-      "description": "Most people think hybrid search in RAG is just \"run BM25 and vector search, combine the...",
-      "url": "https://dev.to/klement_gunndu/15-engineering-decisions-behind-rag-hybrid-search-ecp",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-04-21T12:19:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3553796",
-      "title": "How We Built CropGuard AI — Plant Disease Detection with Django, MongoDB Atlas and Deep Learning",
-      "description": "CropGuard AI is a Django-served Python web application backed by MongoDB Atlas for application...",
-      "url": "https://dev.to/aakarsh_chimmani/how-we-built-cropguard-ai-plant-disease-detection-with-django-mongodb-atlas-and-deep-learning-1l2d",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-04-26T16:20:40Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3538865",
       "title": "Ten CLAUDE.md rules for Claude Code - four edit-time, six runtime",
       "description": "Forrestchang's andrej-karpathy-skills CLAUDE.md is four rules aimed at the moment Claude is writing...",
@@ -679,14 +692,14 @@
       "tags": []
     },
     {
-      "id": "devto-3549001",
-      "title": "🤖 Learn Harness Engineering by Building a Mini Openclaw 🦞",
-      "description": "Table of Contents    🔀 Origin &amp; Modifications 🤔 What is this? 🏗️ Architecture 🔗 Section...",
-      "url": "https://dev.to/truongpx396/learn-harness-engineering-by-building-a-mini-openclaw-bdm",
+      "id": "devto-3478293",
+      "title": "How We Log LLM Requests at Sub-50ms Latency Using ClickHouse",
+      "description": "We were logging 50,000 LLM requests per day to PostgreSQL. Query latency was fine. At 400,000...",
+      "url": "https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn",
       "source": "dev.to",
       "points": 6,
-      "comments": 0,
-      "published_at": "2026-04-25T08:34:29Z",
+      "comments": 2,
+      "published_at": "2026-04-23T18:30:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,6 +731,19 @@
       "tags": []
     },
     {
+      "id": "devto-3532183",
+      "title": "15 Best Websites to Launch Your Startup in 2026",
+      "description": "Launching a startup is no longer just about announcing your product. It is about reaching the right...",
+      "url": "https://dev.to/lightningdev123/15-best-websites-to-launch-your-startup-in-2026-421j",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-04-21T13:20:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3548283",
       "title": "A CNN Grid Encoding for Snake AI That DOUBLES! the Best Published Score",
       "description": "A traditional Snake game grid has only 4 states each grid point can be in: empty, head, body, or...",
@@ -731,53 +757,27 @@
       "tags": []
     },
     {
-      "id": "devto-3555235",
-      "title": "Why Your Diffusion Model Is Slow at Inference (And It's Not the UNet)",
-      "description": "TL;DR: Most inference bottlenecks in diffusion pipelines are not in the UNet denoising loop. They are...",
-      "url": "https://dev.to/elise_moreau/why-your-diffusion-model-is-slow-at-inference-and-its-not-the-unet-3m0h",
+      "id": "devto-3557468",
+      "title": "Harness Engineering in Practice: Building a 6-Agent System That Runs Itself",
+      "description": "“Six agents” here means one orchestrator (Zoe) plus five specialist agents. Six ACP coding experts...",
+      "url": "https://dev.to/seekdb/harness-engineering-in-practice-building-a-6-agent-system-that-runs-itself-31b",
       "source": "dev.to",
       "points": 5,
       "comments": 0,
-      "published_at": "2026-04-27T04:48:07Z",
+      "published_at": "2026-04-27T12:28:30Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3478293",
-      "title": "How We Log LLM Requests at Sub-50ms Latency Using ClickHouse",
-      "description": "We were logging 50,000 LLM requests per day to PostgreSQL. Query latency was fine. At 400,000...",
-      "url": "https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn",
+      "id": "devto-3559134",
+      "title": "What is Cursor AI’s business model? Asking for a friend.",
+      "description": "Other big players may have collateral incentives. OpenAI &amp; Claude has much broader goals for its...",
+      "url": "https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj",
       "source": "dev.to",
       "points": 5,
       "comments": 2,
-      "published_at": "2026-04-23T18:30:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3512354",
-      "title": "I Think Therefore I Am… A Big Pain in the A$$",
-      "description": "If you’ve tried to build anything serious on top of LLMs recently, you’ve probably run into...",
-      "url": "https://dev.to/robimbeault/i-think-therefore-i-am-a-big-pain-in-the-a-3a9m",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-04-20T17:59:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3496979",
-      "title": "Gemini 2.5 Flash was returning 37 tokens. Here's why.",
-      "description": "I set max_tokens: 1000 on a Gemini 2.5 Flash call.  The response came back with 37 tokens....",
-      "url": "https://dev.to/devansh365/gemini-25-flash-was-returning-37-tokens-heres-why-4ppp",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-19T23:30:00Z",
+      "published_at": "2026-04-27T21:12:37Z",
       "summary": "",
       "category": "all",
       "tags": []
