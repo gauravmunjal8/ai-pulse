@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T06:47:44Z",
+  "updated_at": "2026-04-29T06:43:37Z",
   "count": 60,
   "articles": [
     {
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-3553477",
+      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
+      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
+      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
+      "source": "dev.to",
+      "points": 78,
+      "comments": 57,
+      "published_at": "2026-04-26T14:31:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -349,32 +362,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3532207",
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "source": "dev.to",
-      "points": 43,
-      "comments": 7,
-      "published_at": "2026-04-21T13:51:38Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3553477",
-      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
-      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
-      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
-      "source": "dev.to",
-      "points": 41,
-      "comments": 35,
-      "published_at": "2026-04-26T14:31:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -445,19 +432,6 @@
       "tags": []
     },
     {
-      "id": "devto-3531982",
-      "title": "Fine-Tuning LLMs for Legal Tech: Nebius AI Cloud vs Nebius Token Factory — A Developer's Honest Comparison",
-      "description": "A hands-on walkthrough of fine-tuning the same legal Q&amp;A dataset on two very different platforms...",
-      "url": "https://dev.to/shivaylamba/fine-tuning-llms-for-legal-tech-nebius-ai-cloud-vs-nebius-token-factory-a-developers-honest-p61",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-04-21T12:33:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3545183",
       "title": "DeepSeek Just Dropped V4. Here's What the Benchmarks Actually Tell You.",
       "description": "Open-source AI has spent two years being \"almost there.\" With DeepSeek-V4-Pro, the gap with frontier...",
@@ -471,14 +445,14 @@
       "tags": []
     },
     {
-      "id": "devto-3526915",
-      "title": "The Gap Andrej Karpathy Didn't Fill",
-      "description": "I was debugging a customer support issue and typed the question into Claude.  Perfect answer. Wrong...",
-      "url": "https://dev.to/dannwaneri/the-gap-andrej-karpathy-didnt-fill-ohc",
+      "id": "devto-3531982",
+      "title": "Fine-Tuning LLMs for Legal Tech: Nebius AI Cloud vs Nebius Token Factory — A Developer's Honest Comparison",
+      "description": "A hands-on walkthrough of fine-tuning the same legal Q&amp;A dataset on two very different platforms...",
+      "url": "https://dev.to/shivaylamba/fine-tuning-llms-for-legal-tech-nebius-ai-cloud-vs-nebius-token-factory-a-developers-honest-p61",
       "source": "dev.to",
       "points": 16,
-      "comments": 8,
-      "published_at": "2026-04-21T14:10:07Z",
+      "comments": 0,
+      "published_at": "2026-04-21T12:33:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,6 +510,19 @@
       "tags": []
     },
     {
+      "id": "devto-3556295",
+      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
+      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
+      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-04-27T08:45:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3556117",
       "title": "Searching Billions in Seconds: How HNSW Solved the Scale Problem",
       "description": "We have a massive problem with how computers find things. If you have a few hundred photos on your...",
@@ -544,6 +531,32 @@
       "points": 10,
       "comments": 0,
       "published_at": "2026-04-27T08:10:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3574503",
+      "title": "Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention",
+      "description": "In the previous article, we gained an understanding how much each input word contributes, in this...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-15-scaling-and-combining-values-in-encoder-decoder-attention-4dfm",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-04-28T19:23:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3553240",
+      "title": "My speaker broke, so I built a LAN speaker",
+      "description": "What's happening?   This was around a year back when I started the project, after a small...",
+      "url": "https://dev.to/shricodev/my-speaker-broke-so-i-built-a-lan-speaker-19nc",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 4,
+      "published_at": "2026-04-28T14:29:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,14 +627,14 @@
       "tags": []
     },
     {
-      "id": "devto-3556295",
-      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
-      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
-      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
+      "id": "devto-3559522",
+      "title": "ML acceleration guide: TPUs vs GPUs",
+      "description": "There’s a lot of hype around GPUs and NVIDIA, but how much do you know about TPUs?      Article...",
+      "url": "https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh",
       "source": "dev.to",
       "points": 8,
       "comments": 0,
-      "published_at": "2026-04-27T08:45:25Z",
+      "published_at": "2026-04-28T00:16:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -635,6 +648,19 @@
       "points": 8,
       "comments": 2,
       "published_at": "2026-04-27T11:23:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3555616",
+      "title": "Why High-Performing Teams Look Like They Do Nothing",
+      "description": "There is a belief quietly embedded in some engineering cultures that suffering equals seriousness....",
+      "url": "https://dev.to/adamthedeveloper/why-high-performing-teams-look-like-they-do-nothing-2o4j",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-04-27T06:46:12Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,6 +705,19 @@
       "tags": []
     },
     {
+      "id": "devto-3557449",
+      "title": "Harness Engineering: From AI-Assisted to AI-Driven, What Is Software Engineering Undergoing?",
+      "description": "What happens when a team ships a million lines of code without writing a single line by...",
+      "url": "https://dev.to/seekdb/harness-engineering-from-ai-assisted-to-ai-driven-what-is-software-engineering-undergoing-l6n",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 3,
+      "published_at": "2026-04-27T12:22:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3538201",
       "title": "Announcing ObjeX | We Built Our Own S3",
       "description": "We at Centro Labs recently built and released ObjeX, our own self-hosted S3-compatible blob...",
@@ -687,6 +726,19 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-04-22T22:16:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3538101",
+      "title": "Built Gova, a declarative GUI framework for Go",
+      "description": "I spent the last few months building Gova. It is a declarative GUI framework for Go that compiles...",
+      "url": "https://dev.to/namanvyas/built-gova-a-declarative-gui-framework-for-go-48m6",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 1,
+      "published_at": "2026-04-22T21:27:56Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -726,58 +778,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-04-25T17:25:14Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3532183",
-      "title": "15 Best Websites to Launch Your Startup in 2026",
-      "description": "Launching a startup is no longer just about announcing your product. It is about reaching the right...",
-      "url": "https://dev.to/lightningdev123/15-best-websites-to-launch-your-startup-in-2026-421j",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-04-21T13:20:14Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3548283",
-      "title": "A CNN Grid Encoding for Snake AI That DOUBLES! the Best Published Score",
-      "description": "A traditional Snake game grid has only 4 states each grid point can be in: empty, head, body, or...",
-      "url": "https://dev.to/stat_phantom/a-cnn-grid-encoding-for-snake-ai-that-doubles-the-best-published-score-245p",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-04-25T04:39:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3557468",
-      "title": "Harness Engineering in Practice: Building a 6-Agent System That Runs Itself",
-      "description": "“Six agents” here means one orchestrator (Zoe) plus five specialist agents. Six ACP coding experts...",
-      "url": "https://dev.to/seekdb/harness-engineering-in-practice-building-a-6-agent-system-that-runs-itself-31b",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-04-27T12:28:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3559134",
-      "title": "What is Cursor AI’s business model? Asking for a friend.",
-      "description": "Other big players may have collateral incentives. OpenAI &amp; Claude has much broader goals for its...",
-      "url": "https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-04-27T21:12:37Z",
       "summary": "",
       "category": "all",
       "tags": []
