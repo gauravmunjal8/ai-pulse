@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T06:45:46Z",
+  "updated_at": "2026-05-01T06:48:05Z",
   "count": 60,
   "articles": [
     {
@@ -276,6 +276,19 @@
       "tags": []
     },
     {
+      "id": "devto-3553477",
+      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
+      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
+      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
+      "source": "dev.to",
+      "points": 139,
+      "comments": 76,
+      "published_at": "2026-04-26T14:31:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-40786237",
       "title": "Not all 'open source' AI models are open: here's a ranking",
       "description": "",
@@ -289,19 +302,6 @@
       "tags": []
     },
     {
-      "id": "devto-3553477",
-      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
-      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
-      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
-      "source": "dev.to",
-      "points": 114,
-      "comments": 66,
-      "published_at": "2026-04-26T14:31:29Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -310,6 +310,19 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3561978",
+      "title": "Are We Using AI at the Wrong Scale?",
+      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "source": "dev.to",
+      "points": 58,
+      "comments": 17,
+      "published_at": "2026-04-28T11:07:28Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -354,14 +367,14 @@
       "tags": []
     },
     {
-      "id": "devto-3561978",
-      "title": "Are We Using AI at the Wrong Scale?",
-      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "id": "devto-3547210",
+      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
       "source": "dev.to",
-      "points": 53,
-      "comments": 10,
-      "published_at": "2026-04-28T11:07:28Z",
+      "points": 52,
+      "comments": 5,
+      "published_at": "2026-04-28T19:54:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -375,19 +388,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3547210",
-      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
-      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
-      "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
-      "source": "dev.to",
-      "points": 44,
-      "comments": 2,
-      "published_at": "2026-04-28T19:54:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -463,7 +463,7 @@
       "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
       "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
       "source": "dev.to",
-      "points": 22,
+      "points": 25,
       "comments": 1,
       "published_at": "2026-04-29T19:02:07Z",
       "summary": "",
@@ -484,6 +484,32 @@
       "tags": []
     },
     {
+      "id": "devto-3553240",
+      "title": "My speaker broke, so I built a LAN speaker",
+      "description": "What's happening?   This was around a year back when I started the project, after a small...",
+      "url": "https://dev.to/shricodev/my-speaker-broke-so-i-built-a-lan-speaker-19nc",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 5,
+      "published_at": "2026-04-28T14:29:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3574503",
+      "title": "Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention",
+      "description": "In the previous article, we gained an understanding how much each input word contributes, in this...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-15-scaling-and-combining-values-in-encoder-decoder-attention-4dfm",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 0,
+      "published_at": "2026-04-28T19:23:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3557915",
       "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
       "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
@@ -497,14 +523,14 @@
       "tags": []
     },
     {
-      "id": "devto-3574503",
-      "title": "Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention",
-      "description": "In the previous article, we gained an understanding how much each input word contributes, in this...",
-      "url": "https://dev.to/rijultp/understanding-transformers-part-15-scaling-and-combining-values-in-encoder-decoder-attention-4dfm",
+      "id": "devto-3558064",
+      "title": "Handling `unknown` in TypeScript… isn't it painful?",
+      "description": "Hi there 👋  I'm a frontend engineer based in the Netherlands, currently suffering from hay fever...",
+      "url": "https://dev.to/nyaomaru/handling-unknown-in-typescript-isnt-it-painful-4dec",
       "source": "dev.to",
-      "points": 15,
-      "comments": 0,
-      "published_at": "2026-04-28T19:23:58Z",
+      "points": 16,
+      "comments": 2,
+      "published_at": "2026-04-28T13:09:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,14 +549,27 @@
       "tags": []
     },
     {
-      "id": "devto-3558064",
-      "title": "Handling `unknown` in TypeScript… isn't it painful?",
-      "description": "Hi there 👋  I'm a frontend engineer based in the Netherlands, currently suffering from hay fever...",
-      "url": "https://dev.to/nyaomaru/handling-unknown-in-typescript-isnt-it-painful-4dec",
+      "id": "devto-3547488",
+      "title": "The Hidden Challenge of Multi-LLM Context Management",
+      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
+      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
       "source": "dev.to",
       "points": 14,
-      "comments": 2,
-      "published_at": "2026-04-28T13:09:54Z",
+      "comments": 4,
+      "published_at": "2026-04-24T20:19:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3593291",
+      "title": "Fix MCP Timeouts: Async HandleId Pattern",
+      "description": "MCP tools freeze AI agents when external APIs are slow, causing 424 errors. The async handleId pattern returns immediately with a job ID and polls for results without blocking.",
+      "url": "https://dev.to/aws/fix-mcp-timeouts-async-handleid-pattern-8ek",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 0,
+      "published_at": "2026-04-30T19:28:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,14 +588,14 @@
       "tags": []
     },
     {
-      "id": "devto-3547488",
-      "title": "The Hidden Challenge of Multi-LLM Context Management",
-      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
-      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "id": "devto-3591710",
+      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
+      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
+      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
       "source": "dev.to",
       "points": 13,
-      "comments": 4,
-      "published_at": "2026-04-24T20:19:51Z",
+      "comments": 7,
+      "published_at": "2026-04-30T12:14:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,27 +614,27 @@
       "tags": []
     },
     {
-      "id": "devto-3542950",
-      "title": "One PR to a parser unlocked prerendering in Brisa",
-      "description": "I built a JavaScript framework called Brisa. The kind of framework that needs to parse every single...",
-      "url": "https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo",
+      "id": "devto-3588647",
+      "title": "Understanding Transformers – Part 16: Preparing for Output Prediction with Residual Connections",
+      "description": "In the previous article, we handled values in encoder-decoder attention, now we will simplify the...",
+      "url": "https://dev.to/rijultp/understanding-transformers-part-16-preparing-for-output-prediction-with-residual-connections-1n06",
       "source": "dev.to",
       "points": 11,
-      "comments": 5,
-      "published_at": "2026-04-23T20:30:35Z",
+      "comments": 0,
+      "published_at": "2026-04-29T21:26:20Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3553240",
-      "title": "My speaker broke, so I built a LAN speaker",
-      "description": "What's happening?   This was around a year back when I started the project, after a small...",
-      "url": "https://dev.to/shricodev/my-speaker-broke-so-i-built-a-lan-speaker-19nc",
+      "id": "devto-3592199",
+      "title": "Function Calling Harness 2: CoT Compliance from 9.91% to 100%",
+      "description": "TL;DR    9.91% is not \"did the model get it right on the first try\" — it's \"did the model walk...",
+      "url": "https://dev.to/samchon/function-calling-harness-2-cot-compliance-from-991-to-100-4f0h",
       "source": "dev.to",
       "points": 11,
-      "comments": 4,
-      "published_at": "2026-04-28T14:29:00Z",
+      "comments": 0,
+      "published_at": "2026-04-30T14:21:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,6 +692,19 @@
       "tags": []
     },
     {
+      "id": "devto-3555616",
+      "title": "Why High-Performing Teams Look Like They Do Nothing",
+      "description": "There is a belief quietly embedded in some engineering cultures that suffering equals seriousness....",
+      "url": "https://dev.to/adamthedeveloper/why-high-performing-teams-look-like-they-do-nothing-2o4j",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 3,
+      "published_at": "2026-04-27T06:46:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3548652",
       "title": "10 Questions Every Non-Technical Founder Should Ask Before Their First Web App Build",
       "description": "TL;DR: Most non-technical founders pick a build approach (no-code, freelancer, agency, AI tool,...",
@@ -692,19 +744,6 @@
       "tags": []
     },
     {
-      "id": "devto-3555616",
-      "title": "Why High-Performing Teams Look Like They Do Nothing",
-      "description": "There is a belief quietly embedded in some engineering cultures that suffering equals seriousness....",
-      "url": "https://dev.to/adamthedeveloper/why-high-performing-teams-look-like-they-do-nothing-2o4j",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 3,
-      "published_at": "2026-04-27T06:46:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40728988",
       "title": "Not all 'open source' AI models are open",
       "description": "",
@@ -731,19 +770,6 @@
       "tags": []
     },
     {
-      "id": "devto-3478293",
-      "title": "How We Log LLM Requests at Sub-50ms Latency Using ClickHouse",
-      "description": "We were logging 50,000 LLM requests per day to PostgreSQL. Query latency was fine. At 400,000...",
-      "url": "https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 2,
-      "published_at": "2026-04-23T18:30:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3560916",
       "title": "🤖 nanobot: A Comprehensive Build-Your-Own Guide 📚",
       "description": "A deep, actionable breakdown of HKUDS/nanobot — the ~4k-line ultra-lightweight personal AI agent —...",
@@ -752,32 +778,6 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-04-28T07:38:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3557449",
-      "title": "Harness Engineering: From AI-Assisted to AI-Driven, What Is Software Engineering Undergoing?",
-      "description": "What happens when a team ships a million lines of code without writing a single line by...",
-      "url": "https://dev.to/seekdb/harness-engineering-from-ai-assisted-to-ai-driven-what-is-software-engineering-undergoing-l6n",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 5,
-      "published_at": "2026-04-27T12:22:38Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3551313",
-      "title": "How to Create 360 Panoramas with GPT Image 2 and View Them Interactively",
-      "description": "What you will learn   This tutorial covers how to generate 360-degree equirectangular...",
-      "url": "https://dev.to/aralroca/how-to-create-360-panoramas-with-gpt-image-2-and-view-them-interactively-21hb",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 4,
-      "published_at": "2026-04-25T22:19:50Z",
       "summary": "",
       "category": "all",
       "tags": []
