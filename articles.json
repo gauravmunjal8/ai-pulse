@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T06:48:05Z",
+  "updated_at": "2026-05-02T06:32:57Z",
   "count": 60,
   "articles": [
     {
@@ -263,6 +263,19 @@
       "tags": []
     },
     {
+      "id": "devto-3553477",
+      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
+      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
+      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
+      "source": "dev.to",
+      "points": 153,
+      "comments": 80,
+      "published_at": "2026-04-26T14:31:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-35876147",
       "title": "Meta open-sources multisensory AI model that combines six types of data",
       "description": "",
@@ -271,19 +284,6 @@
       "points": 152,
       "comments": 50,
       "published_at": "2023-05-09T15:45:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3553477",
-      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
-      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
-      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
-      "source": "dev.to",
-      "points": 139,
-      "comments": 76,
-      "published_at": "2026-04-26T14:31:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -320,7 +320,7 @@
       "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
       "source": "dev.to",
-      "points": 58,
+      "points": 62,
       "comments": 17,
       "published_at": "2026-04-28T11:07:28Z",
       "summary": "",
@@ -406,6 +406,19 @@
       "tags": []
     },
     {
+      "id": "devto-3587863",
+      "title": "Forking Paseo: Mobile vibe coding for me",
+      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
+      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
+      "source": "dev.to",
+      "points": 31,
+      "comments": 1,
+      "published_at": "2026-04-29T19:02:07Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -458,14 +471,27 @@
       "tags": []
     },
     {
-      "id": "devto-3587863",
-      "title": "Forking Paseo: Mobile vibe coding for me",
-      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
-      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
+      "id": "devto-3591710",
+      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
+      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
+      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
       "source": "dev.to",
-      "points": 25,
-      "comments": 1,
-      "published_at": "2026-04-29T19:02:07Z",
+      "points": 23,
+      "comments": 13,
+      "published_at": "2026-04-30T12:14:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3591712",
+      "title": "They said AI Would Kill SaaS Boilerplates. It's Doing the Opposite.",
+      "description": "When ChatGPT launched everyone was predicting that developers would soon be obsolete.   This was...",
+      "url": "https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba",
+      "source": "dev.to",
+      "points": 22,
+      "comments": 4,
+      "published_at": "2026-04-30T12:18:17Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,6 +523,19 @@
       "tags": []
     },
     {
+      "id": "devto-3593561",
+      "title": "How I built the fastest color manipulation library in TypeScript and the optimization techniques I learned",
+      "description": "Introduction   In 2025, I started building a color manipulation library called colordx. The...",
+      "url": "https://dev.to/dkryaklin/how-i-built-the-fastest-color-manipulation-library-in-typescript-and-the-optimization-techniques-i-56al",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 10,
+      "published_at": "2026-04-30T21:40:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3574503",
       "title": "Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention",
       "description": "In the previous article, we gained an understanding how much each input word contributes, in this...",
@@ -518,6 +557,19 @@
       "points": 16,
       "comments": 1,
       "published_at": "2026-04-27T14:16:32Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3593291",
+      "title": "Fix MCP Timeouts: Async HandleId Pattern",
+      "description": "MCP tools freeze AI agents when external APIs are slow, causing 424 errors. The async handleId pattern returns immediately with a job ID and polls for results without blocking.",
+      "url": "https://dev.to/aws/fix-mcp-timeouts-async-handleid-pattern-8ek",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 1,
+      "published_at": "2026-04-30T19:28:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,27 +601,14 @@
       "tags": []
     },
     {
-      "id": "devto-3547488",
-      "title": "The Hidden Challenge of Multi-LLM Context Management",
-      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
-      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "id": "devto-3555616",
+      "title": "Why High-Performing Teams Look Like They Do Nothing",
+      "description": "There is a belief quietly embedded in some engineering cultures that suffering equals seriousness....",
+      "url": "https://dev.to/adamthedeveloper/why-high-performing-teams-look-like-they-do-nothing-2o4j",
       "source": "dev.to",
       "points": 14,
       "comments": 4,
-      "published_at": "2026-04-24T20:19:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3593291",
-      "title": "Fix MCP Timeouts: Async HandleId Pattern",
-      "description": "MCP tools freeze AI agents when external APIs are slow, causing 424 errors. The async handleId pattern returns immediately with a job ID and polls for results without blocking.",
-      "url": "https://dev.to/aws/fix-mcp-timeouts-async-handleid-pattern-8ek",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 0,
-      "published_at": "2026-04-30T19:28:53Z",
+      "published_at": "2026-04-27T06:46:12Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,14 +627,14 @@
       "tags": []
     },
     {
-      "id": "devto-3591710",
-      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
-      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
-      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
+      "id": "devto-3592199",
+      "title": "Function Calling Harness 2: CoT Compliance from 9.91% to 100%",
+      "description": "TL;DR    9.91% is not \"did the model get it right on the first try\" — it's \"did the model walk...",
+      "url": "https://dev.to/samchon/function-calling-harness-2-cot-compliance-from-991-to-100-4f0h",
       "source": "dev.to",
       "points": 13,
-      "comments": 7,
-      "published_at": "2026-04-30T12:14:54Z",
+      "comments": 1,
+      "published_at": "2026-04-30T14:21:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -622,19 +661,6 @@
       "points": 11,
       "comments": 0,
       "published_at": "2026-04-29T21:26:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3592199",
-      "title": "Function Calling Harness 2: CoT Compliance from 9.91% to 100%",
-      "description": "TL;DR    9.91% is not \"did the model get it right on the first try\" — it's \"did the model walk...",
-      "url": "https://dev.to/samchon/function-calling-harness-2-cot-compliance-from-991-to-100-4f0h",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 0,
-      "published_at": "2026-04-30T14:21:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,32 +718,6 @@
       "tags": []
     },
     {
-      "id": "devto-3555616",
-      "title": "Why High-Performing Teams Look Like They Do Nothing",
-      "description": "There is a belief quietly embedded in some engineering cultures that suffering equals seriousness....",
-      "url": "https://dev.to/adamthedeveloper/why-high-performing-teams-look-like-they-do-nothing-2o4j",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 3,
-      "published_at": "2026-04-27T06:46:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3548652",
-      "title": "10 Questions Every Non-Technical Founder Should Ask Before Their First Web App Build",
-      "description": "TL;DR: Most non-technical founders pick a build approach (no-code, freelancer, agency, AI tool,...",
-      "url": "https://dev.to/aadesh-kumar/10-questions-every-non-technical-founder-should-ask-before-their-first-web-app-build-34g0",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 1,
-      "published_at": "2026-04-25T06:32:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3586994",
       "title": "I don't want to give Claude SSH access to my home server",
       "description": "AI agents are getting scary good at ops work.  Claude Code, Codex, OpenHands — they can SSH into a...",
@@ -744,6 +744,32 @@
       "tags": []
     },
     {
+      "id": "devto-3596700",
+      "title": "My LLM assistant's new buzzword is starting responses with \"be completely candid\". Very grating.",
+      "description": "A post by Ben Halpern",
+      "url": "https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-05-01T15:53:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3593792",
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 1,
+      "published_at": "2026-05-01T00:02:24Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-40728988",
       "title": "Not all 'open source' AI models are open",
       "description": "",
@@ -752,32 +778,6 @@
       "points": 8,
       "comments": 3,
       "published_at": "2024-06-19T15:06:29Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-40290630",
-      "title": "New open source AI model for document segmentation and unstructured ETL",
-      "description": "",
-      "url": "https://www.aryn.ai/post/new-open-source-ai-model-for-document-segmentation-and-unstructured-etl",
-      "source": "aryn.ai",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2024-05-07T19:43:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3560916",
-      "title": "🤖 nanobot: A Comprehensive Build-Your-Own Guide 📚",
-      "description": "A deep, actionable breakdown of HKUDS/nanobot — the ~4k-line ultra-lightweight personal AI agent —...",
-      "url": "https://dev.to/truongpx396/nanobot-a-comprehensive-build-your-own-guide-39f",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-04-28T07:38:26Z",
       "summary": "",
       "category": "all",
       "tags": []
