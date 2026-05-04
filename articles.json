@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T06:45:41Z",
+  "updated_at": "2026-05-04T06:53:19Z",
   "count": 60,
   "articles": [
     {
@@ -263,19 +263,6 @@
       "tags": []
     },
     {
-      "id": "devto-3553477",
-      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
-      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
-      "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
-      "source": "dev.to",
-      "points": 153,
-      "comments": 80,
-      "published_at": "2026-04-26T14:31:29Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-35876147",
       "title": "Meta open-sources multisensory AI model that combines six types of data",
       "description": "",
@@ -302,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-3561978",
+      "title": "Are We Using AI at the Wrong Scale?",
+      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "source": "dev.to",
+      "points": 66,
+      "comments": 21,
+      "published_at": "2026-04-28T11:07:28Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -315,14 +315,14 @@
       "tags": []
     },
     {
-      "id": "devto-3561978",
-      "title": "Are We Using AI at the Wrong Scale?",
-      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "id": "devto-3547210",
+      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
       "source": "dev.to",
-      "points": 65,
-      "comments": 19,
-      "published_at": "2026-04-28T11:07:28Z",
+      "points": 56,
+      "comments": 7,
+      "published_at": "2026-04-28T19:54:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -367,19 +367,6 @@
       "tags": []
     },
     {
-      "id": "devto-3547210",
-      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
-      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
-      "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
-      "source": "dev.to",
-      "points": 52,
-      "comments": 5,
-      "published_at": "2026-04-28T19:54:21Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -388,6 +375,19 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3591710",
+      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
+      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
+      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
+      "source": "dev.to",
+      "points": 39,
+      "comments": 30,
+      "published_at": "2026-04-30T12:14:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -411,22 +411,9 @@
       "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
       "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
       "source": "dev.to",
-      "points": 31,
-      "comments": 2,
+      "points": 33,
+      "comments": 3,
       "published_at": "2026-04-29T19:02:07Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3591710",
-      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
-      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
-      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
-      "source": "dev.to",
-      "points": 29,
-      "comments": 24,
-      "published_at": "2026-04-30T12:14:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,14 +575,14 @@
       "tags": []
     },
     {
-      "id": "devto-3554341",
-      "title": "Understanding Transformers Part 14: Calculating Encoder–Decoder Attention",
-      "description": "In the previous article, we just began introducing the concept of encoder-decoder attention.   Now...",
-      "url": "https://dev.to/rijultp/understanding-transformers-part-14-calculating-encoder-decoder-attention-2hjl",
+      "id": "devto-3592199",
+      "title": "Function Calling Harness 2: CoT Compliance from 9.91% to 100%",
+      "description": "TL;DR    9.91% is not \"did the model get it right on the first try\" — it's \"did the model walk...",
+      "url": "https://dev.to/samchon/function-calling-harness-2-cot-compliance-from-991-to-100-4f0h",
       "source": "dev.to",
       "points": 15,
-      "comments": 0,
-      "published_at": "2026-04-26T19:34:55Z",
+      "comments": 3,
+      "published_at": "2026-04-30T14:21:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,14 +601,14 @@
       "tags": []
     },
     {
-      "id": "devto-3592199",
-      "title": "Function Calling Harness 2: CoT Compliance from 9.91% to 100%",
-      "description": "TL;DR    9.91% is not \"did the model get it right on the first try\" — it's \"did the model walk...",
-      "url": "https://dev.to/samchon/function-calling-harness-2-cot-compliance-from-991-to-100-4f0h",
+      "id": "devto-3604170",
+      "title": "How I Built an Offline AI Assistant in Python - No OpenAI, No LangChain, No Dependencies",
+      "description": "Every tutorial about building an AI assistant starts the same way: pip install openai. Get an API...",
+      "url": "https://dev.to/huckler/how-i-built-an-offline-ai-assistant-in-python-no-openai-no-langchain-no-dependencies-4523",
       "source": "dev.to",
       "points": 14,
-      "comments": 3,
-      "published_at": "2026-04-30T14:21:26Z",
+      "comments": 2,
+      "published_at": "2026-05-03T13:45:33Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,14 +627,14 @@
       "tags": []
     },
     {
-      "id": "devto-3553796",
-      "title": "How We Built CropGuard AI — Plant Disease Detection with Django, MongoDB Atlas and Deep Learning",
-      "description": "CropGuard AI is a Django-served Python web application backed by MongoDB Atlas for application...",
-      "url": "https://dev.to/aakarsh_chimmani/how-we-built-cropguard-ai-plant-disease-detection-with-django-mongodb-atlas-and-deep-learning-1l2d",
+      "id": "devto-3602466",
+      "title": "Every developer deserves end credits",
+      "description": "When a movie ends, everyone gets credit. The grip. The caterer. The second assistant editor who...",
+      "url": "https://dev.to/higangssh/every-developer-deserves-end-credits-oh6",
       "source": "dev.to",
       "points": 12,
-      "comments": 0,
-      "published_at": "2026-04-26T16:20:40Z",
+      "comments": 1,
+      "published_at": "2026-05-03T04:30:46Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -666,14 +653,14 @@
       "tags": []
     },
     {
-      "id": "devto-3550986",
-      "title": "Understanding Transformers Part 13: Introducing Encoder–Decoder Attention",
-      "description": "In the previous article, we built up the decoder layers and stopped at the relationship between input...",
-      "url": "https://dev.to/rijultp/understanding-transformers-part-13-introducing-encoder-decoder-attention-544e",
+      "id": "devto-3587939",
+      "title": "Hybrid search inside SurrealDB: one query, vector + keyword + RRF",
+      "description": "How we won at the LangChain × SurrealDB hackathon by killing the retrieval middleware layer — vector, keyword, and RRF in a single SurrealQL query.",
+      "url": "https://dev.to/atwmarshall/hybrid-search-inside-surrealdb-one-query-vector-keyword-rrf-5ade",
       "source": "dev.to",
       "points": 11,
       "comments": 0,
-      "published_at": "2026-04-25T19:40:51Z",
+      "published_at": "2026-04-29T19:35:12Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,6 +705,32 @@
       "tags": []
     },
     {
+      "id": "devto-3593792",
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 1,
+      "published_at": "2026-05-01T00:02:24Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3596700",
+      "title": "My LLM assistant's new buzzword is starting responses with \"be completely candid\". Very grating.",
+      "description": "A post by Ben Halpern",
+      "url": "https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 2,
+      "published_at": "2026-05-01T15:53:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3586994",
       "title": "I don't want to give Claude SSH access to my home server",
       "description": "AI agents are getting scary good at ops work.  Claude Code, Codex, OpenHands — they can SSH into a...",
@@ -726,19 +739,6 @@
       "points": 9,
       "comments": 0,
       "published_at": "2026-04-29T13:47:36Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3593792",
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2026-05-01T00:02:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,19 +757,6 @@
       "tags": []
     },
     {
-      "id": "devto-3596700",
-      "title": "My LLM assistant's new buzzword is starting responses with \"be completely candid\". Very grating.",
-      "description": "A post by Ben Halpern",
-      "url": "https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 2,
-      "published_at": "2026-05-01T15:53:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40728988",
       "title": "Not all 'open source' AI models are open",
       "description": "",
@@ -778,6 +765,19 @@
       "points": 8,
       "comments": 3,
       "published_at": "2024-06-19T15:06:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "hn-40290630",
+      "title": "New open source AI model for document segmentation and unstructured ETL",
+      "description": "",
+      "url": "https://www.aryn.ai/post/new-open-source-ai-model-for-document-segmentation-and-unstructured-etl",
+      "source": "aryn.ai",
+      "points": 8,
+      "comments": 1,
+      "published_at": "2024-05-07T19:43:57Z",
       "summary": "",
       "category": "all",
       "tags": []
