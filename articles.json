@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T06:37:12Z",
+  "updated_at": "2026-05-10T06:48:26Z",
   "count": 60,
   "articles": [
     {
@@ -484,14 +484,14 @@
       "tags": []
     },
     {
-      "id": "devto-3601888",
-      "title": "I Built a Tool That Detects SEO Poisoning Across Multiple Search Engines",
-      "description": "By RUGERO Tesla (@404Saint).           It started with an article I couldn't stop thinking about   A...",
-      "url": "https://dev.to/null_saint/i-built-a-tool-that-detects-seo-poisoning-across-multiple-search-engines-15n9",
+      "id": "devto-3624003",
+      "title": "Anthropic just rented Elon Musk's data center. The price of a Claude token is about to make sense.",
+      "description": "A 300 megawatt deal, a $180 a month decision, and the strange feeling of having a vendor solve your...",
+      "url": "https://dev.to/thegdsks/anthropic-just-rented-elon-musks-data-center-the-price-of-a-claude-token-is-about-to-make-sense-lc3",
       "source": "dev.to",
-      "points": 15,
-      "comments": 11,
-      "published_at": "2026-05-02T23:58:53Z",
+      "points": 14,
+      "comments": 1,
+      "published_at": "2026-05-07T13:25:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,27 +536,40 @@
       "tags": []
     },
     {
+      "id": "devto-3635605",
+      "title": "Internal Architecture of Neural Networks",
+      "description": "Hello, I'm Ganesh. I'm building git-lrc, an AI code reviewer that runs on every commit. It is free,...",
+      "url": "https://dev.to/ganesh-kumar/internal-architecture-of-neural-networks-4kkn",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 0,
+      "published_at": "2026-05-08T19:39:10Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3610047",
       "title": "I Tested Chunking on Docs, PDFs, and Code. The Winner Changed Every Time.",
       "description": "I assumed chunking was a solved problem. Pick a text splitter, set 512 tokens, add some overlap, move...",
       "url": "https://dev.to/ayanarshad02/i-tested-chunking-on-docs-pdfs-and-code-the-winner-changed-every-time-1lof",
       "source": "dev.to",
       "points": 11,
-      "comments": 14,
+      "comments": 15,
       "published_at": "2026-05-04T16:32:41Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3624003",
-      "title": "Anthropic just rented Elon Musk's data center. The price of a Claude token is about to make sense.",
-      "description": "A 300 megawatt deal, a $180 a month decision, and the strange feeling of having a vendor solve your...",
-      "url": "https://dev.to/thegdsks/anthropic-just-rented-elon-musks-data-center-the-price-of-a-claude-token-is-about-to-make-sense-lc3",
+      "id": "devto-3628232",
+      "title": "I’m Building a Cozy Ambience App in React (Sounds, Presets & Chat)",
+      "description": "I’ve been building a cozy ambience app with React. The idea started pretty simple: a space where...",
+      "url": "https://dev.to/fame/im-building-a-cozy-ambience-app-in-react-sounds-presets-chat-54oa",
       "source": "dev.to",
       "points": 11,
-      "comments": 0,
-      "published_at": "2026-05-07T13:25:45Z",
+      "comments": 1,
+      "published_at": "2026-05-07T16:55:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,6 +601,19 @@
       "tags": []
     },
     {
+      "id": "devto-3630376",
+      "title": "Real Startup Engineering Lessons From 4+ Years of Experience",
+      "description": "How It All Began   I joined a startup during my final semester of college  full of dreams,...",
+      "url": "https://dev.to/programmerraja/real-startup-engineering-lessons-from-4-years-of-experience-5fh7",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 0,
+      "published_at": "2026-05-08T04:13:22Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3605309",
       "title": "AI Isn't the Problem. The Loss Function Is.",
       "description": "I keep seeing the same argument about AI making us dumber. It's the same argument people had about...",
@@ -596,6 +622,19 @@
       "points": 8,
       "comments": 0,
       "published_at": "2026-05-03T19:57:32Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3626942",
+      "title": "How the Gannon G5 Solar Storm Pushed the World’s Largest Satellite Constellation to Its Limits",
+      "description": "In May 2024, Earth was hit by the strongest geomagnetic storm of Solar Cycle 25.  The event — now...",
+      "url": "https://dev.to/shantanujuvekar/how-the-gannon-g5-solar-storm-pushed-the-worlds-largest-satellite-constellation-to-its-limits-4k23",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-05-07T12:05:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,6 +679,19 @@
       "tags": []
     },
     {
+      "id": "devto-3637552",
+      "title": "Nine Seconds, No Backups: An Agent’s “Confession”",
+      "description": "The PocketOS story: Cursor, Claude Opus 4.6, Railway — and the gap between “we have evals” and what...",
+      "url": "https://dev.to/seekdb/nine-seconds-no-backups-an-agents-confession-k11",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-05-09T02:44:35Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3606400",
       "title": "You got selected for GSoC 2026, now what?",
       "description": "So your inbox lit up yesterday with the email. The proposal worked, the interviews worked, the...",
@@ -653,14 +705,27 @@
       "tags": []
     },
     {
-      "id": "devto-3601378",
-      "title": "I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup",
-      "description": "A friend asked me to recommend a free invoice generator yesterday. I opened the first ten results on...",
-      "url": "https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81",
+      "id": "devto-3615349",
+      "title": "TraceMind v3 — I built an AI agent that diagnoses why your LLM quality dropped",
+      "description": "Previous posts: v2 — hallucination detection + A/B testing     The most common question I got after...",
+      "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v3-i-built-an-ai-agent-that-diagnoses-why-your-llm-quality-dropped-921",
       "source": "dev.to",
       "points": 7,
-      "comments": 3,
-      "published_at": "2026-05-02T19:51:53Z",
+      "comments": 5,
+      "published_at": "2026-05-05T12:25:42Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3608443",
+      "title": "LLM Behavior Diff Model Update Detector",
+      "description": "You swap a model. The new one scores better on your benchmarks. You deploy it. Two days later, a user...",
+      "url": "https://dev.to/nilofer_tweets/llm-behavior-diff-model-update-detector-3e7b",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-05-04T11:18:41Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -713,71 +778,6 @@
       "points": 5,
       "comments": 1,
       "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3596144",
-      "title": "Attention Is All You Need - Part 4",
-      "description": "Hello, I'm Ganesh. I'm building git-lrc, an AI code reviewer that runs on every commit. It is free,...",
-      "url": "https://dev.to/ganesh-kumar/attention-is-all-you-need-part-4-i21",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-05-01T12:57:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3626942",
-      "title": "How the Gannon G5 Solar Storm Pushed the World’s Largest Satellite Constellation to Its Limits",
-      "description": "In May 2024, Earth was hit by the strongest geomagnetic storm of Solar Cycle 25.  The event — now...",
-      "url": "https://dev.to/shantanujuvekar/how-the-gannon-g5-solar-storm-pushed-the-worlds-largest-satellite-constellation-to-its-limits-4k23",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-05-07T12:05:02Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3610291",
-      "title": "I built a 4-week hackathon focused entirely on real-world debugging instead of Leetcode problems",
-      "description": "Most coding platforms train engineers to solve isolated algorithm problems.  But in real engineering,...",
-      "url": "https://dev.to/vulcanwm/i-built-a-4-week-hackathon-focused-entirely-on-real-world-debugging-instead-of-leetcode-problems-2dgp",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-05-04T17:38:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3609531",
-      "title": "Introducing the AI Model Directory",
-      "description": "Today, we're open-sourcing the AI Model Directory, the most comprehensive list of AI models and their metadata to date",
-      "url": "https://dev.to/agent-one/introducing-the-ai-model-directory-43jd",
-      "source": "dev.to",
-      "points": 4,
-      "comments": 1,
-      "published_at": "2026-05-04T14:33:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3621135",
-      "title": "Compare LLM API Costs Across Providers",
-      "description": "Choosing a model shouldn't mean opening five browser tabs and doing math. But that's the current...",
-      "url": "https://dev.to/madeburo/compare-llm-api-costs-across-providers-16f5",
-      "source": "dev.to",
-      "points": 4,
-      "comments": 0,
-      "published_at": "2026-05-06T12:30:44Z",
       "summary": "",
       "category": "all",
       "tags": []
