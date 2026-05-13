@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T06:50:35Z",
+  "updated_at": "2026-05-13T06:54:15Z",
   "count": 60,
   "articles": [
     {
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "hn-38516795",
+      "title": "Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP",
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id=38516795",
+      "source": "news.ycombinator.com",
+      "points": 122,
+      "comments": 77,
+      "published_at": "2023-12-04T13:10:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -354,6 +367,19 @@
       "tags": []
     },
     {
+      "id": "hn-40493026",
+      "title": "I spent a year and $5,700 to see if ChatGPT can beat the market (S&P 500)",
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id=40493026",
+      "source": "news.ycombinator.com",
+      "points": 39,
+      "comments": 42,
+      "published_at": "2024-05-27T17:56:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -362,6 +388,19 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3620894",
+      "title": "Not Open Source Not Interested",
+      "description": "commentary on why I'm only interested in finding/using software when it is Open Source",
+      "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 1,
+      "published_at": "2026-05-06T11:59:05Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -406,19 +445,6 @@
       "tags": []
     },
     {
-      "id": "devto-3620894",
-      "title": "Not Open Source Not Interested",
-      "description": "commentary on why I'm only interested in finding/using software when it is Open Source",
-      "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 0,
-      "published_at": "2026-05-06T11:59:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -445,6 +471,19 @@
       "tags": []
     },
     {
+      "id": "devto-3623297",
+      "title": "Mac-Only? Just Fork It",
+      "description": "TLDR - A friend showed me a small macOS-only menu bar app that lists local dev ports. I'm one of the...",
+      "url": "https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 0,
+      "published_at": "2026-05-06T23:26:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3635605",
       "title": "Internal Architecture of Neural Networks",
       "description": "Hello, I'm Ganesh. I'm building git-lrc, an AI code reviewer that runs on every commit. It is free,...",
@@ -458,27 +497,14 @@
       "tags": []
     },
     {
-      "id": "devto-3623297",
-      "title": "Mac-Only? Just Fork It",
-      "description": "TLDR - A friend showed me a small macOS-only menu bar app that lists local dev ports. I'm one of the...",
-      "url": "https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka",
+      "id": "devto-3651421",
+      "title": "AI boyfriends are 10x bigger than AI girlfriends",
+      "description": "Before getting to the number in the title, I need to start somewhere else.  Nightlife is dead. I've...",
+      "url": "https://dev.to/michael_trifonov_0cb74f99/ai-boyfriends-are-10x-bigger-than-ai-girlfriends-3n7c",
       "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-05-06T23:26:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3617001",
-      "title": "Understanding Decoder-Only Transformers Part 1: Masked Self-Attention",
-      "description": "Decoder-Only Transformers   In this article, we will explore decoder-only...",
-      "url": "https://dev.to/rijultp/understanding-decoder-only-transformers-part-1-masked-self-attention-mf8",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 0,
-      "published_at": "2026-05-05T19:25:51Z",
+      "points": 14,
+      "comments": 9,
+      "published_at": "2026-05-11T16:43:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -529,8 +555,34 @@
       "url": "https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017",
       "source": "dev.to",
       "points": 13,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-05-10T14:28:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3652156",
+      "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
+      "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
+      "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 8,
+      "published_at": "2026-05-11T20:04:24Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "hn-31506470",
+      "title": "Show HN: Never forget what you've learned",
+      "description": "",
+      "url": "https://saveall.ai/landing/hacker-news",
+      "source": "saveall.ai",
+      "points": 12,
+      "comments": 9,
+      "published_at": "2022-05-25T16:04:01Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,6 +640,19 @@
       "tags": []
     },
     {
+      "id": "devto-3652000",
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 2,
+      "published_at": "2026-05-12T04:17:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3630376",
       "title": "Real Startup Engineering Lessons From 4+ Years of Experience",
       "description": "How It All Began   I joined a startup during my final semester of college  full of dreams,...",
@@ -601,27 +666,27 @@
       "tags": []
     },
     {
-      "id": "devto-3640484",
-      "title": "How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code",
-      "description": "A step-by-step guide to Amazon Bedrock's model evaluation feature  from S3 setup to reading real...",
-      "url": "https://dev.to/tidding/how-i-evaluated-an-ai-model-on-aws-without-writing-a-single-line-of-training-code-20o9",
+      "id": "devto-3653596",
+      "title": "I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture",
+      "description": "ARE EXTRA SERVICES BURNING YOUR TOKENS?   I built an autonomous AI trading agent that runs...",
+      "url": "https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292",
       "source": "dev.to",
       "points": 8,
-      "comments": 1,
-      "published_at": "2026-05-09T13:26:57Z",
+      "comments": 2,
+      "published_at": "2026-05-12T04:26:19Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3614794",
-      "title": "Building Scync: Why I made a Zero-Knowledge Secrets Manager for us, Developers.",
-      "description": "You have 47 API keys. You know where exactly zero of them are.    Your secrets are scattered across a...",
-      "url": "https://dev.to/hariharen/building-scync-why-i-wrote-a-zero-knowledge-secrets-manager-for-us-developers-15kc",
+      "id": "devto-3657515",
+      "title": "How I Taught My Offline AI to Remember, Watch, and Warn, Without Any Cloud (Part 2)",
+      "description": "Part 1 covered how hck_GPT routes messages through 9 layers and decides between rules and a local...",
+      "url": "https://dev.to/huckler/how-i-taught-my-offline-ai-to-remember-watch-and-warn-without-any-cloud-part-2-5hib",
       "source": "dev.to",
       "points": 8,
       "comments": 1,
-      "published_at": "2026-05-05T11:12:55Z",
+      "published_at": "2026-05-12T15:17:33Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,6 +718,32 @@
       "tags": []
     },
     {
+      "id": "devto-3632919",
+      "title": "Why comparing average scores is the wrong way to evaluate LLM prompts (and what to do instead)",
+      "description": "Most teams compare prompts like this:  Prompt A average score: 6.8 Prompt B average score: 7.4  \"B is...",
+      "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/why-comparing-average-scores-is-the-wrong-way-to-evaluate-llm-prompts-and-what-to-do-instead-1li",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 4,
+      "published_at": "2026-05-08T10:20:59Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3657590",
+      "title": "Engineering Agent Memory",
+      "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
+      "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 10,
+      "published_at": "2026-05-12T15:35:47Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3638170",
       "title": "App Store Rejected? 4 Compliance Mistakes Social App Developers Keep Making",
       "description": "TL;DR   After 7 years building social apps for global markets, here are 4 compliance and...",
@@ -661,32 +752,6 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-05-09T05:47:16Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3615349",
-      "title": "TraceMind v3 — I built an AI agent that diagnoses why your LLM quality dropped",
-      "description": "Previous posts: v2 — hallucination detection + A/B testing     The most common question I got after...",
-      "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v3-i-built-an-ai-agent-that-diagnoses-why-your-llm-quality-dropped-921",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 5,
-      "published_at": "2026-05-05T12:25:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3652156",
-      "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
-      "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
-      "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 1,
-      "published_at": "2026-05-11T20:04:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -705,79 +770,14 @@
       "tags": []
     },
     {
-      "id": "devto-3645005",
-      "title": "The Barbell Founder: Why I Chose to be a Part-timer to Protect My Startup",
-      "description": "Stop optimizing for nominal wages. Start optimizing for cognitive surplus and time sovereignty.   In...",
-      "url": "https://dev.to/kheai/the-barbell-founder-why-i-chose-to-be-a-part-timer-to-protect-my-startup-31pb",
-      "source": "dev.to",
+      "id": "hn-36325707",
+      "title": "Framework to compare LLMs (GPT-4 v/s 3.5 vs. Anthropic Claude v/s Cohere)",
+      "description": "",
+      "url": "https://www.activeloop.ai/resources/how-to-compare-large-language-models-gpt-4-3-5-vs-anthropic-claude-vs-cohere/",
+      "source": "activeloop.ai",
       "points": 6,
-      "comments": 1,
-      "published_at": "2026-05-10T14:50:07Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3616412",
-      "title": "I Trained My Own LLM from Scratch in 2025: What That Viral HN Tutorial Doesn't Tell You About the Real Cost",
-      "description": "I followed the viral 241-point HN tutorial and documented every dollar spent, every GPU hour, and every disappointment. My thesis: training an LLM from scratch in 2025 is a valid technical exercise, but calling it \"an alternative to Claude\" is lying to yourself.",
-      "url": "https://dev.to/jtorchia/i-trained-my-own-llm-from-scratch-in-2025-what-that-viral-hn-tutorial-doesnt-tell-you-about-the-l66",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-05-05T16:30:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3632919",
-      "title": "Why comparing average scores is the wrong way to evaluate LLM prompts (and what to do instead)",
-      "description": "Most teams compare prompts like this:  Prompt A average score: 6.8 Prompt B average score: 7.4  \"B is...",
-      "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/why-comparing-average-scores-is-the-wrong-way-to-evaluate-llm-prompts-and-what-to-do-instead-1li",
-      "source": "dev.to",
-      "points": 5,
       "comments": 0,
-      "published_at": "2026-05-08T10:20:59Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3641066",
-      "title": "How to Deploy a Machine Learning Project on AWS Using ECR, ECS Fargate, and EFS.",
-      "description": "A step-by-step walkthrough from Docker image to a live, serverless ML application running in the...",
-      "url": "https://dev.to/tendong_brain/how-to-deploy-a-machine-learning-project-on-aws-using-ecr-ecs-fargate-and-efs-kh1",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-05-09T15:39:37Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3627582",
-      "title": "AI Isn’t “Inspired” by Human Writing. It Is Built on Unpaid Intellectual Labor",
-      "description": "Large language models do not only copy sentences. They absorb human knowledge, recombine it, and...",
-      "url": "https://dev.to/agustin_v_startari/ai-isnt-inspired-by-human-writing-it-is-built-on-unpaid-intellectual-labor-2h5d",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-05-07T14:15:47Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3641175",
-      "title": "Why Your AI Character Keeps Breaking Under Pressure (And What I Built Instead of Yet Another System Prompt)",
-      "description": "TL;DR: I shipped FIVE, an open-source MCP server that generates JSON personality constraints for any...",
-      "url": "https://dev.to/kiro0x/why-your-ai-character-keeps-breaking-under-pressure-and-what-i-built-instead-of-yet-another-system-n4k",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-05-09T16:15:26Z",
+      "published_at": "2023-06-14T13:36:56Z",
       "summary": "",
       "category": "all",
       "tags": []
