@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T06:54:15Z",
+  "updated_at": "2026-05-14T06:53:23Z",
   "count": 60,
   "articles": [
     {
@@ -289,19 +289,6 @@
       "tags": []
     },
     {
-      "id": "hn-38516795",
-      "title": "Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP",
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id=38516795",
-      "source": "news.ycombinator.com",
-      "points": 122,
-      "comments": 77,
-      "published_at": "2023-12-04T13:10:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -367,19 +354,6 @@
       "tags": []
     },
     {
-      "id": "hn-40493026",
-      "title": "I spent a year and $5,700 to see if ChatGPT can beat the market (S&P 500)",
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id=40493026",
-      "source": "news.ycombinator.com",
-      "points": 39,
-      "comments": 42,
-      "published_at": "2024-05-27T17:56:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -388,32 +362,6 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3620894",
-      "title": "Not Open Source Not Interested",
-      "description": "commentary on why I'm only interested in finding/using software when it is Open Source",
-      "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf",
-      "source": "dev.to",
-      "points": 30,
-      "comments": 1,
-      "published_at": "2026-05-06T11:59:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3620225",
-      "title": "A much faster mgsub",
-      "description": "Celebrating a new release of the 1154th most download R package!",
-      "url": "https://dev.to/pofigster/a-much-faster-mgsub-46f",
-      "source": "dev.to",
-      "points": 29,
-      "comments": 0,
-      "published_at": "2026-05-06T12:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,14 +419,14 @@
       "tags": []
     },
     {
-      "id": "devto-3623297",
-      "title": "Mac-Only? Just Fork It",
-      "description": "TLDR - A friend showed me a small macOS-only menu bar app that lists local dev ports. I'm one of the...",
-      "url": "https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka",
+      "id": "devto-3651421",
+      "title": "AI boyfriends are 10x bigger than AI girlfriends",
+      "description": "Before getting to the number in the title, I need to start somewhere else.  Nightlife is dead. I've...",
+      "url": "https://dev.to/michael_trifonov_0cb74f99/ai-boyfriends-are-10x-bigger-than-ai-girlfriends-3n7c",
       "source": "dev.to",
-      "points": 17,
-      "comments": 0,
-      "published_at": "2026-05-06T23:26:00Z",
+      "points": 16,
+      "comments": 9,
+      "published_at": "2026-05-11T16:43:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,14 +445,14 @@
       "tags": []
     },
     {
-      "id": "devto-3651421",
-      "title": "AI boyfriends are 10x bigger than AI girlfriends",
-      "description": "Before getting to the number in the title, I need to start somewhere else.  Nightlife is dead. I've...",
-      "url": "https://dev.to/michael_trifonov_0cb74f99/ai-boyfriends-are-10x-bigger-than-ai-girlfriends-3n7c",
+      "id": "devto-3652156",
+      "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
+      "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
+      "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
       "source": "dev.to",
       "points": 14,
-      "comments": 9,
-      "published_at": "2026-05-11T16:43:02Z",
+      "comments": 8,
+      "published_at": "2026-05-11T20:04:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -555,34 +503,21 @@
       "url": "https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017",
       "source": "dev.to",
       "points": 13,
-      "comments": 3,
+      "comments": 4,
       "published_at": "2026-05-10T14:28:54Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3652156",
-      "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
-      "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
-      "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
+      "id": "devto-3657590",
+      "title": "Engineering Agent Memory",
+      "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
+      "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
       "source": "dev.to",
       "points": 12,
-      "comments": 8,
-      "published_at": "2026-05-11T20:04:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-31506470",
-      "title": "Show HN: Never forget what you've learned",
-      "description": "",
-      "url": "https://saveall.ai/landing/hacker-news",
-      "source": "saveall.ai",
-      "points": 12,
-      "comments": 9,
-      "published_at": "2022-05-25T16:04:01Z",
+      "comments": 26,
+      "published_at": "2026-05-12T15:35:47Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,6 +562,19 @@
       "tags": []
     },
     {
+      "id": "devto-3653596",
+      "title": "I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture",
+      "description": "ARE EXTRA SERVICES BURNING YOUR TOKENS?   I built an autonomous AI trading agent that runs...",
+      "url": "https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 4,
+      "published_at": "2026-05-12T04:26:19Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -659,21 +607,8 @@
       "url": "https://dev.to/programmerraja/real-startup-engineering-lessons-from-4-years-of-experience-5fh7",
       "source": "dev.to",
       "points": 9,
-      "comments": 0,
+      "comments": 1,
       "published_at": "2026-05-08T04:13:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3653596",
-      "title": "I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture",
-      "description": "ARE EXTRA SERVICES BURNING YOUR TOKENS?   I built an autonomous AI trading agent that runs...",
-      "url": "https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 2,
-      "published_at": "2026-05-12T04:26:19Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,14 +666,14 @@
       "tags": []
     },
     {
-      "id": "devto-3657590",
-      "title": "Engineering Agent Memory",
-      "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
-      "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
+      "id": "devto-3658711",
+      "title": "Prompting Is Not Magic. It Is Control.",
+      "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
+      "url": "https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i",
       "source": "dev.to",
       "points": 7,
-      "comments": 10,
-      "published_at": "2026-05-12T15:35:47Z",
+      "comments": 13,
+      "published_at": "2026-05-12T20:40:31Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,6 +692,19 @@
       "tags": []
     },
     {
+      "id": "devto-3641175",
+      "title": "Why Your AI Character Keeps Breaking Under Pressure (And What I Built Instead of Yet Another System Prompt)",
+      "description": "TL;DR: I shipped FIVE, an open-source MCP server that generates JSON personality constraints for any...",
+      "url": "https://dev.to/kiro0x/why-your-ai-character-keeps-breaking-under-pressure-and-what-i-built-instead-of-yet-another-system-n4k",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-05-09T16:15:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -770,14 +718,66 @@
       "tags": []
     },
     {
-      "id": "hn-36325707",
-      "title": "Framework to compare LLMs (GPT-4 v/s 3.5 vs. Anthropic Claude v/s Cohere)",
-      "description": "",
-      "url": "https://www.activeloop.ai/resources/how-to-compare-large-language-models-gpt-4-3-5-vs-anthropic-claude-vs-cohere/",
-      "source": "activeloop.ai",
+      "id": "devto-3645005",
+      "title": "The Barbell Founder: Why I Chose to be a Part-timer to Protect My Startup",
+      "description": "Stop optimizing for nominal wages. Start optimizing for cognitive surplus and time sovereignty.   In...",
+      "url": "https://dev.to/kheai/the-barbell-founder-why-i-chose-to-be-a-part-timer-to-protect-my-startup-31pb",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-05-10T14:50:07Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3650802",
+      "title": "From 0 to 20 Chapters: My Story‑Driven Rust Book for Kids Now Has a Bilingual Interactive Demo",
+      "description": "🦀 The Land of Rust – A Space Crab Teaches Kids (and Adults) to Code   A few months ago I...",
+      "url": "https://dev.to/born1987ir/from-0-to-20-chapters-my-story-driven-rust-book-for-kids-now-has-a-bilingual-interactive-demo-a1c",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 4,
+      "published_at": "2026-05-11T14:14:28Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3660265",
+      "title": "A search engine for places that look alike",
+      "description": "I open sourced Similar Earth, a tool that lets you drop a pin anywhere on the planet and find every...",
+      "url": "https://dev.to/riospablo/a-search-engine-for-places-that-look-alike-2fhb",
+      "source": "dev.to",
       "points": 6,
       "comments": 0,
-      "published_at": "2023-06-14T13:36:56Z",
+      "published_at": "2026-05-13T05:35:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3641066",
+      "title": "How to Deploy a Machine Learning Project on AWS Using ECR, ECS Fargate, and EFS.",
+      "description": "A step-by-step walkthrough from Docker image to a live, serverless ML application running in the...",
+      "url": "https://dev.to/tendong_brain/how-to-deploy-a-machine-learning-project-on-aws-using-ecr-ecs-fargate-and-efs-kh1",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 2,
+      "published_at": "2026-05-09T15:39:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3634876",
+      "title": "AI Agents Have Two Souls. You Only Control One",
+      "description": "Everyone seems to be building AI agents now. But ask ten developers what an AI agent actually is, and...",
+      "url": "https://dev.to/auth0/ai-agents-have-two-souls-you-only-control-one-3bm4",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 2,
+      "published_at": "2026-05-08T16:04:16Z",
       "summary": "",
       "category": "all",
       "tags": []
