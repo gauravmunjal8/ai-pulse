@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T06:53:23Z",
+  "updated_at": "2026-05-15T06:58:24Z",
   "count": 60,
   "articles": [
     {
@@ -424,7 +424,7 @@
       "description": "Before getting to the number in the title, I need to start somewhere else.  Nightlife is dead. I've...",
       "url": "https://dev.to/michael_trifonov_0cb74f99/ai-boyfriends-are-10x-bigger-than-ai-girlfriends-3n7c",
       "source": "dev.to",
-      "points": 16,
+      "points": 17,
       "comments": 9,
       "published_at": "2026-05-11T16:43:02Z",
       "summary": "",
@@ -445,27 +445,27 @@
       "tags": []
     },
     {
+      "id": "devto-3657590",
+      "title": "Engineering Agent Memory",
+      "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
+      "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 57,
+      "published_at": "2026-05-12T15:35:47Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3652156",
       "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
       "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
       "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
       "source": "dev.to",
       "points": 14,
-      "comments": 8,
+      "comments": 10,
       "published_at": "2026-05-11T20:04:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3624003",
-      "title": "Anthropic just rented Elon Musk's data center. The price of a Claude token is about to make sense.",
-      "description": "A 300 megawatt deal, a $180 a month decision, and the strange feeling of having a vendor solve your...",
-      "url": "https://dev.to/thegdsks/anthropic-just-rented-elon-musks-data-center-the-price-of-a-claude-token-is-about-to-make-sense-lc3",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 1,
-      "published_at": "2026-05-07T13:25:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -505,45 +505,6 @@
       "points": 13,
       "comments": 4,
       "published_at": "2026-05-10T14:28:54Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3657590",
-      "title": "Engineering Agent Memory",
-      "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
-      "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 26,
-      "published_at": "2026-05-12T15:35:47Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3626942",
-      "title": "How the Gannon G5 Solar Storm Pushed the World’s Largest Satellite Constellation to Its Limits",
-      "description": "In May 2024, Earth was hit by the strongest geomagnetic storm of Solar Cycle 25.  The event — now...",
-      "url": "https://dev.to/shantanujuvekar/how-the-gannon-g5-solar-storm-pushed-the-worlds-largest-satellite-constellation-to-its-limits-4k23",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 0,
-      "published_at": "2026-05-07T12:05:02Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3628232",
-      "title": "I’m Building a Cozy Ambience App in React (Sounds, Presets & Chat)",
-      "description": "I’ve been building a cozy ambience app with React. The idea started pretty simple: a space where...",
-      "url": "https://dev.to/fame/im-building-a-cozy-ambience-app-in-react-sounds-presets-chat-54oa",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 1,
-      "published_at": "2026-05-07T16:55:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -601,14 +562,14 @@
       "tags": []
     },
     {
-      "id": "devto-3630376",
-      "title": "Real Startup Engineering Lessons From 4+ Years of Experience",
-      "description": "How It All Began   I joined a startup during my final semester of college  full of dreams,...",
-      "url": "https://dev.to/programmerraja/real-startup-engineering-lessons-from-4-years-of-experience-5fh7",
+      "id": "devto-3658711",
+      "title": "Prompting Is Not Magic. It Is Control.",
+      "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
+      "url": "https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i",
       "source": "dev.to",
       "points": 9,
-      "comments": 1,
-      "published_at": "2026-05-08T04:13:22Z",
+      "comments": 19,
+      "published_at": "2026-05-12T20:40:31Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -661,19 +622,6 @@
       "points": 7,
       "comments": 4,
       "published_at": "2026-05-08T10:20:59Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3658711",
-      "title": "Prompting Is Not Magic. It Is Control.",
-      "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
-      "url": "https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 13,
-      "published_at": "2026-05-12T20:40:31Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -770,6 +718,19 @@
       "tags": []
     },
     {
+      "id": "devto-3669239",
+      "title": "SPEC-TO-SHIP: A Multi-Agent Pipeline That Turns Feature Ideas Into Production Code",
+      "description": "Writing a feature spec and getting it to production involves a lot of steps, architecture decisions,...",
+      "url": "https://dev.to/nilofer_tweets/spec-to-ship-a-multi-agent-pipeline-that-turns-feature-ideas-into-production-code-5e86",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-05-14T11:10:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3634876",
       "title": "AI Agents Have Two Souls. You Only Control One",
       "description": "Everyone seems to be building AI agents now. But ask ten developers what an AI agent actually is, and...",
@@ -778,6 +739,45 @@
       "points": 5,
       "comments": 2,
       "published_at": "2026-05-08T16:04:16Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3655667",
+      "title": "Agentic code review in production: orchestration, evaluation, and the cost of being wrong",
+      "description": "What \"agentic\" actually buys you over a linter, why single-model approaches stall, and why false...",
+      "url": "https://dev.to/prakharsingh_17/agentic-code-review-in-production-orchestration-evaluation-and-the-cost-of-being-wrong-3090",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 3,
+      "published_at": "2026-05-12T09:29:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3647330",
+      "title": "I Stress-Tested 3 AI Agent Gateways (WorldClaw, B.AI, TokenMix.ai). Only One Was Ready for Production.",
+      "description": "Three platforms launched between Q4 2025 and Q2 2026 want to be the default gateway for autonomous...",
+      "url": "https://dev.to/tokenmixai/i-stress-tested-3-ai-agent-gateways-worldclaw-bai-tokenmixai-only-one-was-ready-for-5g76",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 4,
+      "published_at": "2026-05-11T06:22:52Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "hn-34634357",
+      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
+      "description": "",
+      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
+      "source": "theregister.com",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2023-02-02T22:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
