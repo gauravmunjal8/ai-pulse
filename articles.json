@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T06:58:24Z",
+  "updated_at": "2026-05-16T06:41:26Z",
   "count": 60,
   "articles": [
     {
@@ -393,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-3656719",
+      "title": "Codex Chrome Extension Not Available? Here’s What’s Happening",
+      "description": "OpenAI recently launched the new Codex Chrome extension, but many developers immediately ran into the...",
+      "url": "https://dev.to/alifar/codex-chrome-extension-not-available-heres-whats-happening-l0l",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 13,
+      "published_at": "2026-05-12T12:12:20Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -401,6 +414,19 @@
       "points": 26,
       "comments": 6,
       "published_at": "2024-09-12T11:11:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3657590",
+      "title": "Engineering Agent Memory",
+      "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
+      "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 75,
+      "published_at": "2026-05-12T15:35:47Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -432,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-3652156",
+      "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
+      "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
+      "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 10,
+      "published_at": "2026-05-11T20:04:24Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3635605",
       "title": "Internal Architecture of Neural Networks",
       "description": "Hello, I'm Ganesh. I'm building git-lrc, an AI code reviewer that runs on every commit. It is free,...",
@@ -445,40 +484,14 @@
       "tags": []
     },
     {
-      "id": "devto-3657590",
-      "title": "Engineering Agent Memory",
-      "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
-      "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 57,
-      "published_at": "2026-05-12T15:35:47Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3652156",
-      "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
-      "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
-      "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
+      "id": "devto-3644950",
+      "title": "How I Got Into Google Summer of Code (GSoC) 2026 as a Tier-3 MCA Student",
+      "description": "Three attempts. Two internships with no stipend. Zero campus placements. One GSoC selection.  This is...",
+      "url": "https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017",
       "source": "dev.to",
       "points": 14,
-      "comments": 10,
-      "published_at": "2026-05-11T20:04:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3627456",
-      "title": "Why 1000 != 1000 in Payments",
-      "description": "Money is deceptively simple. You have an amount, you have a currency. How hard can it be?  Turns out...",
-      "url": "https://dev.to/gopikrishna000/why-1000-1000-in-payments-38hb",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 0,
-      "published_at": "2026-05-07T14:43:41Z",
+      "comments": 5,
+      "published_at": "2026-05-10T14:28:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,14 +510,27 @@
       "tags": []
     },
     {
-      "id": "devto-3644950",
-      "title": "How I Got Into Google Summer of Code (GSoC) 2026 as a Tier-3 MCA Student",
-      "description": "Three attempts. Two internships with no stipend. Zero campus placements. One GSoC selection.  This is...",
-      "url": "https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017",
+      "id": "devto-3658711",
+      "title": "Prompting Is Not Magic. It Is Control.",
+      "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
+      "url": "https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i",
       "source": "dev.to",
-      "points": 13,
-      "comments": 4,
-      "published_at": "2026-05-10T14:28:54Z",
+      "points": 11,
+      "comments": 23,
+      "published_at": "2026-05-12T20:40:31Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3653596",
+      "title": "I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture",
+      "description": "ARE EXTRA SERVICES BURNING YOUR TOKENS?   I built an autonomous AI trading agent that runs...",
+      "url": "https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 5,
+      "published_at": "2026-05-12T04:26:19Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,14 +549,14 @@
       "tags": []
     },
     {
-      "id": "devto-3653596",
-      "title": "I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture",
-      "description": "ARE EXTRA SERVICES BURNING YOUR TOKENS?   I built an autonomous AI trading agent that runs...",
-      "url": "https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292",
+      "id": "devto-3660265",
+      "title": "A search engine for places that look alike",
+      "description": "I open sourced Similar Earth, a tool that lets you drop a pin anywhere on the planet and find every...",
+      "url": "https://dev.to/riospablo/a-search-engine-for-places-that-look-alike-2fhb",
       "source": "dev.to",
       "points": 10,
-      "comments": 4,
-      "published_at": "2026-05-12T04:26:19Z",
+      "comments": 0,
+      "published_at": "2026-05-13T05:35:50Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,14 +588,14 @@
       "tags": []
     },
     {
-      "id": "devto-3658711",
-      "title": "Prompting Is Not Magic. It Is Control.",
-      "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
-      "url": "https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i",
+      "id": "devto-3655323",
+      "title": "OpenSEO Has 1.7k GitHub Stars. I Built the Same Thing for $0.",
+      "description": "I saw OpenSEO trending and did what every developer does.  I starred it before reading the...",
+      "url": "https://dev.to/dannwaneri/openseo-has-17k-github-stars-i-built-the-same-thing-for-0-1dip",
       "source": "dev.to",
-      "points": 9,
-      "comments": 19,
-      "published_at": "2026-05-12T20:40:31Z",
+      "points": 8,
+      "comments": 8,
+      "published_at": "2026-05-14T14:37:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,19 +640,6 @@
       "tags": []
     },
     {
-      "id": "devto-3632919",
-      "title": "Why comparing average scores is the wrong way to evaluate LLM prompts (and what to do instead)",
-      "description": "Most teams compare prompts like this:  Prompt A average score: 6.8 Prompt B average score: 7.4  \"B is...",
-      "url": "https://dev.to/aayush_kumarsingh_6ee1ffe/why-comparing-average-scores-is-the-wrong-way-to-evaluate-llm-prompts-and-what-to-do-instead-1li",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 4,
-      "published_at": "2026-05-08T10:20:59Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3638170",
       "title": "App Store Rejected? 4 Compliance Mistakes Social App Developers Keep Making",
       "description": "TL;DR   After 7 years building social apps for global markets, here are 4 compliance and...",
@@ -635,6 +648,32 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-05-09T05:47:16Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3668395",
+      "title": "Great Little Software: Theo & Vangogh",
+      "description": "Theodorus van Gogh (1 May 1857 – 25 January 1891) was a Dutch art dealer and the younger brother of...",
+      "url": "https://dev.to/valeriavg/great-little-software-theo-vangogh-2n07",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-05-14T08:49:34Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3666877",
+      "title": "I Ran SERP Feature Detection on 8 Nigerian Creator Queries. Every Single One Had an AI Overview.",
+      "description": "I built a SERP feature detection module for my SEO agent. Then I ran it on the queries I'm targeting...",
+      "url": "https://dev.to/dannwaneri/i-ran-serp-feature-detection-on-8-nigerian-creator-queries-every-single-one-had-an-ai-overview-51ko",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-05-14T14:40:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,6 +718,19 @@
       "tags": []
     },
     {
+      "id": "devto-3641272",
+      "title": "I built a tool to generate academic PDFs from Markdown without installing LaTeX",
+      "description": "I built a tool to generate academic PDFs from Markdown without  installing LaTeX on your system....",
+      "url": "https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-05-09T17:50:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3650802",
       "title": "From 0 to 20 Chapters: My Story‑Driven Rust Book for Kids Now Has a Bilingual Interactive Demo",
       "description": "🦀 The Land of Rust – A Space Crab Teaches Kids (and Adults) to Code   A few months ago I...",
@@ -687,19 +739,6 @@
       "points": 6,
       "comments": 4,
       "published_at": "2026-05-11T14:14:28Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3660265",
-      "title": "A search engine for places that look alike",
-      "description": "I open sourced Similar Earth, a tool that lets you drop a pin anywhere on the planet and find every...",
-      "url": "https://dev.to/riospablo/a-search-engine-for-places-that-look-alike-2fhb",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-05-13T05:35:50Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,19 +770,6 @@
       "tags": []
     },
     {
-      "id": "devto-3634876",
-      "title": "AI Agents Have Two Souls. You Only Control One",
-      "description": "Everyone seems to be building AI agents now. But ask ten developers what an AI agent actually is, and...",
-      "url": "https://dev.to/auth0/ai-agents-have-two-souls-you-only-control-one-3bm4",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-05-08T16:04:16Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3655667",
       "title": "Agentic code review in production: orchestration, evaluation, and the cost of being wrong",
       "description": "What \"agentic\" actually buys you over a linter, why single-model approaches stall, and why false...",
@@ -752,32 +778,6 @@
       "points": 5,
       "comments": 3,
       "published_at": "2026-05-12T09:29:37Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3647330",
-      "title": "I Stress-Tested 3 AI Agent Gateways (WorldClaw, B.AI, TokenMix.ai). Only One Was Ready for Production.",
-      "description": "Three platforms launched between Q4 2025 and Q2 2026 want to be the default gateway for autonomous...",
-      "url": "https://dev.to/tokenmixai/i-stress-tested-3-ai-agent-gateways-worldclaw-bai-tokenmixai-only-one-was-ready-for-5g76",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 4,
-      "published_at": "2026-05-11T06:22:52Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
