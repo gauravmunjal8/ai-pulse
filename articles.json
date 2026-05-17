@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T06:41:26Z",
+  "updated_at": "2026-05-17T06:51:33Z",
   "count": 60,
   "articles": [
     {
@@ -425,7 +425,7 @@
       "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
       "source": "dev.to",
       "points": 19,
-      "comments": 75,
+      "comments": 77,
       "published_at": "2026-05-12T15:35:47Z",
       "summary": "",
       "category": "all",
@@ -464,21 +464,8 @@
       "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
       "source": "dev.to",
       "points": 16,
-      "comments": 10,
+      "comments": 11,
       "published_at": "2026-05-11T20:04:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3635605",
-      "title": "Internal Architecture of Neural Networks",
-      "description": "Hello, I'm Ganesh. I'm building git-lrc, an AI code reviewer that runs on every commit. It is free,...",
-      "url": "https://dev.to/ganesh-kumar/internal-architecture-of-neural-networks-4kkn",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-05-08T19:39:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -515,8 +502,8 @@
       "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
       "url": "https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i",
       "source": "dev.to",
-      "points": 11,
-      "comments": 23,
+      "points": 13,
+      "comments": 26,
       "published_at": "2026-05-12T20:40:31Z",
       "summary": "",
       "category": "all",
@@ -536,14 +523,14 @@
       "tags": []
     },
     {
-      "id": "devto-3637552",
-      "title": "Nine Seconds, No Backups: An Agent’s “Confession”",
-      "description": "The PocketOS story: Cursor, Claude Opus 4.6, Railway — and the gap between “we have evals” and what...",
-      "url": "https://dev.to/seekdb/nine-seconds-no-backups-an-agents-confession-k11",
+      "id": "devto-3652000",
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
       "source": "dev.to",
       "points": 10,
-      "comments": 1,
-      "published_at": "2026-05-09T02:44:35Z",
+      "comments": 2,
+      "published_at": "2026-05-12T04:17:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,14 +562,27 @@
       "tags": []
     },
     {
-      "id": "devto-3652000",
-      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
-      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
-      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
+      "id": "devto-3659774",
+      "title": "DeepMind’s CEO Says AGI May Be ~4 Years Away. The Last Three Missing Pieces Are Not What Most People Think.",
+      "description": "Three gaps — continual learning, long reasoning, memory — and why they decide whether agents ship...",
+      "url": "https://dev.to/seekdb/deepminds-ceo-says-agi-may-be-4-years-away-the-last-three-missing-pieces-are-not-what-most-19dl",
       "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-05-12T04:17:48Z",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-05-13T02:53:18Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3683750",
+      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
+      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
+      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 5,
+      "published_at": "2026-05-16T14:28:27Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,19 +640,6 @@
       "tags": []
     },
     {
-      "id": "devto-3638170",
-      "title": "App Store Rejected? 4 Compliance Mistakes Social App Developers Keep Making",
-      "description": "TL;DR   After 7 years building social apps for global markets, here are 4 compliance and...",
-      "url": "https://dev.to/luna_ll/app-store-rejected-4-compliance-mistakes-social-app-developers-keep-making-51m2",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-05-09T05:47:16Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3668395",
       "title": "Great Little Software: Theo & Vangogh",
       "description": "Theodorus van Gogh (1 May 1857 – 25 January 1891) was a Dutch art dealer and the younger brother of...",
@@ -674,19 +661,6 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-05-14T14:40:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3641175",
-      "title": "Why Your AI Character Keeps Breaking Under Pressure (And What I Built Instead of Yet Another System Prompt)",
-      "description": "TL;DR: I shipped FIVE, an open-source MCP server that generates JSON personality constraints for any...",
-      "url": "https://dev.to/kiro0x/why-your-ai-character-keeps-breaking-under-pressure-and-what-i-built-instead-of-yet-another-system-n4k",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-05-09T16:15:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,6 +718,32 @@
       "tags": []
     },
     {
+      "id": "devto-3641175",
+      "title": "Why Your AI Character Keeps Breaking Under Pressure (And What I Built Instead of Yet Another System Prompt)",
+      "description": "TL;DR: I shipped FIVE, an open-source MCP server that generates JSON personality constraints for any...",
+      "url": "https://dev.to/kiro0x/why-your-ai-character-keeps-breaking-under-pressure-and-what-i-built-instead-of-yet-another-system-n4k",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-05-09T16:15:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3665577",
+      "title": "I Asked 6 AIs to Pick a Random Number. Their Training Data Confessed Everything.",
+      "description": "An OSINT-style experiment exposing how LLMs pick 'random' numbers — and what their thought...",
+      "url": "https://dev.to/freerave/i-asked-6-ais-to-pick-a-random-number-their-training-data-confessed-everything-1516",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 8,
+      "published_at": "2026-05-13T18:40:15Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3641066",
       "title": "How to Deploy a Machine Learning Project on AWS Using ECR, ECS Fargate, and EFS.",
       "description": "A step-by-step walkthrough from Docker image to a live, serverless ML application running in the...",
@@ -770,14 +770,14 @@
       "tags": []
     },
     {
-      "id": "devto-3655667",
-      "title": "Agentic code review in production: orchestration, evaluation, and the cost of being wrong",
-      "description": "What \"agentic\" actually buys you over a linter, why single-model approaches stall, and why false...",
-      "url": "https://dev.to/prakharsingh_17/agentic-code-review-in-production-orchestration-evaluation-and-the-cost-of-being-wrong-3090",
+      "id": "devto-3671166",
+      "title": "If You Can Survive a Toddler, You Can Ship LLMs in Production",
+      "description": "A silent provider update once invalidated months of LLM-as-judge scores in a pipeline I owned. Here is what changed after, and why parenting taught me the same lesson twice.",
+      "url": "https://dev.to/sattensil888/if-you-can-survive-a-toddler-you-can-ship-llms-in-production-2389",
       "source": "dev.to",
       "points": 5,
-      "comments": 3,
-      "published_at": "2026-05-12T09:29:37Z",
+      "comments": 2,
+      "published_at": "2026-05-14T17:43:09Z",
       "summary": "",
       "category": "all",
       "tags": []
