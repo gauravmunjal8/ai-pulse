@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T06:51:33Z",
+  "updated_at": "2026-05-18T07:11:47Z",
   "count": 60,
   "articles": [
     {
@@ -341,6 +341,19 @@
       "tags": []
     },
     {
+      "id": "devto-3522448",
+      "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
+      "description": "I have been working on a side project for the past few weeks and finally got it polished enough to...",
+      "url": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
+      "source": "dev.to",
+      "points": 53,
+      "comments": 1,
+      "published_at": "2026-05-16T13:15:06Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -393,19 +406,6 @@
       "tags": []
     },
     {
-      "id": "devto-3656719",
-      "title": "Codex Chrome Extension Not Available? Here’s What’s Happening",
-      "description": "OpenAI recently launched the new Codex Chrome extension, but many developers immediately ran into the...",
-      "url": "https://dev.to/alifar/codex-chrome-extension-not-available-heres-whats-happening-l0l",
-      "source": "dev.to",
-      "points": 26,
-      "comments": 13,
-      "published_at": "2026-05-12T12:12:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -425,7 +425,7 @@
       "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
       "source": "dev.to",
       "points": 19,
-      "comments": 77,
+      "comments": 79,
       "published_at": "2026-05-12T15:35:47Z",
       "summary": "",
       "category": "all",
@@ -445,14 +445,14 @@
       "tags": []
     },
     {
-      "id": "devto-3651421",
-      "title": "AI boyfriends are 10x bigger than AI girlfriends",
-      "description": "Before getting to the number in the title, I need to start somewhere else.  Nightlife is dead. I've...",
-      "url": "https://dev.to/michael_trifonov_0cb74f99/ai-boyfriends-are-10x-bigger-than-ai-girlfriends-3n7c",
+      "id": "devto-3657515",
+      "title": "How I Taught My Offline AI to Remember, Watch, and Warn, Without Any Cloud (Part 2)",
+      "description": "Part 1 covered how hck_GPT routes messages through 9 layers and decides between rules and a local...",
+      "url": "https://dev.to/huckler/how-i-taught-my-offline-ai-to-remember-watch-and-warn-without-any-cloud-part-2-5hib",
       "source": "dev.to",
-      "points": 17,
-      "comments": 9,
-      "published_at": "2026-05-11T16:43:02Z",
+      "points": 18,
+      "comments": 1,
+      "published_at": "2026-05-12T15:17:33Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -463,22 +463,22 @@
       "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
       "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
       "source": "dev.to",
-      "points": 16,
-      "comments": 11,
+      "points": 17,
+      "comments": 14,
       "published_at": "2026-05-11T20:04:24Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3644950",
-      "title": "How I Got Into Google Summer of Code (GSoC) 2026 as a Tier-3 MCA Student",
-      "description": "Three attempts. Two internships with no stipend. Zero campus placements. One GSoC selection.  This is...",
-      "url": "https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017",
+      "id": "devto-3651421",
+      "title": "AI boyfriends are 10x bigger than AI girlfriends",
+      "description": "Before getting to the number in the title, I need to start somewhere else.  Nightlife is dead. I've...",
+      "url": "https://dev.to/michael_trifonov_0cb74f99/ai-boyfriends-are-10x-bigger-than-ai-girlfriends-3n7c",
       "source": "dev.to",
-      "points": 14,
-      "comments": 5,
-      "published_at": "2026-05-10T14:28:54Z",
+      "points": 17,
+      "comments": 9,
+      "published_at": "2026-05-11T16:43:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,14 +497,53 @@
       "tags": []
     },
     {
+      "id": "devto-3683750",
+      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
+      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
+      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 15,
+      "published_at": "2026-05-16T14:28:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3658711",
       "title": "Prompting Is Not Magic. It Is Control.",
       "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
       "url": "https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i",
       "source": "dev.to",
       "points": 13,
-      "comments": 26,
+      "comments": 27,
       "published_at": "2026-05-12T20:40:31Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3652000",
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 3,
+      "published_at": "2026-05-12T04:17:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3687283",
+      "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   A...",
+      "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 0,
+      "published_at": "2026-05-17T10:46:23Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -518,19 +557,6 @@
       "points": 11,
       "comments": 5,
       "published_at": "2026-05-12T04:26:19Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3652000",
-      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
-      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
-      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 2,
-      "published_at": "2026-05-12T04:17:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,19 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-3683750",
-      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
-      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
-      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 5,
-      "published_at": "2026-05-16T14:28:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3655323",
       "title": "OpenSEO Has 1.7k GitHub Stars. I Built the Same Thing for $0.",
       "description": "I saw OpenSEO trending and did what every developer does.  I starred it before reading the...",
@@ -596,19 +609,6 @@
       "points": 8,
       "comments": 8,
       "published_at": "2026-05-14T14:37:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3657515",
-      "title": "How I Taught My Offline AI to Remember, Watch, and Warn, Without Any Cloud (Part 2)",
-      "description": "Part 1 covered how hck_GPT routes messages through 9 layers and decides between rules and a local...",
-      "url": "https://dev.to/huckler/how-i-taught-my-offline-ai-to-remember-watch-and-warn-without-any-cloud-part-2-5hib",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2026-05-12T15:17:33Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,19 +640,6 @@
       "tags": []
     },
     {
-      "id": "devto-3668395",
-      "title": "Great Little Software: Theo & Vangogh",
-      "description": "Theodorus van Gogh (1 May 1857 – 25 January 1891) was a Dutch art dealer and the younger brother of...",
-      "url": "https://dev.to/valeriavg/great-little-software-theo-vangogh-2n07",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-05-14T08:49:34Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3666877",
       "title": "I Ran SERP Feature Detection on 8 Nigerian Creator Queries. Every Single One Had an AI Overview.",
       "description": "I built a SERP feature detection module for my SEO agent. Then I ran it on the queries I'm targeting...",
@@ -661,6 +648,19 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-05-14T14:40:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3668395",
+      "title": "Great Little Software: Theo & Vangogh",
+      "description": "Theodorus van Gogh (1 May 1857 – 25 January 1891) was a Dutch art dealer and the younger brother of...",
+      "url": "https://dev.to/valeriavg/great-little-software-theo-vangogh-2n07",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-05-14T08:49:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,6 +679,19 @@
       "tags": []
     },
     {
+      "id": "devto-3676253",
+      "title": "Introduction to Python for Data Analysis: A Beginner’s Guide",
+      "description": "Introduction   For a long time, I viewed programming as something reserved for software...",
+      "url": "https://dev.to/joseph_mwangi_3ae1f57a132/introduction-to-python-for-data-analysis-a-beginners-guide-2abp",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-05-15T12:47:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3645005",
       "title": "The Barbell Founder: Why I Chose to be a Part-timer to Protect My Startup",
       "description": "Stop optimizing for nominal wages. Start optimizing for cognitive surplus and time sovereignty.   In...",
@@ -692,40 +705,14 @@
       "tags": []
     },
     {
-      "id": "devto-3641272",
-      "title": "I built a tool to generate academic PDFs from Markdown without installing LaTeX",
-      "description": "I built a tool to generate academic PDFs from Markdown without  installing LaTeX on your system....",
-      "url": "https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80",
+      "id": "devto-3686339",
+      "title": "I Tested Gemma 4 E4B vs 31B on 50 Real Student Career Queries — The Results Surprised Me",
+      "description": "I'm building PathForge AI — a career guidance platform for Indian students. The pitch is simple:...",
+      "url": "https://dev.to/sreejit_/i-tested-gemma-4-e4b-vs-31b-on-50-real-student-career-queries-the-results-surprised-me-kbi",
       "source": "dev.to",
       "points": 6,
-      "comments": 0,
-      "published_at": "2026-05-09T17:50:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3650802",
-      "title": "From 0 to 20 Chapters: My Story‑Driven Rust Book for Kids Now Has a Bilingual Interactive Demo",
-      "description": "🦀 The Land of Rust – A Space Crab Teaches Kids (and Adults) to Code   A few months ago I...",
-      "url": "https://dev.to/born1987ir/from-0-to-20-chapters-my-story-driven-rust-book-for-kids-now-has-a-bilingual-interactive-demo-a1c",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 4,
-      "published_at": "2026-05-11T14:14:28Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3641175",
-      "title": "Why Your AI Character Keeps Breaking Under Pressure (And What I Built Instead of Yet Another System Prompt)",
-      "description": "TL;DR: I shipped FIVE, an open-source MCP server that generates JSON personality constraints for any...",
-      "url": "https://dev.to/kiro0x/why-your-ai-character-keeps-breaking-under-pressure-and-what-i-built-instead-of-yet-another-system-n4k",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-05-09T16:15:26Z",
+      "comments": 1,
+      "published_at": "2026-05-17T05:33:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +765,19 @@
       "points": 5,
       "comments": 2,
       "published_at": "2026-05-14T17:43:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3647330",
+      "title": "I Stress-Tested 3 AI Agent Gateways (WorldClaw, B.AI, TokenMix.ai). Only One Was Ready for Production.",
+      "description": "Three platforms launched between Q4 2025 and Q2 2026 want to be the default gateway for autonomous...",
+      "url": "https://dev.to/tokenmixai/i-stress-tested-3-ai-agent-gateways-worldclaw-bai-tokenmixai-only-one-was-ready-for-5g76",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 4,
+      "published_at": "2026-05-11T06:22:52Z",
       "summary": "",
       "category": "all",
       "tags": []
