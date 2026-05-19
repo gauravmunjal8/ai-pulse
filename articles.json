@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T07:11:47Z",
+  "updated_at": "2026-05-19T07:03:44Z",
   "count": 60,
   "articles": [
     {
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-3522448",
+      "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
+      "description": "I have been working on a side project for the past few weeks and finally got it polished enough to...",
+      "url": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
+      "source": "dev.to",
+      "points": 71,
+      "comments": 2,
+      "published_at": "2026-05-16T13:15:06Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -341,19 +354,6 @@
       "tags": []
     },
     {
-      "id": "devto-3522448",
-      "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
-      "description": "I have been working on a side project for the past few weeks and finally got it polished enough to...",
-      "url": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
-      "source": "dev.to",
-      "points": 53,
-      "comments": 1,
-      "published_at": "2026-05-16T13:15:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -375,6 +375,19 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3693064",
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "source": "dev.to",
+      "points": 31,
+      "comments": 12,
+      "published_at": "2026-05-18T11:21:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -424,8 +437,8 @@
       "description": "From Stateless Prompts to Persistent Intelligence     Where this fits: This article bridges two...",
       "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
       "source": "dev.to",
-      "points": 19,
-      "comments": 79,
+      "points": 22,
+      "comments": 93,
       "published_at": "2026-05-12T15:35:47Z",
       "summary": "",
       "category": "all",
@@ -458,27 +471,14 @@
       "tags": []
     },
     {
-      "id": "devto-3652156",
-      "title": "I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.",
-      "description": "A grounded LLM bug looked exactly like an architectural failure. The search router was returning the right data. The prompt was telling the model to ignore it. The fix changed nothing about the search code — it changed one variable label.",
-      "url": "https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco",
+      "id": "devto-3683750",
+      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
+      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
+      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
       "source": "dev.to",
       "points": 17,
-      "comments": 14,
-      "published_at": "2026-05-11T20:04:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3651421",
-      "title": "AI boyfriends are 10x bigger than AI girlfriends",
-      "description": "Before getting to the number in the title, I need to start somewhere else.  Nightlife is dead. I've...",
-      "url": "https://dev.to/michael_trifonov_0cb74f99/ai-boyfriends-are-10x-bigger-than-ai-girlfriends-3n7c",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 9,
-      "published_at": "2026-05-11T16:43:02Z",
+      "comments": 29,
+      "published_at": "2026-05-16T14:28:27Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,19 +497,6 @@
       "tags": []
     },
     {
-      "id": "devto-3683750",
-      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
-      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
-      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 15,
-      "published_at": "2026-05-16T14:28:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3658711",
       "title": "Prompting Is Not Magic. It Is Control.",
       "description": "Most prompt books optimize for better answers. I wanted prompts that fail visibly.  Most prompt...",
@@ -523,26 +510,13 @@
       "tags": []
     },
     {
-      "id": "devto-3652000",
-      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
-      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
-      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 3,
-      "published_at": "2026-05-12T04:17:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3687283",
       "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
       "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   A...",
       "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj",
       "source": "dev.to",
-      "points": 12,
-      "comments": 0,
+      "points": 13,
+      "comments": 1,
       "published_at": "2026-05-17T10:46:23Z",
       "summary": "",
       "category": "all",
@@ -554,7 +528,7 @@
       "description": "ARE EXTRA SERVICES BURNING YOUR TOKENS?   I built an autonomous AI trading agent that runs...",
       "url": "https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292",
       "source": "dev.to",
-      "points": 11,
+      "points": 12,
       "comments": 5,
       "published_at": "2026-05-12T04:26:19Z",
       "summary": "",
@@ -562,14 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-3660265",
-      "title": "A search engine for places that look alike",
-      "description": "I open sourced Similar Earth, a tool that lets you drop a pin anywhere on the planet and find every...",
-      "url": "https://dev.to/riospablo/a-search-engine-for-places-that-look-alike-2fhb",
+      "id": "devto-3690264",
+      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
+      "description": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.  It's not...",
+      "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
       "source": "dev.to",
-      "points": 10,
-      "comments": 0,
-      "published_at": "2026-05-13T05:35:50Z",
+      "points": 12,
+      "comments": 1,
+      "published_at": "2026-05-18T01:32:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -583,6 +557,19 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3692276",
+      "title": "From Closures to an AST in a Kotlin Transform Graph",
+      "description": "kumulant is a streaming statistics library: you feed it numbers, it maintains an accumulator like a...",
+      "url": "https://dev.to/monom/from-closures-to-an-ast-in-a-kotlin-transform-graph-4ajc",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 0,
+      "published_at": "2026-05-18T09:20:16Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-3693155",
+      "title": "Claprec: Machine Learning in Practice (4/6)",
+      "description": "Series Roadmap    Product Overview (1/6) Architecture: N-Tier Design, Decoupling, and...",
+      "url": "https://dev.to/keno_sej/claprec-machine-learning-in-practice-46-4e22",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-05-18T11:33:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3666877",
       "title": "I Ran SERP Feature Detection on 8 Nigerian Creator Queries. Every Single One Had an AI Overview.",
       "description": "I built a SERP feature detection module for my SEO agent. Then I ran it on the queries I'm targeting...",
@@ -661,6 +661,19 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-05-14T08:49:34Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3655667",
+      "title": "Agentic code review in production: orchestration, evaluation, and the cost of being wrong",
+      "description": "What \"agentic\" actually buys you over a linter, why single-model approaches stall, and why false...",
+      "url": "https://dev.to/prakharsingh_17/agentic-code-review-in-production-orchestration-evaluation-and-the-cost-of-being-wrong-3090",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 4,
+      "published_at": "2026-05-12T09:29:37Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,19 +705,6 @@
       "tags": []
     },
     {
-      "id": "devto-3645005",
-      "title": "The Barbell Founder: Why I Chose to be a Part-timer to Protect My Startup",
-      "description": "Stop optimizing for nominal wages. Start optimizing for cognitive surplus and time sovereignty.   In...",
-      "url": "https://dev.to/kheai/the-barbell-founder-why-i-chose-to-be-a-part-timer-to-protect-my-startup-31pb",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 1,
-      "published_at": "2026-05-10T14:50:07Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3686339",
       "title": "I Tested Gemma 4 E4B vs 31B on 50 Real Student Career Queries — The Results Surprised Me",
       "description": "I'm building PathForge AI — a career guidance platform for Indian students. The pitch is simple:...",
@@ -724,21 +724,21 @@
       "url": "https://dev.to/freerave/i-asked-6-ais-to-pick-a-random-number-their-training-data-confessed-everything-1516",
       "source": "dev.to",
       "points": 5,
-      "comments": 8,
+      "comments": 9,
       "published_at": "2026-05-13T18:40:15Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3641066",
-      "title": "How to Deploy a Machine Learning Project on AWS Using ECR, ECS Fargate, and EFS.",
-      "description": "A step-by-step walkthrough from Docker image to a live, serverless ML application running in the...",
-      "url": "https://dev.to/tendong_brain/how-to-deploy-a-machine-learning-project-on-aws-using-ecr-ecs-fargate-and-efs-kh1",
+      "id": "devto-3692045",
+      "title": "“What good is AI if it stops working the moment the internet dies?\r\nBuilt an offline Gemma 4 farm doctor for real-world rural use.”",
+      "description": "Everyone's Talking About Bigger AI Models. I Built a Gemma 4 Farm Doctor That Works When the...",
+      "url": "https://dev.to/sreejit_/what-good-is-ai-if-it-stops-working-the-moment-the-internet-dies-built-an-offline-gemma-4-farm-48a1",
       "source": "dev.to",
       "points": 5,
-      "comments": 2,
-      "published_at": "2026-05-09T15:39:37Z",
+      "comments": 0,
+      "published_at": "2026-05-18T08:45:56Z",
       "summary": "",
       "category": "all",
       "tags": []
