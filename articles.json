@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T07:07:57Z",
+  "updated_at": "2026-05-22T07:03:58Z",
   "count": 60,
   "articles": [
     {
@@ -294,7 +294,7 @@
       "description": "I have been working on a side project for the past few weeks and finally got it polished enough to...",
       "url": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
       "source": "dev.to",
-      "points": 74,
+      "points": 79,
       "comments": 3,
       "published_at": "2026-05-16T13:15:06Z",
       "summary": "",
@@ -328,6 +328,19 @@
       "tags": []
     },
     {
+      "id": "devto-3693064",
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "source": "dev.to",
+      "points": 56,
+      "comments": 29,
+      "published_at": "2026-05-18T11:21:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-37475359",
       "title": "Meta wants its open source AI model to be as capable as OpenAI’s best model",
       "description": "",
@@ -349,19 +362,6 @@
       "points": 54,
       "comments": 13,
       "published_at": "2024-04-24T23:17:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3693064",
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "source": "dev.to",
-      "points": 51,
-      "comments": 23,
-      "published_at": "2026-05-18T11:21:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -406,6 +406,32 @@
       "tags": []
     },
     {
+      "id": "devto-3683750",
+      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
+      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
+      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 35,
+      "published_at": "2026-05-16T14:28:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3704010",
+      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
+      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
+      "source": "dev.to",
+      "points": 29,
+      "comments": 9,
+      "published_at": "2026-05-19T21:32:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -414,6 +440,19 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3709052",
+      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
+      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
+      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 14,
+      "published_at": "2026-05-20T11:44:59Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -432,6 +471,19 @@
       "tags": []
     },
     {
+      "id": "devto-3690264",
+      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
+      "description": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.  It's not...",
+      "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
+      "source": "dev.to",
+      "points": 27,
+      "comments": 7,
+      "published_at": "2026-05-18T01:32:36Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -445,66 +497,14 @@
       "tags": []
     },
     {
-      "id": "devto-3683750",
-      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
-      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
-      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
-      "source": "dev.to",
-      "points": 23,
-      "comments": 32,
-      "published_at": "2026-05-16T14:28:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3709052",
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
-      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
-      "source": "dev.to",
-      "points": 23,
-      "comments": 12,
-      "published_at": "2026-05-20T11:44:59Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3666945",
       "title": "The portfolio math. When 30 small apps beat 1 big one.",
       "description": "The portfolio math. When 30 small apps beat 1 big one.   For a decade the indie hacker...",
       "url": "https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai",
       "source": "dev.to",
-      "points": 18,
-      "comments": 2,
+      "points": 19,
+      "comments": 3,
       "published_at": "2026-05-19T03:36:50Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3690264",
-      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
-      "description": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.  It's not...",
-      "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
-      "source": "dev.to",
-      "points": 18,
-      "comments": 5,
-      "published_at": "2026-05-18T01:32:36Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3704010",
-      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
-      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 7,
-      "published_at": "2026-05-19T21:32:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -515,7 +515,7 @@
       "description": "This is a submission for the Google I/O Writing Challenge     Last week, I got the little green...",
       "url": "https://dev.to/himanshu_748/my-pr-merged-into-a-graveyard-on-the-rise-of-antigravity-and-the-fall-of-open-source-5cpd",
       "source": "dev.to",
-      "points": 15,
+      "points": 18,
       "comments": 0,
       "published_at": "2026-05-20T16:37:14Z",
       "summary": "",
@@ -528,7 +528,7 @@
       "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   A...",
       "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj",
       "source": "dev.to",
-      "points": 14,
+      "points": 16,
       "comments": 1,
       "published_at": "2026-05-17T10:46:23Z",
       "summary": "",
@@ -549,14 +549,27 @@
       "tags": []
     },
     {
-      "id": "devto-3668395",
-      "title": "Great Little Software: Theo & Vangogh",
-      "description": "Theodorus van Gogh (1 May 1857 – 25 January 1891) was a Dutch art dealer and the younger brother of...",
-      "url": "https://dev.to/valeriavg/great-little-software-theo-vangogh-2n07",
+      "id": "devto-3717506",
+      "title": "I Raised Gemma 4's Token Cap. The Dense Model Stopped Refusing.",
+      "description": "Last week I called the Gemma 4 MoE-vs-Dense divergence architecture-mediated. The comment thread said my max_tokens cap was starving the reasoning layer. I re-ran with the budget raised. Dense recovered on every scenario. Walking it back.",
+      "url": "https://dev.to/alimafana/i-raised-gemma-4s-token-cap-the-dense-model-stopped-refusing-895",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 3,
+      "published_at": "2026-05-21T14:06:08Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3715153",
+      "title": "We migrated a .NET app from ABP Framework to Granit without downtime - here's the playbook",
+      "description": "We just finished moving a 15-module .NET service from ABP Framework to Granit — without a maintenance...",
+      "url": "https://dev.to/jfmeyers/we-migrated-a-net-app-from-abp-framework-to-granit-without-downtime-heres-the-playbook-4m3n",
       "source": "dev.to",
       "points": 10,
-      "comments": 3,
-      "published_at": "2026-05-14T08:49:34Z",
+      "comments": 2,
+      "published_at": "2026-05-21T07:57:37Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,32 +588,6 @@
       "tags": []
     },
     {
-      "id": "devto-3710322",
-      "title": "Gemma 4 on 16GB RAM: What Actually Works for Structured AI Workflows",
-      "description": "Submitted for the Gemma 4 Challenge: Write About Gemma 4  A 2B model running entirely on my local...",
-      "url": "https://dev.to/shogun444/gemma-4-on-16gb-ram-what-actually-works-for-structured-ai-workflows-3kmb",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 0,
-      "published_at": "2026-05-20T15:20:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3655323",
-      "title": "OpenSEO Has 1.7k GitHub Stars. I Built the Same Thing for $0.",
-      "description": "I saw OpenSEO trending and did what every developer does.  I starred it before reading the...",
-      "url": "https://dev.to/dannwaneri/openseo-has-17k-github-stars-i-built-the-same-thing-for-0-1dip",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 8,
-      "published_at": "2026-05-14T14:37:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3710524",
       "title": "10 Ways To Reduce Your LLM API Costs",
       "description": "Your AI app is live and the inference bill is eating your margins. Here are 10 practical ways to cut LLM costs without hurting output quality.",
@@ -609,19 +596,6 @@
       "points": 8,
       "comments": 0,
       "published_at": "2026-05-20T16:02:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3666877",
-      "title": "I Ran SERP Feature Detection on 8 Nigerian Creator Queries. Every Single One Had an AI Overview.",
-      "description": "I built a SERP feature detection module for my SEO agent. Then I ran it on the queries I'm targeting...",
-      "url": "https://dev.to/dannwaneri/i-ran-serp-feature-detection-on-8-nigerian-creator-queries-every-single-one-had-an-ai-overview-51ko",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2026-05-14T14:40:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -666,6 +640,19 @@
       "tags": []
     },
     {
+      "id": "devto-3714408",
+      "title": "Rethinking Open Source Contribution in the Age of AI Agents, featuring vLLM Core Maintainer Roger Wang at MLSys'26",
+      "description": "Roger is a software engineer focused on machine learning research and systems. He is a core...",
+      "url": "https://dev.to/1grace/rethinking-open-source-contribution-in-the-age-of-ai-agents-featuring-vllm-core-maintainer-roger-53bc",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 2,
+      "published_at": "2026-05-21T06:42:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3701373",
       "title": "What AI Tools, MCP Servers, and Skills Actually Do",
       "description": "I remember being very confused when I first heard about an LLM's ability to request code execution....",
@@ -692,14 +679,14 @@
       "tags": []
     },
     {
-      "id": "devto-3661400",
-      "title": "\"Hello World\" OpenAI API Script for Image Edit [Ez Garden Visualiser Dev Journal #1]",
-      "description": "Goal   On the day 1 of my garden transformation project, my goal was simple: write a...",
-      "url": "https://dev.to/cathylai/hello-world-openai-api-script-for-image-edit-ez-garden-visualiser-dev-journal-1-13hi",
+      "id": "devto-3698104",
+      "title": "How one bad prompt burned $40 of my Claude budget in 18 minutes",
+      "description": "A multi-agent loop got stuck retrying a tool call. I had per-call cost logging but no shared cap. Now I run a shared atomic budget so the next loop dies at $5 instead of $40.",
+      "url": "https://dev.to/mukundakatta/how-one-bad-prompt-burned-40-of-my-claude-budget-in-18-minutes-lha",
       "source": "dev.to",
       "points": 6,
-      "comments": 2,
-      "published_at": "2026-05-18T06:48:09Z",
+      "comments": 17,
+      "published_at": "2026-05-19T14:15:01Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,13 +718,26 @@
       "tags": []
     },
     {
+      "id": "devto-3686648",
+      "title": "When Chaos Wins: Adding Noise Improved My Snake AI's Stability",
+      "description": "Greetings all! Continuing the series where I build Rainbow DQN one component at a time on Snake. The...",
+      "url": "https://dev.to/stat_phantom/when-chaos-wins-adding-noise-improved-my-snake-ais-stability-1b5l",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-05-17T07:20:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3700669",
       "title": "🦙 被遗忘的先驱：Chatbot Arena 最早登顶的四款开源模型传奇",
       "description": "它们曾短暂地站在 AI 之巅，但几乎无人知晓。本文讲述 Vicuna、Guanaco、WizardLM 的崛起与沉寂。               写在前面   2026年5月，当 Claude...",
       "url": "https://dev.to/jisheng_agent/bei-yi-wang-de-xian-qu-chatbot-arena-zui-zao-deng-ding-de-si-kuan-kai-yuan-mo-xing-chuan-qi-c7f",
       "source": "dev.to",
       "points": 5,
-      "comments": 0,
+      "comments": 1,
       "published_at": "2026-05-19T12:18:41Z",
       "summary": "",
       "category": "all",
@@ -757,19 +757,6 @@
       "tags": []
     },
     {
-      "id": "devto-3669239",
-      "title": "SPEC-TO-SHIP: A Multi-Agent Pipeline That Turns Feature Ideas Into Production Code",
-      "description": "Writing a feature spec and getting it to production involves a lot of steps, architecture decisions,...",
-      "url": "https://dev.to/nilofer_tweets/spec-to-ship-a-multi-agent-pipeline-that-turns-feature-ideas-into-production-code-5e86",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-05-14T11:10:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3692045",
       "title": "“What good is AI if it stops working the moment the internet dies?\r\nBuilt an offline Gemma 4 farm doctor for real-world rural use.”",
       "description": "Everyone's Talking About Bigger AI Models. I Built a Gemma 4 Farm Doctor That Works When the...",
@@ -778,6 +765,19 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-05-18T08:45:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "hn-34634357",
+      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
+      "description": "",
+      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
+      "source": "theregister.com",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2023-02-02T22:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
