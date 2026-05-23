@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T07:03:58Z",
+  "updated_at": "2026-05-23T06:48:47Z",
   "count": 60,
   "articles": [
     {
@@ -315,6 +315,19 @@
       "tags": []
     },
     {
+      "id": "devto-3693064",
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "source": "dev.to",
+      "points": 61,
+      "comments": 31,
+      "published_at": "2026-05-18T11:21:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-26386432",
       "title": "Furious AI researcher creates a list of non-reproducible machine learning papers",
       "description": "",
@@ -323,19 +336,6 @@
       "points": 56,
       "comments": 6,
       "published_at": "2021-03-08T14:59:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3693064",
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "source": "dev.to",
-      "points": 56,
-      "comments": 29,
-      "published_at": "2026-05-18T11:21:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -412,8 +412,21 @@
       "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
       "source": "dev.to",
       "points": 35,
-      "comments": 35,
+      "comments": 39,
       "published_at": "2026-05-16T14:28:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3709052",
+      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
+      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
+      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
+      "source": "dev.to",
+      "points": 31,
+      "comments": 22,
+      "published_at": "2026-05-20T11:44:59Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -424,7 +437,7 @@
       "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
       "source": "dev.to",
-      "points": 29,
+      "points": 30,
       "comments": 9,
       "published_at": "2026-05-19T21:32:45Z",
       "summary": "",
@@ -445,14 +458,14 @@
       "tags": []
     },
     {
-      "id": "devto-3709052",
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
-      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
+      "id": "devto-3690264",
+      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
+      "description": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.  It's not...",
+      "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
       "source": "dev.to",
       "points": 28,
-      "comments": 14,
-      "published_at": "2026-05-20T11:44:59Z",
+      "comments": 8,
+      "published_at": "2026-05-18T01:32:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,19 +484,6 @@
       "tags": []
     },
     {
-      "id": "devto-3690264",
-      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
-      "description": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.  It's not...",
-      "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 7,
-      "published_at": "2026-05-18T01:32:36Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -492,6 +492,19 @@
       "points": 26,
       "comments": 6,
       "published_at": "2024-09-12T11:11:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3717506",
+      "title": "I Raised Gemma 4's Token Cap. The Dense Model Stopped Refusing.",
+      "description": "Last week I called the Gemma 4 MoE-vs-Dense divergence architecture-mediated. The comment thread said my max_tokens cap was starving the reasoning layer. I re-ran with the budget raised. Dense recovered on every scenario. Walking it back.",
+      "url": "https://dev.to/alimafana/i-raised-gemma-4s-token-cap-the-dense-model-stopped-refusing-895",
+      "source": "dev.to",
+      "points": 20,
+      "comments": 8,
+      "published_at": "2026-05-21T14:06:08Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,19 +562,6 @@
       "tags": []
     },
     {
-      "id": "devto-3717506",
-      "title": "I Raised Gemma 4's Token Cap. The Dense Model Stopped Refusing.",
-      "description": "Last week I called the Gemma 4 MoE-vs-Dense divergence architecture-mediated. The comment thread said my max_tokens cap was starving the reasoning layer. I re-ran with the budget raised. Dense recovered on every scenario. Walking it back.",
-      "url": "https://dev.to/alimafana/i-raised-gemma-4s-token-cap-the-dense-model-stopped-refusing-895",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 3,
-      "published_at": "2026-05-21T14:06:08Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3715153",
       "title": "We migrated a .NET app from ABP Framework to Granit without downtime - here's the playbook",
       "description": "We just finished moving a 15-module .NET service from ABP Framework to Granit — without a maintenance...",
@@ -583,6 +583,19 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3726681",
+      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
+      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
+      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 0,
+      "published_at": "2026-05-22T15:25:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -629,7 +642,7 @@
     {
       "id": "devto-3693155",
       "title": "Claprec: Machine Learning in Practice (4/6)",
-      "description": "Series Roadmap    Product Overview (1/6) Architecture: N-Tier Design, Decoupling, and...",
+      "description": "Series Roadmap    Product Overview (1/6) Inside the Architecture - N-Tier, decoupling,...",
       "url": "https://dev.to/keno_sej/claprec-machine-learning-in-practice-46-4e22",
       "source": "dev.to",
       "points": 7,
@@ -646,8 +659,21 @@
       "url": "https://dev.to/1grace/rethinking-open-source-contribution-in-the-age-of-ai-agents-featuring-vllm-core-maintainer-roger-53bc",
       "source": "dev.to",
       "points": 7,
-      "comments": 2,
+      "comments": 4,
       "published_at": "2026-05-21T06:42:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3698104",
+      "title": "How one bad prompt burned $40 of my Claude budget in 18 minutes",
+      "description": "A multi-agent loop got stuck retrying a tool call. I had per-call cost logging but no shared cap. Now I run a shared atomic budget so the next loop dies at $5 instead of $40.",
+      "url": "https://dev.to/mukundakatta/how-one-bad-prompt-burned-40-of-my-claude-budget-in-18-minutes-lha",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 18,
+      "published_at": "2026-05-19T14:15:01Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -674,19 +700,6 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-05-15T12:47:54Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3698104",
-      "title": "How one bad prompt burned $40 of my Claude budget in 18 minutes",
-      "description": "A multi-agent loop got stuck retrying a tool call. I had per-call cost logging but no shared cap. Now I run a shared atomic budget so the next loop dies at $5 instead of $40.",
-      "url": "https://dev.to/mukundakatta/how-one-bad-prompt-burned-40-of-my-claude-budget-in-18-minutes-lha",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 17,
-      "published_at": "2026-05-19T14:15:01Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,19 +778,6 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-05-18T08:45:56Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
