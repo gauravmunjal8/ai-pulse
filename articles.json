@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T06:48:47Z",
+  "updated_at": "2026-05-24T06:59:22Z",
   "count": 60,
   "articles": [
     {
@@ -289,19 +289,6 @@
       "tags": []
     },
     {
-      "id": "devto-3522448",
-      "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
-      "description": "I have been working on a side project for the past few weeks and finally got it polished enough to...",
-      "url": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
-      "source": "dev.to",
-      "points": 79,
-      "comments": 3,
-      "published_at": "2026-05-16T13:15:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -320,8 +307,8 @@
       "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "source": "dev.to",
-      "points": 61,
-      "comments": 31,
+      "points": 64,
+      "comments": 33,
       "published_at": "2026-05-18T11:21:44Z",
       "summary": "",
       "category": "all",
@@ -406,26 +393,13 @@
       "tags": []
     },
     {
-      "id": "devto-3683750",
-      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
-      "description": "I ran Gemma 4 26B (MoE, 4B active) and Gemma 4 31B (dense) against GPT-4o and GPT-4o mini on a real Arabic e-commerce chatbot. Then I added three Gemma-only prompt rules. The MoE variant opened the catalog. The dense variant stopped reading it. Same prompt, two architectures, opposite failures.",
-      "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18",
-      "source": "dev.to",
-      "points": 35,
-      "comments": 39,
-      "published_at": "2026-05-16T14:28:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3709052",
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
       "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
       "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
       "source": "dev.to",
-      "points": 31,
-      "comments": 22,
+      "points": 34,
+      "comments": 25,
       "published_at": "2026-05-20T11:44:59Z",
       "summary": "",
       "category": "all",
@@ -437,8 +411,8 @@
       "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
       "source": "dev.to",
-      "points": 30,
-      "comments": 9,
+      "points": 33,
+      "comments": 12,
       "published_at": "2026-05-19T21:32:45Z",
       "summary": "",
       "category": "all",
@@ -464,7 +438,7 @@
       "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
       "source": "dev.to",
       "points": 28,
-      "comments": 8,
+      "comments": 7,
       "published_at": "2026-05-18T01:32:36Z",
       "summary": "",
       "category": "all",
@@ -523,6 +497,32 @@
       "tags": []
     },
     {
+      "id": "devto-3687283",
+      "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   A...",
+      "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 2,
+      "published_at": "2026-05-17T10:46:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3731306",
+      "title": "A tool to make your GitHub README impossible to ignore 🚀",
+      "description": "Your GitHub profile is your developer resume. It's the first thing recruiters, open-source...",
+      "url": "https://dev.to/dhanushnehru/a-tool-to-make-your-github-readme-impossible-to-ignore-19ac",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 2,
+      "published_at": "2026-05-23T08:43:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3710659",
       "title": "My PR Merged Into a Graveyard: On the Rise of Antigravity and the Fall of Open Source",
       "description": "This is a submission for the Google I/O Writing Challenge     Last week, I got the little green...",
@@ -536,19 +536,6 @@
       "tags": []
     },
     {
-      "id": "devto-3687283",
-      "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   A...",
-      "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 1,
-      "published_at": "2026-05-17T10:46:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -557,6 +544,19 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3666946",
+      "title": "Microsoft tried to kill the printer driver. Healthcare said no.",
+      "description": "Microsoft tried to kill the printer driver. 90% of US healthcare said no.   In late 2025,...",
+      "url": "https://dev.to/thegdsks/microsoft-tried-to-kill-the-printer-driver-healthcare-said-no-28e7",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 1,
+      "published_at": "2026-05-23T06:36:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -596,6 +596,19 @@
       "points": 9,
       "comments": 0,
       "published_at": "2026-05-22T15:25:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3731426",
+      "title": "When AI Reads Blueprints: The Hidden Attack Surface of Multimodal Engineering Intelligence",
+      "description": "description: \"A security analysis of steganographic prompt injection and data poisoning...",
+      "url": "https://dev.to/toxy4ny/when-ai-reads-blueprints-the-hidden-attack-surface-of-multimodal-engineering-intelligence-2d7e",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-05-23T09:01:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,14 +705,14 @@
       "tags": []
     },
     {
-      "id": "devto-3676253",
-      "title": "Introduction to Python for Data Analysis: A Beginner’s Guide",
-      "description": "Introduction   For a long time, I viewed programming as something reserved for software...",
-      "url": "https://dev.to/joseph_mwangi_3ae1f57a132/introduction-to-python-for-data-analysis-a-beginners-guide-2abp",
+      "id": "devto-3728239",
+      "title": "Running a Full Multi-Stage Intrusion Simulation. Every Detection Fired.",
+      "description": "I've been building SHENRON for a while — a polymorphic adversarial simulation framework that...",
+      "url": "https://dev.to/gnomeman4201/running-a-full-multi-stage-intrusion-simulation-every-detection-fired-3lk9",
       "source": "dev.to",
       "points": 7,
       "comments": 0,
-      "published_at": "2026-05-15T12:47:54Z",
+      "published_at": "2026-05-22T21:01:31Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,6 +744,19 @@
       "tags": []
     },
     {
+      "id": "devto-3728364",
+      "title": "OpenHuman Follows OpenClaw’s Rise, But With an Obsidian Brain",
+      "description": "A few nights ago I watched someone demo OpenHuman from a folding table in a cramped apartment...",
+      "url": "https://dev.to/numbpill3d/openhuman-follows-openclaws-rise-but-with-an-obsidian-brain-5d06",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-05-22T21:44:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3686648",
       "title": "When Chaos Wins: Adding Noise Improved My Snake AI's Stability",
       "description": "Greetings all! Continuing the series where I build Rainbow DQN one component at a time on Snake. The...",
@@ -752,32 +778,6 @@
       "points": 5,
       "comments": 1,
       "published_at": "2026-05-19T12:18:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3706923",
-      "title": "Inside Hoovik: Building a Real-Time Multimodal Emotion AI Pipeline",
-      "description": "👉GitHub    🌐Live Demo  When I started building Hoovik — a distributed video conferencing platform — I...",
-      "url": "https://dev.to/anupam_kumar/inside-hoovik-building-a-real-time-multimodal-emotion-ai-pipeline-5267",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-05-20T07:05:38Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3692045",
-      "title": "“What good is AI if it stops working the moment the internet dies?\r\nBuilt an offline Gemma 4 farm doctor for real-world rural use.”",
-      "description": "Everyone's Talking About Bigger AI Models. I Built a Gemma 4 Farm Doctor That Works When the...",
-      "url": "https://dev.to/sreejit_/what-good-is-ai-if-it-stops-working-the-moment-the-internet-dies-built-an-offline-gemma-4-farm-48a1",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-05-18T08:45:56Z",
       "summary": "",
       "category": "all",
       "tags": []
