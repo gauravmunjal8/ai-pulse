@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T07:16:49Z",
+  "updated_at": "2026-05-28T07:10:02Z",
   "count": 60,
   "articles": [
     {
@@ -367,14 +367,14 @@
       "tags": []
     },
     {
-      "id": "devto-3709052",
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
-      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
+      "id": "devto-3756670",
+      "title": "An LLM API call, in 4 GIFs",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
       "source": "dev.to",
-      "points": 36,
-      "comments": 25,
-      "published_at": "2026-05-20T11:44:59Z",
+      "points": 31,
+      "comments": 17,
+      "published_at": "2026-05-26T20:52:22Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -406,6 +406,19 @@
       "tags": []
     },
     {
+      "id": "devto-3761174",
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "source": "dev.to",
+      "points": 27,
+      "comments": 14,
+      "published_at": "2026-05-27T04:59:28Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -425,8 +438,21 @@
       "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d",
       "source": "dev.to",
       "points": 24,
-      "comments": 8,
+      "comments": 9,
       "published_at": "2026-05-24T13:50:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3751631",
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
+      "source": "dev.to",
+      "points": 24,
+      "comments": 1,
+      "published_at": "2026-05-25T18:22:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -450,8 +476,8 @@
       "description": "Two stories landed in the same news cycle.  Microsoft cancelled most internal Claude Code licenses....",
       "url": "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
       "source": "dev.to",
-      "points": 21,
-      "comments": 6,
+      "points": 22,
+      "comments": 11,
       "published_at": "2026-05-25T15:46:18Z",
       "summary": "",
       "category": "all",
@@ -463,35 +489,9 @@
       "description": "Your GitHub profile is your developer resume. It's the first thing recruiters, open-source...",
       "url": "https://dev.to/dhanushnehru/a-tool-to-make-your-github-readme-impossible-to-ignore-19ac",
       "source": "dev.to",
-      "points": 20,
-      "comments": 4,
+      "points": 21,
+      "comments": 5,
       "published_at": "2026-05-23T08:43:38Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3710659",
-      "title": "My PR Merged Into a Graveyard: On the Rise of Antigravity and the Fall of Open Source",
-      "description": "This is a submission for the Google I/O Writing Challenge     Last week, I got the little green...",
-      "url": "https://dev.to/himanshu_748/my-pr-merged-into-a-graveyard-on-the-rise-of-antigravity-and-the-fall-of-open-source-5cpd",
-      "source": "dev.to",
-      "points": 19,
-      "comments": 0,
-      "published_at": "2026-05-20T16:37:14Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3709255",
-      "title": "Your SaaS Backend in 2026",
-      "description": "Why three tools that \"work together\" still break your business  Your MVP is live, users are signing...",
-      "url": "https://dev.to/nikolaos_c/your-saas-backend-in-2026-1di5",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 6,
-      "published_at": "2026-05-20T12:11:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,19 +510,6 @@
       "tags": []
     },
     {
-      "id": "devto-3756670",
-      "title": "An LLM API call, in 4 GIFs",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 7,
-      "published_at": "2026-05-26T20:52:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -531,6 +518,19 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3666946",
+      "title": "Microsoft tried to kill the printer driver. Healthcare said no.",
+      "description": "Microsoft tried to kill the printer driver. 90% of US healthcare said no.   In late 2025,...",
+      "url": "https://dev.to/thegdsks/microsoft-tried-to-kill-the-printer-driver-healthcare-said-no-28e7",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 1,
+      "published_at": "2026-05-23T06:36:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,14 +549,14 @@
       "tags": []
     },
     {
-      "id": "devto-3666946",
-      "title": "Microsoft tried to kill the printer driver. Healthcare said no.",
-      "description": "Microsoft tried to kill the printer driver. 90% of US healthcare said no.   In late 2025,...",
-      "url": "https://dev.to/thegdsks/microsoft-tried-to-kill-the-printer-driver-healthcare-said-no-28e7",
+      "id": "devto-3750611",
+      "title": "What Building My Own AI Bot Taught Me About Generative AI",
+      "description": "I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...",
+      "url": "https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il",
       "source": "dev.to",
-      "points": 11,
-      "comments": 1,
-      "published_at": "2026-05-23T06:36:49Z",
+      "points": 10,
+      "comments": 6,
+      "published_at": "2026-05-27T19:57:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -568,7 +568,7 @@
       "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
       "source": "dev.to",
       "points": 10,
-      "comments": 4,
+      "comments": 6,
       "published_at": "2026-05-22T15:25:26Z",
       "summary": "",
       "category": "all",
@@ -627,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-3754939",
+      "title": "The Machine Learning Engineering Series",
+      "description": "Part 1: From Scratch to Systems   . This machine learning series will be a real ride. It’s...",
+      "url": "https://dev.to/michellebuchiokonicha/the-machine-learning-engineering-series-3anj",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 0,
+      "published_at": "2026-05-26T07:33:01Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3728239",
       "title": "Running a Full Multi-Stage Intrusion Simulation. Every Detection Fired.",
       "description": "I've been building SHENRON for a while — a polymorphic adversarial simulation framework that...",
@@ -666,32 +679,6 @@
       "tags": []
     },
     {
-      "id": "devto-3710524",
-      "title": "10 Ways To Reduce Your LLM API Costs",
-      "description": "Your AI app is live and the inference bill is eating your margins. Here are 10 practical ways to cut LLM costs without hurting output quality.",
-      "url": "https://dev.to/bd_perez/10-ways-to-reduce-your-llm-api-costs-2l33",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 0,
-      "published_at": "2026-05-20T16:02:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3754939",
-      "title": "The Machine Learning Engineering Series",
-      "description": "Part 1: From Scratch to Systems   . This machine learning series will be a real ride. It’s...",
-      "url": "https://dev.to/michellebuchiokonicha/the-machine-learning-engineering-series-3anj",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 0,
-      "published_at": "2026-05-26T07:33:01Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40728988",
       "title": "Not all 'open source' AI models are open",
       "description": "",
@@ -718,6 +705,19 @@
       "tags": []
     },
     {
+      "id": "devto-3739851",
+      "title": "I Got Tired of Forgetting. So I Built PwnLog.",
+      "description": "Every bug hunter knows the feeling.  You're deep in a session. You find something weird — an IDOR, a...",
+      "url": "https://dev.to/toklas495/i-got-tired-of-forgetting-so-i-built-pwnlog-ggp",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 1,
+      "published_at": "2026-05-24T11:29:32Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3734411",
       "title": "I Built a Neural Network Engine in C# That Runs in Your Browser - No ONNX Runtime, No JavaScript Bridge, No Native Binaries",
       "description": "Eight months ago the creator of ILGPU told me supporting Blazor WebAssembly would be too difficult. Today I'm shipping a six-backend ML library to NuGet with five working demos. Here's how, and what it took to get here on $20 a month.",
@@ -726,6 +726,19 @@
       "points": 6,
       "comments": 1,
       "published_at": "2026-05-23T16:54:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3748694",
+      "title": "AI guardrails are not security boundaries",
+      "description": "A practical guide for builders on why AI guardrails help but should never replace permissions, server-side checks, confirmations, and audit logs.",
+      "url": "https://dev.to/jenueldev/ai-guardrails-are-not-security-boundaries-1l7k",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-05-25T10:38:32Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,19 +778,6 @@
       "points": 6,
       "comments": 4,
       "published_at": "2026-05-21T19:42:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3728364",
-      "title": "OpenHuman Follows OpenClaw’s Rise, But With an Obsidian Brain",
-      "description": "A few nights ago I watched someone demo OpenHuman from a folding table in a cramped apartment...",
-      "url": "https://dev.to/numbpill3d/openhuman-follows-openclaws-rise-but-with-an-obsidian-brain-5d06",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-05-22T21:44:45Z",
       "summary": "",
       "category": "all",
       "tags": []
