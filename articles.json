@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T07:10:02Z",
+  "updated_at": "2026-05-29T07:10:20Z",
   "count": 60,
   "articles": [
     {
@@ -354,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-3756670",
+      "title": "An LLM API call, in 4 GIFs",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "source": "dev.to",
+      "points": 42,
+      "comments": 21,
+      "published_at": "2026-05-26T20:52:22Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -367,14 +380,14 @@
       "tags": []
     },
     {
-      "id": "devto-3756670",
-      "title": "An LLM API call, in 4 GIFs",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "id": "devto-3761174",
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
       "source": "dev.to",
-      "points": 31,
-      "comments": 17,
-      "published_at": "2026-05-26T20:52:22Z",
+      "points": 33,
+      "comments": 26,
+      "published_at": "2026-05-27T04:59:28Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -406,19 +419,6 @@
       "tags": []
     },
     {
-      "id": "devto-3761174",
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 14,
-      "published_at": "2026-05-27T04:59:28Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -437,7 +437,7 @@
       "description": "The first time I wrote a tokenizer, I did it with a for loop. I counted byte pairs by hand, merged...",
       "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d",
       "source": "dev.to",
-      "points": 24,
+      "points": 25,
       "comments": 9,
       "published_at": "2026-05-24T13:50:05Z",
       "summary": "",
@@ -450,22 +450,9 @@
       "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
       "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
       "source": "dev.to",
-      "points": 24,
-      "comments": 1,
+      "points": 25,
+      "comments": 3,
       "published_at": "2026-05-25T18:22:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3717506",
-      "title": "I Raised Gemma 4's Token Cap. The Dense Model Stopped Refusing.",
-      "description": "Last week I called the Gemma 4 MoE-vs-Dense divergence architecture-mediated. The comment thread said my max_tokens cap was starving the reasoning layer. I re-ran with the budget raised. Dense recovered on every scenario. Walking it back.",
-      "url": "https://dev.to/alimafana/i-raised-gemma-4s-token-cap-the-dense-model-stopped-refusing-895",
-      "source": "dev.to",
-      "points": 22,
-      "comments": 9,
-      "published_at": "2026-05-21T14:06:08Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -476,8 +463,8 @@
       "description": "Two stories landed in the same news cycle.  Microsoft cancelled most internal Claude Code licenses....",
       "url": "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
       "source": "dev.to",
-      "points": 22,
-      "comments": 11,
+      "points": 24,
+      "comments": 12,
       "published_at": "2026-05-25T15:46:18Z",
       "summary": "",
       "category": "all",
@@ -497,6 +484,19 @@
       "tags": []
     },
     {
+      "id": "devto-3750611",
+      "title": "What Building My Own AI Bot Taught Me About Generative AI",
+      "description": "I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...",
+      "url": "https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 12,
+      "published_at": "2026-05-27T19:57:35Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3737424",
       "title": "From Govhack Win to Something That Actually Matters",
       "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Project...",
@@ -505,6 +505,32 @@
       "points": 15,
       "comments": 2,
       "published_at": "2026-05-24T12:46:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3771654",
+      "title": "I Built an MCP Agent Framework for My B.Tech Major Project. It Got 750+ npm Downloads in Week One. Here's the Comeback Story.",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Last...",
+      "url": "https://dev.to/om_shree_0709/i-built-an-mcp-agent-framework-for-my-btech-major-project-it-got-750-npm-downloads-in-week-one-14f1",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 2,
+      "published_at": "2026-05-28T13:40:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3768723",
+      "title": "AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors.",
+      "description": "We let AI agents loose on a payment platform. They crushed the boring stuff. Then they silently broke...",
+      "url": "https://dev.to/mickyarun/ai-agents-are-great-at-80-of-our-code-the-other-20-is-why-we-still-need-seniors-3lh5",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 4,
+      "published_at": "2026-05-28T06:20:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,19 +575,6 @@
       "tags": []
     },
     {
-      "id": "devto-3750611",
-      "title": "What Building My Own AI Bot Taught Me About Generative AI",
-      "description": "I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...",
-      "url": "https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 6,
-      "published_at": "2026-05-27T19:57:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3726681",
       "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
       "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
@@ -588,19 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-3715153",
-      "title": "We migrated a .NET app from ABP Framework to Granit without downtime - here's the playbook",
-      "description": "We just finished moving a 15-module .NET service from ABP Framework to Granit — without a maintenance...",
-      "url": "https://dev.to/jfmeyers/we-migrated-a-net-app-from-abp-framework-to-granit-without-downtime-heres-the-playbook-4m3n",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 2,
-      "published_at": "2026-05-21T07:57:37Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -614,19 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-3726722",
-      "title": "Zero-Idle Local LLMs: Running Llama 3 in AWS Lambda Containers",
-      "description": "There is a persistent assumption in today’s AI ecosystem: If you want to build an AI product, you...",
-      "url": "https://dev.to/dhananjay_lakkawar/zero-idle-local-llms-running-llama-3-in-aws-lambda-containers-5gjk",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-05-22T15:33:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3754939",
       "title": "The Machine Learning Engineering Series",
       "description": "Part 1: From Scratch to Systems   . This machine learning series will be a real ride. It’s...",
@@ -635,6 +622,19 @@
       "points": 9,
       "comments": 0,
       "published_at": "2026-05-26T07:33:01Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3726722",
+      "title": "Zero-Idle Local LLMs: Running Llama 3 in AWS Lambda Containers",
+      "description": "There is a persistent assumption in today’s AI ecosystem: If you want to build an AI product, you...",
+      "url": "https://dev.to/dhananjay_lakkawar/zero-idle-local-llms-running-llama-3-in-aws-lambda-containers-5gjk",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 2,
+      "published_at": "2026-05-22T15:33:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -659,21 +659,8 @@
       "url": "https://dev.to/zrouga/im-not-an-ml-engineer-i-built-one-anyway-3feb",
       "source": "dev.to",
       "points": 8,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-05-25T13:02:14Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3714408",
-      "title": "Rethinking Open Source Contribution in the Age of AI Agents, featuring vLLM Core Maintainer Roger Wang at MLSys'26",
-      "description": "Roger is a software engineer focused on machine learning research and systems. He is a core...",
-      "url": "https://dev.to/1grace/rethinking-open-source-contribution-in-the-age-of-ai-agents-featuring-vllm-core-maintainer-roger-53bc",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 5,
-      "published_at": "2026-05-21T06:42:50Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -700,6 +687,32 @@
       "points": 8,
       "comments": 1,
       "published_at": "2024-05-07T19:43:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3759803",
+      "title": "SchemaSpy vs SchemaCrawler - Which Database Documentation Tool is Right for You?",
+      "description": "A fair comparison of two free, open-source database documentation tools - what each does best, when to choose one over the other, and whether you can use both.",
+      "url": "https://dev.to/sualeh/schemaspy-vs-schemacrawler-which-database-documentation-tool-is-right-for-you-3do9",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 2,
+      "published_at": "2026-05-26T23:47:18Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3768521",
+      "title": "Building RepoRank — The Open Source Impact & Funding Readiness Engine",
+      "description": "A journey into bridging open-source metrics, cross-source SQL joins, and AI-driven grant...",
+      "url": "https://dev.to/himanshu_748/building-reporank-the-open-source-impact-funding-readiness-engine-47k9",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 1,
+      "published_at": "2026-05-28T05:47:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,19 +778,6 @@
       "points": 6,
       "comments": 5,
       "published_at": "2026-05-23T19:52:52Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3719966",
-      "title": "Found a Second Layer to a GitHub Follow Botnet",
-      "description": "This is Part 2 of an ongoing investigation. Part 1 documented the initial discovery — 8 accounts with...",
-      "url": "https://dev.to/gnomeman4201/found-a-second-layer-to-a-github-follow-botnet-5gh1",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 4,
-      "published_at": "2026-05-21T19:42:26Z",
       "summary": "",
       "category": "all",
       "tags": []
