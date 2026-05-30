@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T07:10:20Z",
+  "updated_at": "2026-05-30T06:53:51Z",
   "count": 60,
   "articles": [
     {
@@ -302,6 +302,19 @@
       "tags": []
     },
     {
+      "id": "devto-3756670",
+      "title": "An LLM API call, in 4 GIFs",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "source": "dev.to",
+      "points": 62,
+      "comments": 32,
+      "published_at": "2026-05-26T20:52:22Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-26386432",
       "title": "Furious AI researcher creates a list of non-reproducible machine learning papers",
       "description": "",
@@ -354,19 +367,6 @@
       "tags": []
     },
     {
-      "id": "devto-3756670",
-      "title": "An LLM API call, in 4 GIFs",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "source": "dev.to",
-      "points": 42,
-      "comments": 21,
-      "published_at": "2026-05-26T20:52:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -385,8 +385,8 @@
       "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
       "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
       "source": "dev.to",
-      "points": 33,
-      "comments": 26,
+      "points": 35,
+      "comments": 29,
       "published_at": "2026-05-27T04:59:28Z",
       "summary": "",
       "category": "all",
@@ -419,6 +419,45 @@
       "tags": []
     },
     {
+      "id": "devto-3771654",
+      "title": "I Built an MCP Agent Framework for My B.Tech Major Project. It Got 750+ npm Downloads in Week One. Here's the Comeback Story.",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Last...",
+      "url": "https://dev.to/om_shree_0709/i-built-an-mcp-agent-framework-for-my-btech-major-project-it-got-750-npm-downloads-in-week-one-14f1",
+      "source": "dev.to",
+      "points": 27,
+      "comments": 4,
+      "published_at": "2026-05-28T13:40:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3740683",
+      "title": "Build It, Then Use It: How I wrote 435 AI engineering lessons from scratch",
+      "description": "The first time I wrote a tokenizer, I did it with a for loop. I counted byte pairs by hand, merged...",
+      "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 9,
+      "published_at": "2026-05-24T13:50:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3751631",
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 4,
+      "published_at": "2026-05-25T18:22:35Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -432,40 +471,27 @@
       "tags": []
     },
     {
-      "id": "devto-3740683",
-      "title": "Build It, Then Use It: How I wrote 435 AI engineering lessons from scratch",
-      "description": "The first time I wrote a tokenizer, I did it with a for loop. I counted byte pairs by hand, merged...",
-      "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d",
-      "source": "dev.to",
-      "points": 25,
-      "comments": 9,
-      "published_at": "2026-05-24T13:50:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3751631",
-      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
-      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
-      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
-      "source": "dev.to",
-      "points": 25,
-      "comments": 3,
-      "published_at": "2026-05-25T18:22:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3750928",
       "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
       "description": "Two stories landed in the same news cycle.  Microsoft cancelled most internal Claude Code licenses....",
       "url": "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
       "source": "dev.to",
-      "points": 24,
-      "comments": 12,
+      "points": 25,
+      "comments": 14,
       "published_at": "2026-05-25T15:46:18Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3768723",
+      "title": "AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors.",
+      "description": "We let AI agents loose on a payment platform. They crushed the boring stuff. Then they silently broke...",
+      "url": "https://dev.to/mickyarun/ai-agents-are-great-at-80-of-our-code-the-other-20-is-why-we-still-need-seniors-3lh5",
+      "source": "dev.to",
+      "points": 22,
+      "comments": 19,
+      "published_at": "2026-05-28T06:20:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -489,8 +515,8 @@
       "description": "I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...",
       "url": "https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il",
       "source": "dev.to",
-      "points": 19,
-      "comments": 12,
+      "points": 20,
+      "comments": 13,
       "published_at": "2026-05-27T19:57:35Z",
       "summary": "",
       "category": "all",
@@ -510,32 +536,6 @@
       "tags": []
     },
     {
-      "id": "devto-3771654",
-      "title": "I Built an MCP Agent Framework for My B.Tech Major Project. It Got 750+ npm Downloads in Week One. Here's the Comeback Story.",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Last...",
-      "url": "https://dev.to/om_shree_0709/i-built-an-mcp-agent-framework-for-my-btech-major-project-it-got-750-npm-downloads-in-week-one-14f1",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 2,
-      "published_at": "2026-05-28T13:40:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3768723",
-      "title": "AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors.",
-      "description": "We let AI agents loose on a payment platform. They crushed the boring stuff. Then they silently broke...",
-      "url": "https://dev.to/mickyarun/ai-agents-are-great-at-80-of-our-code-the-other-20-is-why-we-still-need-seniors-3lh5",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 4,
-      "published_at": "2026-05-28T06:20:38Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -544,19 +544,6 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3666946",
-      "title": "Microsoft tried to kill the printer driver. Healthcare said no.",
-      "description": "Microsoft tried to kill the printer driver. 90% of US healthcare said no.   In late 2025,...",
-      "url": "https://dev.to/thegdsks/microsoft-tried-to-kill-the-printer-driver-healthcare-said-no-28e7",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 1,
-      "published_at": "2026-05-23T06:36:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,19 +562,6 @@
       "tags": []
     },
     {
-      "id": "devto-3726681",
-      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
-      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
-      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 6,
-      "published_at": "2026-05-22T15:25:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3731426",
       "title": "When AI Reads Blueprints: The Hidden Attack Surface of Multimodal Engineering Intelligence",
       "description": "description: \"A security analysis of steganographic prompt injection and data poisoning...",
@@ -596,6 +570,19 @@
       "points": 10,
       "comments": 4,
       "published_at": "2026-05-23T09:01:51Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3773480",
+      "title": "I Built an AI-Powered PC Monitor in Python. 28 Strangers Shaped Its Brain. PC Workman 1.7.6",
+      "description": "I built an AI-powered PC monitor in Python. 28 strangers shaped its brain. This article is about PC...",
+      "url": "https://dev.to/huckler/i-built-an-ai-powered-pc-monitor-in-python-28-strangers-shaped-its-brain-pc-workman-176-l4d",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-05-28T20:47:16Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,32 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-3726722",
-      "title": "Zero-Idle Local LLMs: Running Llama 3 in AWS Lambda Containers",
-      "description": "There is a persistent assumption in today’s AI ecosystem: If you want to build an AI product, you...",
-      "url": "https://dev.to/dhananjay_lakkawar/zero-idle-local-llms-running-llama-3-in-aws-lambda-containers-5gjk",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-05-22T15:33:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3728239",
-      "title": "Running a Full Multi-Stage Intrusion Simulation. Every Detection Fired.",
-      "description": "I've been building SHENRON for a while — a polymorphic adversarial simulation framework that...",
-      "url": "https://dev.to/gnomeman4201/running-a-full-multi-stage-intrusion-simulation-every-detection-fired-3lk9",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-05-22T21:01:31Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3749833",
       "title": "I'm not an ML engineer. I built one anyway.",
       "description": "Not because I wanted to — but because every tool I tried on ARM edge devices either needed the cloud,...",
@@ -661,6 +622,19 @@
       "points": 8,
       "comments": 2,
       "published_at": "2026-05-25T13:02:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3688249",
+      "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
+      "description": "You know the one. You're trying to subscribe to a newsletter, and Google asks you to identify all the...",
+      "url": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 3,
+      "published_at": "2026-05-29T06:29:01Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,13 +666,26 @@
       "tags": []
     },
     {
+      "id": "devto-3773343",
+      "title": "We Didn’t Just Train AI on the Internet. We Started Training It on Itself.",
+      "description": "There’s a quiet assumption in almost every AI discussion right now:   “If we scale compute and...",
+      "url": "https://dev.to/arpitstack/we-didnt-just-train-ai-on-the-internet-we-started-training-it-on-itself-24b6",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-05-28T20:19:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3759803",
       "title": "SchemaSpy vs SchemaCrawler - Which Database Documentation Tool is Right for You?",
       "description": "A fair comparison of two free, open-source database documentation tools - what each does best, when to choose one over the other, and whether you can use both.",
       "url": "https://dev.to/sualeh/schemaspy-vs-schemacrawler-which-database-documentation-tool-is-right-for-you-3do9",
       "source": "dev.to",
       "points": 7,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-05-26T23:47:18Z",
       "summary": "",
       "category": "all",
@@ -750,7 +737,7 @@
       "url": "https://dev.to/jenueldev/ai-guardrails-are-not-security-boundaries-1l7k",
       "source": "dev.to",
       "points": 6,
-      "comments": 0,
+      "comments": 1,
       "published_at": "2026-05-25T10:38:32Z",
       "summary": "",
       "category": "all",
@@ -765,6 +752,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3772255",
+      "title": "Stop Building AI Assistants. Build AI Firewalls.",
+      "description": "Every week another \"AI agent for X\" launches. Email triage. Calendar coordination. Sales follow-up....",
+      "url": "https://dev.to/k08200/stop-building-ai-assistants-build-ai-firewalls-1mh0",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-05-28T15:40:23Z",
       "summary": "",
       "category": "all",
       "tags": []
