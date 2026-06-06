@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T07:19:51Z",
+  "updated_at": "2026-06-06T06:57:26Z",
   "count": 60,
   "articles": [
     {
@@ -21,8 +21,8 @@
       "description": "",
       "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
       "source": "theatlantic.com",
-      "points": 751,
-      "comments": 1302,
+      "points": 771,
+      "comments": 1351,
       "published_at": "2026-06-03T17:51:37Z",
       "summary": "",
       "category": "all",
@@ -354,19 +354,6 @@
       "tags": []
     },
     {
-      "id": "devto-3778167",
-      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
-      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
-      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
-      "source": "dev.to",
-      "points": 40,
-      "comments": 14,
-      "published_at": "2026-05-29T12:11:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -386,7 +373,7 @@
       "url": "https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b",
       "source": "dev.to",
       "points": 34,
-      "comments": 21,
+      "comments": 22,
       "published_at": "2026-05-30T18:48:07Z",
       "summary": "",
       "category": "all",
@@ -398,7 +385,7 @@
       "description": "The dominant production failure mode for LLM agents in 2026 isn't bad reasoning — it's capacity. Here's what the data shows, why nobody demos it, and the capacity-engineering patterns that actually keep agents alive under load.",
       "url": "https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60",
       "source": "dev.to",
-      "points": 30,
+      "points": 31,
       "comments": 12,
       "published_at": "2026-06-02T13:09:00Z",
       "summary": "",
@@ -411,7 +398,7 @@
       "description": "A hands-on knowledge-distillation project: Qwen2-VL-7B → 2B for UI-screenshot understanding, trained, evaluated and benchmarked end-to-end on an M4 Pro. 2.4× faster — and why the teacher lost on ROUGE-L.",
       "url": "https://dev.to/p0rt/i-distilled-a-7b-vision-model-into-a-2b-one-for-screenshots-and-the-7b-teacher-scored-worse-3akh",
       "source": "dev.to",
-      "points": 29,
+      "points": 30,
       "comments": 7,
       "published_at": "2026-06-02T15:36:21Z",
       "summary": "",
@@ -427,6 +414,19 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3812098",
+      "title": "I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
+      "description": "Here's a thing that happens on every team I've been on.  Sprint ends. Someone schedules the retro....",
+      "url": "https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 5,
+      "published_at": "2026-06-04T02:32:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -458,25 +458,12 @@
       "tags": []
     },
     {
-      "id": "devto-3812098",
-      "title": "I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
-      "description": "Here's a thing that happens on every team I've been on.  Sprint ends. Someone schedules the retro....",
-      "url": "https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9",
-      "source": "dev.to",
-      "points": 25,
-      "comments": 2,
-      "published_at": "2026-06-04T02:32:36Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3789544",
       "title": "CHANGELOG.md is for Both Humans and AI Now, So Let’s Automate It",
       "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who recently discovered the deliciousness of a cheese...",
       "url": "https://dev.to/nyaomaru/changelogmd-is-for-both-humans-and-ai-now-so-lets-automate-it-18dp",
       "source": "dev.to",
-      "points": 21,
+      "points": 23,
       "comments": 2,
       "published_at": "2026-06-03T12:33:59Z",
       "summary": "",
@@ -492,6 +479,32 @@
       "points": 21,
       "comments": 4,
       "published_at": "2026-06-02T04:48:20Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3793088",
+      "title": "OrinIDE v1.0.7 — The AI Finally Understands Your Whole Project",
+      "description": "New in OrinIDE: project-wide AI context, surgical edits that don't rewrite your whole file, a skills system, HTML preview in chat, and a free image API. Built on Android with Termux.",
+      "url": "https://dev.to/nandan_das_369/orinide-v107-the-ai-finally-understands-your-whole-project-2nd4",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 4,
+      "published_at": "2026-06-01T06:13:17Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3820245",
+      "title": "The Comments Got Good. That's How I Knew.",
+      "description": "I wrote a post on model distillation. The comments were thoughtful, specific, and technically sharp — and that's exactly what made me check whether any of them were written by people.",
+      "url": "https://dev.to/p0rt/the-comments-got-good-thats-how-i-knew-42m9",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 2,
+      "published_at": "2026-06-04T14:09:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,19 +549,6 @@
       "tags": []
     },
     {
-      "id": "devto-3793088",
-      "title": "OrinIDE v1.0.7 — The AI Finally Understands Your Whole Project",
-      "description": "New in OrinIDE: project-wide AI context, surgical edits that don't rewrite your whole file, a skills system, HTML preview in chat, and a free image API. Built on Android with Termux.",
-      "url": "https://dev.to/nandan_das_369/orinide-v107-the-ai-finally-understands-your-whole-project-2nd4",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 4,
-      "published_at": "2026-06-01T06:13:17Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3802780",
       "title": "How fast is LlamaStash? Overhead, throughput, and a fair comparison with Ollama and LM Studio",
       "description": "A reproducible benchmark of LlamaStash against raw llama-server, Ollama, and LM Studio on AMD APU, Apple Silicon, and NVIDIA",
@@ -562,19 +562,6 @@
       "tags": []
     },
     {
-      "id": "devto-3820245",
-      "title": "The Comments Got Good. That's How I Knew.",
-      "description": "I wrote a post on model distillation. The comments were thoughtful, specific, and technically sharp — and that's exactly what made me check whether any of them were written by people.",
-      "url": "https://dev.to/p0rt/the-comments-got-good-thats-how-i-knew-42m9",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 1,
-      "published_at": "2026-06-04T14:09:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -583,6 +570,45 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3810025",
+      "title": "Your Agent Failed in Prod. Good Luck Reproducing It.",
+      "description": "Why LLM agents are so hard to reproduce, why some of that nondeterminism is a feature you should not remove, and how record and replay gets you the one thing you actually need.",
+      "url": "https://dev.to/tisha/your-agent-failed-in-prod-good-luck-reproducing-it-56ci",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 10,
+      "published_at": "2026-06-03T10:16:43Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3782369",
+      "title": "5 Things That Look Terrible as Plain Text (And How OpenUI Fixes Them)",
+      "description": "Most AI products still respond like it's 2023. You ask a question, a cursor blinks, and you get...",
+      "url": "https://dev.to/shogun444/5-things-that-look-terrible-as-plain-text-and-how-openui-fixes-them-4aj7",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-05-30T06:55:20Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3821770",
+      "title": "Abhorrent Employment Agreements.",
+      "description": "I recently received (and later rejected) a six figure Staff Engineer position.  They approached me,...",
+      "url": "https://dev.to/janeori/abhorrent-employment-agreements-j88",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-06-04T22:53:57Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,32 +640,6 @@
       "tags": []
     },
     {
-      "id": "devto-3810025",
-      "title": "Your Agent Failed in Prod. Good Luck Reproducing It.",
-      "description": "Why LLM agents are so hard to reproduce, why some of that nondeterminism is a feature you should not remove, and how record and replay gets you the one thing you actually need.",
-      "url": "https://dev.to/tisha/your-agent-failed-in-prod-good-luck-reproducing-it-56ci",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 10,
-      "published_at": "2026-06-03T10:16:43Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3782369",
-      "title": "5 Things That Look Terrible as Plain Text (And How OpenUI Fixes Them)",
-      "description": "Most AI products still respond like it's 2023. You ask a question, a cursor blinks, and you get...",
-      "url": "https://dev.to/shogun444/5-things-that-look-terrible-as-plain-text-and-how-openui-fixes-them-4aj7",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 2,
-      "published_at": "2026-05-30T06:55:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3783670",
       "title": "Pluto-ecss: A transpiler and runtime for PLUTO procedure language",
       "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   pluto-ecss is...",
@@ -648,19 +648,6 @@
       "points": 7,
       "comments": 0,
       "published_at": "2026-05-30T11:22:34Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3781030",
-      "title": "Reviving Ultra Creative Suite: The First Fully Accessible Video Editor for Blind Users",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   Ultra...",
-      "url": "https://dev.to/demirajvazi10max/reviving-ultra-creative-suite-the-first-fully-accessible-video-editor-for-blind-users-286l",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 2,
-      "published_at": "2026-05-30T00:13:16Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,6 +679,19 @@
       "tags": []
     },
     {
+      "id": "devto-3805365",
+      "title": "why Cohen's kappa drifts week to week (and what to do about it)",
+      "description": "If your LLM-as-judge calibration kappa moves around week to week and you cannot explain it from...",
+      "url": "https://dev.to/maya_andersson_dev/why-cohens-kappa-drifts-week-to-week-and-what-to-do-about-it-2alh",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-06-02T19:25:19Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -700,19 +700,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3805365",
-      "title": "why Cohen's kappa drifts week to week (and what to do about it)",
-      "description": "If your LLM-as-judge calibration kappa moves around week to week and you cannot explain it from...",
-      "url": "https://dev.to/maya_andersson_dev/why-cohens-kappa-drifts-week-to-week-and-what-to-do-about-it-2alh",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-06-02T19:25:19Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,19 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-3776770",
-      "title": "✨📊 🧠 The Ultimate Visual Guide to Large Language Models (LLMs)",
-      "description": "Generative AI is a type of artificial intelligence that can produce new content including text,...",
-      "url": "https://dev.to/yash_kishan_singh_6t/the-ultimate-visual-guide-to-large-language-models-llms-13ie",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-05-29T09:08:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3785849",
       "title": "Ideias Valem Muito Menos do Que Você Imagina [PT-BR]",
       "description": "A notícia da venda do Downdetector e do Speedtest para a Accenture por US$ 1,2 bilhão trouxe um...",
@@ -778,6 +752,32 @@
       "points": 5,
       "comments": 1,
       "published_at": "2026-06-01T15:30:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3814995",
+      "title": "What It's Actually Like to Be an LFX Mentee at CNCF",
+      "description": "The CNCF has a lot of projects. When I opened the CNCF Landscape for the first time, I spent days...",
+      "url": "https://dev.to/mohammedfirdouss/what-its-actually-like-to-be-an-lfx-mentee-at-cncf-2i2k",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-06-04T00:20:21Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3804582",
+      "title": "Your GPU Probably Isn't Helping Your Retrieval System",
+      "description": "Most \"just use a GPU\" advice is wrong for how anyone actually runs small models.  I spent yesterday...",
+      "url": "https://dev.to/newtorob/your-gpu-probably-isnt-helping-your-retrieval-system-2c0n",
+      "source": "dev.to",
+      "points": 4,
+      "comments": 5,
+      "published_at": "2026-06-02T16:28:07Z",
       "summary": "",
       "category": "all",
       "tags": []
