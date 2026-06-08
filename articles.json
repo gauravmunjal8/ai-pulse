@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T07:16:14Z",
+  "updated_at": "2026-06-08T07:29:22Z",
   "count": 60,
   "articles": [
     {
@@ -21,8 +21,8 @@
       "description": "",
       "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
       "source": "theatlantic.com",
-      "points": 779,
-      "comments": 1363,
+      "points": 786,
+      "comments": 1372,
       "published_at": "2026-06-03T17:51:37Z",
       "summary": "",
       "category": "all",
@@ -354,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-3812098",
+      "title": "I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
+      "description": "Here's a thing that happens on every team I've been on.  Sprint ends. Someone schedules the retro....",
+      "url": "https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9",
+      "source": "dev.to",
+      "points": 42,
+      "comments": 9,
+      "published_at": "2026-06-04T02:32:36Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -362,19 +375,6 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3812098",
-      "title": "I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
-      "description": "Here's a thing that happens on every team I've been on.  Sprint ends. Someone schedules the retro....",
-      "url": "https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9",
-      "source": "dev.to",
-      "points": 33,
-      "comments": 8,
-      "published_at": "2026-06-04T02:32:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -450,7 +450,7 @@
       "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who recently discovered the deliciousness of a cheese...",
       "url": "https://dev.to/nyaomaru/changelogmd-is-for-both-humans-and-ai-now-so-lets-automate-it-18dp",
       "source": "dev.to",
-      "points": 24,
+      "points": 25,
       "comments": 2,
       "published_at": "2026-06-03T12:33:59Z",
       "summary": "",
@@ -466,19 +466,6 @@
       "points": 21,
       "comments": 4,
       "published_at": "2026-06-02T04:48:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3793088",
-      "title": "OrinIDE v1.0.7 — The AI Finally Understands Your Whole Project",
-      "description": "New in OrinIDE: project-wide AI context, surgical edits that don't rewrite your whole file, a skills system, HTML preview in chat, and a free image API. Built on Android with Termux.",
-      "url": "https://dev.to/nandan_das_369/orinide-v107-the-ai-finally-understands-your-whole-project-2nd4",
-      "source": "dev.to",
-      "points": 18,
-      "comments": 4,
-      "published_at": "2026-06-01T06:13:17Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,6 +536,32 @@
       "tags": []
     },
     {
+      "id": "devto-3810025",
+      "title": "Your Agent Failed in Prod. Good Luck Reproducing It.",
+      "description": "Why LLM agents are so hard to reproduce, why some of that nondeterminism is a feature you should not remove, and how record and replay gets you the one thing you actually need.",
+      "url": "https://dev.to/tisha/your-agent-failed-in-prod-good-luck-reproducing-it-56ci",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 10,
+      "published_at": "2026-06-03T10:16:43Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3812371",
+      "title": "Operating Real-Time AI: SLAs, Observability, and Knowing When It's Broken",
+      "description": "The previous four posts in this series covered the three architectural pillars of real-time AI at...",
+      "url": "https://dev.to/kenwalger/operating-real-time-ai-slas-observability-and-knowing-when-its-broken-8n2",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 6,
+      "published_at": "2026-06-03T15:59:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -562,25 +575,12 @@
       "tags": []
     },
     {
-      "id": "devto-3810025",
-      "title": "Your Agent Failed in Prod. Good Luck Reproducing It.",
-      "description": "Why LLM agents are so hard to reproduce, why some of that nondeterminism is a feature you should not remove, and how record and replay gets you the one thing you actually need.",
-      "url": "https://dev.to/tisha/your-agent-failed-in-prod-good-luck-reproducing-it-56ci",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 10,
-      "published_at": "2026-06-03T10:16:43Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3821770",
       "title": "Abhorrent Employment Agreements.",
       "description": "I recently received (and later rejected) a six figure Staff Engineer position.  They approached me,...",
       "url": "https://dev.to/janeori/abhorrent-employment-agreements-j88",
       "source": "dev.to",
-      "points": 8,
+      "points": 9,
       "comments": 2,
       "published_at": "2026-06-04T22:53:57Z",
       "summary": "",
@@ -614,14 +614,14 @@
       "tags": []
     },
     {
-      "id": "devto-3812371",
-      "title": "Operating Real-Time AI: SLAs, Observability, and Knowing When It's Broken",
-      "description": "The previous four posts in this series covered the three architectural pillars of real-time AI at...",
-      "url": "https://dev.to/kenwalger/operating-real-time-ai-slas-observability-and-knowing-when-its-broken-8n2",
+      "id": "devto-3812131",
+      "title": "I Was Scared of My First Open Source PR, So I Built a Safe Lab for Beginners",
+      "description": "The Fear Is Real   My first open source contribution was terrifying.  I stared at the...",
+      "url": "https://dev.to/premium_26/i-was-scared-of-my-first-open-source-pr-so-i-built-a-safe-lab-for-beginners-5511",
       "source": "dev.to",
       "points": 7,
-      "comments": 4,
-      "published_at": "2026-06-03T15:59:38Z",
+      "comments": 2,
+      "published_at": "2026-06-03T15:14:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -648,6 +648,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-06-02T19:25:19Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3844998",
+      "title": "Odysseus: The Self-Hosted AI Workspace That Bundles Everything (60k+ ⭐)",
+      "description": "I Tried PewDiePie's Open-Source AI Workspace. It's Actually Good.   Yes, that...",
+      "url": "https://dev.to/divyesh5981/odysseus-the-self-hosted-ai-workspace-that-bundles-everything-59k--5cln",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-06-08T03:35:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -739,19 +752,6 @@
       "points": 5,
       "comments": 1,
       "published_at": "2026-06-06T07:57:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3792559",
-      "title": "Hermes Agent's Kanban System Is the Most Underrated Feature in Open Source AI Agents",
-      "description": "This is a submission for the Hermes Agent Challenge: Write About Hermes Agent     When people talk...",
-      "url": "https://dev.to/_prshant01/hermes-agents-kanban-system-is-the-most-underrated-feature-in-open-source-ai-agents-3af6",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-06-01T04:29:32Z",
       "summary": "",
       "category": "all",
       "tags": []
