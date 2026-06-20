@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T07:41:55Z",
+  "updated_at": "2026-06-20T07:12:50Z",
   "count": 60,
   "articles": [
     {
@@ -386,7 +386,7 @@
       "url": "https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh",
       "source": "dev.to",
       "points": 31,
-      "comments": 20,
+      "comments": 21,
       "published_at": "2026-06-13T17:26:10Z",
       "summary": "",
       "category": "all",
@@ -432,6 +432,19 @@
       "tags": []
     },
     {
+      "id": "devto-3899292",
+      "title": "Everyone Wants AI Agents: So Why Are They So Damn Hard to Build?",
+      "description": "Over the past year, AI agents have gone from research experiments to one of the hottest topics in...",
+      "url": "https://dev.to/reetain_raina/everyone-wants-ai-agents-so-why-are-they-so-damn-hard-to-build-38cb",
+      "source": "dev.to",
+      "points": 22,
+      "comments": 14,
+      "published_at": "2026-06-14T15:08:06Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3908653",
       "title": "Don't Do Your Taxes at a Party",
       "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
@@ -450,8 +463,8 @@
       "description": "There's a particular way an AI coding agent goes bad. Not a crash, not an error. It just gets duller....",
       "url": "https://dev.to/rapls/my-ai-agent-got-dumber-mid-session-i-measured-the-context-window-before-blaming-mcp-4c3l",
       "source": "dev.to",
-      "points": 17,
-      "comments": 22,
+      "points": 18,
+      "comments": 26,
       "published_at": "2026-06-17T02:07:22Z",
       "summary": "",
       "category": "all",
@@ -471,6 +484,19 @@
       "tags": []
     },
     {
+      "id": "devto-3897524",
+      "title": "I Built an AI System Design Coach — Clone It, Try It, Break It",
+      "description": "The problem I kept running into   Every time I practiced system design, I'd hit the same...",
+      "url": "https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 2,
+      "published_at": "2026-06-14T10:22:52Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3918251",
       "title": "The $0 Bug That Cost Us $1,800 in API Calls",
       "description": "Last quarter our OpenAI bill went from $620 to $2,480 in 23 days.  No new features shipped. No...",
@@ -479,19 +505,6 @@
       "points": 14,
       "comments": 7,
       "published_at": "2026-06-16T18:50:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3897524",
-      "title": "I Built an AI System Design Coach — Clone It, Try It, Break It",
-      "description": "The problem I kept running into   Every time I practiced system design, I'd hit the same...",
-      "url": "https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 2,
-      "published_at": "2026-06-14T10:22:52Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,27 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-3899292",
-      "title": "Everyone Wants AI Agents: So Why Are They So Damn Hard to Build?",
-      "description": "Over the past year, AI agents have gone from research experiments to one of the hottest topics in...",
-      "url": "https://dev.to/reetain_raina/everyone-wants-ai-agents-so-why-are-they-so-damn-hard-to-build-38cb",
+      "id": "devto-3908895",
+      "title": "Vibe Coding Bible: A Programming Paradigm for AI-Written Software",
+      "description": "Vibe Coding Bible: Rethinking Software Architecture for AI-Generated Code   For the last...",
+      "url": "https://dev.to/evgeniy_kormin/vibe-coding-bible-a-programming-paradigm-for-ai-written-software-gp9",
       "source": "dev.to",
-      "points": 13,
-      "comments": 13,
-      "published_at": "2026-06-14T15:08:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3884671",
-      "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
-      "description": "Earlier this week I published CLAIM-29: permission is not purpose. An instruction can be fully...",
-      "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 47,
-      "published_at": "2026-06-12T17:18:59Z",
+      "points": 12,
+      "comments": 7,
+      "published_at": "2026-06-15T18:49:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -557,6 +557,19 @@
       "points": 10,
       "comments": 2,
       "published_at": "2026-06-14T18:36:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3907431",
+      "title": "I shipped 35 bugs in my AI chatbot. The scariest one was on the output side.",
+      "description": "I ran my own AI chatbot plugin through a security review before release, and it came back with 35...",
+      "url": "https://dev.to/rapls/i-shipped-35-bugs-in-my-ai-chatbot-the-scariest-one-was-on-the-output-side-hjg",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 12,
+      "published_at": "2026-06-15T22:32:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,19 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-3907431",
-      "title": "I shipped 35 bugs in my AI chatbot. The scariest one was on the output side.",
-      "description": "I ran my own AI chatbot plugin through a security review before release, and it came back with 35...",
-      "url": "https://dev.to/rapls/i-shipped-35-bugs-in-my-ai-chatbot-the-scariest-one-was-on-the-output-side-hjg",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 10,
-      "published_at": "2026-06-15T22:32:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3897383",
       "title": "Shouldn't AI Move From Cloud to Local Compute?",
       "description": "Copilot metering, Responses API, Anthropic Fable/Mythos, NVIDIA local AI boxes, and what this means if you want to run serious AI coding tools on infrastructure you control.",
@@ -614,39 +614,13 @@
       "tags": []
     },
     {
-      "id": "devto-3851920",
-      "title": "How I Built a Python Script to Export and Analyze Your DEV.to Followers",
-      "description": "It was a Friday, and school was out for the weekend. I made a bit of a Spelling Bee page for my...",
-      "url": "https://dev.to/thetylern/how-i-built-a-python-script-to-export-and-analyze-your-devto-followers-59p6",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 10,
-      "published_at": "2026-06-12T11:39:38Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3908895",
-      "title": "Vibe Coding Bible: A Programming Paradigm for AI-Written Software",
-      "description": "Vibe Coding Bible: Rethinking Software Architecture for AI-Generated Code   For the last...",
-      "url": "https://dev.to/evgeniy_kormin/vibe-coding-bible-a-programming-paradigm-for-ai-written-software-gp9",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 6,
-      "published_at": "2026-06-15T18:49:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3886503",
       "title": "AI Doesn't Hallucinate. Your Architecture Does.",
       "description": "Hallucination isn't a bug in LLMs — it's the mechanism. The real problem is misallocating non-determinism, and why \"SKILLS.md is enough\" is exactly backwards.",
       "url": "https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe",
       "source": "dev.to",
       "points": 8,
-      "comments": 11,
+      "comments": 13,
       "published_at": "2026-06-15T08:30:00Z",
       "summary": "",
       "category": "all",
@@ -692,6 +666,32 @@
       "tags": []
     },
     {
+      "id": "devto-3928664",
+      "title": "I Thought I Was Cataloging Ways AI Agents Fail. I Was Describing Cross-Layer Coherence.",
+      "description": "My uncle once left me on a basketball court with a sheet of drills and walked off. Before he did, he...",
+      "url": "https://dev.to/kenielzep97/i-thought-i-was-cataloging-ways-ai-agents-fail-i-was-describing-cross-layer-coherence-1bh1",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 10,
+      "published_at": "2026-06-18T02:41:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3916592",
+      "title": "LLM Gateways: Routing, Fallbacks, And Semantic Caching",
+      "description": "Here's a line of code that's quietly running in production at a surprising number of...",
+      "url": "https://dev.to/nazar_boyko/llm-gateways-routing-fallbacks-and-semantic-caching-1n2b",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-06-19T16:09:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3918732",
       "title": "Deploying Label Studio Open-Source Data Labeling Platform on Ubuntu 24.04",
       "description": "Label Studio is an open-source data labeling platform that supports annotation across text, images,...",
@@ -713,19 +713,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-06-18T12:25:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3931361",
-      "title": "Part 4 — High Semantic Similarity Correct Business Conclusion: A Three-Layer Judgment Engine from Retrieval to Quantifiable Decisions",
-      "description": "This article covers the fourth layer of the full-stack architecture: the Judgment Engine. Core...",
-      "url": "https://dev.to/jamesli/part-4-high-semantic-similarity-correct-business-conclusion-a-three-layer-judgment-engine-from-l2o",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-06-18T10:12:52Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,6 +752,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3921897",
+      "title": "Making my TypeScript types 15.7x faster",
+      "description": "What slows large TypeScript types down, how to measure it with @ark/attest, and the one-field match that made my schema library 15.7x cheaper to type-check.",
+      "url": "https://dev.to/dzakh/making-my-typescript-types-157x-faster-4gcg",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-06-17T07:54:00Z",
       "summary": "",
       "category": "all",
       "tags": []
