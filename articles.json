@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T07:02:42Z",
+  "updated_at": "2026-06-25T07:03:00Z",
   "count": 60,
   "articles": [
     {
@@ -354,19 +354,6 @@
       "tags": []
     },
     {
-      "id": "devto-3922930",
-      "title": "How I use premortems with Claude and Codex",
-      "description": "I started using premortems for a boring reason: I did not trust the default review question.  When I...",
-      "url": "https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm",
-      "source": "dev.to",
-      "points": 40,
-      "comments": 4,
-      "published_at": "2026-06-17T10:19:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -445,13 +432,26 @@
       "tags": []
     },
     {
+      "id": "devto-3840447",
+      "title": "Dev log #7 Reviving DevNotion: 10,000 Lines, Multi-LLM Support, and the Road to v2.1",
+      "description": "Spent the week breathing new life into DevNotion—59 commits and over 10,000 lines of code later,...",
+      "url": "https://dev.to/yashksaini/dev-log-1-reviving-devnotion-10000-lines-multi-llm-support-and-the-road-to-v21-47hl",
+      "source": "dev.to",
+      "points": 20,
+      "comments": 0,
+      "published_at": "2026-06-23T15:14:06Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3957677",
       "title": "Receipts Are Not Outcomes: What Happened When I Pointed My AI Gate at Trading",
       "description": "I have been writing here about one core idea:  AI agents do not only fail because they forget...",
       "url": "https://dev.to/kenielzep97/receipts-are-not-outcomes-what-happened-when-i-pointed-my-ai-gate-at-trading-3409",
       "source": "dev.to",
       "points": 19,
-      "comments": 27,
+      "comments": 29,
       "published_at": "2026-06-21T20:24:48Z",
       "summary": "",
       "category": "all",
@@ -484,14 +484,14 @@
       "tags": []
     },
     {
-      "id": "devto-3928664",
-      "title": "I Thought I Was Cataloging Ways AI Agents Fail. I Was Describing Cross-Layer Coherence.",
-      "description": "My uncle once left me on a basketball court with a sheet of drills and walked off. Before he did, he...",
-      "url": "https://dev.to/kenielzep97/i-thought-i-was-cataloging-ways-ai-agents-fail-i-was-describing-cross-layer-coherence-1bh1",
+      "id": "devto-3972726",
+      "title": "Ways Devs Are Plugging LLMs Into Anomaly Detection",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "url": "https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o",
       "source": "dev.to",
       "points": 14,
-      "comments": 33,
-      "published_at": "2026-06-18T02:41:29Z",
+      "comments": 1,
+      "published_at": "2026-06-23T18:57:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,6 +523,19 @@
       "tags": []
     },
     {
+      "id": "devto-3963309",
+      "title": "Trust Isn't a Scalar: Typed Provenance for Agent Chains",
+      "description": "Two posts ago I gave you a boolean trust tag. A commenter took it apart, and he was right. Here's the better model: trust is a vector over axes, provenance is what propagates, and the consumer applies the policy. Part 3 of a series that my comment section is co-writing.",
+      "url": "https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 11,
+      "published_at": "2026-06-22T14:21:08Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3946372",
       "title": "Nobody Knows Why It Said That",
       "description": "Inside the Black Box — Post 1 of 6       Series: Inside the Black Box — A developer's honest...",
@@ -549,40 +562,14 @@
       "tags": []
     },
     {
-      "id": "devto-3972726",
-      "title": "Ways Devs Are Plugging LLMs Into Anomaly Detection",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "url": "https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 1,
-      "published_at": "2026-06-23T18:57:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3964392",
       "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
       "description": "I was building an \"Ask This Book\" feature: readers can ask questions about a book while they're...",
       "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
       "source": "dev.to",
-      "points": 10,
-      "comments": 12,
+      "points": 11,
+      "comments": 17,
       "published_at": "2026-06-23T12:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3963309",
-      "title": "Trust Isn't a Scalar: Typed Provenance for Agent Chains",
-      "description": "Two posts ago I gave you a boolean trust tag. A commenter took it apart, and he was right. Here's the better model: trust is a vector over axes, provenance is what propagates, and the consumer applies the policy. Part 3 of a series that my comment section is co-writing.",
-      "url": "https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 8,
-      "published_at": "2026-06-22T14:21:08Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -594,7 +581,7 @@
       "url": "https://dev.to/brianrhall/dont-use-an-llm-to-decide-what-your-ai-agent-is-allowed-to-do-1dkn",
       "source": "dev.to",
       "points": 10,
-      "comments": 10,
+      "comments": 11,
       "published_at": "2026-06-21T16:15:31Z",
       "summary": "",
       "category": "all",
@@ -614,6 +601,19 @@
       "tags": []
     },
     {
+      "id": "devto-3973107",
+      "title": "Sipp: a local-first runtime for Hybrid AI Applications",
+      "description": "Over the past few months, I had the opportunity to contribute to llama.cpp’s WebGPU backend, helping...",
+      "url": "https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-06-24T13:37:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -622,6 +622,32 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3964273",
+      "title": "What Prime Day Taught Me About Prompt Engineering",
+      "description": "I wanted to get better at prompt engineering. Not the trick-the-robot kind, the boring-but-useful...",
+      "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 1,
+      "published_at": "2026-06-22T18:26:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3966409",
+      "title": "I Revived My React/Redux App with Turtle AI and Learned Where AI Guardrails Can Go Too Far",
+      "description": "Nine years ago, I built two versions of Highlander: an original jQuery application and a...",
+      "url": "https://dev.to/heriberto_codes/i-revived-my-reactredux-app-with-turtle-ai-and-learned-where-ai-guardrails-can-go-too-far-1o34",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 2,
+      "published_at": "2026-06-23T03:29:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -659,8 +685,21 @@
       "url": "https://dev.to/nilofer_tweets/context-compaction-visualizer-see-exactly-what-your-ai-agent-forgot-before-it-costs-you-1o8n",
       "source": "dev.to",
       "points": 8,
-      "comments": 3,
+      "comments": 4,
       "published_at": "2026-06-23T06:01:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3978761",
+      "title": "We Had 6 Features. 2 Were Eating Our Budget",
+      "description": "Twelve months ago we were burning $4,200/month on AI infrastructure and could not tell you which...",
+      "url": "https://dev.to/arpitstack/we-had-6-features-2-were-eating-our-budget-2bph",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-06-24T12:17:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,6 +731,19 @@
       "tags": []
     },
     {
+      "id": "devto-3974030",
+      "title": "The Code Caught the Bad Number. I Had to Catch the Bad Story.",
+      "description": "On June 21, 2026, I published a post about pointing my AI gate at a real trading surface.  The gate...",
+      "url": "https://dev.to/kenielzep97/the-code-caught-the-bad-number-i-had-to-catch-the-bad-story-7fp",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 6,
+      "published_at": "2026-06-24T00:06:40Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3931370",
       "title": "Part 6 — RAG Recall Quality from 60% to 93%: Building a Continuous Evaluation Loop (Not Gut Feeling)",
       "description": "This article covers the sixth and final layer of the full-stack architecture: the Evaluation &amp;...",
@@ -718,66 +770,14 @@
       "tags": []
     },
     {
-      "id": "hn-34521042",
-      "title": "Show HN: Genome - AI based Instagram post generation tool",
-      "description": "",
-      "url": "https://genome.build",
-      "source": "genome.build",
+      "id": "devto-3972894",
+      "title": "Everyone Is Building AI Agents: Nobody Is Talking About the Technical Debt",
+      "description": "Most developers are familiar with technical debt. It's the shortcut that helps you move faster today...",
+      "url": "https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm",
+      "source": "dev.to",
       "points": 6,
       "comments": 0,
-      "published_at": "2023-01-25T17:13:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3969903",
-      "title": "Never lose a training run again: a checkpoint-and-resume playbook for ephemeral GPUs",
-      "description": "▶ Prefer to play with it? There's an interactive version of this article where you can break things...",
-      "url": "https://dev.to/tanay_joshi_04/never-lose-a-training-run-again-a-checkpoint-and-resume-playbook-for-ephemeral-gpus-2m1j",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-06-23T11:17:15Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3964273",
-      "title": "What Prime Day Taught Me About Prompt Engineering",
-      "description": "I wanted to get better at prompt engineering. Not the trick-the-robot kind, the boring-but-useful...",
-      "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2026-06-22T18:26:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3840447",
-      "title": "Dev log #7 Reviving DevNotion: 10,000 Lines, Multi-LLM Support, and the Road to v2.1",
-      "description": "Spent the week breathing new life into DevNotion—59 commits and over 10,000 lines of code later,...",
-      "url": "https://dev.to/yashksaini/dev-log-1-reviving-devnotion-10000-lines-multi-llm-support-and-the-road-to-v21-47hl",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-06-23T15:14:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3943392",
-      "title": "I accidentally became a solo dev studio",
-      "description": "About a month ago, I didn't really think of myself as a solo dev studio.  I was just a person with...",
-      "url": "https://dev.to/quietware/i-accidentally-became-a-solo-dev-studio-2o0n",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-06-19T20:39:39Z",
+      "published_at": "2026-06-23T19:33:14Z",
       "summary": "",
       "category": "all",
       "tags": []
