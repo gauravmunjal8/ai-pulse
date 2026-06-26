@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T07:03:00Z",
+  "updated_at": "2026-06-26T07:09:06Z",
   "count": 60,
   "articles": [
     {
@@ -276,6 +276,19 @@
       "tags": []
     },
     {
+      "id": "hn-44573574",
+      "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
+      "description": "",
+      "url": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
+      "source": "reuters.com",
+      "points": 147,
+      "comments": 245,
+      "published_at": "2025-07-15T17:19:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-40786237",
       "title": "Not all 'open source' AI models are open: here's a ranking",
       "description": "",
@@ -367,6 +380,19 @@
       "tags": []
     },
     {
+      "id": "devto-3969321",
+      "title": "Why I Left Postman — The Real Cost of a Cloud-First API Client",
+      "description": "I used Postman for years. It was the first thing I installed on every new laptop, the default answer...",
+      "url": "https://dev.to/flutwiz/why-i-left-postman-the-real-cost-of-a-cloud-first-api-client-3gfd",
+      "source": "dev.to",
+      "points": 37,
+      "comments": 2,
+      "published_at": "2026-06-23T10:11:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -393,19 +419,6 @@
       "tags": []
     },
     {
-      "id": "devto-3969321",
-      "title": "Why I Left Postman — The Real Cost of a Cloud-First API Client",
-      "description": "I used Postman for years. It was the first thing I installed on every new laptop, the default answer...",
-      "url": "https://dev.to/flutwiz/why-i-left-postman-the-real-cost-of-a-cloud-first-api-client-3gfd",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 2,
-      "published_at": "2026-06-23T10:11:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -419,27 +432,27 @@
       "tags": []
     },
     {
-      "id": "devto-3928315",
-      "title": "r4b1t_h0l3",
-      "description": "→ Try it: gnomeman4201.github.io/r4b1t  It's a curated random link generator for security and OSINT...",
-      "url": "https://dev.to/gnomeman4201/r4b1th0l3-5aa3",
-      "source": "dev.to",
-      "points": 22,
-      "comments": 12,
-      "published_at": "2026-06-18T01:08:28Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3840447",
       "title": "Dev log #7 Reviving DevNotion: 10,000 Lines, Multi-LLM Support, and the Road to v2.1",
       "description": "Spent the week breathing new life into DevNotion—59 commits and over 10,000 lines of code later,...",
       "url": "https://dev.to/yashksaini/dev-log-1-reviving-devnotion-10000-lines-multi-llm-support-and-the-road-to-v21-47hl",
       "source": "dev.to",
-      "points": 20,
+      "points": 25,
       "comments": 0,
       "published_at": "2026-06-23T15:14:06Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3978672",
+      "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
+      "description": "Andrej Karpathy, OpenAI co-founder and former Tesla AI director, called Claude Tag the third major...",
+      "url": "https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp",
+      "source": "dev.to",
+      "points": 20,
+      "comments": 25,
+      "published_at": "2026-06-24T13:23:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -451,7 +464,7 @@
       "url": "https://dev.to/kenielzep97/receipts-are-not-outcomes-what-happened-when-i-pointed-my-ai-gate-at-trading-3409",
       "source": "dev.to",
       "points": 19,
-      "comments": 29,
+      "comments": 30,
       "published_at": "2026-06-21T20:24:48Z",
       "summary": "",
       "category": "all",
@@ -463,9 +476,22 @@
       "description": "I'm writing this because I don't know what else to do. This is Neha. I am a software engineer. I have...",
       "url": "https://dev.to/nehaaaa6/ive-shipped-150-prs-and-built-ai-agents-in-a-day-but-i-still-cant-get-a-job-12m2",
       "source": "dev.to",
-      "points": 16,
+      "points": 17,
       "comments": 6,
       "published_at": "2026-06-22T11:14:33Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3931106",
+      "title": "The LLM Visibility Tools Cost $79/Month. Mine is Open Source.",
+      "description": "Tom Capper at a Search Engine Journal webinar last week:   \"There's no Search Console equivalent for...",
+      "url": "https://dev.to/dannwaneri/the-llm-visibility-tools-cost-79month-mine-is-open-source-29hb",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 4,
+      "published_at": "2026-06-23T12:33:11Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -490,21 +516,8 @@
       "url": "https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o",
       "source": "dev.to",
       "points": 14,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-06-23T18:57:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3931106",
-      "title": "The LLM Visibility Tools Cost $79/Month. Mine is Open Source.",
-      "description": "Tom Capper at a Search Engine Journal webinar last week:   \"There's no Search Console equivalent for...",
-      "url": "https://dev.to/dannwaneri/the-llm-visibility-tools-cost-79month-mine-is-open-source-29hb",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 4,
-      "published_at": "2026-06-23T12:33:11Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -518,6 +531,19 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3964392",
+      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
+      "description": "I was building an \"Ask This Book\" feature: readers can ask questions about a book while they're...",
+      "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 26,
+      "published_at": "2026-06-23T12:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,6 +575,19 @@
       "tags": []
     },
     {
+      "id": "devto-3984918",
+      "title": "I don't trust the LLM to classify my email. So I don't let it.",
+      "description": "My classifier calls an LLM on every single email. The LLM is not allowed to classify the email.  That...",
+      "url": "https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 4,
+      "published_at": "2026-06-25T05:57:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3956469",
       "title": "The App Store's silent giants: AI assistants reply to almost none of their reviewers",
       "description": "An App Store rating looks like a verdict. It behaves more like a monument, built over years and slow...",
@@ -562,13 +601,13 @@
       "tags": []
     },
     {
-      "id": "devto-3964392",
-      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
-      "description": "I was building an \"Ask This Book\" feature: readers can ask questions about a book while they're...",
-      "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
+      "id": "devto-3905461",
+      "title": "Coding Agents Made Me Take Specs Seriously",
+      "description": "Everything changed very quickly.  In a matter of days, my work at DataCamp went from coding and...",
+      "url": "https://dev.to/rubenglez/coding-agents-made-me-take-specs-seriously-2fi6",
       "source": "dev.to",
       "points": 11,
-      "comments": 17,
+      "comments": 16,
       "published_at": "2026-06-23T12:00:00Z",
       "summary": "",
       "category": "all",
@@ -581,21 +620,8 @@
       "url": "https://dev.to/brianrhall/dont-use-an-llm-to-decide-what-your-ai-agent-is-allowed-to-do-1dkn",
       "source": "dev.to",
       "points": 10,
-      "comments": 11,
+      "comments": 13,
       "published_at": "2026-06-21T16:15:31Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3916592",
-      "title": "LLM Gateways: Routing, Fallbacks, And Semantic Caching",
-      "description": "Here's a line of code that's quietly running in production at a surprising number of...",
-      "url": "https://dev.to/nazar_boyko/llm-gateways-routing-fallbacks-and-semantic-caching-1n2b",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 1,
-      "published_at": "2026-06-19T16:09:27Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -633,7 +659,7 @@
       "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek",
       "source": "dev.to",
       "points": 9,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-06-22T18:26:49Z",
       "summary": "",
       "category": "all",
@@ -648,32 +674,6 @@
       "points": 9,
       "comments": 2,
       "published_at": "2026-06-23T03:29:34Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3921897",
-      "title": "Making my TypeScript types 15.7x faster",
-      "description": "What slows large TypeScript types down, how to measure it with @ark/attest, and the one-field match that made my schema library 15.7x cheaper to type-check.",
-      "url": "https://dev.to/dzakh/making-my-typescript-types-157x-faster-4gcg",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 1,
-      "published_at": "2026-06-17T07:54:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3932496",
-      "title": "The Reliability Problem That Forced Us to Rethink AI Agents",
-      "description": "A few months into building AI agents for client projects, we hit a pattern that should sound familiar...",
-      "url": "https://dev.to/pallavi_sharma_10c1a6f1da/the-reliability-problem-that-forced-us-to-rethink-ai-agents-53l",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 3,
-      "published_at": "2026-06-18T12:25:42Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,32 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-3974030",
-      "title": "The Code Caught the Bad Number. I Had to Catch the Bad Story.",
-      "description": "On June 21, 2026, I published a post about pointing my AI gate at a real trading surface.  The gate...",
-      "url": "https://dev.to/kenielzep97/the-code-caught-the-bad-number-i-had-to-catch-the-bad-story-7fp",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 6,
-      "published_at": "2026-06-24T00:06:40Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3931370",
-      "title": "Part 6 — RAG Recall Quality from 60% to 93%: Building a Continuous Evaluation Loop (Not Gut Feeling)",
-      "description": "This article covers the sixth and final layer of the full-stack architecture: the Evaluation &amp;...",
-      "url": "https://dev.to/jamesli/part-6-rag-recall-quality-from-60-to-93-building-a-continuous-evaluation-loop-not-gut-feeling-382k",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 2,
-      "published_at": "2026-06-18T10:14:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3956295",
       "title": "What Is an Array, Really? I'm Writing a Book to Find Out",
       "description": "I've written plenty of code that uses arrays. Looped over them, indexed into them, passed them...",
@@ -776,8 +750,34 @@
       "url": "https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm",
       "source": "dev.to",
       "points": 6,
-      "comments": 0,
+      "comments": 1,
       "published_at": "2026-06-23T19:33:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "hn-34521042",
+      "title": "Show HN: Genome - AI based Instagram post generation tool",
+      "description": "",
+      "url": "https://genome.build",
+      "source": "genome.build",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3970644",
+      "title": "Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why",
+      "description": "If you run anything on Hetzner, you have probably already seen the notice. As of 08:00 CEST on June...",
+      "url": "https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-06-23T12:25:30Z",
       "summary": "",
       "category": "all",
       "tags": []
