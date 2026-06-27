@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T07:09:06Z",
+  "updated_at": "2026-06-27T06:57:39Z",
   "count": 60,
   "articles": [
     {
@@ -276,19 +276,6 @@
       "tags": []
     },
     {
-      "id": "hn-44573574",
-      "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
-      "description": "",
-      "url": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
-      "source": "reuters.com",
-      "points": 147,
-      "comments": 245,
-      "published_at": "2025-07-15T17:19:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40786237",
       "title": "Not all 'open source' AI models are open: here's a ranking",
       "description": "",
@@ -445,13 +432,26 @@
       "tags": []
     },
     {
+      "id": "devto-3963992",
+      "title": "🚀 Top Data Analytics Project Ideas for Beginners and Professionals",
+      "description": "If you're learning Data Analytics and looking to build a strong portfolio, working on real-world...",
+      "url": "https://dev.to/sapanapal6/top-data-analytics-project-ideas-for-beginners-and-professionals-2on4",
+      "source": "dev.to",
+      "points": 22,
+      "comments": 5,
+      "published_at": "2026-06-22T17:15:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3978672",
       "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
       "description": "Andrej Karpathy, OpenAI co-founder and former Tesla AI director, called Claude Tag the third major...",
       "url": "https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp",
       "source": "dev.to",
       "points": 20,
-      "comments": 25,
+      "comments": 28,
       "published_at": "2026-06-24T13:23:02Z",
       "summary": "",
       "category": "all",
@@ -510,13 +510,26 @@
       "tags": []
     },
     {
+      "id": "devto-3984918",
+      "title": "I don't trust the LLM to classify my email. So I don't let it.",
+      "description": "My classifier calls an LLM on every single email. The LLM is not allowed to classify the email.  That...",
+      "url": "https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 8,
+      "published_at": "2026-06-25T05:57:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3972726",
       "title": "Ways Devs Are Plugging LLMs Into Anomaly Detection",
       "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
       "url": "https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o",
       "source": "dev.to",
       "points": 14,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-06-23T18:57:35Z",
       "summary": "",
       "category": "all",
@@ -575,19 +588,6 @@
       "tags": []
     },
     {
-      "id": "devto-3984918",
-      "title": "I don't trust the LLM to classify my email. So I don't let it.",
-      "description": "My classifier calls an LLM on every single email. The LLM is not allowed to classify the email.  That...",
-      "url": "https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 4,
-      "published_at": "2026-06-25T05:57:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3956469",
       "title": "The App Store's silent giants: AI assistants reply to almost none of their reviewers",
       "description": "An App Store rating looks like a verdict. It behaves more like a monument, built over years and slow...",
@@ -606,9 +606,35 @@
       "description": "Everything changed very quickly.  In a matter of days, my work at DataCamp went from coding and...",
       "url": "https://dev.to/rubenglez/coding-agents-made-me-take-specs-seriously-2fi6",
       "source": "dev.to",
-      "points": 11,
-      "comments": 16,
+      "points": 13,
+      "comments": 17,
       "published_at": "2026-06-23T12:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3978761",
+      "title": "We Had 6 Features. 2 Were Eating Our Budget",
+      "description": "Twelve months ago we were burning $4,200/month on AI infrastructure and could not tell you which...",
+      "url": "https://dev.to/arpitstack/we-had-6-features-2-were-eating-our-budget-2bph",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 4,
+      "published_at": "2026-06-24T12:17:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3973107",
+      "title": "Sipp: a local-first runtime for Hybrid AI Applications",
+      "description": "Over the past few months, I had the opportunity to contribute to llama.cpp’s WebGPU backend, helping...",
+      "url": "https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 2,
+      "published_at": "2026-06-24T13:37:58Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -622,19 +648,6 @@
       "points": 10,
       "comments": 13,
       "published_at": "2026-06-21T16:15:31Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3973107",
-      "title": "Sipp: a local-first runtime for Hybrid AI Applications",
-      "description": "Over the past few months, I had the opportunity to contribute to llama.cpp’s WebGPU backend, helping...",
-      "url": "https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 0,
-      "published_at": "2026-06-24T13:37:58Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,19 +705,6 @@
       "tags": []
     },
     {
-      "id": "devto-3978761",
-      "title": "We Had 6 Features. 2 Were Eating Our Budget",
-      "description": "Twelve months ago we were burning $4,200/month on AI infrastructure and could not tell you which...",
-      "url": "https://dev.to/arpitstack/we-had-6-features-2-were-eating-our-budget-2bph",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 2,
-      "published_at": "2026-06-24T12:17:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40728988",
       "title": "Not all 'open source' AI models are open",
       "description": "",
@@ -726,6 +726,19 @@
       "points": 8,
       "comments": 1,
       "published_at": "2024-05-07T19:43:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3960106",
+      "title": "Why My RAG App Kept Hallucinating (and How I Fixed It)",
+      "description": "A few months ago I was demoing my RAG-powered support bot to a colleague, feeling pretty confident...",
+      "url": "https://dev.to/pallavi_sharma_10c1a6f1da/why-my-rag-app-kept-hallucinating-and-how-i-fixed-it-3i10",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 1,
+      "published_at": "2026-06-22T06:52:14Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,19 +778,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3970644",
-      "title": "Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why",
-      "description": "If you run anything on Hetzner, you have probably already seen the notice. As of 08:00 CEST on June...",
-      "url": "https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-06-23T12:25:30Z",
       "summary": "",
       "category": "all",
       "tags": []
