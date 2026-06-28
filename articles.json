@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T06:57:39Z",
+  "updated_at": "2026-06-28T07:13:42Z",
   "count": 60,
   "articles": [
     {
@@ -471,6 +471,19 @@
       "tags": []
     },
     {
+      "id": "devto-3964392",
+      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
+      "description": "I was building an \"Ask This Book\" feature: readers can ask questions about a book while they're...",
+      "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 26,
+      "published_at": "2026-06-23T12:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3962163",
       "title": "I’ve shipped 150+ PRs and built AI agents in a day - but I still can’t get a job",
       "description": "I'm writing this because I don't know what else to do. This is Neha. I am a software engineer. I have...",
@@ -497,6 +510,19 @@
       "tags": []
     },
     {
+      "id": "devto-3972726",
+      "title": "Ways Devs Are Plugging LLMs Into Anomaly Detection",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "url": "https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 5,
+      "published_at": "2026-06-23T18:57:35Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3953400",
       "title": "Kitana: Beyond Token Prediction: Building AI with Human Cognitive Structure",
       "description": "What If Language Understanding Starts With a Dictionary Instead of a Model?   LLM →...",
@@ -516,21 +542,8 @@
       "url": "https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9",
       "source": "dev.to",
       "points": 15,
-      "comments": 8,
+      "comments": 9,
       "published_at": "2026-06-25T05:57:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3972726",
-      "title": "Ways Devs Are Plugging LLMs Into Anomaly Detection",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "url": "https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 3,
-      "published_at": "2026-06-23T18:57:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,40 +562,14 @@
       "tags": []
     },
     {
-      "id": "devto-3964392",
-      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
-      "description": "I was building an \"Ask This Book\" feature: readers can ask questions about a book while they're...",
-      "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 26,
-      "published_at": "2026-06-23T12:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3963309",
       "title": "Trust Isn't a Scalar: Typed Provenance for Agent Chains",
       "description": "Two posts ago I gave you a boolean trust tag. A commenter took it apart, and he was right. Here's the better model: trust is a vector over axes, provenance is what propagates, and the consumer applies the policy. Part 3 of a series that my comment section is co-writing.",
       "url": "https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p",
       "source": "dev.to",
       "points": 13,
-      "comments": 11,
+      "comments": 13,
       "published_at": "2026-06-22T14:21:08Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3946372",
-      "title": "Nobody Knows Why It Said That",
-      "description": "Inside the Black Box — Post 1 of 6       Series: Inside the Black Box — A developer's honest...",
-      "url": "https://dev.to/aditya_007/nobody-knows-why-it-said-that-3o8l",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 8,
-      "published_at": "2026-06-20T05:57:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-3964273",
+      "title": "What Prime Day Taught Me About Prompt Engineering",
+      "description": "I wanted to get better at prompt engineering. Not the trick-the-robot kind, the boring-but-useful...",
+      "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 2,
+      "published_at": "2026-06-22T18:26:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3956685",
       "title": "Don't use an LLM to decide what your AI agent is allowed to do",
       "description": "I'm in a group called AARM. It's a bunch of people trying to work out how you actually secure what an...",
@@ -661,19 +661,6 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3964273",
-      "title": "What Prime Day Taught Me About Prompt Engineering",
-      "description": "I wanted to get better at prompt engineering. Not the trick-the-robot kind, the boring-but-useful...",
-      "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-06-22T18:26:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,6 +718,19 @@
       "tags": []
     },
     {
+      "id": "devto-3972894",
+      "title": "Everyone Is Building AI Agents: Nobody Is Talking About the Technical Debt",
+      "description": "Most developers are familiar with technical debt. It's the shortcut that helps you move faster today...",
+      "url": "https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 1,
+      "published_at": "2026-06-23T19:33:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3960106",
       "title": "Why My RAG App Kept Hallucinating (and How I Fixed It)",
       "description": "A few months ago I was demoing my RAG-powered support bot to a colleague, feeling pretty confident...",
@@ -757,27 +757,27 @@
       "tags": []
     },
     {
-      "id": "devto-3972894",
-      "title": "Everyone Is Building AI Agents: Nobody Is Talking About the Technical Debt",
-      "description": "Most developers are familiar with technical debt. It's the shortcut that helps you move faster today...",
-      "url": "https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm",
+      "id": "devto-3981943",
+      "title": "I Forked a Dead PHP Name Parser Because It Couldn't Tell a Credential From a Surname",
+      "description": "Here is a bug in a name-parsing library I use at work:    // theiconic/name-parser $name =...",
+      "url": "https://dev.to/iliaa/i-forked-a-dead-php-name-parser-because-it-couldnt-tell-a-credential-from-a-surname-316o",
       "source": "dev.to",
-      "points": 6,
-      "comments": 1,
-      "published_at": "2026-06-23T19:33:14Z",
+      "points": 7,
+      "comments": 2,
+      "published_at": "2026-06-24T19:32:57Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "hn-34521042",
-      "title": "Show HN: Genome - AI based Instagram post generation tool",
-      "description": "",
-      "url": "https://genome.build",
-      "source": "genome.build",
+      "id": "devto-3969903",
+      "title": "Never lose a training run again: a checkpoint-and-resume playbook for ephemeral GPUs",
+      "description": "▶ Prefer to play with it? There's an interactive version of this article where you can break things...",
+      "url": "https://dev.to/tanay_joshi_04/never-lose-a-training-run-again-a-checkpoint-and-resume-playbook-for-ephemeral-gpus-2m1j",
+      "source": "dev.to",
       "points": 6,
-      "comments": 0,
-      "published_at": "2023-01-25T17:13:26Z",
+      "comments": 2,
+      "published_at": "2026-06-23T11:17:15Z",
       "summary": "",
       "category": "all",
       "tags": []
