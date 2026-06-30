@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T07:29:13Z",
+  "updated_at": "2026-06-30T07:09:08Z",
   "count": 60,
   "articles": [
     {
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-4015354",
+      "title": "What's Next for AI?",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "source": "dev.to",
+      "points": 91,
+      "comments": 106,
+      "published_at": "2026-06-29T07:18:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -354,6 +367,19 @@
       "tags": []
     },
     {
+      "id": "devto-4021718",
+      "title": "The Model Does Not Need Memory. The Situation Does.",
+      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
+      "source": "dev.to",
+      "points": 42,
+      "comments": 13,
+      "published_at": "2026-06-29T11:50:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -375,6 +401,19 @@
       "points": 37,
       "comments": 2,
       "published_at": "2026-06-23T10:11:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4012384",
+      "title": "My commit message said \"You've hit your session limit\"",
+      "description": "How I ended up running a local LLM to generate my git commit messages",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "source": "dev.to",
+      "points": 35,
+      "comments": 5,
+      "published_at": "2026-06-29T15:15:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -406,6 +445,32 @@
       "tags": []
     },
     {
+      "id": "devto-3978672",
+      "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
+      "description": "Andrej Karpathy, OpenAI co-founder and former Tesla AI director, called Claude Tag the third major...",
+      "url": "https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp",
+      "source": "dev.to",
+      "points": 27,
+      "comments": 31,
+      "published_at": "2026-06-24T13:23:02Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3992179",
+      "title": "TanStack Query style caching, the Angular-native way",
+      "description": "Angular has signals now - and as of 19.2, even a signal-based way to fetch: httpResource, built on...",
+      "url": "https://dev.to/dhutaryan/tanstack-query-style-caching-the-angular-native-way-4igc",
+      "source": "dev.to",
+      "points": 27,
+      "comments": 2,
+      "published_at": "2026-06-29T07:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -432,27 +497,27 @@
       "tags": []
     },
     {
-      "id": "devto-3978672",
-      "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
-      "description": "Andrej Karpathy, OpenAI co-founder and former Tesla AI director, called Claude Tag the third major...",
-      "url": "https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp",
-      "source": "dev.to",
-      "points": 23,
-      "comments": 29,
-      "published_at": "2026-06-24T13:23:02Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4007671",
       "title": "I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway",
       "description": "Every side project starts the same way.  -Generate an OpenAI key. -Add it to .env. -Write a...",
       "url": "https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5",
       "source": "dev.to",
-      "points": 20,
-      "comments": 11,
+      "points": 23,
+      "comments": 15,
       "published_at": "2026-06-27T19:35:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3931106",
+      "title": "The LLM Visibility Tools Cost $79/Month. Mine is Open Source.",
+      "description": "Tom Capper at a Search Engine Journal webinar last week:   \"There's no Search Console equivalent for...",
+      "url": "https://dev.to/dannwaneri/the-llm-visibility-tools-cost-79month-mine-is-open-source-29hb",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 4,
+      "published_at": "2026-06-23T12:33:11Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -464,34 +529,8 @@
       "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
       "source": "dev.to",
       "points": 18,
-      "comments": 26,
+      "comments": 28,
       "published_at": "2026-06-23T12:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3962163",
-      "title": "I’ve shipped 150+ PRs and built AI agents in a day - but I still can’t get a job",
-      "description": "I'm writing this because I don't know what else to do. This is Neha. I am a software engineer. I have...",
-      "url": "https://dev.to/nehaaaa6/ive-shipped-150-prs-and-built-ai-agents-in-a-day-but-i-still-cant-get-a-job-12m2",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 6,
-      "published_at": "2026-06-22T11:14:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3931106",
-      "title": "The LLM Visibility Tools Cost $79/Month. Mine is Open Source.",
-      "description": "Tom Capper at a Search Engine Journal webinar last week:   \"There's no Search Console equivalent for...",
-      "url": "https://dev.to/dannwaneri/the-llm-visibility-tools-cost-79month-mine-is-open-source-29hb",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 4,
-      "published_at": "2026-06-23T12:33:11Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -516,8 +555,21 @@
       "url": "https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9",
       "source": "dev.to",
       "points": 15,
-      "comments": 10,
+      "comments": 15,
       "published_at": "2026-06-25T05:57:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3905461",
+      "title": "Coding Agents Made Me Take Specs Seriously",
+      "description": "Everything changed very quickly.  In a matter of days, my work at DataCamp went from coding and...",
+      "url": "https://dev.to/rubenglez/coding-agents-made-me-take-specs-seriously-2fi6",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 18,
+      "published_at": "2026-06-23T12:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,32 +588,6 @@
       "tags": []
     },
     {
-      "id": "devto-3963309",
-      "title": "Trust Isn't a Scalar: Typed Provenance for Agent Chains",
-      "description": "Two posts ago I gave you a boolean trust tag. A commenter took it apart, and he was right. Here's the better model: trust is a vector over axes, provenance is what propagates, and the consumer applies the policy. Part 3 of a series that my comment section is co-writing.",
-      "url": "https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 15,
-      "published_at": "2026-06-22T14:21:08Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3905461",
-      "title": "Coding Agents Made Me Take Specs Seriously",
-      "description": "Everything changed very quickly.  In a matter of days, my work at DataCamp went from coding and...",
-      "url": "https://dev.to/rubenglez/coding-agents-made-me-take-specs-seriously-2fi6",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 17,
-      "published_at": "2026-06-23T12:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3973107",
       "title": "Sipp: a local-first runtime for Hybrid AI Applications",
       "description": "Over the past few months, I had the opportunity to contribute to llama.cpp’s WebGPU backend, helping...",
@@ -575,14 +601,14 @@
       "tags": []
     },
     {
-      "id": "devto-3964273",
-      "title": "What Prime Day Taught Me About Prompt Engineering",
-      "description": "I wanted to get better at prompt engineering. Not the trick-the-robot kind, the boring-but-useful...",
-      "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek",
+      "id": "devto-4007330",
+      "title": "Adding io::ErrorKind::TooManyOpenFiles to Rust",
+      "description": "This is my second merged contribution to rust-lang, and like the first it lives in the low-level I/O...",
+      "url": "https://dev.to/valentynkit/adding-ioerrorkindtoomanyopenfiles-to-rust-4h0k",
       "source": "dev.to",
-      "points": 10,
-      "comments": 2,
-      "published_at": "2026-06-22T18:26:49Z",
+      "points": 11,
+      "comments": 0,
+      "published_at": "2026-06-27T17:56:58Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -601,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-4018796",
+      "title": "I added AI background removal to my image converter in a week, in Rust, no Python",
+      "description": "Part of an ongoing build-in-public series on Convertify, a free image/file converter I build solo....",
+      "url": "https://dev.to/serhii_kalyna_730b636889c/i-added-ai-background-removal-to-my-image-converter-in-a-week-in-rust-no-python-2d75",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 2,
+      "published_at": "2026-06-29T08:10:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-3966409",
       "title": "I Revived My React/Redux App with Turtle AI and Learned Where AI Guardrails Can Go Too Far",
       "description": "Nine years ago, I built two versions of Highlander: an original jQuery application and a...",
@@ -614,14 +653,14 @@
       "tags": []
     },
     {
-      "id": "devto-3967366",
-      "title": "Context Compaction Visualizer: See Exactly What Your AI Agent Forgot Before It Costs You",
-      "description": "When an AI agent runs for many turns, it eventually hits context limits and must compress or discard...",
-      "url": "https://dev.to/nilofer_tweets/context-compaction-visualizer-see-exactly-what-your-ai-agent-forgot-before-it-costs-you-1o8n",
+      "id": "devto-3995804",
+      "title": "I built a CLI to break my highlights out of Apple Books",
+      "description": "A macOS CLI + MCP server that exports Apple Books highlights to Markdown and gives AI assistants direct access to your reading notes.",
+      "url": "https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn",
       "source": "dev.to",
       "points": 8,
-      "comments": 4,
-      "published_at": "2026-06-23T06:01:50Z",
+      "comments": 0,
+      "published_at": "2026-06-26T08:11:51Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -659,21 +698,21 @@
       "url": "https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm",
       "source": "dev.to",
       "points": 7,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-06-23T19:33:14Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-3960106",
-      "title": "Why My RAG App Kept Hallucinating (and How I Fixed It)",
-      "description": "A few months ago I was demoing my RAG-powered support bot to a colleague, feeling pretty confident...",
-      "url": "https://dev.to/pallavi_sharma_10c1a6f1da/why-my-rag-app-kept-hallucinating-and-how-i-fixed-it-3i10",
+      "id": "devto-3975289",
+      "title": "Getting structured JSON out of five incompatible LLM APIs — and degrading when they ignore you",
+      "description": "CommitBrief renders a code review as cards, JSON schema v1, or a CI exit code — which means the LLM...",
+      "url": "https://dev.to/muhammetsafak/getting-structured-json-out-of-five-incompatible-llm-apis-and-degrading-when-they-ignore-you-27jg",
       "source": "dev.to",
       "points": 7,
-      "comments": 1,
-      "published_at": "2026-06-22T06:52:14Z",
+      "comments": 10,
+      "published_at": "2026-06-26T00:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -687,6 +726,19 @@
       "points": 7,
       "comments": 2,
       "published_at": "2026-06-24T19:32:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3981364",
+      "title": "Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus",
+      "description": "Every RAG tutorial pulls the same move. It walks you through embeddings, chunking, retrieval, and...",
+      "url": "https://dev.to/arya_koste_5845807df94776/choosing-a-vector-database-in-2026-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-vs-milvus-422k",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 3,
+      "published_at": "2026-06-24T17:56:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,19 +770,6 @@
       "tags": []
     },
     {
-      "id": "devto-4007330",
-      "title": "Adding io::ErrorKind::TooManyOpenFiles to Rust",
-      "description": "This is my second merged contribution to rust-lang, and like the first it lives in the low-level I/O...",
-      "url": "https://dev.to/valentynkit/adding-ioerrorkindtoomanyopenfiles-to-rust-4h0k",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-06-27T17:56:58Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3970644",
       "title": "Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why",
       "description": "If you run anything on Hetzner, you have probably already seen the notice. As of 08:00 CEST on June...",
@@ -739,45 +778,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-06-23T12:25:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3981364",
-      "title": "Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus",
-      "description": "Every RAG tutorial pulls the same move. It walks you through embeddings, chunking, retrieval, and...",
-      "url": "https://dev.to/arya_koste_5845807df94776/choosing-a-vector-database-in-2026-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-vs-milvus-422k",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-06-24T17:56:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3965839",
-      "title": "I Built the First Purely Learned Frame-by-Frame Tetris AI: Then It Started Cheating",
-      "description": "Greetings all! You might know me from my Snake AI ablation series where I spent an unreasonable...",
-      "url": "https://dev.to/stat_phantom/i-built-the-first-purely-learned-frame-by-frame-tetris-ai-then-it-started-cheating-322k",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 2,
-      "published_at": "2026-06-23T02:15:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
