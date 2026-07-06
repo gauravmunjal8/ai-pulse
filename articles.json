@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T08:34:21Z",
+  "updated_at": "2026-07-06T09:47:20Z",
   "count": 60,
   "articles": [
     {
@@ -237,19 +237,6 @@
       "tags": []
     },
     {
-      "id": "devto-4015354",
-      "title": "What's Next for AI?",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "source": "dev.to",
-      "points": 193,
-      "comments": 253,
-      "published_at": "2026-06-29T07:18:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-36724739",
       "title": "Meta to release open-source commercial AI model",
       "description": "",
@@ -406,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-4041539",
+      "title": "LLMs are Demented!",
+      "description": "Crossword puzzles are easy. But what if you had to solve one while running inside the hardware constraints of a Large Language Model?",
+      "url": "https://dev.to/unitbuilds_cc/llms-are-demented-5ff2",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 22,
+      "published_at": "2026-07-01T13:40:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -432,39 +432,13 @@
       "tags": []
     },
     {
-      "id": "devto-4041539",
-      "title": "LLMs are Demented!",
-      "description": "Crossword puzzles are easy. But what if you had to solve one while running inside the hardware constraints of a Large Language Model?",
-      "url": "https://dev.to/unitbuilds_cc/llms-are-demented-5ff2",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 20,
-      "published_at": "2026-07-01T13:40:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3992179",
-      "title": "TanStack Query style caching, the Angular-native way",
-      "description": "Angular has signals now - and as of 19.2, even a signal-based way to fetch: httpResource, built on...",
-      "url": "https://dev.to/dhutaryan/tanstack-query-style-caching-the-angular-native-way-4igc",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 4,
-      "published_at": "2026-06-29T07:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4052320",
       "title": "Let Us Be Free",
       "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
       "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
       "source": "dev.to",
-      "points": 26,
-      "comments": 0,
+      "points": 27,
+      "comments": 1,
       "published_at": "2026-07-02T15:55:55Z",
       "summary": "",
       "category": "all",
@@ -497,27 +471,53 @@
       "tags": []
     },
     {
-      "id": "devto-4018796",
-      "title": "I added AI background removal to my image converter in a week, in Rust, no Python",
-      "description": "Part of an ongoing build-in-public series on Convertify, a free image/file converter I build solo....",
-      "url": "https://dev.to/serhii_kalyna_730b636889c/i-added-ai-background-removal-to-my-image-converter-in-a-week-in-rust-no-python-2d75",
-      "source": "dev.to",
-      "points": 19,
-      "comments": 9,
-      "published_at": "2026-06-29T08:10:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4062186",
       "title": "Are Your GitHub Stats Worthy of a FIFA Card?",
       "description": "Are you a football fan? Since the FIFA hype is at its absolute peak at this moment, it is hard to...",
       "url": "https://dev.to/konark_13/are-your-github-stats-worthy-of-a-fifa-card-3p1p",
       "source": "dev.to",
-      "points": 16,
+      "points": 24,
       "comments": 3,
       "published_at": "2026-07-03T17:46:46Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4073269",
+      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
+      "description": "I built a 36-pattern checklist to catch AI writing tells in my own drafts, calibrated against...",
+      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 4,
+      "published_at": "2026-07-06T07:28:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4063740",
+      "title": "GPU Survivors: Can You Survive a 1T Parameter Inference Run?",
+      "description": "Survive endless waves of OOD data, prompt injections, and adversarial token splits inside a GPU Core while scaling your model architecture to 1T parameters.",
+      "url": "https://dev.to/unitbuilds_cc/gpu-survivors-can-you-survive-a-1t-parameter-inference-run-476d",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 9,
+      "published_at": "2026-07-04T11:04:36Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4061444",
+      "title": "Where Do Your LLM API Keys Actually Live?",
+      "description": "If someone compromised one of your project's dependencies today, would they be able to steal your...",
+      "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 2,
+      "published_at": "2026-07-06T08:32:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,13 +562,26 @@
       "tags": []
     },
     {
+      "id": "devto-4052768",
+      "title": "When AI Creates A Closed Source World",
+      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
+      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 5,
+      "published_at": "2026-07-02T16:22:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4041177",
       "title": "Your Provenance Vector Dies at the Storage Boundary",
       "description": "A typed provenance vector is useless if downstream code ignores it, and impossible if it can't survive being compressed to fit a 500-step agent's memory. Part 4: enforcement by construction, and compression that keeps the axes. The comment section keeps finding the holes.",
       "url": "https://dev.to/p0rt/your-provenance-vector-dies-at-the-storage-boundary-4cc",
       "source": "dev.to",
       "points": 12,
-      "comments": 12,
+      "comments": 15,
       "published_at": "2026-07-01T11:58:09Z",
       "summary": "",
       "category": "all",
@@ -581,7 +594,7 @@
       "url": "https://dev.to/6sensehq/saas-mvp-development-in-the-ai-era-2bki",
       "source": "dev.to",
       "points": 12,
-      "comments": 2,
+      "comments": 4,
       "published_at": "2026-07-02T02:40:49Z",
       "summary": "",
       "category": "all",
@@ -596,19 +609,6 @@
       "points": 12,
       "comments": 2,
       "published_at": "2026-07-03T03:47:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4015635",
-      "title": "The Prophet and the Price Cut",
-      "description": "Two things happened this month and they tell you everything about where AI is actually...",
-      "url": "https://dev.to/jon_at_backboardio/the-prophet-and-the-price-cut-f5i",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 1,
-      "published_at": "2026-06-29T00:36:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -635,32 +635,6 @@
       "points": 11,
       "comments": 3,
       "published_at": "2026-06-30T22:44:46Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4052768",
-      "title": "When AI Creates A Closed Source World",
-      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
-      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 4,
-      "published_at": "2026-07-02T16:22:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4063740",
-      "title": "GPU Survivors: Can You Survive a 1T Parameter Inference Run?",
-      "description": "Survive endless waves of OOD data, prompt injections, and adversarial token splits inside a GPU Core while scaling your model architecture to 1T parameters.",
-      "url": "https://dev.to/unitbuilds_cc/gpu-survivors-can-you-survive-a-1t-parameter-inference-run-476d",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 6,
-      "published_at": "2026-07-04T11:04:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -705,6 +679,19 @@
       "tags": []
     },
     {
+      "id": "devto-4071056",
+      "title": "Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2",
+      "description": "This is part 2 of a research series documenting an attempt to build something adjacent to — and in...",
+      "url": "https://dev.to/teolex2020/can-you-build-an-alternative-to-llms-8-months-200-failed-experiments-one-wall-2-3776",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 4,
+      "published_at": "2026-07-05T07:22:18Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4034692",
       "title": "The Modern MVP Is Not Just a Smaller App, It Is a Validated Workflow",
       "description": "MVP development has changed.  A few years ago, building an MVP usually meant taking a big product...",
@@ -713,6 +700,19 @@
       "points": 8,
       "comments": 0,
       "published_at": "2026-06-30T22:19:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4055349",
+      "title": "The Best MVPs Feel Manual Before They Feel Scalable",
+      "description": "Founders often want their MVP to be scalable from day one.  They want automation. They want...",
+      "url": "https://dev.to/6sensehq/the-best-mvps-feel-manual-before-they-feel-scalable-3695",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-07-03T00:19:26Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,6 +757,19 @@
       "tags": []
     },
     {
+      "id": "devto-4052685",
+      "title": "Building my humanoid robot",
+      "description": "How I built and trained a humanoid arm from K-Scale's open-source K-Bot, from the CAN motors and LeRobot integration to a SmolVLA model that does pick-and-place on its own.",
+      "url": "https://dev.to/infoslack/building-my-humanoid-robot-pdg",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 2,
+      "published_at": "2026-07-02T16:08:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4032757",
       "title": "I stopped prompting my agent. Now I design the loop that prompts it.",
       "description": "We're moving past the era where working with an agent meant typing a prompt, waiting, reading the...",
@@ -765,19 +778,6 @@
       "points": 7,
       "comments": 3,
       "published_at": "2026-06-30T16:04:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4055098",
-      "title": "Protect Yourself, Mesh Yourself",
-      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 1,
-      "published_at": "2026-07-03T13:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
