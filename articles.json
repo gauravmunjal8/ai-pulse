@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T08:59:27Z",
+  "updated_at": "2026-07-08T08:02:02Z",
   "count": 60,
   "articles": [
     {
@@ -359,9 +359,22 @@
       "description": "I built a 36-pattern checklist to catch AI writing tells in my own drafts, calibrated against...",
       "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
       "source": "dev.to",
-      "points": 40,
-      "comments": 19,
+      "points": 41,
+      "comments": 24,
       "published_at": "2026-07-06T07:28:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4061444",
+      "title": "Where Do Your LLM API Keys Actually Live?",
+      "description": "If someone compromised one of your project's dependencies today, would they be able to steal your...",
+      "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm",
+      "source": "dev.to",
+      "points": 39,
+      "comments": 25,
+      "published_at": "2026-07-06T08:32:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -375,19 +388,6 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4061444",
-      "title": "Where Do Your LLM API Keys Actually Live?",
-      "description": "If someone compromised one of your project's dependencies today, would they be able to steal your...",
-      "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm",
-      "source": "dev.to",
-      "points": 36,
-      "comments": 16,
-      "published_at": "2026-07-06T08:32:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -503,7 +503,7 @@
       "url": "https://dev.to/nandan_das_369/orinide-v109-local-ai-an-agentic-dev-squad-and-a-bug-fix-i-owe-you-an-explanation-for-4e3a",
       "source": "dev.to",
       "points": 22,
-      "comments": 7,
+      "comments": 9,
       "published_at": "2026-07-06T02:04:25Z",
       "summary": "",
       "category": "all",
@@ -549,6 +549,19 @@
       "tags": []
     },
     {
+      "id": "devto-4075820",
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 14,
+      "published_at": "2026-07-06T03:47:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4031120",
       "title": "GPT-5.6 pricing: the cheaper model is not always the cheaper AI workflow",
       "description": "GPT-5.6 pricing shows why SaaS teams should model AI costs by workflow, not just by model price, token rates, or API calls.",
@@ -557,19 +570,6 @@
       "points": 14,
       "comments": 6,
       "published_at": "2026-06-30T12:17:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4071804",
-      "title": "Dev log #10 Kanagawa Dreams and Test Suites: A Week of Refactoring my Neovim and Hardening the Backend",
-      "description": "Hit a perfect 7-day streak this week, splitting my time between a massive aesthetic pivot in my...",
-      "url": "https://dev.to/yashksaini/dev-log-11-kanagawa-dreams-and-test-suites-a-week-of-refactoring-my-neovim-and-hardening-the-nb3",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 0,
-      "published_at": "2026-07-07T04:30:43Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -594,7 +594,7 @@
       "url": "https://dev.to/p0rt/your-provenance-vector-dies-at-the-storage-boundary-4cc",
       "source": "dev.to",
       "points": 13,
-      "comments": 16,
+      "comments": 17,
       "published_at": "2026-07-01T11:58:09Z",
       "summary": "",
       "category": "all",
@@ -609,6 +609,19 @@
       "points": 13,
       "comments": 5,
       "published_at": "2026-07-02T16:22:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4057877",
+      "title": "Your React Native build is done. Now your whole team can test it in the browser.",
+      "description": "If your team ships a React Native app, you already know the build is the easy part. The friction...",
+      "url": "https://dev.to/joduchan/your-react-native-build-is-done-now-your-whole-team-can-test-it-in-the-browser-1jpo",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 3,
+      "published_at": "2026-07-03T08:12:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -666,14 +679,27 @@
       "tags": []
     },
     {
-      "id": "devto-4075820",
-      "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
-      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "id": "devto-4090866",
+      "title": "Building a physical API",
+      "description": "Now my journey on building a physical API for the robot. It goes through sentinel, a Rust daemon that listens to the CAN bus and turns the robot's own traffic into telemetry, the API and time series database behind it, Grafana for dashboards and alerts, and a control plane where a live 3D copy of the arm mirrors the real one.",
+      "url": "https://dev.to/infoslack/building-a-physical-api-3488",
       "source": "dev.to",
-      "points": 10,
-      "comments": 8,
-      "published_at": "2026-07-06T03:47:27Z",
+      "points": 11,
+      "comments": 2,
+      "published_at": "2026-07-07T18:51:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4065212",
+      "title": "I Built My Own Text Editor",
+      "description": "I’ve wanted to build a text editor for a long time. Not because I thought the world needed another...",
+      "url": "https://dev.to/m__mdy__m/i-built-my-own-text-editor-1203",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 9,
+      "published_at": "2026-07-04T06:44:15Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -752,32 +778,6 @@
       "points": 9,
       "comments": 5,
       "published_at": "2026-07-05T15:47:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4034692",
-      "title": "The Modern MVP Is Not Just a Smaller App, It Is a Validated Workflow",
-      "description": "MVP development has changed.  A few years ago, building an MVP usually meant taking a big product...",
-      "url": "https://dev.to/6sensehq/the-modern-mvp-is-not-just-a-smaller-app-it-is-a-validated-workflow-1kh5",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 0,
-      "published_at": "2026-06-30T22:19:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-48763840",
-      "title": "Portugal launches first open-source AI model, joining Europe's sovereignty push",
-      "description": "",
-      "url": "https://www.reuters.com/business/finance/portugal-launches-first-open-source-ai-model-joining-europes-sovereignty-push-2026-07-01/",
-      "source": "reuters.com",
-      "points": 8,
-      "comments": 3,
-      "published_at": "2026-07-02T16:27:47Z",
       "summary": "",
       "category": "all",
       "tags": []
