@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T08:02:02Z",
+  "updated_at": "2026-07-09T09:07:44Z",
   "count": 60,
   "articles": [
     {
@@ -393,19 +393,6 @@
       "tags": []
     },
     {
-      "id": "devto-4041539",
-      "title": "LLMs are Demented!",
-      "description": "Crossword puzzles are easy. But what if you had to solve one while running inside the hardware constraints of a Large Language Model?",
-      "url": "https://dev.to/unitbuilds_cc/llms-are-demented-5ff2",
-      "source": "dev.to",
-      "points": 31,
-      "comments": 22,
-      "published_at": "2026-07-01T13:40:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4072993",
       "title": "A deep dive into building Text-to-SQL solutions using AI models, transforming natural language into SQL magic.",
       "description": "Introduction   As data grows exponentially, accessing and querying databases efficiently...",
@@ -440,6 +427,19 @@
       "points": 28,
       "comments": 1,
       "published_at": "2026-07-02T15:55:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4076021",
+      "title": "OrinIDE v1.0.9 — local AI, an Agentic dev squad, and a bug fix I owe you an explanation for",
+      "description": "Hey devs 👋   OrinIDE is an AI-powered code editor that runs entirely in your browser — no...",
+      "url": "https://dev.to/nandan_das_369/orinide-v109-local-ai-an-agentic-dev-squad-and-a-bug-fix-i-owe-you-an-explanation-for-4e3a",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 9,
+      "published_at": "2026-07-06T02:04:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -484,27 +484,40 @@
       "tags": []
     },
     {
-      "id": "devto-4042292",
-      "title": "Optimizing for Agents with llms.txt",
-      "description": "If you’ve spent any time poking around the AIE World’s Fair 2026 website, you may have come across...",
-      "url": "https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0",
+      "id": "devto-4080349",
+      "title": "PagedAttention: Navigating VRAM Fragmentation",
+      "description": "A Tetris-style educational game simulating GPU memory scheduling. Pack token request blocks contiguously to avoid OOM crashes, or deploy virtual PagedAttention tables to split and route pages into fragmentation gaps.",
+      "url": "https://dev.to/unitbuilds_cc/pagedattention-navigating-vram-fragmentation-3521",
       "source": "dev.to",
-      "points": 25,
-      "comments": 9,
-      "published_at": "2026-07-01T14:14:25Z",
+      "points": 17,
+      "comments": 20,
+      "published_at": "2026-07-06T13:19:41Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-4076021",
-      "title": "OrinIDE v1.0.9 — local AI, an Agentic dev squad, and a bug fix I owe you an explanation for",
-      "description": "Hey devs 👋   OrinIDE is an AI-powered code editor that runs entirely in your browser — no...",
-      "url": "https://dev.to/nandan_das_369/orinide-v109-local-ai-an-agentic-dev-squad-and-a-bug-fix-i-owe-you-an-explanation-for-4e3a",
+      "id": "devto-4096910",
+      "title": "The Agent Faked a Test Log, Then Believed It. Self-Editing Harnesses Have a Provenance Problem.",
+      "description": "Reading Lilian Weng's harness engineering survey as a reliability engineer — what self-improving harness papers actually show, and the three invariants every working loop converges on.",
+      "url": "https://dev.to/p0rt/the-agent-faked-a-test-log-then-believed-it-self-editing-harnesses-have-a-provenance-problem-3id6",
       "source": "dev.to",
-      "points": 22,
-      "comments": 9,
-      "published_at": "2026-07-06T02:04:25Z",
+      "points": 17,
+      "comments": 7,
+      "published_at": "2026-07-08T11:39:46Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4098745",
+      "title": "Block the merge when a PR ships a vulnerability: a CI security gate with Synapse",
+      "description": "I have a simple rule when I work with a team: if a vulnerability makes it into main, the process...",
+      "url": "https://dev.to/aws-builders/block-the-merge-when-a-pr-ships-a-vulnerability-a-ci-security-gate-with-synapse-33bn",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 0,
+      "published_at": "2026-07-08T16:07:09Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,14 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-4045112",
-      "title": "AI Made Code Free. So Why Are the Giants Still Winning? (And where solo devs actually beat them)",
-      "description": "Four big 2025 developer surveys, one honest read: AI is an amplifier, not an equalizer. Here's what that means for solo founders vs. giants — with the numbers.",
-      "url": "https://dev.to/krlz/ai-made-code-free-so-why-are-the-giants-still-winning-and-where-solo-devs-actually-beat-them-5h27",
+      "id": "devto-4096289",
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
       "source": "dev.to",
       "points": 15,
-      "comments": 11,
-      "published_at": "2026-07-01T21:51:10Z",
+      "comments": 13,
+      "published_at": "2026-07-08T10:23:41Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,19 +575,6 @@
       "tags": []
     },
     {
-      "id": "devto-4031120",
-      "title": "GPT-5.6 pricing: the cheaper model is not always the cheaper AI workflow",
-      "description": "GPT-5.6 pricing shows why SaaS teams should model AI costs by workflow, not just by model price, token rates, or API calls.",
-      "url": "https://dev.to/ascentinnovate/gpt-56-pricing-the-cheaper-model-is-not-always-the-cheaper-ai-workflow-3gec",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 6,
-      "published_at": "2026-06-30T12:17:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -588,14 +588,14 @@
       "tags": []
     },
     {
-      "id": "devto-4041177",
-      "title": "Your Provenance Vector Dies at the Storage Boundary",
-      "description": "A typed provenance vector is useless if downstream code ignores it, and impossible if it can't survive being compressed to fit a 500-step agent's memory. Part 4: enforcement by construction, and compression that keeps the axes. The comment section keeps finding the holes.",
-      "url": "https://dev.to/p0rt/your-provenance-vector-dies-at-the-storage-boundary-4cc",
+      "id": "devto-4065212",
+      "title": "I Built My Own Text Editor",
+      "description": "I’ve wanted to build a text editor for a long time. Not because I thought the world needed another...",
+      "url": "https://dev.to/m__mdy__m/i-built-my-own-text-editor-1203",
       "source": "dev.to",
       "points": 13,
       "comments": 17,
-      "published_at": "2026-07-01T11:58:09Z",
+      "published_at": "2026-07-04T06:44:15Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,19 +627,6 @@
       "tags": []
     },
     {
-      "id": "devto-4046501",
-      "title": "SaaS MVP Development in the AI Era",
-      "description": "A few years ago, building a SaaS MVP usually meant cutting a big product idea down into a smaller...",
-      "url": "https://dev.to/6sensehq/saas-mvp-development-in-the-ai-era-2bki",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 4,
-      "published_at": "2026-07-02T02:40:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3897682",
       "title": "Dev log #8 Hardening the Orchestrator: A Week of Making dev-publish Resilient",
       "description": "Spent the week deep-diving into my dev-publish tool, focusing on durability and orchestrator...",
@@ -653,27 +640,14 @@
       "tags": []
     },
     {
-      "id": "devto-3965549",
-      "title": "What Is MLIR and Why Does It Exist?",
-      "description": "If \"MLIR\" looks like alphabet soup, this is for you. A ground-up explanation of the problem it solves — with working Python examples.",
-      "url": "https://dev.to/frodo/what-is-mlir-and-why-does-it-exist-4d78",
+      "id": "devto-4060532",
+      "title": "My Strawman Baseline Beat My Own Scheme on Half the Gate Classes",
+      "description": "Four provenance-tracking arms, identical gates, one uncompacted oracle: measuring exactly what memory compaction does to agent gate decisions — including the preregistered hypothesis that failed.",
+      "url": "https://dev.to/p0rt/my-strawman-baseline-beat-my-own-scheme-on-half-the-gate-classes-177h",
       "source": "dev.to",
       "points": 11,
-      "comments": 0,
-      "published_at": "2026-07-01T09:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4034884",
-      "title": "AI-First MVP Development: How Startups Should Build Products in 2026",
-      "description": "AI has changed the way startups build products.  A few years ago, building an MVP usually meant...",
-      "url": "https://dev.to/6sensehq/ai-first-mvp-development-how-startups-should-build-products-in-2026-2ck4",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 3,
-      "published_at": "2026-06-30T22:44:46Z",
+      "comments": 10,
+      "published_at": "2026-07-06T11:48:40Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,27 +666,14 @@
       "tags": []
     },
     {
-      "id": "devto-4065212",
-      "title": "I Built My Own Text Editor",
-      "description": "I’ve wanted to build a text editor for a long time. Not because I thought the world needed another...",
-      "url": "https://dev.to/m__mdy__m/i-built-my-own-text-editor-1203",
+      "id": "devto-4089180",
+      "title": "ORVIX, Open-source Self-Organizing AI Engineering Company",
+      "description": "I Built an Open-Source AI Engineering Company Instead of Another AI Agent   For the past...",
+      "url": "https://dev.to/mirshah12/orvix-open-source-self-organizing-ai-engineering-company-4cd1",
       "source": "dev.to",
       "points": 11,
-      "comments": 9,
-      "published_at": "2026-07-04T06:44:15Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4060532",
-      "title": "My Strawman Baseline Beat My Own Scheme on Half the Gate Classes",
-      "description": "Four provenance-tracking arms, identical gates, one uncompacted oracle: measuring exactly what memory compaction does to agent gate decisions — including the preregistered hypothesis that failed.",
-      "url": "https://dev.to/p0rt/my-strawman-baseline-beat-my-own-scheme-on-half-the-gate-classes-177h",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 4,
-      "published_at": "2026-07-06T11:48:40Z",
+      "comments": 5,
+      "published_at": "2026-07-07T14:12:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -723,9 +684,22 @@
       "description": "Built for the WeMakeDevs × Cognee hackathon — \"The Hangover Part AI: Where's My Context?\"   AI...",
       "url": "https://dev.to/himanshu_748/i-built-a-trust-firewall-for-my-ai-agents-memory-on-cognees-four-verbs-29g2",
       "source": "dev.to",
-      "points": 10,
-      "comments": 2,
+      "points": 11,
+      "comments": 3,
       "published_at": "2026-07-03T07:33:46Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4083845",
+      "title": "The Hidden Cost of Building an MVP Too Fast",
+      "description": "Speed matters when building an MVP.  But speed without product judgment can become expensive.  A lot...",
+      "url": "https://dev.to/6sensehq/the-hidden-cost-of-building-an-mvp-too-fast-2g8o",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-07-07T02:21:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -750,8 +724,21 @@
       "url": "https://dev.to/teolex2020/can-you-build-an-alternative-to-llms-8-months-200-failed-experiments-one-wall-2-3776",
       "source": "dev.to",
       "points": 9,
-      "comments": 4,
+      "comments": 6,
       "published_at": "2026-07-05T07:22:18Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4075199",
+      "title": "I tested 3 models as AI agent quality inspectors: the stronger the model, the more valid work it rejects",
+      "description": "In my previous article (I tested the 'deterministic agent loop' claims with four experiments. They...",
+      "url": "https://dev.to/zxpmail/i-tested-3-models-as-ai-agent-quality-inspectors-the-stronger-the-model-the-more-valid-work-it-gl7",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 28,
+      "published_at": "2026-07-05T22:06:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,6 +752,19 @@
       "points": 9,
       "comments": 0,
       "published_at": "2026-07-03T00:19:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4067515",
+      "title": "How I Built a Browser-Based Video to PowerPoint Converter",
+      "description": "Long lecture recordings are a strange format.  The useful part is often not the video itself. It is...",
+      "url": "https://dev.to/larryxue/how-i-built-a-browser-based-video-to-powerpoint-converter-ag0",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 4,
+      "published_at": "2026-07-04T14:16:50Z",
       "summary": "",
       "category": "all",
       "tags": []
