@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T07:21:45Z",
+  "updated_at": "2026-07-19T07:52:19Z",
   "count": 60,
   "articles": [
     {
@@ -424,7 +424,7 @@
       "description": "A payment landed for exactly half an invoice's value. The payer's email matched the customer on file....",
       "url": "https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl",
       "source": "dev.to",
-      "points": 26,
+      "points": 27,
       "comments": 26,
       "published_at": "2026-07-15T16:23:34Z",
       "summary": "",
@@ -464,7 +464,7 @@
       "url": "https://dev.to/akhourianmolkumar/i-stopped-trusting-my-own-apps-encryption-so-i-rebuilt-it-atlock-v4-is-here-426a",
       "source": "dev.to",
       "points": 21,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-07-16T07:04:47Z",
       "summary": "",
       "category": "all",
@@ -477,21 +477,21 @@
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "source": "dev.to",
       "points": 19,
-      "comments": 11,
+      "comments": 12,
       "published_at": "2026-07-16T21:19:20Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-4123508",
-      "title": "The Citation Lied Without Lying: The Hard Limit of My Memory Gate",
-      "description": "Here is a note an AI agent might read while deciding what to remember and what to obey:   Current...",
-      "url": "https://dev.to/kenielzep97/the-citation-lied-without-lying-the-hard-limit-of-my-memory-gate-2b8e",
+      "id": "devto-4170293",
+      "title": "Every AI-built site looks the same, so I built a skill that locks taste before any code is written",
+      "description": "I build a lot of side projects with AI coding tools. Mostly Claude Code. A few months ago I noticed...",
+      "url": "https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d",
       "source": "dev.to",
-      "points": 18,
-      "comments": 86,
-      "published_at": "2026-07-12T05:21:12Z",
+      "points": 17,
+      "comments": 18,
+      "published_at": "2026-07-18T00:40:32Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -555,21 +555,8 @@
       "url": "https://dev.to/subhansh/i-built-a-programming-language-because-c-almost-killed-my-drone-34l7",
       "source": "dev.to",
       "points": 11,
-      "comments": 1,
+      "comments": 3,
       "published_at": "2026-07-12T19:00:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4170293",
-      "title": "Every AI-built site looks the same, so I built a skill that locks taste before any code is written",
-      "description": "I build a lot of side projects with AI coding tools. Mostly Claude Code. A few months ago I noticed...",
-      "url": "https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 12,
-      "published_at": "2026-07-18T00:40:32Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -583,6 +570,19 @@
       "points": 10,
       "comments": 7,
       "published_at": "2026-07-13T13:36:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4140627",
+      "title": "Six experiments on adversarial verification — and the 75% wall that didn't move",
+      "description": "The argument, in one line: a reviewer is a mechanism for drawing a line. Every fix moves the line —...",
+      "url": "https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 32,
+      "published_at": "2026-07-14T13:15:12Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,19 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-4140627",
-      "title": "Six experiments on adversarial verification — and the 75% wall that didn't move",
-      "description": "The argument, in one line: a reviewer is a mechanism for drawing a line. Every fix moves the line —...",
-      "url": "https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 29,
-      "published_at": "2026-07-14T13:15:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4132907",
       "title": "Our AI support agent doesn't use RAG - here's the math",
       "description": "Clanker Support's AI support agent has no vector database, no embeddings, and no retrieval pipeline....",
@@ -648,6 +635,19 @@
       "points": 8,
       "comments": 3,
       "published_at": "2026-07-14T07:03:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4165072",
+      "title": "Retrieval-Augmented Self-Recall: The RAG Problem Nobody Talks About",
+      "description": "Part 1 of Retrieval-Augmented Self-Recall — the research track behind Claude Code, Beyond the Prompt....",
+      "url": "https://dev.to/gde03/retrieval-augmented-self-recall-the-rag-problem-nobody-talks-about-2n0n",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 11,
+      "published_at": "2026-07-17T09:13:07Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,19 +679,6 @@
       "tags": []
     },
     {
-      "id": "devto-4161642",
-      "title": "3 months, ¥0 revenue: a field worker owns our shop, AI operates most of it. Here is everything. Tell us what we are missing.",
-      "description": "The full operational and financial reality of nokaze after 3 months: what we shipped, what failed, real numbers, and five specific questions we need outside eyes on.",
-      "url": "https://dev.to/nexuslabzen/3-months-y0-revenue-a-field-worker-owns-our-shop-ai-operates-most-of-it-here-is-everything-2d5l",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 0,
-      "published_at": "2026-07-17T01:06:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4152695",
       "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
       "description": "How a 1,920-line file turned into 410 lines, why \"it works\" was a lie twice, and why the fix wasn't a...",
@@ -705,14 +692,27 @@
       "tags": []
     },
     {
-      "id": "devto-4123287",
-      "title": "How I Got \"Made in Afghanistan\" Added to GitHub Explore 🇦🇫",
-      "description": "A two-week journey, a merged Pull Request, and a small step toward putting Afghan open-source on the...",
-      "url": "https://dev.to/homayounmmdy/how-i-got-made-in-afghanistan-added-to-github-explore-43b4",
+      "id": "devto-4166382",
+      "title": "It started with a birthday present — why I built an open-source QR code generator",
+      "description": "Last year, all I wanted was a QR code for a birthday present. Scan the code, get the surprise. Thirty...",
+      "url": "https://dev.to/flob95/it-started-with-a-birthday-present-why-i-built-an-open-source-qr-code-generator-394i",
       "source": "dev.to",
       "points": 7,
-      "comments": 0,
-      "published_at": "2026-07-12T04:06:35Z",
+      "comments": 2,
+      "published_at": "2026-07-17T11:36:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-3972188",
+      "title": "AI Agent Autonomy Levels: From Logged to Locked Down",
+      "description": "AI agent autonomy levels describe how much an agent is allowed to do on its own before a human is involved, ranging from acting silently with no…",
+      "url": "https://dev.to/brennhill/ai-agent-autonomy-levels-from-logged-to-locked-down-45am",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 2,
+      "published_at": "2026-07-17T12:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,19 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-4165072",
-      "title": "Retrieval-Augmented Self-Recall: The RAG Problem Nobody Talks About",
-      "description": "Part 1 of Retrieval-Augmented Self-Recall — the research track behind Claude Code, Beyond the Prompt....",
-      "url": "https://dev.to/gde03/retrieval-augmented-self-recall-the-rag-problem-nobody-talks-about-2n0n",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 8,
-      "published_at": "2026-07-17T09:13:07Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -752,6 +739,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4177636",
+      "title": "A Complete Guide to Moonshot's New 2.8T Flagship",
+      "description": "By the end of this article, you'll know:   what Kimi K3 actually is, the architecture, the scale, and...",
+      "url": "https://dev.to/prodevopsguytech/a-complete-guide-to-moonshots-new-28t-flagship-2lme",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-07-19T06:18:12Z",
       "summary": "",
       "category": "all",
       "tags": []
