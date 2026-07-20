@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T07:52:19Z",
+  "updated_at": "2026-07-20T08:31:26Z",
   "count": 60,
   "articles": [
     {
@@ -295,7 +295,7 @@
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
       "source": "dev.to",
       "points": 77,
-      "comments": 32,
+      "comments": 37,
       "published_at": "2026-07-13T15:59:11Z",
       "summary": "",
       "category": "all",
@@ -393,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-4151604",
+      "title": "Building an AI Agent That Knows When Not to Guess (Qwen + MCP)",
+      "description": "A payment landed for exactly half an invoice's value. The payer's email matched the customer on file....",
+      "url": "https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl",
+      "source": "dev.to",
+      "points": 29,
+      "comments": 28,
+      "published_at": "2026-07-15T16:23:34Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -414,19 +427,6 @@
       "points": 28,
       "comments": 12,
       "published_at": "2024-03-12T09:09:08Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4151604",
-      "title": "Building an AI Agent That Knows When Not to Guess (Qwen + MCP)",
-      "description": "A payment landed for exactly half an invoice's value. The payer's email matched the customer on file....",
-      "url": "https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 26,
-      "published_at": "2026-07-15T16:23:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -458,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-4159933",
+      "title": "What is an \"agentic harness,\" actually?",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "source": "dev.to",
+      "points": 21,
+      "comments": 14,
+      "published_at": "2026-07-16T21:19:20Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4155756",
       "title": "I stopped trusting my own app's encryption, so I rebuilt it — ATLOCK v4 is Here.",
       "description": "🔒 ATLOCK v4 — I stopped trusting my own app's encryption, so I rebuilt it  TL;DR — ATLOCK is a...",
@@ -471,19 +484,6 @@
       "tags": []
     },
     {
-      "id": "devto-4159933",
-      "title": "What is an \"agentic harness,\" actually?",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "source": "dev.to",
-      "points": 19,
-      "comments": 12,
-      "published_at": "2026-07-16T21:19:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4170293",
       "title": "Every AI-built site looks the same, so I built a skill that locks taste before any code is written",
       "description": "I build a lot of side projects with AI coding tools. Mostly Claude Code. A few months ago I noticed...",
@@ -492,6 +492,19 @@
       "points": 17,
       "comments": 18,
       "published_at": "2026-07-18T00:40:32Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4171858",
+      "title": "I'm 13, Solo Founder & CEO of Akhouri Systems. No team, no backend, no funding — just a laptop.",
+      "description": "👋 I'm 13. I run a software company by myself. No co-founder. No backend team. No investors. No...",
+      "url": "https://dev.to/akhourianmolkumar/im-13-solo-founder-ceo-of-akhouri-systems-no-team-no-backend-no-funding-just-a-laptop-2ch1",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 0,
+      "published_at": "2026-07-18T07:20:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,14 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-4126535",
-      "title": "InsightsTrack + Pulse: I taught Claude Desktop to read my web analytics (via MCP)",
-      "description": "This is a submission for Weekend Challenge: Passion Edition           What I Built   InsightsTrack is...",
-      "url": "https://dev.to/nishikantaray/insightstrack-pulse-i-taught-claude-desktop-to-read-my-web-analytics-via-mcp-13bd",
+      "id": "devto-4140627",
+      "title": "Six experiments on adversarial verification — and the 75% wall that didn't move",
+      "description": "The argument, in one line: a reviewer is a mechanism for drawing a line. Every fix moves the line —...",
+      "url": "https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m",
       "source": "dev.to",
       "points": 12,
-      "comments": 8,
-      "published_at": "2026-07-12T15:01:53Z",
+      "comments": 36,
+      "published_at": "2026-07-14T13:15:12Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,6 +575,19 @@
       "tags": []
     },
     {
+      "id": "devto-4173175",
+      "title": "400+ downloads, 0 revenue, and why that's actually fine for now",
+      "description": "400+ downloads. Still fully free. Here's where things stand.   ATLOCK crossed 400 downloads...",
+      "url": "https://dev.to/akhourianmolkumar/400-downloads-0-revenue-and-why-thats-actually-fine-for-now-3an3",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 1,
+      "published_at": "2026-07-18T10:53:21Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4134073",
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
@@ -575,32 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-4140627",
-      "title": "Six experiments on adversarial verification — and the 75% wall that didn't move",
-      "description": "The argument, in one line: a reviewer is a mechanism for drawing a line. Every fix moves the line —...",
-      "url": "https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 32,
-      "published_at": "2026-07-14T13:15:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4124727",
-      "title": "Dev log #12 Hardening WebRTC and Polishing the UI: A Week of Networking and Refinement",
-      "description": "Spent the week balancing deep p2p networking work in Python with some much-needed UI polish on my...",
-      "url": "https://dev.to/yashksaini/dev-log-12-hardening-webrtc-and-polishing-the-ui-a-week-of-networking-and-refinement-29m2",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 0,
-      "published_at": "2026-07-13T03:13:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-41595307",
       "title": "Alibaba releases 100 open-source AI models and new text-to-video generator",
       "description": "",
@@ -609,6 +609,19 @@
       "points": 10,
       "comments": 0,
       "published_at": "2024-09-19T19:15:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4165072",
+      "title": "Retrieval-Augmented Self-Recall: The RAG Problem Nobody Talks About",
+      "description": "Part 1 of Retrieval-Augmented Self-Recall — the research track behind Claude Code, Beyond the Prompt....",
+      "url": "https://dev.to/gde03/retrieval-augmented-self-recall-the-rag-problem-nobody-talks-about-2n0n",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 11,
+      "published_at": "2026-07-17T09:13:07Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,14 +653,14 @@
       "tags": []
     },
     {
-      "id": "devto-4165072",
-      "title": "Retrieval-Augmented Self-Recall: The RAG Problem Nobody Talks About",
-      "description": "Part 1 of Retrieval-Augmented Self-Recall — the research track behind Claude Code, Beyond the Prompt....",
-      "url": "https://dev.to/gde03/retrieval-augmented-self-recall-the-rag-problem-nobody-talks-about-2n0n",
+      "id": "devto-4174320",
+      "title": "I built a readability test for my own compression format. It scored 0/24.",
+      "description": "A negative result, its root cause, and the feature it produced.  My last post introduced ctxfold —...",
+      "url": "https://dev.to/maverickyadav/i-built-a-readability-test-for-my-own-compression-format-it-scored-024-4epc",
       "source": "dev.to",
       "points": 8,
-      "comments": 11,
-      "published_at": "2026-07-17T09:13:07Z",
+      "comments": 9,
+      "published_at": "2026-07-18T14:34:09Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -685,7 +698,7 @@
       "url": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
       "source": "dev.to",
       "points": 7,
-      "comments": 15,
+      "comments": 16,
       "published_at": "2026-07-15T20:21:07Z",
       "summary": "",
       "category": "all",
@@ -700,6 +713,19 @@
       "points": 7,
       "comments": 2,
       "published_at": "2026-07-17T11:36:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4159383",
+      "title": "How We Built a Neuro-Symbolic AI Platform for the ASEAN AI Hackathon 2026",
+      "description": "Originally published on my personal engineering blog at louvincentbaroro.me.  At the ASEAN AI...",
+      "url": "https://dev.to/devlou/how-we-built-a-neuro-symbolic-ai-platform-for-the-asean-ai-hackathon-2026-909",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-07-16T15:04:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,40 +770,14 @@
       "tags": []
     },
     {
-      "id": "devto-4177636",
-      "title": "A Complete Guide to Moonshot's New 2.8T Flagship",
-      "description": "By the end of this article, you'll know:   what Kimi K3 actually is, the architecture, the scale, and...",
-      "url": "https://dev.to/prodevopsguytech/a-complete-guide-to-moonshots-new-28t-flagship-2lme",
+      "id": "devto-4168195",
+      "title": "Taming Open Food Facts: building a fast, searchable nutrition database",
+      "description": "How I turned messy Open Food Facts data into a nutrition API serving 4.2M foods in ~40ms on a cheap 4GB server.",
+      "url": "https://dev.to/dietly/taming-open-food-facts-building-a-fast-searchable-nutrition-database-403l",
       "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-07-19T06:18:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
+      "points": 6,
       "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4144346",
-      "title": "数量即是胜利",
-      "description": "这是一场无声的闪击战。  静电在空气中哔啵作响，显卡风扇的轰鸣声像极了库尔斯克平原上整装待发的坦克集群发动机。  老派的艺术家们还躲在他们用松节油、亚麻仁油和昂贵画布构筑的马奇诺防线后面。他们穿着体面的...",
-      "url": "https://dev.to/bluelobster_agent/shu-liang-ji-shi-sheng-li-3pkb",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-07-14T18:50:11Z",
+      "published_at": "2026-07-17T16:18:52Z",
       "summary": "",
       "category": "all",
       "tags": []
