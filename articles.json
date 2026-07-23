@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T08:02:13Z",
+  "updated_at": "2026-07-23T08:04:23Z",
   "count": 60,
   "articles": [
     {
@@ -380,14 +380,14 @@
       "tags": []
     },
     {
-      "id": "devto-4151604",
-      "title": "Building an AI Agent That Knows When Not to Guess (Qwen + MCP)",
-      "description": "A payment landed for exactly half an invoice's value. The payer's email matched the customer on file....",
-      "url": "https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl",
+      "id": "devto-4170293",
+      "title": "Every AI-built site looks the same, so I built a skill that locks taste before any code is written",
+      "description": "I build a lot of side projects with AI coding tools. Mostly Claude Code. A few months ago I noticed...",
+      "url": "https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d",
       "source": "dev.to",
-      "points": 29,
-      "comments": 29,
-      "published_at": "2026-07-15T16:23:34Z",
+      "points": 33,
+      "comments": 28,
+      "published_at": "2026-07-18T00:40:32Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -412,21 +412,8 @@
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "source": "dev.to",
       "points": 28,
-      "comments": 20,
+      "comments": 21,
       "published_at": "2026-07-16T21:19:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4170293",
-      "title": "Every AI-built site looks the same, so I built a skill that locks taste before any code is written",
-      "description": "I build a lot of side projects with AI coding tools. Mostly Claude Code. A few months ago I noticed...",
-      "url": "https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d",
-      "source": "dev.to",
-      "points": 28,
-      "comments": 23,
-      "published_at": "2026-07-18T00:40:32Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -458,26 +445,13 @@
       "tags": []
     },
     {
-      "id": "devto-4155756",
-      "title": "I stopped trusting my own app's encryption, so I rebuilt it — ATLOCK v4 is Here.",
-      "description": "🔒 ATLOCK v4 — I stopped trusting my own app's encryption, so I rebuilt it  TL;DR — ATLOCK is a...",
-      "url": "https://dev.to/akhourianmolkumar/i-stopped-trusting-my-own-apps-encryption-so-i-rebuilt-it-atlock-v4-is-here-426a",
-      "source": "dev.to",
-      "points": 21,
-      "comments": 3,
-      "published_at": "2026-07-16T07:04:47Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4183026",
       "title": "I built an AI dev harness that isn't allowed to trust itself",
       "description": "Scope note (read first): this describes a system I built and operate to develop an unannounced game....",
       "url": "https://dev.to/agentdev9/i-built-an-ai-dev-harness-that-isnt-allowed-to-trust-itself-53mh",
       "source": "dev.to",
-      "points": 16,
-      "comments": 44,
+      "points": 17,
+      "comments": 47,
       "published_at": "2026-07-20T02:12:53Z",
       "summary": "",
       "category": "all",
@@ -503,7 +477,7 @@
       "url": "https://dev.to/akhourianmolkumar/akhouri-systems-4-apps-1-thirteen-year-old-kid-0-employees-aki",
       "source": "dev.to",
       "points": 16,
-      "comments": 1,
+      "comments": 4,
       "published_at": "2026-07-21T11:03:52Z",
       "summary": "",
       "category": "all",
@@ -536,6 +510,32 @@
       "tags": []
     },
     {
+      "id": "devto-4205372",
+      "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
+      "description": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)   From manually...",
+      "url": "https://dev.to/le_beltagy/i-built-a-job-scraping-bot-to-escape-cloud-consulting-and-its-open-source-1m8a",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 6,
+      "published_at": "2026-07-22T10:50:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4182061",
+      "title": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)",
+      "description": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)   From zero Go...",
+      "url": "https://dev.to/le_beltagy/i-learned-go-by-hacking-kubernetes-rbac-security-and-nearly-quit-5-times-3pnp",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 7,
+      "published_at": "2026-07-19T22:03:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4187352",
       "title": "'Local' Solves Where Your Data Goes. It Doesn't Solve What Your Agent Does",
       "description": "Running an agent on your own hardware fixes data sovereignty and nothing else. Prompt injection, silent provenance failures, and privilege escalation all survive the move to local. Here's where local agents are genuinely safe to deploy in 2026, and where 'local' is just a comforting word.",
@@ -549,27 +549,27 @@
       "tags": []
     },
     {
+      "id": "devto-4210570",
+      "title": "The Guardrail Cost No One Is Measuring",
+      "description": "AI governance needs to control consequential actions—not ration capability through opaque fear.  I...",
+      "url": "https://dev.to/kenielzep97/the-safety-screen-interrupted-the-safety-test-1932",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 4,
+      "published_at": "2026-07-23T04:20:33Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4188725",
       "title": "Gemma4 DevOps In Action",
       "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
       "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
       "source": "dev.to",
       "points": 11,
-      "comments": 7,
+      "comments": 15,
       "published_at": "2026-07-20T14:20:31Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4182061",
-      "title": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)",
-      "description": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)   From zero Go...",
-      "url": "https://dev.to/le_beltagy/i-learned-go-by-hacking-kubernetes-rbac-security-and-nearly-quit-5-times-3pnp",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 7,
-      "published_at": "2026-07-19T22:03:03Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,6 +614,19 @@
       "tags": []
     },
     {
+      "id": "devto-4198748",
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "description": "3.6...",
+      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 2,
+      "published_at": "2026-07-21T16:31:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4165072",
       "title": "Retrieval-Augmented Self-Recall: The RAG Problem Nobody Talks About",
       "description": "Part 1 of Retrieval-Augmented Self-Recall — the research track behind Claude Code, Beyond the Prompt....",
@@ -627,6 +640,19 @@
       "tags": []
     },
     {
+      "id": "devto-4193113",
+      "title": "4 Open-Source AI Tools, 1 MCP Server — What I Built and What I Learned",
+      "description": "4 Open-Source AI Tools, 1 MCP Server — What I Built and What I Learned    TL;DR: This...",
+      "url": "https://dev.to/debashish_ghosal/4-open-source-ai-tools-1-mcp-server-what-i-built-and-what-i-learned-3il2",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 12,
+      "published_at": "2026-07-21T05:45:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4174320",
       "title": "I built a readability test for my own compression format. It scored 0/24.",
       "description": "A negative result, its root cause, and the feature it produced.  My last post introduced ctxfold —...",
@@ -635,19 +661,6 @@
       "points": 8,
       "comments": 10,
       "published_at": "2026-07-18T14:34:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4193113",
-      "title": "4 Open-Source AI Tools, 1 MCP Server — What I Built and What I Learned",
-      "description": "4 Open-Source AI Tools, 1 MCP Server — What I Built and What I Learned    TL;DR: This...",
-      "url": "https://dev.to/debashish_ghosal/4-open-source-ai-tools-1-mcp-server-what-i-built-and-what-i-learned-3il2",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 11,
-      "published_at": "2026-07-21T05:45:09Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,40 +692,14 @@
       "tags": []
     },
     {
-      "id": "devto-4152695",
-      "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
-      "description": "How a 1,920-line file turned into 410 lines, why \"it works\" was a lie twice, and why the fix wasn't a...",
-      "url": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 16,
-      "published_at": "2026-07-15T20:21:07Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4166382",
       "title": "It started with a birthday present — why I built an open-source QR code generator",
       "description": "Last year, all I wanted was a QR code for a birthday present. Scan the code, get the surprise. Thirty...",
       "url": "https://dev.to/flob95/it-started-with-a-birthday-present-why-i-built-an-open-source-qr-code-generator-394i",
       "source": "dev.to",
       "points": 7,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-07-17T11:36:58Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-3972188",
-      "title": "AI Agent Autonomy Levels: From Logged to Locked Down",
-      "description": "AI agent autonomy levels describe how much an agent is allowed to do on its own before a human is involved, ranging from acting silently with no…",
-      "url": "https://dev.to/brennhill/ai-agent-autonomy-levels-from-logged-to-locked-down-45am",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 4,
-      "published_at": "2026-07-17T12:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,27 +718,27 @@
       "tags": []
     },
     {
+      "id": "devto-3972188",
+      "title": "AI Agent Autonomy Levels: From Logged to Locked Down",
+      "description": "AI agent autonomy levels describe how much an agent is allowed to do on its own before a human is involved, ranging from acting silently with no…",
+      "url": "https://dev.to/brennhill/ai-agent-autonomy-levels-from-logged-to-locked-down-45am",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 4,
+      "published_at": "2026-07-17T12:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4192403",
       "title": "The Scoreboard Lied. Now Sentry Shows Which Layer Broke",
       "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.  Two...",
       "url": "https://dev.to/kenielzep97/the-scoreboard-lied-sentry-showed-me-which-layer-broke-227l",
       "source": "dev.to",
       "points": 6,
-      "comments": 2,
+      "comments": 4,
       "published_at": "2026-07-21T03:51:12Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4198748",
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "description": "3.6...",
-      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 2,
-      "published_at": "2026-07-21T16:31:50Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +765,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4167880",
+      "title": "GPT-5.6 Models Explained: Sol vs Terra vs Luna, Pro Models, Features & Which One Should You Choose?",
+      "description": "Learn everything about the GPT-5.6 model family, including Sol, Terra, Luna, Pro variants,...",
+      "url": "https://dev.to/techlatestnet/gpt-56-models-explained-sol-vs-terra-vs-luna-pro-models-features-which-one-should-you-choose-3nn5",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-07-17T10:53:10Z",
       "summary": "",
       "category": "all",
       "tags": []
