@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T08:04:23Z",
+  "updated_at": "2026-07-24T08:01:15Z",
   "count": 60,
   "articles": [
     {
@@ -386,7 +386,7 @@
       "url": "https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d",
       "source": "dev.to",
       "points": 33,
-      "comments": 28,
+      "comments": 40,
       "published_at": "2026-07-18T00:40:32Z",
       "summary": "",
       "category": "all",
@@ -401,19 +401,6 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4159933",
-      "title": "What is an \"agentic harness,\" actually?",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "source": "dev.to",
-      "points": 28,
-      "comments": 21,
-      "published_at": "2026-07-16T21:19:20Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -445,13 +432,26 @@
       "tags": []
     },
     {
+      "id": "devto-4205372",
+      "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
+      "description": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)   From manually...",
+      "url": "https://dev.to/le_beltagy/i-built-a-job-scraping-bot-to-escape-cloud-consulting-and-its-open-source-1m8a",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 6,
+      "published_at": "2026-07-22T10:50:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4183026",
       "title": "I built an AI dev harness that isn't allowed to trust itself",
       "description": "Scope note (read first): this describes a system I built and operate to develop an unannounced game....",
       "url": "https://dev.to/agentdev9/i-built-an-ai-dev-harness-that-isnt-allowed-to-trust-itself-53mh",
       "source": "dev.to",
       "points": 17,
-      "comments": 47,
+      "comments": 48,
       "published_at": "2026-07-20T02:12:53Z",
       "summary": "",
       "category": "all",
@@ -484,6 +484,19 @@
       "tags": []
     },
     {
+      "id": "devto-4182061",
+      "title": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)",
+      "description": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)   From zero Go...",
+      "url": "https://dev.to/le_beltagy/i-learned-go-by-hacking-kubernetes-rbac-security-and-nearly-quit-5-times-3pnp",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 8,
+      "published_at": "2026-07-19T22:03:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -497,40 +510,14 @@
       "tags": []
     },
     {
-      "id": "devto-4159869",
-      "title": "I got tired of not knowing what my AI agents were doing, so I built a tiny observability tool",
-      "description": "I build small LLM agents. Not the impressive kind you see in demos, just practical little things that...",
-      "url": "https://dev.to/remdore/i-got-tired-of-not-knowing-what-my-ai-agents-were-doing-so-i-built-a-tiny-observability-tool-3p67",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 7,
-      "published_at": "2026-07-16T16:51:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4205372",
-      "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
-      "description": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)   From manually...",
-      "url": "https://dev.to/le_beltagy/i-built-a-job-scraping-bot-to-escape-cloud-consulting-and-its-open-source-1m8a",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 6,
-      "published_at": "2026-07-22T10:50:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4182061",
-      "title": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)",
-      "description": "I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Quit 5 Times)   From zero Go...",
-      "url": "https://dev.to/le_beltagy/i-learned-go-by-hacking-kubernetes-rbac-security-and-nearly-quit-5-times-3pnp",
+      "id": "devto-4167419",
+      "title": "How to run Codex with GPT-5.6 on Amazon Bedrock",
+      "description": "Point the Codex CLI at OpenAI's GPT-5.6 Luna, Terra, and Sol on Amazon Bedrock with two lines of config, using the AWS credentials you already have.",
+      "url": "https://dev.to/aws/how-to-run-codex-with-gpt-56-on-amazon-bedrock-12f4",
       "source": "dev.to",
       "points": 12,
-      "comments": 7,
-      "published_at": "2026-07-19T22:03:03Z",
+      "comments": 3,
+      "published_at": "2026-07-17T14:39:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -544,19 +531,6 @@
       "points": 11,
       "comments": 14,
       "published_at": "2026-07-20T11:19:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4210570",
-      "title": "The Guardrail Cost No One Is Measuring",
-      "description": "AI governance needs to control consequential actions—not ration capability through opaque fear.  I...",
-      "url": "https://dev.to/kenielzep97/the-safety-screen-interrupted-the-safety-test-1932",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 4,
-      "published_at": "2026-07-23T04:20:33Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-4205078",
+      "title": "Rizzzler v1.2 — Stronger Security, Better Customization & Smarter Architecture 🚀",
+      "description": "Over the past few days, I received some incredibly valuable feedback from developers who reviewed the...",
+      "url": "https://dev.to/puneetkumar2010/rizzzler-v12-stronger-security-better-customization-smarter-architecture-cia",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 4,
+      "published_at": "2026-07-22T10:23:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4174320",
       "title": "I built a readability test for my own compression format. It scored 0/24.",
       "description": "A negative result, its root cause, and the feature it produced.  My last post introduced ctxfold —...",
@@ -685,7 +672,7 @@
       "url": "https://dev.to/ramkumar-m-n/snowflake-cortex-explained-like-an-ai-that-lives-next-to-your-data-b0g",
       "source": "dev.to",
       "points": 7,
-      "comments": 0,
+      "comments": 2,
       "published_at": "2026-07-21T10:54:29Z",
       "summary": "",
       "category": "all",
@@ -705,19 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-4159383",
-      "title": "How We Built a Neuro-Symbolic AI Platform for the ASEAN AI Hackathon 2026",
-      "description": "Originally published on my personal engineering blog at louvincentbaroro.me.  At the ASEAN AI...",
-      "url": "https://dev.to/devlou/how-we-built-a-neuro-symbolic-ai-platform-for-the-asean-ai-hackathon-2026-909",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 1,
-      "published_at": "2026-07-16T15:04:36Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-3972188",
       "title": "AI Agent Autonomy Levels: From Logged to Locked Down",
       "description": "AI agent autonomy levels describe how much an agent is allowed to do on its own before a human is involved, ranging from acting silently with no…",
@@ -726,6 +700,19 @@
       "points": 6,
       "comments": 4,
       "published_at": "2026-07-17T12:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4159383",
+      "title": "How We Built a Neuro-Symbolic AI Platform for the ASEAN AI Hackathon 2026",
+      "description": "Originally published on my personal engineering blog at louvincentbaroro.me.  At the ASEAN AI...",
+      "url": "https://dev.to/devlou/how-we-built-a-neuro-symbolic-ai-platform-for-the-asean-ai-hackathon-2026-909",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 3,
+      "published_at": "2026-07-16T15:04:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -770,14 +757,27 @@
       "tags": []
     },
     {
-      "id": "devto-4167880",
-      "title": "GPT-5.6 Models Explained: Sol vs Terra vs Luna, Pro Models, Features & Which One Should You Choose?",
-      "description": "Learn everything about the GPT-5.6 model family, including Sol, Terra, Luna, Pro variants,...",
-      "url": "https://dev.to/techlatestnet/gpt-56-models-explained-sol-vs-terra-vs-luna-pro-models-features-which-one-should-you-choose-3nn5",
+      "id": "devto-4168195",
+      "title": "Taming Open Food Facts: building a fast, searchable nutrition database",
+      "description": "How I turned messy Open Food Facts data into a nutrition API serving 4.2M foods in ~40ms on a cheap 4GB server.",
+      "url": "https://dev.to/dietly/taming-open-food-facts-building-a-fast-searchable-nutrition-database-403l",
       "source": "dev.to",
-      "points": 5,
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-07-17T16:18:52Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4216112",
+      "title": "🔒 How I Built ATLOCK v4 — A Deep Technical Breakdown of a Windows Security Suite",
+      "description": "\"I didn't want to build another password locker.  I wanted to build something that reacts to...",
+      "url": "https://dev.to/akhourianmolkumar/how-i-built-atlock-v4-a-deep-technical-breakdown-of-a-windows-security-suite-3e2j",
+      "source": "dev.to",
+      "points": 6,
       "comments": 0,
-      "published_at": "2026-07-17T10:53:10Z",
+      "published_at": "2026-07-23T14:52:49Z",
       "summary": "",
       "category": "all",
       "tags": []
