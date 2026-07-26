@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T07:45:29Z",
+  "updated_at": "2026-07-26T08:00:43Z",
   "count": 60,
   "articles": [
     {
@@ -146,6 +146,19 @@
       "tags": []
     },
     {
+      "id": "hn-49040741",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "description": "",
+      "url": "https://artificialanalysis.ai/models",
+      "source": "artificialanalysis.ai",
+      "points": 365,
+      "comments": 220,
+      "published_at": "2026-07-24T19:45:10Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39208213",
       "title": "Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance",
       "description": "",
@@ -219,19 +232,6 @@
       "points": 305,
       "comments": 288,
       "published_at": "2015-07-27T14:41:56Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-21979391",
-      "title": "Our field isn't quite “artificial intelligence” – it's “cognitive automation”",
-      "description": "",
-      "url": "https://twitter.com/fchollet/status/1214392496375025664",
-      "source": "twitter.com",
-      "points": 294,
-      "comments": 98,
-      "published_at": "2020-01-07T12:43:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -380,6 +380,19 @@
       "tags": []
     },
     {
+      "id": "devto-4231159",
+      "title": "I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "url": "https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 4,
+      "published_at": "2026-07-25T13:01:01Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -438,7 +451,7 @@
       "url": "https://dev.to/tisha/you-recorded-the-incident-now-prove-your-fix-actually-works-2cni",
       "source": "dev.to",
       "points": 19,
-      "comments": 13,
+      "comments": 14,
       "published_at": "2026-07-22T16:50:02Z",
       "summary": "",
       "category": "all",
@@ -453,19 +466,6 @@
       "points": 18,
       "comments": 6,
       "published_at": "2026-07-22T10:50:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4171858",
-      "title": "I'm 13, Solo Founder & CEO of Akhouri Systems. No team, no backend, no funding — just a laptop.",
-      "description": "👋 I'm 13. I run a software company by myself. No co-founder. No backend team. No investors. No...",
-      "url": "https://dev.to/akhourianmolkumar/im-13-solo-founder-ceo-of-akhouri-systems-no-team-no-backend-no-funding-just-a-laptop-2ch1",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-07-18T07:20:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,6 +510,19 @@
       "tags": []
     },
     {
+      "id": "devto-4223777",
+      "title": "'World Models' Will Be the Next Buzzword. The Man Saying That Just Raised $1B to Build One",
+      "description": "In March, the CEO of a research lab with zero products closed a $1.03 billion seed round — the...",
+      "url": "https://dev.to/p0rt/world-models-will-be-the-next-buzzword-the-man-saying-that-just-raised-1b-to-build-one-4oih",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 2,
+      "published_at": "2026-07-24T12:10:03Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4187352",
       "title": "'Local' Solves Where Your Data Goes. It Doesn't Solve What Your Agent Does",
       "description": "Running an agent on your own hardware fixes data sovereignty and nothing else. Prompt injection, silent provenance failures, and privilege escalation all survive the move to local. Here's where local agents are genuinely safe to deploy in 2026, and where 'local' is just a comforting word.",
@@ -529,7 +542,7 @@
       "url": "https://dev.to/code42cate/hetzner-inference-first-look-587",
       "source": "dev.to",
       "points": 12,
-      "comments": 2,
+      "comments": 4,
       "published_at": "2026-07-24T09:19:14Z",
       "summary": "",
       "category": "all",
@@ -562,40 +575,14 @@
       "tags": []
     },
     {
-      "id": "devto-4223777",
-      "title": "'World Models' Will Be the Next Buzzword. The Man Saying That Just Raised $1B to Build One",
-      "description": "In March, the CEO of a research lab with zero products closed a $1.03 billion seed round — the...",
-      "url": "https://dev.to/p0rt/world-models-will-be-the-next-buzzword-the-man-saying-that-just-raised-1b-to-build-one-4oih",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 1,
-      "published_at": "2026-07-24T12:10:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4188725",
       "title": "Gemma4 DevOps In Action",
       "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
       "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
       "source": "dev.to",
       "points": 11,
-      "comments": 16,
+      "comments": 21,
       "published_at": "2026-07-20T14:20:31Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4173175",
-      "title": "400+ downloads, 0 revenue, and why that's actually fine for now",
-      "description": "400+ downloads. Still fully free. Here's where things stand.   ATLOCK crossed 400 downloads...",
-      "url": "https://dev.to/akhourianmolkumar/400-downloads-0-revenue-and-why-thats-actually-fine-for-now-3an3",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 2,
-      "published_at": "2026-07-18T10:53:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -646,7 +633,7 @@
       "url": "https://dev.to/ramkumar-m-n/snowflake-cortex-explained-like-an-ai-that-lives-next-to-your-data-b0g",
       "source": "dev.to",
       "points": 9,
-      "comments": 2,
+      "comments": 4,
       "published_at": "2026-07-21T10:54:29Z",
       "summary": "",
       "category": "all",
@@ -672,21 +659,8 @@
       "url": "https://dev.to/debashish_ghosal/4-open-source-ai-tools-1-mcp-server-what-i-built-and-what-i-learned-3il2",
       "source": "dev.to",
       "points": 9,
-      "comments": 12,
+      "comments": 14,
       "published_at": "2026-07-21T05:45:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4207655",
-      "title": "Evaluating an intent classifier: what I check beyond accuracy",
-      "description": "I built the intent router that sits at the front of our support agent. It reads what a user typed and...",
-      "url": "https://dev.to/kartik-nvjk/evaluating-an-intent-classifier-what-i-check-beyond-accuracy-5f1f",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2026-07-22T16:18:03Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -711,21 +685,34 @@
       "url": "https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm",
       "source": "dev.to",
       "points": 8,
-      "comments": 1,
+      "comments": 2,
       "published_at": "2026-07-23T13:32:11Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-4174320",
-      "title": "I built a readability test for my own compression format. It scored 0/24.",
-      "description": "A negative result, its root cause, and the feature it produced.  My last post introduced ctxfold —...",
-      "url": "https://dev.to/maverickyadav/i-built-a-readability-test-for-my-own-compression-format-it-scored-024-4epc",
+      "id": "devto-4212538",
+      "title": "How I reduced AI coding context by 95%",
+      "description": "Every time I watched an AI coding assistant work on a large TypeScript project, I noticed the same...",
+      "url": "https://dev.to/pioner92/how-i-reduced-ai-coding-context-by-95-5ao5",
       "source": "dev.to",
       "points": 8,
-      "comments": 10,
-      "published_at": "2026-07-18T14:34:09Z",
+      "comments": 11,
+      "published_at": "2026-07-23T07:48:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4225529",
+      "title": "Unlimited-OCR: Parsing a 40-Page PDF in One Pass Without Your GPU Melting",
+      "description": "If you have ever built a document-parsing pipeline, you know the ritual. Split the PDF into pages....",
+      "url": "https://dev.to/arshtechpro/unlimited-ocr-parsing-a-40-page-pdf-in-one-pass-without-your-gpu-melting-4mc4",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-07-24T17:19:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -739,6 +726,19 @@
       "points": 6,
       "comments": 4,
       "published_at": "2026-07-21T03:51:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4233007",
+      "title": "AI vs Generative AI vs AI Agents vs Agentic AI",
+      "description": "If you've been following AI over the past year, you've probably seen these terms...",
+      "url": "https://dev.to/darshanraval/ai-vs-generative-ai-vs-ai-agents-vs-agentic-ai-4daf",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-07-25T20:24:13Z",
       "summary": "",
       "category": "all",
       "tags": []
