@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T09:00:39Z",
+  "updated_at": "2026-07-28T08:08:27Z",
   "count": 60,
   "articles": [
     {
@@ -151,8 +151,8 @@
       "description": "",
       "url": "https://artificialanalysis.ai/models",
       "source": "artificialanalysis.ai",
-      "points": 371,
-      "comments": 229,
+      "points": 373,
+      "comments": 232,
       "published_at": "2026-07-24T19:45:10Z",
       "summary": "",
       "category": "all",
@@ -360,7 +360,7 @@
       "url": "https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937",
       "source": "dev.to",
       "points": 39,
-      "comments": 4,
+      "comments": 6,
       "published_at": "2026-07-25T13:01:01Z",
       "summary": "",
       "category": "all",
@@ -393,6 +393,19 @@
       "tags": []
     },
     {
+      "id": "devto-4238806",
+      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
+      "description": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
+      "source": "dev.to",
+      "points": 36,
+      "comments": 31,
+      "published_at": "2026-07-26T20:53:41Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -419,6 +432,19 @@
       "tags": []
     },
     {
+      "id": "devto-4239910",
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 0,
+      "published_at": "2026-07-27T02:11:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -432,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-4207785",
+      "title": "You Recorded the Incident. Now Prove Your Fix Actually Works.",
+      "description": "Part 2 of Your Agent Failed in Prod. Good Luck Reproducing It.  This work was presented at the AI...",
+      "url": "https://dev.to/tisha/you-recorded-the-incident-now-prove-your-fix-actually-works-2cni",
+      "source": "dev.to",
+      "points": 19,
+      "comments": 18,
+      "published_at": "2026-07-22T16:50:02Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4205372",
       "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
       "description": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)   From manually...",
@@ -440,6 +479,19 @@
       "points": 19,
       "comments": 6,
       "published_at": "2026-07-22T10:50:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4239685",
+      "title": "Catching the Attack Was Not the Same as Detecting the Sequence",
+      "description": "I wrote a suite for one class of authorization failure, scored my own gates with it, and a reviewer...",
+      "url": "https://dev.to/kenielzep97/catching-the-attack-was-not-the-same-as-detecting-the-sequence-1gik",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 4,
+      "published_at": "2026-07-27T01:10:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -464,7 +516,7 @@
       "url": "https://dev.to/puneetkumar2010/rizzzler-v12-stronger-security-better-customization-smarter-architecture-cia",
       "source": "dev.to",
       "points": 17,
-      "comments": 6,
+      "comments": 7,
       "published_at": "2026-07-22T10:23:50Z",
       "summary": "",
       "category": "all",
@@ -510,27 +562,14 @@
       "tags": []
     },
     {
-      "id": "devto-4187352",
-      "title": "'Local' Solves Where Your Data Goes. It Doesn't Solve What Your Agent Does",
-      "description": "Running an agent on your own hardware fixes data sovereignty and nothing else. Prompt injection, silent provenance failures, and privilege escalation all survive the move to local. Here's where local agents are genuinely safe to deploy in 2026, and where 'local' is just a comforting word.",
-      "url": "https://dev.to/p0rt/local-solves-where-your-data-goes-it-doesnt-solve-what-your-agent-does-306b",
+      "id": "devto-4233168",
+      "title": "I Let an Agent Take Over an Account With Every Permission Check Green",
+      "description": "Clone it. Run it. Tell me where I'm wrong.    git clone...",
+      "url": "https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4",
       "source": "dev.to",
       "points": 12,
-      "comments": 14,
-      "published_at": "2026-07-20T11:19:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4188725",
-      "title": "Gemma4 DevOps In Action",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 21,
-      "published_at": "2026-07-20T14:20:31Z",
+      "comments": 24,
+      "published_at": "2026-07-25T21:10:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,14 +601,14 @@
       "tags": []
     },
     {
-      "id": "devto-4193113",
-      "title": "4 Open-Source AI Tools, 1 MCP Server — What I Built and What I Learned",
-      "description": "4 Open-Source AI Tools, 1 MCP Server — What I Built and What I Learned    TL;DR: This...",
-      "url": "https://dev.to/debashish_ghosal/4-open-source-ai-tools-1-mcp-server-what-i-built-and-what-i-learned-3il2",
+      "id": "devto-4221423",
+      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
+      "description": "I wrote my alphabet in a spiral notebook, took one photo in dim light, and got an installable TTF out...",
+      "url": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
       "source": "dev.to",
       "points": 10,
-      "comments": 15,
-      "published_at": "2026-07-21T05:45:09Z",
+      "comments": 1,
+      "published_at": "2026-07-24T07:54:20Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -601,14 +640,14 @@
       "tags": []
     },
     {
-      "id": "devto-4221423",
-      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
-      "description": "I wrote my alphabet in a spiral notebook, took one photo in dim light, and got an installable TTF out...",
-      "url": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
+      "id": "devto-4198923",
+      "title": "Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.",
+      "description": "RAG has become my current obsession. Every day I dig one layer deeper into my own pipeline, and...",
+      "url": "https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm",
       "source": "dev.to",
       "points": 9,
-      "comments": 1,
-      "published_at": "2026-07-24T07:54:20Z",
+      "comments": 2,
+      "published_at": "2026-07-23T13:32:11Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -620,8 +659,21 @@
       "url": "https://dev.to/arjunagiarehman/dont-wait-fork-it-5dcj",
       "source": "dev.to",
       "points": 9,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-07-26T12:26:35Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4207385",
+      "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
+      "description": "A humanoid hand closing on a wine glass needs a new action estimate every 8 to 20 milliseconds, or it...",
+      "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-07-25T07:43:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,19 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-4198923",
-      "title": "Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.",
-      "description": "RAG has become my current obsession. Every day I dig one layer deeper into my own pipeline, and...",
-      "url": "https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 2,
-      "published_at": "2026-07-23T13:32:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4212538",
       "title": "How I reduced AI coding context by 95%",
       "description": "Every time I watched an AI coding assistant work on a large TypeScript project, I noticed the same...",
@@ -666,27 +705,27 @@
       "tags": []
     },
     {
-      "id": "devto-4238806",
-      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
-      "description": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
-      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 13,
-      "published_at": "2026-07-26T20:53:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4231828",
       "title": "Two coding agents editing the same issue, no merge conflict. Here is how git refs make that work",
       "description": "Run two AI coding agents on the same repo and the first thing that breaks is not the code. It is...",
       "url": "https://dev.to/dipankar_sarkar/two-coding-agents-editing-the-same-issue-no-merge-conflict-here-is-how-git-refs-make-that-work-325k",
       "source": "dev.to",
       "points": 7,
-      "comments": 4,
+      "comments": 5,
       "published_at": "2026-07-25T15:24:15Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4225529",
+      "title": "Unlimited-OCR: Parsing a 40-Page PDF in One Pass Without Your GPU Melting",
+      "description": "If you have ever built a document-parsing pipeline, you know the ritual. Split the PDF into pages....",
+      "url": "https://dev.to/arshtechpro/unlimited-ocr-parsing-a-40-page-pdf-in-one-pass-without-your-gpu-melting-4mc4",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-07-24T17:19:34Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -705,6 +744,19 @@
       "tags": []
     },
     {
+      "id": "devto-4203833",
+      "title": "I Understood the Problem. I Still Built the Wrong Product.",
+      "description": "I have been quieter than usual over the past few months.  Although I enjoy building in public, some...",
+      "url": "https://dev.to/giftysoftdev/i-understood-the-problem-i-still-built-the-wrong-product-5h1i",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 12,
+      "published_at": "2026-07-22T08:07:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4216112",
       "title": "🔒 How I Built ATLOCK v4 — A Deep Technical Breakdown of a Windows Security Suite",
       "description": "\"I didn't want to build another password locker.  I wanted to build something that reacts to...",
@@ -718,19 +770,6 @@
       "tags": []
     },
     {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4219526",
       "title": "I Replaced a Q-Table With a Neural Network and Everything Changed - Day 5 (DQN).",
       "description": "SERIES: Learning RL and JAX in Public - from zero to DeepMind :)     Day 4 ended with a working...",
@@ -739,45 +778,6 @@
       "points": 5,
       "comments": 0,
       "published_at": "2026-07-24T03:06:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4228684",
-      "title": "Inside the LSTM: An XAI Field Guide to Weather Prediction",
-      "description": "LSTMs are still the go-to architecture for a lot of time series work, but they're annoying to trust....",
-      "url": "https://dev.to/meftamila/inside-the-lstm-an-xai-field-guide-to-weather-prediction-4d2p",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-07-25T06:07:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4228394",
-      "title": "I Taught an Agent to Act Directly - No Q-Values Needed (Day 6: REINFORCE)",
-      "description": "SERIES: Learning RL and JAX in Public - from zero to DeepMind :)     Days 4 and 5 were value-based...",
-      "url": "https://dev.to/madhumithakolkar/i-taught-an-agent-to-act-directly-no-q-values-needed-day-6-reinforce-9cl",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-07-25T05:05:19Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4203833",
-      "title": "I Understood the Problem. I Still Built the Wrong Product.",
-      "description": "I have been quieter than usual over the past few months.  Although I enjoy building in public, some...",
-      "url": "https://dev.to/giftysoftdev/i-understood-the-problem-i-still-built-the-wrong-product-5h1i",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 12,
-      "published_at": "2026-07-22T08:07:55Z",
       "summary": "",
       "category": "all",
       "tags": []
