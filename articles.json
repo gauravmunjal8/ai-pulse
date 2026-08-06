@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:10:10Z",
+  "updated_at": "2026-08-06T08:09:03Z",
   "count": 60,
   "articles": [
     {
@@ -354,25 +354,12 @@
       "tags": []
     },
     {
-      "id": "devto-4252629",
-      "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
-      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who was recently knocked off my feet by how good the...",
-      "url": "https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4",
-      "source": "dev.to",
-      "points": 41,
-      "comments": 4,
-      "published_at": "2026-07-29T10:42:13Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4264656",
       "title": "Introducing DevPub - Open Source Dev.to CLI Tool",
       "description": "Most Dev.to tools only publish articles. devpub does publishing, analytics, semantic search, trend discovery, and validation.",
       "url": "https://dev.to/sarvar_04/introducing-devpub-open-source-devto-cli-tool-49jf",
       "source": "dev.to",
-      "points": 39,
+      "points": 41,
       "comments": 9,
       "published_at": "2026-08-01T12:10:00Z",
       "summary": "",
@@ -393,6 +380,19 @@
       "tags": []
     },
     {
+      "id": "devto-4286677",
+      "title": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.",
+      "description": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.   From zero Go experience to a...",
+      "url": "https://dev.to/le_beltagy/i-learned-go-in-3-weeks-yesterday-my-code-merged-into-k9s-2dg4",
+      "source": "dev.to",
+      "points": 38,
+      "comments": 8,
+      "published_at": "2026-08-01T10:07:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-48856412",
       "title": "China may restrict foreign access to Chinese open-source AI models",
       "description": "",
@@ -401,32 +401,6 @@
       "points": 37,
       "comments": 0,
       "published_at": "2026-07-10T06:22:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4260309",
-      "title": "Why Kimi K3 Still Can't Do What Einstein Did",
-      "description": "In geophysics you almost never get to see the thing you're studying. You get a seismic trace, a...",
-      "url": "https://dev.to/dannwaneri/why-kimi-k3-still-cant-do-what-einstein-did-2l6d",
-      "source": "dev.to",
-      "points": 35,
-      "comments": 22,
-      "published_at": "2026-07-29T09:30:59Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4286677",
-      "title": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.",
-      "description": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.   From zero Go experience to a...",
-      "url": "https://dev.to/le_beltagy/i-learned-go-in-3-weeks-yesterday-my-code-merged-into-k9s-2dg4",
-      "source": "dev.to",
-      "points": 35,
-      "comments": 6,
-      "published_at": "2026-08-01T10:07:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -458,6 +432,19 @@
       "tags": []
     },
     {
+      "id": "devto-4294887",
+      "title": "I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story",
+      "description": "Two weeks ago, I published \"Why Agent Evaluation Is Harder Than Model Evaluation.\" The core argument:...",
+      "url": "https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj",
+      "source": "dev.to",
+      "points": 27,
+      "comments": 28,
+      "published_at": "2026-08-02T20:38:59Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -471,14 +458,14 @@
       "tags": []
     },
     {
-      "id": "devto-4294887",
-      "title": "I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story",
-      "description": "Two weeks ago, I published \"Why Agent Evaluation Is Harder Than Model Evaluation.\" The core argument:...",
-      "url": "https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj",
+      "id": "devto-4268797",
+      "title": "Not All Repair Helps: What I Learned Trying to Fix a Failing AI Agent",
+      "description": "Picture a moment every person who runs an AI agent knows. A task is halfway done and starting to go...",
+      "url": "https://dev.to/ayush_singh_9b0d83152be5b/not-all-repair-helps-what-i-learned-trying-to-fix-a-failing-ai-agent-55cc",
       "source": "dev.to",
-      "points": 25,
-      "comments": 26,
-      "published_at": "2026-08-02T20:38:59Z",
+      "points": 21,
+      "comments": 7,
+      "published_at": "2026-07-30T06:35:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -490,21 +477,8 @@
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
       "source": "dev.to",
       "points": 20,
-      "comments": 27,
+      "comments": 28,
       "published_at": "2026-07-30T20:43:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4268797",
-      "title": "Not All Repair Helps: What I Learned Trying to Fix a Failing AI Agent",
-      "description": "Picture a moment every person who runs an AI agent knows. A task is halfway done and starting to go...",
-      "url": "https://dev.to/ayush_singh_9b0d83152be5b/not-all-repair-helps-what-i-learned-trying-to-fix-a-failing-ai-agent-55cc",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 7,
-      "published_at": "2026-07-30T06:35:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -536,6 +510,19 @@
       "tags": []
     },
     {
+      "id": "devto-4273593",
+      "title": "My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall.",
+      "description": "On 27 July 2026 I published a suite for sequence-composition attacks with two predictions frozen in a...",
+      "url": "https://dev.to/kenielzep97/my-77-gate-fell-to-one-admin-capability-a-second-witness-only-moved-the-wall-329o",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 3,
+      "published_at": "2026-07-30T17:26:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -549,27 +536,27 @@
       "tags": []
     },
     {
-      "id": "devto-4273593",
-      "title": "My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall.",
-      "description": "On 27 July 2026 I published a suite for sequence-composition attacks with two predictions frozen in a...",
-      "url": "https://dev.to/kenielzep97/my-77-gate-fell-to-one-admin-capability-a-second-witness-only-moved-the-wall-329o",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 3,
-      "published_at": "2026-07-30T17:26:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4278052",
       "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
       "description": "I like AI coding tools. I use them myself, and my teams use them too. That is probably the most...",
       "url": "https://dev.to/debashish_ghosal/ai-assisted-engineering-faster-to-build-isnt-cheaper-to-own-1lh",
       "source": "dev.to",
       "points": 13,
-      "comments": 6,
+      "comments": 7,
       "published_at": "2026-07-31T06:59:10Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4280228",
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 17,
+      "published_at": "2026-07-31T11:00:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -581,7 +568,7 @@
       "url": "https://dev.to/joebuckle-dev/hardening-an-ai-coding-agent-the-failures-and-the-code-that-fixed-them-g3c",
       "source": "dev.to",
       "points": 12,
-      "comments": 12,
+      "comments": 13,
       "published_at": "2026-07-31T11:33:04Z",
       "summary": "",
       "category": "all",
@@ -601,19 +588,6 @@
       "tags": []
     },
     {
-      "id": "devto-4266022",
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 4,
-      "published_at": "2026-07-29T22:02:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-48985358",
       "title": "US administration considering ban on Chinese open source AI models",
       "description": "",
@@ -622,19 +596,6 @@
       "points": 11,
       "comments": 2,
       "published_at": "2026-07-20T21:54:50Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4280228",
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 16,
-      "published_at": "2026-07-31T11:00:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,6 +614,19 @@
       "tags": []
     },
     {
+      "id": "devto-4316060",
+      "title": "Git Diff for Human Reasoning",
+      "description": "Every investigation eventually reaches the same moment.  Two competent people look at the same...",
+      "url": "https://dev.to/gnomeman4201/-git-diff-for-human-reasoning-c17",
+      "source": "dev.to",
+      "points": 9,
+      "comments": 2,
+      "published_at": "2026-08-04T22:23:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4270418",
       "title": "Coordinate-based UI tests break. So we read the accessibility tree instead — from inside the simulator.",
       "description": "Every recorded mobile test I have ever inherited died the same way: someone moved a button.  The...",
@@ -661,6 +635,19 @@
       "points": 9,
       "comments": 0,
       "published_at": "2026-07-30T09:30:18Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4290228",
+      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
+      "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
+      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 32,
+      "published_at": "2026-08-02T00:00:06Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,19 +679,6 @@
       "tags": []
     },
     {
-      "id": "devto-4290228",
-      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
-      "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
-      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 25,
-      "published_at": "2026-08-02T00:00:06Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4306235",
       "title": "AirLLM Runs a 70B Model on a 4GB GPU. It's True, and That's Not the Interesting Part",
       "description": "AirLLM's README opens with a line that sounds like it can't be true:   AirLLM dramatically reduces...",
@@ -713,6 +687,19 @@
       "points": 7,
       "comments": 2,
       "published_at": "2026-08-03T22:23:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4293375",
+      "title": "When Better Models Make Old Agent Workflows Worse",
+      "description": "I recently watched a coding agent refuse to start an approved implementation.  The work plan...",
+      "url": "https://dev.to/shinpr/when-better-models-make-old-agent-workflows-worse-1o7m",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 17,
+      "published_at": "2026-08-02T14:11:20Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -731,40 +718,14 @@
       "tags": []
     },
     {
-      "id": "devto-4293375",
-      "title": "When Better Models Make Old Agent Workflows Worse",
-      "description": "I recently watched a coding agent refuse to start an approved implementation.  The work plan...",
-      "url": "https://dev.to/shinpr/when-better-models-make-old-agent-workflows-worse-1o7m",
+      "id": "devto-4312260",
+      "title": "How Do You Build an Evaluation Harness for AI Agents?",
+      "description": "You have an agent that works. Now someone asks how you know, and the honest answer is that you tried...",
+      "url": "https://dev.to/sara_mo/how-do-you-build-an-evaluation-harness-for-ai-agents-2khd",
       "source": "dev.to",
       "points": 6,
-      "comments": 16,
-      "published_at": "2026-08-02T14:11:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4247090",
-      "title": "OpenAI Expands GPT-Live ChatGPT Voice to Enterprise Workspaces Worldwide",
-      "description": "OpenAI has expanded GPT-Live in ChatGPT Voice to Edu, Business, and Enterprise plans globally,...",
-      "url": "https://dev.to/alifar/openai-expands-gpt-live-chatgpt-voice-to-enterprise-workspaces-worldwide-1nme",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2026-07-28T13:40:43Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4247757",
-      "title": "OpenAI Study Finds ChatGPT Is Becoming a Generalist AI Tool for Small Businesses",
-      "description": "OpenAI's latest small-business analysis positions ChatGPT as more than a writing tool. For many...",
-      "url": "https://dev.to/alifar/openai-study-finds-chatgpt-is-becoming-a-generalist-ai-tool-for-small-businesses-2nj4",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 1,
-      "published_at": "2026-07-28T16:20:32Z",
+      "comments": 8,
+      "published_at": "2026-08-04T11:19:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +739,45 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4258621",
+      "title": "I Added a Second Brain to My RL Agent - Day 7 (Actor-Critic)",
+      "description": "SERIES: Learning RL and JAX in Public - from zero to DeepMind.     Day 6 ended with REINFORCE...",
+      "url": "https://dev.to/madhumithakolkar/i-added-a-second-brain-to-my-rl-agent-day-7-actor-critic-45h8",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-07-29T04:05:19Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4311380",
+      "title": "How I Built PasteDB in 3 Months — From a Blank Repo to a Real Product",
+      "description": "How I Built PasteDB in 3 Months — From a Blank Repo to a Real Product   A developer recently...",
+      "url": "https://dev.to/aditya_sorathiya_069252f4/how-i-built-pastedb-in-3-months-from-a-blank-repo-to-a-real-product-32nf",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 7,
+      "published_at": "2026-08-04T09:49:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4225243",
+      "title": "The Bug That Crashes Your Import Is the Lucky One",
+      "description": "Fixing Slack import robustness in Zulip: one malformed timestamp aborted entire migrations, and the NaN case corrupted them silently.",
+      "url": "https://dev.to/p0rt/the-bug-that-crashes-your-import-is-the-lucky-one-25of",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-07-31T12:43:45Z",
       "summary": "",
       "category": "all",
       "tags": []
