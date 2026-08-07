@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T08:09:03Z",
+  "updated_at": "2026-08-07T06:55:18Z",
   "count": 60,
   "articles": [
     {
@@ -359,7 +359,7 @@
       "description": "Most Dev.to tools only publish articles. devpub does publishing, analytics, semantic search, trend discovery, and validation.",
       "url": "https://dev.to/sarvar_04/introducing-devpub-open-source-devto-cli-tool-49jf",
       "source": "dev.to",
-      "points": 41,
+      "points": 46,
       "comments": 9,
       "published_at": "2026-08-01T12:10:00Z",
       "summary": "",
@@ -419,6 +419,19 @@
       "tags": []
     },
     {
+      "id": "devto-4294887",
+      "title": "I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story",
+      "description": "Two weeks ago, I published \"Why Agent Evaluation Is Harder Than Model Evaluation.\" The core argument:...",
+      "url": "https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 31,
+      "published_at": "2026-08-02T20:38:59Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39677525",
       "title": "Jail time for open source AI models",
       "description": "",
@@ -427,19 +440,6 @@
       "points": 28,
       "comments": 12,
       "published_at": "2024-03-12T09:09:08Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4294887",
-      "title": "I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story",
-      "description": "Two weeks ago, I published \"Why Agent Evaluation Is Harder Than Model Evaluation.\" The core argument:...",
-      "url": "https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 28,
-      "published_at": "2026-08-02T20:38:59Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,19 +471,6 @@
       "tags": []
     },
     {
-      "id": "devto-4274623",
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 28,
-      "published_at": "2026-07-30T20:43:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4236044",
       "title": "Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests",
       "description": "Dived deep into libp2p security this week with a new IP subnet diversity feature for the Kad-DHT,...",
@@ -505,19 +492,6 @@
       "points": 14,
       "comments": 3,
       "published_at": "2026-07-31T18:01:28Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4273593",
-      "title": "My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall.",
-      "description": "On 27 July 2026 I published a suite for sequence-composition attacks with two predictions frozen in a...",
-      "url": "https://dev.to/kenielzep97/my-77-gate-fell-to-one-admin-capability-a-second-witness-only-moved-the-wall-329o",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 3,
-      "published_at": "2026-07-30T17:26:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -568,7 +542,7 @@
       "url": "https://dev.to/joebuckle-dev/hardening-an-ai-coding-agent-the-failures-and-the-code-that-fixed-them-g3c",
       "source": "dev.to",
       "points": 12,
-      "comments": 13,
+      "comments": 14,
       "published_at": "2026-07-31T11:33:04Z",
       "summary": "",
       "category": "all",
@@ -588,6 +562,19 @@
       "tags": []
     },
     {
+      "id": "devto-4316060",
+      "title": "Git Diff for Human Reasoning",
+      "description": "Every investigation eventually reaches the same moment.  Two competent people look at the same...",
+      "url": "https://dev.to/gnomeman4201/-git-diff-for-human-reasoning-c17",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 2,
+      "published_at": "2026-08-04T22:23:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-48985358",
       "title": "US administration considering ban on Chinese open source AI models",
       "description": "",
@@ -596,6 +583,19 @@
       "points": 11,
       "comments": 2,
       "published_at": "2026-07-20T21:54:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4225243",
+      "title": "The Bug That Crashes Your Import Is the Lucky One",
+      "description": "Fixing Slack import robustness in Zulip: one malformed timestamp aborted entire migrations, and the NaN case corrupted them silently.",
+      "url": "https://dev.to/p0rt/the-bug-that-crashes-your-import-is-the-lucky-one-25of",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-07-31T12:43:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,39 +614,13 @@
       "tags": []
     },
     {
-      "id": "devto-4316060",
-      "title": "Git Diff for Human Reasoning",
-      "description": "Every investigation eventually reaches the same moment.  Two competent people look at the same...",
-      "url": "https://dev.to/gnomeman4201/-git-diff-for-human-reasoning-c17",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-08-04T22:23:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4270418",
-      "title": "Coordinate-based UI tests break. So we read the accessibility tree instead — from inside the simulator.",
-      "description": "Every recorded mobile test I have ever inherited died the same way: someone moved a button.  The...",
-      "url": "https://dev.to/joduchan/coordinate-based-ui-tests-break-so-we-read-the-accessibility-tree-instead-from-inside-the-3gl7",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 0,
-      "published_at": "2026-07-30T09:30:18Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4290228",
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
       "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
       "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
       "source": "dev.to",
       "points": 8,
-      "comments": 32,
+      "comments": 38,
       "published_at": "2026-08-02T00:00:06Z",
       "summary": "",
       "category": "all",
@@ -666,14 +640,40 @@
       "tags": []
     },
     {
-      "id": "devto-4299852",
-      "title": "Long-Running AI Agents Accumulate Context Debt",
-      "description": "An illustrative reporting agent prepares a monthly operating review. It queries finance, CRM,...",
-      "url": "https://dev.to/coryntas/long-running-ai-agents-accumulate-context-debt-3n01",
+      "id": "devto-3308123",
+      "title": "AI is a Multiplier",
+      "description": "TL;DR: AI can extend your capabilities and amplify your mistakes. Use it to accelerate your work, not...",
+      "url": "https://dev.to/realflowcontrol/ai-is-a-multiplier-59eg",
       "source": "dev.to",
       "points": 8,
-      "comments": 4,
-      "published_at": "2026-08-03T07:46:55Z",
+      "comments": 1,
+      "published_at": "2026-08-06T17:09:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4311380",
+      "title": "How I Built PasteDB in 3 Months — From a Blank Repo to a Real Product",
+      "description": "How I Built PasteDB in 3 Months — From a Blank Repo to a Real Product   A developer recently...",
+      "url": "https://dev.to/aditya_sorathiya_069252f4/how-i-built-pastedb-in-3-months-from-a-blank-repo-to-a-real-product-32nf",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 11,
+      "published_at": "2026-08-04T09:49:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4312260",
+      "title": "How Do You Build an Evaluation Harness for AI Agents?",
+      "description": "You have an agent that works. Now someone asks how you know, and the honest answer is that you tried...",
+      "url": "https://dev.to/sara_mo/how-do-you-build-an-evaluation-harness-for-ai-agents-2khd",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 9,
+      "published_at": "2026-08-04T11:19:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -705,6 +705,19 @@
       "tags": []
     },
     {
+      "id": "devto-4296575",
+      "title": "What I got wrong building a browser extension with an AI assistant",
+      "description": "First hour with Claude's browser extension: I pointed it at our LLC registration and watched it work...",
+      "url": "https://dev.to/tryclicked/what-i-got-wrong-building-a-browser-extension-with-an-ai-assistant-3n8d",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 8,
+      "published_at": "2026-08-03T03:03:53Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4278034",
       "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
       "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
@@ -713,19 +726,6 @@
       "points": 7,
       "comments": 10,
       "published_at": "2026-07-31T06:57:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4312260",
-      "title": "How Do You Build an Evaluation Harness for AI Agents?",
-      "description": "You have an agent that works. Now someone asks how you know, and the honest answer is that you tried...",
-      "url": "https://dev.to/sara_mo/how-do-you-build-an-evaluation-harness-for-ai-agents-2khd",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 8,
-      "published_at": "2026-08-04T11:19:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,40 +744,40 @@
       "tags": []
     },
     {
-      "id": "devto-4258621",
-      "title": "I Added a Second Brain to My RL Agent - Day 7 (Actor-Critic)",
-      "description": "SERIES: Learning RL and JAX in Public - from zero to DeepMind.     Day 6 ended with REINFORCE...",
-      "url": "https://dev.to/madhumithakolkar/i-added-a-second-brain-to-my-rl-agent-day-7-actor-critic-45h8",
+      "id": "devto-4281975",
+      "title": "My Chrome extension has no server, so I put the paywall on a remote switch",
+      "description": "I'm a solo dev with zero users right now, and I just spent an afternoon on a decision most people...",
+      "url": "https://dev.to/shaojie/my-chrome-extension-has-no-server-so-i-put-the-paywall-on-a-remote-switch-57d0",
       "source": "dev.to",
       "points": 6,
-      "comments": 1,
-      "published_at": "2026-07-29T04:05:19Z",
+      "comments": 4,
+      "published_at": "2026-07-31T15:35:53Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-4311380",
-      "title": "How I Built PasteDB in 3 Months — From a Blank Repo to a Real Product",
-      "description": "How I Built PasteDB in 3 Months — From a Blank Repo to a Real Product   A developer recently...",
-      "url": "https://dev.to/aditya_sorathiya_069252f4/how-i-built-pastedb-in-3-months-from-a-blank-repo-to-a-real-product-32nf",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 7,
-      "published_at": "2026-08-04T09:49:37Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4225243",
-      "title": "The Bug That Crashes Your Import Is the Lucky One",
-      "description": "Fixing Slack import robustness in Zulip: one malformed timestamp aborted entire migrations, and the NaN case corrupted them silently.",
-      "url": "https://dev.to/p0rt/the-bug-that-crashes-your-import-is-the-lucky-one-25of",
+      "id": "devto-4280314",
+      "title": "GolemUI: the one stop shop for JS forms",
+      "description": "Hi 👋  There are three of us, with about fifty years of building software between us, most of it on...",
+      "url": "https://dev.to/roger_golem_ui/golemui-the-one-stop-shop-for-js-forms-57on",
       "source": "dev.to",
       "points": 6,
       "comments": 0,
-      "published_at": "2026-07-31T12:43:45Z",
+      "published_at": "2026-07-31T11:06:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4335134",
+      "title": "My Scanner Missed 93% of the Bugs — and That Was the Right First Result",
+      "description": "The first time I ran my vulnerability scanner against the industry-standard benchmark, the bottom...",
+      "url": "https://dev.to/alimafana/my-scanner-missed-93-of-the-bugs-and-that-was-the-right-first-result-1pjg",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-08-06T21:41:21Z",
       "summary": "",
       "category": "all",
       "tags": []
