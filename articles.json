@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T06:27:40Z",
+  "updated_at": "2026-08-09T06:32:52Z",
   "count": 60,
   "articles": [
     {
@@ -354,19 +354,6 @@
       "tags": []
     },
     {
-      "id": "devto-4264656",
-      "title": "Introducing DevPub - Open Source Dev.to CLI Tool",
-      "description": "Most Dev.to tools only publish articles. devpub does publishing, analytics, semantic search, trend discovery, and validation.",
-      "url": "https://dev.to/sarvar_04/introducing-devpub-open-source-devto-cli-tool-49jf",
-      "source": "dev.to",
-      "points": 46,
-      "comments": 9,
-      "published_at": "2026-08-01T12:10:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -375,19 +362,6 @@
       "points": 39,
       "comments": 11,
       "published_at": "2024-01-16T22:42:30Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4286677",
-      "title": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.",
-      "description": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.   From zero Go experience to a...",
-      "url": "https://dev.to/le_beltagy/i-learned-go-in-3-weeks-yesterday-my-code-merged-into-k9s-2dg4",
-      "source": "dev.to",
-      "points": 38,
-      "comments": 8,
-      "published_at": "2026-08-01T10:07:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -412,7 +386,7 @@
       "url": "https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj",
       "source": "dev.to",
       "points": 29,
-      "comments": 32,
+      "comments": 38,
       "published_at": "2026-08-02T20:38:59Z",
       "summary": "",
       "category": "all",
@@ -471,26 +445,13 @@
       "tags": []
     },
     {
-      "id": "devto-4236044",
-      "title": "Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests",
-      "description": "Dived deep into libp2p security this week with a new IP subnet diversity feature for the Kad-DHT,...",
-      "url": "https://dev.to/yashksaini/dev-log-14-hardening-the-dht-against-eclipse-attacks-and-the-endless-battle-with-flaky-p2p-tests-593j",
-      "source": "dev.to",
-      "points": 21,
-      "comments": 1,
-      "published_at": "2026-08-01T04:20:17Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4330583",
       "title": "The Channel Gap: Why Your LLM Judge is Blind in One Eye",
       "description": "Text-channel LLM judging vs filesystem-channel deterministic checks. Neither works alone, and the combination narrows the gap without closing it — named evasions become deterministic catches, the unenumerated rest routes to human instead of silently passing. René Zander's 'deterministic wrapper' critique, read through the Data Processing Inequality lens.",
       "url": "https://dev.to/zxpmail/the-channel-gap-why-your-llm-judge-is-blind-in-one-eye-35ne",
       "source": "dev.to",
       "points": 15,
-      "comments": 6,
+      "comments": 8,
       "published_at": "2026-08-06T09:16:41Z",
       "summary": "",
       "category": "all",
@@ -542,7 +503,7 @@
       "url": "https://dev.to/debashish_ghosal/i-thought-building-agent-observability-was-a-detector-problem-i-was-wrong-7b",
       "source": "dev.to",
       "points": 12,
-      "comments": 6,
+      "comments": 14,
       "published_at": "2026-08-07T04:52:23Z",
       "summary": "",
       "category": "all",
@@ -588,6 +549,19 @@
       "tags": []
     },
     {
+      "id": "devto-4225297",
+      "title": "I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier.",
+      "description": "A Bug Smash hunting story: two rediscovered bugs, one claim-etiquette call, an unreported twin in the newest importer, and a disagreement with an AI about the right fix.",
+      "url": "https://dev.to/p0rt/i-found-two-bugs-in-zulip-the-maintainers-had-filed-both-two-weeks-earlier-4mom",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 4,
+      "published_at": "2026-08-07T14:38:24Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4335134",
       "title": "My Scanner Missed 93% of the Bugs — and That Was the Right First Result",
       "description": "The first time I ran my vulnerability scanner against the industry-standard benchmark, the bottom...",
@@ -609,19 +583,6 @@
       "points": 9,
       "comments": 1,
       "published_at": "2026-08-06T13:23:31Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4225297",
-      "title": "I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier.",
-      "description": "A Bug Smash hunting story: two rediscovered bugs, one claim-etiquette call, an unreported twin in the newest importer, and a disagreement with an AI about the right fix.",
-      "url": "https://dev.to/p0rt/i-found-two-bugs-in-zulip-the-maintainers-had-filed-both-two-weeks-earlier-4mom",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 4,
-      "published_at": "2026-08-07T14:38:24Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -672,7 +633,7 @@
       "url": "https://dev.to/aditya_sorathiya_069252f4/how-i-built-pastedb-in-3-months-from-a-blank-repo-to-a-real-product-32nf",
       "source": "dev.to",
       "points": 8,
-      "comments": 13,
+      "comments": 21,
       "published_at": "2026-08-04T09:49:37Z",
       "summary": "",
       "category": "all",
@@ -698,7 +659,7 @@
       "url": "https://dev.to/tryclicked/what-i-got-wrong-building-a-browser-extension-with-an-ai-assistant-3n8d",
       "source": "dev.to",
       "points": 7,
-      "comments": 9,
+      "comments": 12,
       "published_at": "2026-08-03T03:03:53Z",
       "summary": "",
       "category": "all",
@@ -731,6 +692,19 @@
       "tags": []
     },
     {
+      "id": "devto-4335571",
+      "title": "Three Ways Your Training Data Lies to You (And None of Them Throw an Error)",
+      "description": "Every failure I am about to describe produced a clean run. No exception, no stack trace, no red...",
+      "url": "https://dev.to/rickeshtn/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 3,
+      "published_at": "2026-08-07T00:21:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -739,6 +713,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4327698",
+      "title": "My First Paying Customer Failed 4 Times: Quality Is Not a Final Check",
+      "description": "A 0.3-second disagreement between two sources of truth made my first paying customer fail four...",
+      "url": "https://dev.to/woshiliyana/my-first-paying-customer-failed-4-times-quality-is-not-a-final-check-52l0",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 1,
+      "published_at": "2026-08-06T03:47:53Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,6 +744,19 @@
       "tags": []
     },
     {
+      "id": "devto-4331831",
+      "title": "Week 2 Recap: The Week Trees Stopped Voting and Started Correcting Each Other",
+      "description": "The One-Line Summary: Week 2 crossed the line from ensembles that average away variance to ensembles...",
+      "url": "https://dev.to/sachin_krrajput/week-2-recap-the-week-trees-stopped-voting-and-started-correcting-each-other-1p11",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-08-06T11:32:43Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4335043",
       "title": "GPT-5.6 Sol Just Got Smarter: OpenAI's Latest Model Update Explained",
       "description": "OpenAI improved GPT-5.6 Sol in ChatGPT and expanded free user access. Here's what changed, what it means for developers, and how it compares to the competition.",
@@ -770,14 +770,14 @@
       "tags": []
     },
     {
-      "id": "devto-4341716",
-      "title": "OpenAI and Hugging Face Detail Rogue Model Intrusion During Security Evaluation",
-      "description": "OpenAI and Hugging Face have published post-mortems on a security incident in which an autonomous...",
-      "url": "https://dev.to/alifar/openai-and-hugging-face-detail-rogue-model-intrusion-during-security-evaluation-4g0k",
-      "source": "dev.to",
+      "id": "hn-34634357",
+      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
+      "description": "",
+      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
+      "source": "theregister.com",
       "points": 5,
       "comments": 1,
-      "published_at": "2026-08-07T15:45:30Z",
+      "published_at": "2023-02-02T22:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
