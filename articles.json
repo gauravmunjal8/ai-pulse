@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:01:38Z",
+  "updated_at": "2026-08-15T06:15:07Z",
   "count": 60,
   "articles": [
     {
@@ -203,8 +203,8 @@
       "description": "",
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
       "source": "artificialanalysis.ai",
-      "points": 337,
-      "comments": 401,
+      "points": 341,
+      "comments": 413,
       "published_at": "2026-08-12T16:54:25Z",
       "summary": "",
       "category": "all",
@@ -289,6 +289,19 @@
       "tags": []
     },
     {
+      "id": "devto-4372605",
+      "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
+      "description": "For the past few hours, the whole world,&nbsp; or at least my LinkedIn feed,&nbsp;has been talking...",
+      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
+      "source": "dev.to",
+      "points": 71,
+      "comments": 45,
+      "published_at": "2026-08-11T22:33:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -341,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-4352154",
+      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
+      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
+      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+      "source": "dev.to",
+      "points": 52,
+      "comments": 6,
+      "published_at": "2026-08-12T13:16:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -349,19 +375,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4352154",
-      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
-      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
-      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
-      "source": "dev.to",
-      "points": 49,
-      "comments": 6,
-      "published_at": "2026-08-12T13:16:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -432,6 +445,19 @@
       "tags": []
     },
     {
+      "id": "devto-4388221",
+      "title": "My (not so pretty) journey in tech",
+      "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
+      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 7,
+      "published_at": "2026-08-13T13:10:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -445,27 +471,14 @@
       "tags": []
     },
     {
-      "id": "devto-4340382",
-      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
-      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
-      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
-      "source": "dev.to",
-      "points": 23,
-      "comments": 23,
-      "published_at": "2026-08-07T11:30:53Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4388221",
-      "title": "My (not so pretty) journey in tech",
-      "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
-      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
+      "id": "devto-4391296",
+      "title": "Durable Memory: Why Vector Databases Aren't Enough",
+      "description": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
+      "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
       "source": "dev.to",
       "points": 16,
-      "comments": 4,
-      "published_at": "2026-08-13T13:10:09Z",
+      "comments": 12,
+      "published_at": "2026-08-13T23:46:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -484,6 +497,19 @@
       "tags": []
     },
     {
+      "id": "devto-4357266",
+      "title": "Fixing a Silent Cache Bug in npmx.dev",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup.           The bug   npmx.dev is a...",
+      "url": "https://dev.to/tejas164321/fixing-a-silent-cache-bug-in-npmxdev-2bh6",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 8,
+      "published_at": "2026-08-10T05:32:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4355347",
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
       "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
@@ -497,14 +523,14 @@
       "tags": []
     },
     {
-      "id": "devto-4357266",
-      "title": "Fixing a Silent Cache Bug in npmx.dev",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup.           The bug   npmx.dev is a...",
-      "url": "https://dev.to/tejas164321/fixing-a-silent-cache-bug-in-npmxdev-2bh6",
+      "id": "devto-4398133",
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
       "source": "dev.to",
       "points": 15,
-      "comments": 8,
-      "published_at": "2026-08-10T05:32:55Z",
+      "comments": 0,
+      "published_at": "2026-08-14T16:36:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -542,7 +568,7 @@
       "url": "https://dev.to/mansio/what-i-learned-building-a-long-lived-ai-agent-the-boring-version-32p8",
       "source": "dev.to",
       "points": 14,
-      "comments": 28,
+      "comments": 30,
       "published_at": "2026-08-09T13:40:04Z",
       "summary": "",
       "category": "all",
@@ -594,7 +620,7 @@
       "url": "https://dev.to/odingaval/designing-an-end-to-end-rag-architecture-from-scratch-230i",
       "source": "dev.to",
       "points": 12,
-      "comments": 5,
+      "comments": 8,
       "published_at": "2026-08-11T21:03:25Z",
       "summary": "",
       "category": "all",
@@ -614,19 +640,6 @@
       "tags": []
     },
     {
-      "id": "devto-4225297",
-      "title": "I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier.",
-      "description": "A Bug Smash hunting story: two rediscovered bugs, one claim-etiquette call, an unreported twin in the newest importer, and a disagreement with an AI about the right fix.",
-      "url": "https://dev.to/p0rt/i-found-two-bugs-in-zulip-the-maintainers-had-filed-both-two-weeks-earlier-4mom",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 4,
-      "published_at": "2026-08-07T14:38:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-48985358",
       "title": "US administration considering ban on Chinese open source AI models",
       "description": "",
@@ -635,6 +648,19 @@
       "points": 11,
       "comments": 2,
       "published_at": "2026-07-20T21:54:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4361617",
+      "title": "Most of a test phone's carbon is emitted before the first test runs",
+      "description": "There is a drawer in most mobile teams' offices. Mine had fourteen phones in it.  Two iPhones were...",
+      "url": "https://dev.to/joduchan/most-of-a-test-phones-carbon-is-emitted-before-the-first-test-runs-lmn",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-08-10T14:23:14Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,40 +679,14 @@
       "tags": []
     },
     {
-      "id": "devto-4338179",
-      "title": "A UI test that guesses is worse than one that fails",
-      "description": "The worst bug I've seen in a test suite wasn't a failure. It was a pass.  A login test tapped a...",
-      "url": "https://dev.to/joduchan/a-ui-test-that-guesses-is-worse-than-one-that-fails-953",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 2,
-      "published_at": "2026-08-07T07:22:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4362527",
       "title": "The bug report that never left the browser",
       "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.  There's a shape...",
       "url": "https://dev.to/jtorchia/the-bug-report-that-never-left-the-browser-k49",
       "source": "dev.to",
       "points": 9,
-      "comments": 7,
+      "comments": 8,
       "published_at": "2026-08-10T18:50:41Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4361617",
-      "title": "Most of a test phone's carbon is emitted before the first test runs",
-      "description": "There is a drawer in most mobile teams' offices. Mine had fourteen phones in it.  Two iPhones were...",
-      "url": "https://dev.to/joduchan/most-of-a-test-phones-carbon-is-emitted-before-the-first-test-runs-lmn",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 0,
-      "published_at": "2026-08-10T14:23:14Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,14 +757,14 @@
       "tags": []
     },
     {
-      "id": "devto-4391296",
-      "title": "Durable Memory: Why Vector Databases Aren't Enough",
-      "description": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
-      "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
+      "id": "devto-4392317",
+      "title": "Nobody audits their OpenAI invoice",
+      "description": "Every team running LLMs in production has two numbers for last month's spend: the one in their...",
+      "url": "https://dev.to/rinava/nobody-audits-their-openai-invoice-2n5i",
       "source": "dev.to",
       "points": 6,
-      "comments": 1,
-      "published_at": "2026-08-13T23:46:00Z",
+      "comments": 5,
+      "published_at": "2026-08-14T01:56:01Z",
       "summary": "",
       "category": "all",
       "tags": []
