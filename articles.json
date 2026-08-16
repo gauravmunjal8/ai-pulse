@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T06:15:07Z",
+  "updated_at": "2026-08-16T06:16:43Z",
   "count": 60,
   "articles": [
     {
@@ -204,7 +204,7 @@
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
       "source": "artificialanalysis.ai",
       "points": 341,
-      "comments": 413,
+      "comments": 415,
       "published_at": "2026-08-12T16:54:25Z",
       "summary": "",
       "category": "all",
@@ -294,8 +294,8 @@
       "description": "For the past few hours, the whole world,&nbsp; or at least my LinkedIn feed,&nbsp;has been talking...",
       "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
       "source": "dev.to",
-      "points": 71,
-      "comments": 45,
+      "points": 106,
+      "comments": 68,
       "published_at": "2026-08-11T22:33:57Z",
       "summary": "",
       "category": "all",
@@ -328,6 +328,19 @@
       "tags": []
     },
     {
+      "id": "devto-4352154",
+      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
+      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
+      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+      "source": "dev.to",
+      "points": 55,
+      "comments": 12,
+      "published_at": "2026-08-12T13:16:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-37475359",
       "title": "Meta wants its open source AI model to be as capable as OpenAI’s best model",
       "description": "",
@@ -354,19 +367,6 @@
       "tags": []
     },
     {
-      "id": "devto-4352154",
-      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
-      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
-      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
-      "source": "dev.to",
-      "points": 52,
-      "comments": 6,
-      "published_at": "2026-08-12T13:16:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -386,7 +386,7 @@
       "url": "https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp",
       "source": "dev.to",
       "points": 42,
-      "comments": 20,
+      "comments": 21,
       "published_at": "2026-08-11T13:36:48Z",
       "summary": "",
       "category": "all",
@@ -450,7 +450,7 @@
       "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
       "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
       "source": "dev.to",
-      "points": 26,
+      "points": 27,
       "comments": 7,
       "published_at": "2026-08-13T13:10:09Z",
       "summary": "",
@@ -471,14 +471,40 @@
       "tags": []
     },
     {
+      "id": "devto-4403713",
+      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
+      "description": "Anthropic signed the EU AI Act's Code of Practice on Transparency of AI-Generated Content, and...",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
+      "source": "dev.to",
+      "points": 23,
+      "comments": 20,
+      "published_at": "2026-08-15T13:06:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4391296",
       "title": "Durable Memory: Why Vector Databases Aren't Enough",
       "description": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
       "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
       "source": "dev.to",
-      "points": 16,
-      "comments": 12,
+      "points": 20,
+      "comments": 18,
       "published_at": "2026-08-13T23:46:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4398133",
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 2,
+      "published_at": "2026-08-14T16:36:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -489,7 +515,7 @@
       "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
       "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
       "source": "dev.to",
-      "points": 16,
+      "points": 17,
       "comments": 10,
       "published_at": "2026-08-09T22:51:30Z",
       "summary": "",
@@ -523,19 +549,6 @@
       "tags": []
     },
     {
-      "id": "devto-4398133",
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 0,
-      "published_at": "2026-08-14T16:36:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4365720",
       "title": "Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked",
       "description": "There's a joke that every Rust project starts with someone saying \"we should rewrite this in Rust\"...",
@@ -557,6 +570,19 @@
       "points": 14,
       "comments": 10,
       "published_at": "2026-08-10T01:35:13Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4332787",
+      "title": "Distilling Kimi Into Qwen Doesn't Give You Kimi. It Gives You Qwen With Kimi's Handwriting",
+      "description": "What actually transfers when you fine-tune an open model on a frontier model's reasoning traces: the mechanics, the evidence it works, the evidence it mostly moves format, and how to tell which one you got.",
+      "url": "https://dev.to/p0rt/distilling-kimi-into-qwen-doesnt-give-you-kimi-it-gives-you-qwen-with-kimis-handwriting-284p",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 2,
+      "published_at": "2026-08-10T12:40:37Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,27 +614,14 @@
       "tags": []
     },
     {
-      "id": "devto-4341879",
-      "title": "I Asked an AI to Author the Same Policy Tests 50 Times. It Hit Every Boundary in 49 Valid Runs.",
-      "description": "I have been experimenting with a specific question: can an AI independently author the test cases...",
-      "url": "https://dev.to/kikashy/i-asked-an-ai-to-author-the-same-policy-tests-50-times-it-hit-every-boundary-in-49-valid-runs-2g8n",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 7,
-      "published_at": "2026-08-07T16:10:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4332787",
-      "title": "Distilling Kimi Into Qwen Doesn't Give You Kimi. It Gives You Qwen With Kimi's Handwriting",
-      "description": "What actually transfers when you fine-tune an open model on a frontier model's reasoning traces: the mechanics, the evidence it works, the evidence it mostly moves format, and how to tell which one you got.",
-      "url": "https://dev.to/p0rt/distilling-kimi-into-qwen-doesnt-give-you-kimi-it-gives-you-qwen-with-kimis-handwriting-284p",
+      "id": "devto-4389980",
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
       "source": "dev.to",
       "points": 12,
-      "comments": 2,
-      "published_at": "2026-08-10T12:40:37Z",
+      "comments": 0,
+      "published_at": "2026-08-13T18:42:09Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,6 +653,19 @@
       "tags": []
     },
     {
+      "id": "devto-4399116",
+      "title": "DriftGate(): Not just a weekend challenge",
+      "description": "A weekend dog-game challenge turned into the discovery of a small, stateless primitive for reporting signed drift from a moving reference — before anything decides what that drift means.",
+      "url": "https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 5,
+      "published_at": "2026-08-14T21:59:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-48985358",
       "title": "US administration considering ban on Chinese open source AI models",
       "description": "",
@@ -666,19 +692,6 @@
       "tags": []
     },
     {
-      "id": "devto-4349193",
-      "title": "Stale infrastructure context is worse than none",
-      "description": "The bug that isn't a bug   On Tuesday you attach a dead-letter queue to orders-queue. On...",
-      "url": "https://dev.to/siddharth_pandey_27/stale-infrastructure-context-is-worse-than-none-2npa",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 15,
-      "published_at": "2026-08-08T15:06:55Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4362527",
       "title": "The bug report that never left the browser",
       "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.  There's a shape...",
@@ -698,7 +711,7 @@
       "url": "https://dev.to/brennhill/how-to-build-a-good-human-in-the-loop-for-browser-computer-use-agents-5cme",
       "source": "dev.to",
       "points": 8,
-      "comments": 3,
+      "comments": 4,
       "published_at": "2026-08-10T12:00:00Z",
       "summary": "",
       "category": "all",
@@ -718,14 +731,14 @@
       "tags": []
     },
     {
-      "id": "devto-4389980",
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "id": "devto-4392317",
+      "title": "Nobody audits their OpenAI invoice",
+      "description": "Every team running LLMs in production has two numbers for last month's spend: the one in their...",
+      "url": "https://dev.to/rinava/nobody-audits-their-openai-invoice-2n5i",
       "source": "dev.to",
       "points": 7,
-      "comments": 0,
-      "published_at": "2026-08-13T18:42:09Z",
+      "comments": 5,
+      "published_at": "2026-08-14T01:56:01Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,32 +757,6 @@
       "tags": []
     },
     {
-      "id": "devto-4337261",
-      "title": "We made our world model smaller and it got better. Then \"efficient\" attention made nothing faster.",
-      "description": "Two experiments on the same world model, both of which came out the opposite way to how I expected....",
-      "url": "https://dev.to/rickeshtn/we-made-our-world-model-smaller-and-it-got-better-then-efficient-attention-made-nothing-faster-18f6",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 1,
-      "published_at": "2026-08-07T05:56:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4392317",
-      "title": "Nobody audits their OpenAI invoice",
-      "description": "Every team running LLMs in production has two numbers for last month's spend: the one in their...",
-      "url": "https://dev.to/rinava/nobody-audits-their-openai-invoice-2n5i",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 5,
-      "published_at": "2026-08-14T01:56:01Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4354179",
       "title": "OpenAI’s Plan Puts Affordable, Accountable AI Access at the Center of Its Strategy",
       "description": "OpenAI has set out a multi-year strategy that places broad access to AI alongside safety and...",
@@ -778,6 +765,19 @@
       "points": 6,
       "comments": 0,
       "published_at": "2026-08-09T15:45:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "hn-34521042",
+      "title": "Show HN: Genome - AI based Instagram post generation tool",
+      "description": "",
+      "url": "https://genome.build",
+      "source": "genome.build",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2023-01-25T17:13:26Z",
       "summary": "",
       "category": "all",
       "tags": []
