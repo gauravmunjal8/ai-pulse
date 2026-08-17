@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T06:16:43Z",
+  "updated_at": "2026-08-17T06:25:19Z",
   "count": 60,
   "articles": [
     {
@@ -203,8 +203,8 @@
       "description": "",
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
       "source": "artificialanalysis.ai",
-      "points": 341,
-      "comments": 415,
+      "points": 342,
+      "comments": 416,
       "published_at": "2026-08-12T16:54:25Z",
       "summary": "",
       "category": "all",
@@ -276,6 +276,19 @@
       "tags": []
     },
     {
+      "id": "devto-4372605",
+      "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
+      "description": "For the past few hours, the whole world,&nbsp; or at least my LinkedIn feed,&nbsp;has been talking...",
+      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
+      "source": "dev.to",
+      "points": 131,
+      "comments": 90,
+      "published_at": "2026-08-11T22:33:57Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-40786237",
       "title": "Not all 'open source' AI models are open: here's a ranking",
       "description": "",
@@ -284,19 +297,6 @@
       "points": 127,
       "comments": 18,
       "published_at": "2024-06-25T09:17:08Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4372605",
-      "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
-      "description": "For the past few hours, the whole world,&nbsp; or at least my LinkedIn feed,&nbsp;has been talking...",
-      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
-      "source": "dev.to",
-      "points": 106,
-      "comments": 68,
-      "published_at": "2026-08-11T22:33:57Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -315,6 +315,19 @@
       "tags": []
     },
     {
+      "id": "devto-4352154",
+      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
+      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
+      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+      "source": "dev.to",
+      "points": 58,
+      "comments": 12,
+      "published_at": "2026-08-12T13:16:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-26386432",
       "title": "Furious AI researcher creates a list of non-reproducible machine learning papers",
       "description": "",
@@ -323,19 +336,6 @@
       "points": 56,
       "comments": 6,
       "published_at": "2021-03-08T14:59:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4352154",
-      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
-      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
-      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
-      "source": "dev.to",
-      "points": 55,
-      "comments": 12,
-      "published_at": "2026-08-12T13:16:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -385,7 +385,7 @@
       "description": "While researching for this post, I found out something funny. Pi, the most interesting coding agent...",
       "url": "https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp",
       "source": "dev.to",
-      "points": 42,
+      "points": 43,
       "comments": 21,
       "published_at": "2026-08-11T13:36:48Z",
       "summary": "",
@@ -414,6 +414,19 @@
       "points": 37,
       "comments": 0,
       "published_at": "2026-07-10T06:22:06Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4403713",
+      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
+      "description": "Anthropic signed the EU AI Act's Code of Practice on Transparency of AI-Generated Content, and...",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
+      "source": "dev.to",
+      "points": 29,
+      "comments": 25,
+      "published_at": "2026-08-15T13:06:49Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,26 +484,13 @@
       "tags": []
     },
     {
-      "id": "devto-4403713",
-      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
-      "description": "Anthropic signed the EU AI Act's Code of Practice on Transparency of AI-Generated Content, and...",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
-      "source": "dev.to",
-      "points": 23,
-      "comments": 20,
-      "published_at": "2026-08-15T13:06:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4391296",
       "title": "Durable Memory: Why Vector Databases Aren't Enough",
       "description": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
       "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
       "source": "dev.to",
-      "points": 20,
-      "comments": 18,
+      "points": 23,
+      "comments": 21,
       "published_at": "2026-08-13T23:46:00Z",
       "summary": "",
       "category": "all",
@@ -503,21 +503,8 @@
       "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
       "source": "dev.to",
       "points": 18,
-      "comments": 2,
+      "comments": 4,
       "published_at": "2026-08-14T16:36:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4355309",
-      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
-      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
-      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 10,
-      "published_at": "2026-08-09T22:51:30Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -531,19 +518,6 @@
       "points": 16,
       "comments": 8,
       "published_at": "2026-08-10T05:32:55Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4355347",
-      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
-      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
-      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 1,
-      "published_at": "2026-08-09T22:14:30Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -581,21 +555,8 @@
       "url": "https://dev.to/p0rt/distilling-kimi-into-qwen-doesnt-give-you-kimi-it-gives-you-qwen-with-kimis-handwriting-284p",
       "source": "dev.to",
       "points": 14,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-08-10T12:40:37Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4353746",
-      "title": "What I learned building a long-lived AI agent (the boring version)",
-      "description": "A practical log of building a long-lived Telegram AI agent — caching, providers, routing, memory, latency. No benchmarks. Just what actually happened.",
-      "url": "https://dev.to/mansio/what-i-learned-building-a-long-lived-ai-agent-the-boring-version-32p8",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 30,
-      "published_at": "2026-08-09T13:40:04Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -614,6 +575,19 @@
       "tags": []
     },
     {
+      "id": "devto-4372314",
+      "title": "Designing an End-to-End RAG Architecture from Scratch",
+      "description": "Building an AI-powered application is easy to describe.  Upload documents → ask a question → get an...",
+      "url": "https://dev.to/odingaval/designing-an-end-to-end-rag-architecture-from-scratch-230i",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 9,
+      "published_at": "2026-08-11T21:03:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4389980",
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
       "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
@@ -622,19 +596,6 @@
       "points": 12,
       "comments": 0,
       "published_at": "2026-08-13T18:42:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4372314",
-      "title": "Designing an End-to-End RAG Architecture from Scratch",
-      "description": "Building an AI-powered application is easy to describe.  Upload documents → ask a question → get an...",
-      "url": "https://dev.to/odingaval/designing-an-end-to-end-rag-architecture-from-scratch-230i",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 8,
-      "published_at": "2026-08-11T21:03:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -750,8 +711,21 @@
       "url": "https://dev.to/alessandro_pignati/when-ai-agents-go-rogue-lessons-from-the-uk-aisi-cyber-testing-incident-2ok0",
       "source": "dev.to",
       "points": 6,
-      "comments": 2,
+      "comments": 3,
       "published_at": "2026-08-11T14:58:12Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4362892",
+      "title": "The reranker I added to improve RAG was causing most of my remaining misses",
+      "description": "My RAG evaluation would tell me hybrid: 0.86 and I'd sit there with no idea what to actually change....",
+      "url": "https://dev.to/ashwin_ugale_102f2abc9cec/the-reranker-i-added-to-improve-rag-was-causing-most-of-my-remaining-misses-126m",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 6,
+      "published_at": "2026-08-10T18:45:32Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +752,32 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4371382",
+      "title": "I Built a Team of AI Agents to Find Startup Opportunities",
+      "description": "Most people use AI for startup research like this:  “Give me 10 promising AI startup ideas.”  A few...",
+      "url": "https://dev.to/vivek_shetye/i-built-a-team-of-ai-agents-to-find-startup-opportunities-3309",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 3,
+      "published_at": "2026-08-11T18:37:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4387372",
+      "title": "Prompt Caching in LLMs, Measured on Our Own Bill",
+      "description": "The token report for one pipeline run landed in front of me and the first number I saw was 7,300,000....",
+      "url": "https://dev.to/jula-markova/prompt-caching-in-llms-measured-on-our-own-bill-o85",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 1,
+      "published_at": "2026-08-13T11:29:57Z",
       "summary": "",
       "category": "all",
       "tags": []
