@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T06:20:01Z",
+  "updated_at": "2026-08-20T06:21:02Z",
   "count": 60,
   "articles": [
     {
@@ -294,8 +294,8 @@
       "description": "Anthropic signed the EU AI Act's Code of Practice on Transparency of AI-Generated Content, and...",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
       "source": "dev.to",
-      "points": 71,
-      "comments": 74,
+      "points": 90,
+      "comments": 97,
       "published_at": "2026-08-15T13:06:49Z",
       "summary": "",
       "category": "all",
@@ -310,19 +310,6 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4352154",
-      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
-      "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
-      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
-      "source": "dev.to",
-      "points": 64,
-      "comments": 14,
-      "published_at": "2026-08-12T13:16:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -445,6 +432,19 @@
       "tags": []
     },
     {
+      "id": "devto-4408146",
+      "title": "Is Learning DSA Boring? Let's Use DSA View View 👀👀 (Two Sum, Binary Search, and Bubble Sort)",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who dislikes crowded places, so I'm planning to take a...",
+      "url": "https://dev.to/nyaomaru/is-learning-dsa-boring-lets-use-dsa-view-view-two-sum-binary-search-and-bubble-sort-374o",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 0,
+      "published_at": "2026-08-19T14:43:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39677525",
       "title": "Jail time for open source AI models",
       "description": "",
@@ -458,6 +458,19 @@
       "tags": []
     },
     {
+      "id": "devto-4425699",
+      "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "url": "https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 7,
+      "published_at": "2026-08-18T11:06:36Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -466,19 +479,6 @@
       "points": 26,
       "comments": 6,
       "published_at": "2024-09-12T11:11:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4425699",
-      "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "url": "https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf",
-      "source": "dev.to",
-      "points": 24,
-      "comments": 2,
-      "published_at": "2026-08-18T11:06:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,6 +523,45 @@
       "tags": []
     },
     {
+      "id": "devto-4427721",
+      "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
+      "description": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
+      "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 5,
+      "published_at": "2026-08-18T16:08:34Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4411619",
+      "title": "The Suite Was Green. Four Binding Controls Hadn't Established Their Claims.",
+      "description": "Part three of: OpenAI Says Verified Defenders Get More Access. I'm Going to Test That.   On August 5...",
+      "url": "https://dev.to/kenielzep97/the-suite-was-green-four-binding-controls-hadnt-established-their-claims-5d01",
+      "source": "dev.to",
+      "points": 15,
+      "comments": 8,
+      "published_at": "2026-08-16T18:13:16Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4420764",
+      "title": "Your agent ignored a failed tool call. Here's how to catch that in CI.",
+      "description": "You ship an AI agent. It calls tools, reads results, calls more tools, answers. Most of the time it...",
+      "url": "https://dev.to/ashwin_ugale_102f2abc9cec/your-agent-ignored-a-failed-tool-call-heres-how-to-catch-that-in-ci-2i17",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 25,
+      "published_at": "2026-08-17T21:43:46Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -549,14 +588,14 @@
       "tags": []
     },
     {
-      "id": "devto-4420764",
-      "title": "Your agent ignored a failed tool call. Here's how to catch that in CI.",
-      "description": "You ship an AI agent. It calls tools, reads results, calls more tools, answers. Most of the time it...",
-      "url": "https://dev.to/ashwin_ugale_102f2abc9cec/your-agent-ignored-a-failed-tool-call-heres-how-to-catch-that-in-ci-2i17",
+      "id": "devto-4399116",
+      "title": "DriftGate(): Not just a weekend challenge",
+      "description": "A weekend dog-game challenge turned into the discovery of a small, stateless primitive for reporting signed drift from a moving reference — before anything decides what that drift means.",
+      "url": "https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5",
       "source": "dev.to",
-      "points": 13,
-      "comments": 21,
-      "published_at": "2026-08-17T21:43:46Z",
+      "points": 12,
+      "comments": 5,
+      "published_at": "2026-08-14T21:59:23Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,32 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-4399116",
-      "title": "DriftGate(): Not just a weekend challenge",
-      "description": "A weekend dog-game challenge turned into the discovery of a small, stateless primitive for reporting signed drift from a moving reference — before anything decides what that drift means.",
-      "url": "https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 5,
-      "published_at": "2026-08-14T21:59:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4411619",
-      "title": "The Suite Was Green. Four Binding Controls Hadn't Established Their Claims.",
-      "description": "Part three of: OpenAI Says Verified Defenders Get More Access. I'm Going to Test That.   On August 5...",
-      "url": "https://dev.to/kenielzep97/the-suite-was-green-four-binding-controls-hadnt-established-their-claims-5d01",
-      "source": "dev.to",
-      "points": 11,
-      "comments": 8,
-      "published_at": "2026-08-16T18:13:16Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-48985358",
       "title": "US administration considering ban on Chinese open source AI models",
       "description": "",
@@ -609,6 +622,19 @@
       "points": 11,
       "comments": 2,
       "published_at": "2026-07-20T21:54:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4418607",
+      "title": "Don't Give the Model SQL",
+      "description": "My health data has six traps in it that have each already produced a wrong answer. Given SQL, a model walks into all six. Told about them in a prompt, it avoids them most of the time, which is worse.",
+      "url": "https://dev.to/mattstratton/dont-give-the-model-sql-5h32",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 6,
+      "published_at": "2026-08-17T14:20:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -653,14 +679,14 @@
       "tags": []
     },
     {
-      "id": "devto-4418607",
-      "title": "Don't Give the Model SQL",
-      "description": "My health data has six traps in it that have each already produced a wrong answer. Given SQL, a model walks into all six. Told about them in a prompt, it avoids them most of the time, which is worse.",
-      "url": "https://dev.to/mattstratton/dont-give-the-model-sql-5h32",
+      "id": "devto-4437003",
+      "title": "Qwen3.8-27B: A Deep Dive Into Qwen's Newest Vision-Language Powerhouse",
+      "description": "Alibaba's Qwen team just dropped Qwen3.8-27B, and it's easily one of the most interesting open-weight...",
+      "url": "https://dev.to/mayu2008/qwen38-27b-a-deep-dive-into-qwens-newest-vision-language-powerhouse-2e7",
       "source": "dev.to",
-      "points": 9,
-      "comments": 5,
-      "published_at": "2026-08-17T14:20:00Z",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-08-19T17:02:19Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,6 +705,19 @@
       "tags": []
     },
     {
+      "id": "devto-4437475",
+      "title": "You Don't Need a Ministry of Truth to Build a Memory Hole",
+      "description": "What happens when a thousand independent sources turn out to have one parent?  A while back I went...",
+      "url": "https://dev.to/kenwalger/you-dont-need-a-ministry-of-truth-to-build-a-memory-hole-3kaf",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 3,
+      "published_at": "2026-08-19T19:32:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4419113",
       "title": "Codex vs. Claude Code at Liar's Dice: the Winning Bluff Was the Truth",
       "description": "One authoritative engine, two seat-locked MCP servers, three best-of-threes, and a 3-millisecond...",
@@ -692,6 +731,19 @@
       "tags": []
     },
     {
+      "id": "devto-4423393",
+      "title": "Codex Maxxing: The Copy-Paste Skill I Use to Ship with Agents",
+      "description": "Codex maxxing started as a joke about using more agents.  I have started treating it as a skill...",
+      "url": "https://dev.to/devansh365/codex-maxxing-the-copy-paste-skill-i-use-to-ship-with-agents-4ahh",
+      "source": "dev.to",
+      "points": 6,
+      "comments": 0,
+      "published_at": "2026-08-18T06:44:29Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-34521042",
       "title": "Show HN: Genome - AI based Instagram post generation tool",
       "description": "",
@@ -700,19 +752,6 @@
       "points": 6,
       "comments": 0,
       "published_at": "2023-01-25T17:13:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4371382",
-      "title": "I Built a Team of AI Agents to Find Startup Opportunities",
-      "description": "Most people use AI for startup research like this:  “Give me 10 promising AI startup ideas.”  A few...",
-      "url": "https://dev.to/vivek_shetye/i-built-a-team-of-ai-agents-to-find-startup-opportunities-3309",
-      "source": "dev.to",
-      "points": 6,
-      "comments": 7,
-      "published_at": "2026-08-11T18:37:09Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -739,45 +778,6 @@
       "points": 5,
       "comments": 1,
       "published_at": "2026-08-13T11:29:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-34634357",
-      "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
-      "description": "",
-      "url": "https://www.theregister.com/2023/02/02/microsoft_gpt4_google_search/",
-      "source": "theregister.com",
-      "points": 5,
-      "comments": 1,
-      "published_at": "2023-02-02T22:45:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4388620",
-      "title": "i started holyclaude back in march. 2.4k stars later i'm building the hosted version of it",
-      "description": "i started holyclaude in march. a web ui for running claude on your own machine, built because i...",
-      "url": "https://dev.to/coderluii/i-started-holyclaude-back-in-march-24k-stars-later-im-building-the-hosted-version-of-it-28cc",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 0,
-      "published_at": "2026-08-13T14:24:17Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4411613",
-      "title": "Kimi K3 Is 2.8T Parameters. That’s Not the Hardest Part of Serving It.",
-      "description": "When I first looked at Kimi K3, the obvious number was 2.8 trillion parameters.  That sounds like the...",
-      "url": "https://dev.to/nick_k_gpus_market/kimi-k3-is-28t-parameters-thats-not-the-hardest-part-of-serving-it-1dme",
-      "source": "dev.to",
-      "points": 4,
-      "comments": 2,
-      "published_at": "2026-08-16T18:12:21Z",
       "summary": "",
       "category": "all",
       "tags": []
