@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:20:59Z",
+  "updated_at": "2026-08-22T06:16:18Z",
   "count": 60,
   "articles": [
     {
@@ -294,8 +294,8 @@
       "description": "Anthropic signed the EU AI Act's Code of Practice on Transparency of AI-Generated Content, and...",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
       "source": "dev.to",
-      "points": 97,
-      "comments": 102,
+      "points": 98,
+      "comments": 106,
       "published_at": "2026-08-15T13:06:49Z",
       "summary": "",
       "category": "all",
@@ -367,6 +367,19 @@
       "tags": []
     },
     {
+      "id": "devto-4439037",
+      "title": "1ª vez trabalhando com git em um time: tudo que você precisa saber",
+      "description": "Faz mais de 5 anos que eu não abria um PR ou issue técnica no Github, mas essa semana tenho aprendido...",
+      "url": "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il",
+      "source": "dev.to",
+      "points": 40,
+      "comments": 0,
+      "published_at": "2026-08-20T06:52:21Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -393,27 +406,27 @@
       "tags": []
     },
     {
-      "id": "devto-4439037",
-      "title": "1ª vez trabalhando com git em um time: tudo que você precisa saber",
-      "description": "Faz mais de 5 anos que eu não abria um PR ou issue técnica no Github, mas essa semana tenho aprendido...",
-      "url": "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il",
-      "source": "dev.to",
-      "points": 34,
-      "comments": 0,
-      "published_at": "2026-08-20T06:52:21Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4408146",
       "title": "Is Learning DSA Boring? Let's Use DSA View View 👀👀 (Two Sum, Binary Search, and Bubble Sort)",
       "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who dislikes crowded places, so I'm planning to take a...",
       "url": "https://dev.to/nyaomaru/is-learning-dsa-boring-lets-use-dsa-view-view-two-sum-binary-search-and-bubble-sort-374o",
       "source": "dev.to",
-      "points": 34,
+      "points": 36,
       "comments": 0,
       "published_at": "2026-08-19T14:43:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4418983",
+      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
+      "description": "Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...",
+      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
+      "source": "dev.to",
+      "points": 33,
+      "comments": 29,
+      "published_at": "2026-08-20T14:03:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,19 +484,6 @@
       "tags": []
     },
     {
-      "id": "devto-4398133",
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "source": "dev.to",
-      "points": 22,
-      "comments": 5,
-      "published_at": "2026-08-14T16:36:10Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4409902",
       "title": "Why the \"AI\" Badge Doesn't Matter and How to Restore Trust in Our Code",
       "description": "Hello, DEV community! 👋  This is my first post here. I've been reading articles on this platform for...",
@@ -497,40 +497,14 @@
       "tags": []
     },
     {
-      "id": "devto-4391998",
-      "title": "They Matched The Slogan. The Decision Lived In The Undefined Word",
-      "description": "Part two of: OpenAI Says Verified Defenders Get More Access. I'm Going to Test That.  Part I started...",
-      "url": "https://dev.to/kenielzep97/they-matched-the-slogan-the-decision-lived-in-the-undefined-word-36o0",
+      "id": "devto-4454568",
+      "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
+      "description": "devpub v0.2.1 adds color-gradient bar charts, sparklines, trend arrows, and multi-period breakdowns to your Dev.to analytics. All in the terminal. Zero new dependencies.",
+      "url": "https://dev.to/sarvar_04/i-added-terminal-charts-to-my-devto-cli-heres-what-my-data-looks-like-250j",
       "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-08-14T00:38:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4420764",
-      "title": "Your agent ignored a failed tool call. Here's how to catch that in CI.",
-      "description": "You ship an AI agent. It calls tools, reads results, calls more tools, answers. Most of the time it...",
-      "url": "https://dev.to/ashwin_ugale_102f2abc9cec/your-agent-ignored-a-failed-tool-call-heres-how-to-catch-that-in-ci-2i17",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 33,
-      "published_at": "2026-08-17T21:43:46Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4418983",
-      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
-      "description": "Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...",
-      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 8,
-      "published_at": "2026-08-20T14:03:00Z",
+      "points": 20,
+      "comments": 2,
+      "published_at": "2026-08-21T14:13:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -541,9 +515,22 @@
       "description": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
       "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
       "source": "dev.to",
-      "points": 15,
-      "comments": 5,
+      "points": 18,
+      "comments": 6,
       "published_at": "2026-08-18T16:08:34Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4420764",
+      "title": "Your agent ignored a failed tool call. Here's how to catch that in CI.",
+      "description": "You ship an AI agent. It calls tools, reads results, calls more tools, answers. Most of the time it...",
+      "url": "https://dev.to/ashwin_ugale_102f2abc9cec/your-agent-ignored-a-failed-tool-call-heres-how-to-catch-that-in-ci-2i17",
+      "source": "dev.to",
+      "points": 17,
+      "comments": 35,
+      "published_at": "2026-08-17T21:43:46Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,14 +575,14 @@
       "tags": []
     },
     {
-      "id": "devto-4389980",
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "id": "devto-4389468",
+      "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
+      "description": "5-min demo: custom agent + skill + cron job + dashboard page, installed live with one curl command. Kiro Crew isn't just a tool. It's a platform.",
+      "url": "https://dev.to/aws-builders/how-i-built-a-kiro-crew-app-in-5-minutes-full-tutorial-with-code-3el0",
       "source": "dev.to",
       "points": 13,
-      "comments": 0,
-      "published_at": "2026-08-13T18:42:09Z",
+      "comments": 3,
+      "published_at": "2026-08-18T12:05:57Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -609,32 +596,6 @@
       "points": 12,
       "comments": 6,
       "published_at": "2026-08-17T14:20:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4389468",
-      "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
-      "description": "5-min demo: custom agent + skill + cron job + dashboard page, installed live with one curl command. Kiro Crew isn't just a tool. It's a platform.",
-      "url": "https://dev.to/aws-builders/how-i-built-a-kiro-crew-app-in-5-minutes-full-tutorial-with-code-3el0",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 3,
-      "published_at": "2026-08-18T12:05:57Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4399116",
-      "title": "DriftGate(): Not just a weekend challenge",
-      "description": "A weekend dog-game challenge turned into the discovery of a small, stateless primitive for reporting signed drift from a moving reference — before anything decides what that drift means.",
-      "url": "https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5",
-      "source": "dev.to",
-      "points": 12,
-      "comments": 5,
-      "published_at": "2026-08-14T21:59:23Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -692,6 +653,45 @@
       "tags": []
     },
     {
+      "id": "devto-4452129",
+      "title": "7 Checks Before You Trust an LLM Planner Experiment",
+      "description": "AI assistance disclosure: I designed and directed the experiments described here. I used AI coding...",
+      "url": "https://dev.to/haoxiangli/7-checks-before-you-trust-an-llm-planner-experiment-3lha",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 3,
+      "published_at": "2026-08-21T09:11:48Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4448948",
+      "title": "I Told My LLM Critic to Be Adversarial. It Started Blocking Plans for Being 'Not Thorough Enough.'",
+      "description": "This is article 2 in a series about building PlannerCritic, an open-source engine where one LLM...",
+      "url": "https://dev.to/debashish_ghosal/i-told-my-llm-critic-to-be-adversarial-it-started-blocking-plans-for-being-not-thorough-enough-172",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 10,
+      "published_at": "2026-08-21T19:05:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4448182",
+      "title": "Your Memory API Is Lying to Your Agent",
+      "description": "The memory store may know the truth. The interface may be throwing it away.  This piece grew out of a...",
+      "url": "https://dev.to/kenwalger/your-memory-api-is-lying-to-your-agent-252h",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 8,
+      "published_at": "2026-08-20T22:33:17Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4419113",
       "title": "Codex vs. Claude Code at Liar's Dice: the Winning Bluff Was the Truth",
       "description": "One authoritative engine, two seat-locked MCP servers, three best-of-threes, and a 3-millisecond...",
@@ -711,7 +711,7 @@
       "url": "https://dev.to/izgorodin/your-agent-doesnt-need-more-memory-it-needs-to-know-what-its-allowed-to-believe-22j7",
       "source": "dev.to",
       "points": 6,
-      "comments": 23,
+      "comments": 25,
       "published_at": "2026-08-19T15:18:00Z",
       "summary": "",
       "category": "all",
@@ -744,19 +744,6 @@
       "tags": []
     },
     {
-      "id": "devto-4395799",
-      "title": "I Built an AI Liar's Dice Opponent That Remembers How You Play",
-      "description": "This is a development note. The project and test data are real; AI helped me clean up the prose....",
-      "url": "https://dev.to/haoxiangli/i-built-an-ai-liars-dice-opponent-that-remembers-how-you-play-1bgk",
-      "source": "dev.to",
-      "points": 5,
-      "comments": 5,
-      "published_at": "2026-08-14T10:20:05Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-34634357",
       "title": "Microsoft integrate OpenAI's upcoming large language model GPT-4 into the Bing",
       "description": "",
@@ -778,6 +765,19 @@
       "points": 5,
       "comments": 1,
       "published_at": "2026-08-19T01:31:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4305579",
+      "title": "The Next Big African Tech Product May Already Exist, but Nobody Is Funding It",
+      "description": "Somewhere in Africa, a developer may already have built the first version of a product that could...",
+      "url": "https://dev.to/imamabubakar/the-next-big-african-tech-product-may-already-exist-but-nobody-is-funding-it-kd",
+      "source": "dev.to",
+      "points": 5,
+      "comments": 0,
+      "published_at": "2026-08-20T10:38:51Z",
       "summary": "",
       "category": "all",
       "tags": []
