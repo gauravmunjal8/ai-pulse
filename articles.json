@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:06:32Z",
+  "updated_at": "2026-09-11T10:03:36Z",
   "count": 60,
   "articles": [
     {
@@ -294,7 +294,7 @@
       "description": "Angular has changed in recent versions, especially around how developers handle reactive state....",
       "url": "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
       "source": "dev.to",
-      "points": 70,
+      "points": 71,
       "comments": 8,
       "published_at": "2026-09-08T09:07:24Z",
       "summary": "",
@@ -310,6 +310,19 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4585958",
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "source": "dev.to",
+      "points": 57,
+      "comments": 13,
+      "published_at": "2026-09-09T12:48:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -367,19 +380,6 @@
       "tags": []
     },
     {
-      "id": "devto-4585958",
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
-      "source": "dev.to",
-      "points": 48,
-      "comments": 11,
-      "published_at": "2026-09-09T12:48:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-39020175",
       "title": "Clay Foundation Model: An open source AI model for Earth",
       "description": "",
@@ -411,22 +411,9 @@
       "description": "My harness flagged the model for sending the wrong arguments. It compared what the model actually...",
       "url": "https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8",
       "source": "dev.to",
-      "points": 33,
-      "comments": 37,
+      "points": 34,
+      "comments": 44,
       "published_at": "2026-09-06T21:57:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4562013",
-      "title": "My Dev.to CLI Got Its First Community PR. Image Uploads From Terminal.",
-      "description": "devpub v0.3 adds image uploads via `devpub upload`. The catch: the Forem API has no image endpoint. Here's how we solved it, and the story of devpub's first external contributor.",
-      "url": "https://dev.to/sarvar_04/my-devto-cli-got-its-first-community-pr-image-uploads-from-terminal-4562",
-      "source": "dev.to",
-      "points": 32,
-      "comments": 8,
-      "published_at": "2026-09-03T11:36:02Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -510,27 +497,14 @@
       "tags": []
     },
     {
-      "id": "devto-4559199",
-      "title": "Forensic Receipts: From Trusted to Proven",
-      "description": "Part 6 of the Building the AI Memory Stack series  At the end of the last article, I left one...",
-      "url": "https://dev.to/kenwalger/forensic-receipts-from-trusted-to-proven-5cj0",
+      "id": "devto-4582832",
+      "title": "My OSS Projects: AngleSharp",
+      "description": "This is the first post in a new series, \"My Open-Source Projects\", where I go through some of the...",
+      "url": "https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j",
       "source": "dev.to",
-      "points": 16,
-      "comments": 10,
-      "published_at": "2026-09-03T13:14:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4567866",
-      "title": "I Compared 5 Open-Source LLM Gateways for Enterprise AI",
-      "description": "Your AI stack works fine with one model. The moment you add a second provider, a fallback, a rate...",
-      "url": "https://dev.to/devstackhub/i-compared-the-5-best-open-source-llm-gateways-for-enterprise-ai-2mln",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 12,
-      "published_at": "2026-09-03T18:44:27Z",
+      "points": 15,
+      "comments": 9,
+      "published_at": "2026-09-09T13:30:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -549,14 +523,27 @@
       "tags": []
     },
     {
-      "id": "devto-4582832",
-      "title": "My OSS Projects: AngleSharp",
-      "description": "This is the first post in a new series, \"My Open-Source Projects\", where I go through some of the...",
-      "url": "https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j",
+      "id": "devto-4603245",
+      "title": "I Shipped a Fix That Fixed Nothing. Here's Why I Kept It.",
+      "description": "Update — v0.2.0 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
+      "url": "https://dev.to/debashish_ghosal/i-shipped-a-fix-that-fixed-nothing-heres-why-i-kept-it-2f73",
       "source": "dev.to",
       "points": 14,
-      "comments": 9,
-      "published_at": "2026-09-09T13:30:00Z",
+      "comments": 1,
+      "published_at": "2026-09-10T01:38:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4573971",
+      "title": "856,168 differential checks later: what it actually takes to delete your dependencies",
+      "description": "Somewhere around check number three hundred thousand, my test harness stopped testing my code and...",
+      "url": "https://dev.to/ewwhardik/856168-differential-checks-later-what-it-actually-takes-to-delete-your-dependencies-4763",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 3,
+      "published_at": "2026-09-04T11:39:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,25 +562,12 @@
       "tags": []
     },
     {
-      "id": "devto-4568325",
-      "title": "The AI Coding Workflow That Finally Stopped Making Me Repeat Myself",
-      "description": "I use AI coding agents a lot.  And for a while, one of the most annoying parts had nothing to do with...",
-      "url": "https://dev.to/sizzlebop/the-ai-coding-workflow-that-finally-stopped-making-me-repeat-myself-8ol",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 22,
-      "published_at": "2026-09-03T20:56:56Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4586028",
       "title": "When Your Benchmark Finally Tells the Truth",
       "description": "Update — v0.1.0 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
       "url": "https://dev.to/debashish_ghosal/when-your-benchmark-finally-tells-the-truth-534h",
       "source": "dev.to",
-      "points": 12,
+      "points": 13,
       "comments": 6,
       "published_at": "2026-09-06T05:45:44Z",
       "summary": "",
@@ -607,7 +581,7 @@
       "url": "https://dev.to/debashish_ghosal/i-thought-role-separation-would-fix-the-optimizer-it-didnt-1h1",
       "source": "dev.to",
       "points": 12,
-      "comments": 6,
+      "comments": 7,
       "published_at": "2026-09-05T16:03:24Z",
       "summary": "",
       "category": "all",
@@ -627,6 +601,19 @@
       "tags": []
     },
     {
+      "id": "devto-4627636",
+      "title": "TS Evidence Graph: Make Every SKILL Instruction 100% Enforced",
+      "description": "TL;DR    Write the rules into AGENTS.md or a skill file and the agent still will not follow...",
+      "url": "https://dev.to/samchon/ts-evidence-graph-make-every-skill-instruction-100-enforced-2n03",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 5,
+      "published_at": "2026-09-11T01:36:13Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-49210554",
       "title": "Alibaba plans to charge big users of its next open-source AI model",
       "description": "",
@@ -640,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-4572521",
+      "title": "FreeLLMAPI: One OpenAI-Compatible Endpoint for 34 Free LLM Providers",
+      "description": "Almost every AI lab now hands out a free tier. Google, Groq, Cerebras, Mistral, Cohere, NVIDIA,...",
+      "url": "https://dev.to/arshtechpro/freellmapi-one-openai-compatible-endpoint-for-34-free-llm-providers-3630",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 2,
+      "published_at": "2026-09-04T09:01:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4589378",
       "title": "When Your Judge Can't Decide",
       "description": "Update — v0.1.0 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
@@ -648,6 +648,19 @@
       "points": 11,
       "comments": 3,
       "published_at": "2026-09-07T19:52:17Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4569231",
+      "title": "I Thought This Was a Classification Problem. It Wasn't.",
+      "description": "Previously: 9 Bugs That All Looked Like a Working System · I Built an AI That Rewrites Its Own...",
+      "url": "https://dev.to/debashish_ghosal/i-thought-this-was-a-classification-problem-it-wasnt-2od9",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 0,
+      "published_at": "2026-09-04T14:32:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -718,40 +731,14 @@
       "tags": []
     },
     {
-      "id": "devto-4572521",
-      "title": "FreeLLMAPI: One OpenAI-Compatible Endpoint for 34 Free LLM Providers",
-      "description": "Almost every AI lab now hands out a free tier. Google, Groq, Cerebras, Mistral, Cohere, NVIDIA,...",
-      "url": "https://dev.to/arshtechpro/freellmapi-one-openai-compatible-endpoint-for-34-free-llm-providers-3630",
+      "id": "devto-4612063",
+      "title": "DeepSeek Harness (DSH) vs Pi Agent: Everything you need to know",
+      "description": "DeepSeek released its own agent harness this August.    It crossed 66k stars in about a day (yes,...",
+      "url": "https://dev.to/composiodev/deepseek-harness-dsh-vs-pi-agent-everything-you-need-to-know-5bci",
       "source": "dev.to",
       "points": 10,
-      "comments": 2,
-      "published_at": "2026-09-04T09:01:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4569210",
-      "title": "My Self-Improving Agent Still Couldn't Improve. That Was the Breakthrough.",
-      "description": "Previously: 9 Bugs That All Looked Like a Working System · I Built an AI That Rewrites Its Own...",
-      "url": "https://dev.to/debashish_ghosal/my-self-improving-agent-still-couldnt-improve-that-was-the-breakthrough-mni",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 3,
-      "published_at": "2026-09-04T01:16:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4569589",
-      "title": "[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner",
-      "description": "The best software I wrote for a spring dinner was not a dashboard or an internal tool. It was a set...",
-      "url": "https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 1,
-      "published_at": "2026-09-04T02:29:36Z",
+      "comments": 6,
+      "published_at": "2026-09-09T12:45:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,6 +752,19 @@
       "points": 9,
       "comments": 4,
       "published_at": "2026-09-04T20:50:20Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4599013",
+      "title": "Your system prompt isn't instructions. It's data.",
+      "description": "Four measured findings from tuning a 31B model's 680-line system prompt, including the six rebuilds I wasted on a bug that never existed.",
+      "url": "https://dev.to/natuworkguy/your-system-prompt-isnt-instructions-its-data-43m8",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 13,
+      "published_at": "2026-09-07T18:26:04Z",
       "summary": "",
       "category": "all",
       "tags": []
