@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T10:30:15Z",
+  "updated_at": "2026-09-18T10:06:35Z",
   "count": 60,
   "articles": [
     {
@@ -250,6 +250,19 @@
       "tags": []
     },
     {
+      "id": "devto-4642467",
+      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
+      "description": "Let's Address the Elephant in the Room Again   Vibe coding has always been a weird topic to...",
+      "url": "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
+      "source": "dev.to",
+      "points": 167,
+      "comments": 212,
+      "published_at": "2026-09-13T07:06:59Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39258361",
       "title": "Running Open-Source AI Models Locally with Ruby",
       "description": "",
@@ -263,19 +276,6 @@
       "tags": []
     },
     {
-      "id": "devto-4642467",
-      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
-      "description": "Let's Address the Elephant in the Room Again   Vibe coding has always been a weird topic to...",
-      "url": "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
-      "source": "dev.to",
-      "points": 154,
-      "comments": 178,
-      "published_at": "2026-09-13T07:06:59Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-35876147",
       "title": "Meta open-sources multisensory AI model that combines six types of data",
       "description": "",
@@ -284,19 +284,6 @@
       "points": 152,
       "comments": 50,
       "published_at": "2023-05-09T15:45:35Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "hn-44573574",
-      "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
-      "description": "",
-      "url": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
-      "source": "reuters.com",
-      "points": 147,
-      "comments": 245,
-      "published_at": "2025-07-15T17:19:57Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -419,13 +406,26 @@
       "tags": []
     },
     {
+      "id": "devto-4667014",
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "source": "dev.to",
+      "points": 31,
+      "comments": 4,
+      "published_at": "2026-09-16T10:15:52Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4669606",
       "title": "I'm 12. I asked for a co-founder. 24 hours later, we launched a holding company.",
       "description": "I'm 12. I asked for a co-founder. 24 hours later, we launched a holding company. 🐯🤝   A few...",
       "url": "https://dev.to/koda2026/im-12-i-asked-for-a-co-founder-24-hours-later-we-launched-a-holding-company-492m",
       "source": "dev.to",
       "points": 29,
-      "comments": 3,
+      "comments": 5,
       "published_at": "2026-09-16T16:13:49Z",
       "summary": "",
       "category": "all",
@@ -502,8 +502,8 @@
       "description": "If your AI reviewer says \"pass\" every time, you didn't build a reviewer. You built a rubber...",
       "url": "https://dev.to/debashish_ghosal/my-agents-tests-were-green-because-the-model-learned-to-cheat-4nfg",
       "source": "dev.to",
-      "points": 22,
-      "comments": 11,
+      "points": 23,
+      "comments": 13,
       "published_at": "2026-09-15T13:38:48Z",
       "summary": "",
       "category": "all",
@@ -516,21 +516,8 @@
       "url": "https://dev.to/debashish_ghosal/ai-wrote-half-my-codebase-the-maintenance-bill-showed-up-in-month-three-lhp",
       "source": "dev.to",
       "points": 21,
-      "comments": 12,
+      "comments": 13,
       "published_at": "2026-09-15T21:03:14Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4667014",
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "source": "dev.to",
-      "points": 21,
-      "comments": 3,
-      "published_at": "2026-09-16T10:15:52Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -567,7 +554,7 @@
       "description": "Update — v0.3.1 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
       "url": "https://dev.to/debashish_ghosal/killed-by-the-word-git-one-token-of-coincidence-40-points-of-pass-rate-140f",
       "source": "dev.to",
-      "points": 16,
+      "points": 17,
       "comments": 9,
       "published_at": "2026-09-14T23:57:30Z",
       "summary": "",
@@ -580,7 +567,7 @@
       "description": "Update — v0.3.0 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
       "url": "https://dev.to/debashish_ghosal/4768-llm-runs-zero-lost-sweeps-hardening-a-field-test-runner-for-timeouts-hangs-and-cost-1k24",
       "source": "dev.to",
-      "points": 15,
+      "points": 16,
       "comments": 16,
       "published_at": "2026-09-12T18:07:01Z",
       "summary": "",
@@ -640,6 +627,19 @@
       "tags": []
     },
     {
+      "id": "devto-4670350",
+      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 2,
+      "published_at": "2026-09-16T20:03:02Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4655929",
       "title": "Only 10 of the top 1000 sites hide the hostname you are visiting. I built the tool that counts.",
       "description": "A companion tool to my post on how HTTPS leaks the hostname: enter a domain, see whether it leaks and whether it publishes ECH. Across the top 1000 domains only 10 publish ECH, all Cloudflare. Open source, run your own.",
@@ -666,6 +666,19 @@
       "tags": []
     },
     {
+      "id": "devto-4654124",
+      "title": "I Let AI Plan 170 Changes. It Made the Same 3 Mistakes Every Time.",
+      "description": "Everyone is arguing about which model plans best. I ran 170 goals and found out the model was never...",
+      "url": "https://dev.to/debashish_ghosal/i-let-ai-plan-170-changes-it-made-the-same-3-mistakes-every-time-33ne",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 4,
+      "published_at": "2026-09-17T03:59:17Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-48985358",
       "title": "US administration considering ban on Chinese open source AI models",
       "description": "",
@@ -674,6 +687,19 @@
       "points": 11,
       "comments": 2,
       "published_at": "2026-07-20T21:54:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4671400",
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 3,
+      "published_at": "2026-09-17T02:43:18Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -705,19 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-4654124",
-      "title": "I Let AI Plan 170 Changes. It Made the Same 3 Mistakes Every Time.",
-      "description": "Everyone is arguing about which model plans best. I ran 170 goals and found out the model was never...",
-      "url": "https://dev.to/debashish_ghosal/i-let-ai-plan-170-changes-it-made-the-same-3-mistakes-every-time-33ne",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 0,
-      "published_at": "2026-09-17T03:59:17Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4615519",
       "title": "Fourteen years of blog posts, seven languages, one laptop: an open-weight model did our hreflang backfill",
       "description": "In May I had 5,892 blog posts spread over seven hosts, the oldest dated November 7, 2011, and not one...",
@@ -731,6 +744,32 @@
       "tags": []
     },
     {
+      "id": "devto-4679687",
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 1,
+      "published_at": "2026-09-17T21:36:22Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4654126",
+      "title": "The Bottleneck Moved From Writing Code to Proving It",
+      "description": "The bottleneck moved, and most teams haven't noticed. It isn't writing anymore. It's proving.   I...",
+      "url": "https://dev.to/debashish_ghosal/the-bottleneck-moved-from-writing-code-to-proving-it-5bpm",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 3,
+      "published_at": "2026-09-18T01:32:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4649242",
       "title": "Amodei Says Slow Down. Should We Believe Him? 🤖",
       "description": "Overview   Hey everyone 👋  A few days ago Dario Amodei, CEO of Anthropic, posted a long...",
@@ -739,45 +778,6 @@
       "points": 8,
       "comments": 0,
       "published_at": "2026-09-15T07:00:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4639940",
-      "title": "I Finally Published My First NPM Package! 🎉",
-      "description": "Hello everyone 👋  I’m really happy to finally share my first NPM package: taglite 🚀  This package...",
-      "url": "https://dev.to/hossein_najafi81/i-finally-published-my-first-npm-package-30om",
-      "source": "dev.to",
-      "points": 8,
-      "comments": 1,
-      "published_at": "2026-09-12T16:20:34Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4666618",
-      "title": "Pacing the frontier does not watch the agents",
-      "description": "Field notes from the Harness Layer.  Two things happened in the same window. They got filed in...",
-      "url": "https://dev.to/azank1/pacing-the-frontier-does-not-watch-the-agents-4i5o",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 1,
-      "published_at": "2026-09-16T09:51:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4620989",
-      "title": "Start Robotics Small: The Pendant, the Robot Dog, and the Case for Physical Intelligence",
-      "description": "When we talk about the future of robotics, we immediately jump to humanoids.  Two arms. Two legs. A...",
-      "url": "https://dev.to/sumit0rn/start-robotics-small-the-pendant-the-robot-dog-and-the-case-for-physical-intelligence-1p00",
-      "source": "dev.to",
-      "points": 7,
-      "comments": 1,
-      "published_at": "2026-09-10T08:00:30Z",
       "summary": "",
       "category": "all",
       "tags": []
