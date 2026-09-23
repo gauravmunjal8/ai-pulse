@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:24:48Z",
+  "updated_at": "2026-09-23T10:19:42Z",
   "count": 60,
   "articles": [
     {
@@ -237,6 +237,19 @@
       "tags": []
     },
     {
+      "id": "devto-4676493",
+      "title": "How to Use Jev: A practical guide to TypeSafe's System One model",
+      "description": "Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...",
+      "url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
+      "source": "dev.to",
+      "points": 221,
+      "comments": 4,
+      "published_at": "2026-09-17T12:24:54Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-36724739",
       "title": "Meta to release open-source commercial AI model",
       "description": "",
@@ -245,19 +258,6 @@
       "points": 177,
       "comments": 159,
       "published_at": "2023-07-14T14:45:01Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4676493",
-      "title": "How to Use Jev: A practical guide to TypeSafe's System One model",
-      "description": "Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...",
-      "url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
-      "source": "dev.to",
-      "points": 176,
-      "comments": 3,
-      "published_at": "2026-09-17T12:24:54Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -315,6 +315,19 @@
       "tags": []
     },
     {
+      "id": "devto-4699313",
+      "title": "i built a green blob that lives on my desktop. now it has feelings.",
+      "description": "A quick disclaimer before we dive in: when I say \"feelings,\" I mean state machines, bond...",
+      "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
+      "source": "dev.to",
+      "points": 73,
+      "comments": 23,
+      "published_at": "2026-09-20T11:15:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -323,19 +336,6 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4699313",
-      "title": "i built a green blob that lives on my desktop. now it has feelings.",
-      "description": "A quick disclaimer before we dive in: when I say \"feelings,\" I mean state machines, bond...",
-      "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
-      "source": "dev.to",
-      "points": 61,
-      "comments": 20,
-      "published_at": "2026-09-20T11:15:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -412,8 +412,21 @@
       "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
       "source": "dev.to",
       "points": 45,
-      "comments": 12,
+      "comments": 13,
       "published_at": "2026-09-20T21:30:07Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4667014",
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "source": "dev.to",
+      "points": 42,
+      "comments": 7,
+      "published_at": "2026-09-16T10:15:52Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -432,6 +445,19 @@
       "tags": []
     },
     {
+      "id": "devto-4699896",
+      "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
+      "description": "Hi, glad you found your way here. I'm Yash, a developer who contributes to open source, mostly p2p...",
+      "url": "https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i",
+      "source": "dev.to",
+      "points": 38,
+      "comments": 6,
+      "published_at": "2026-09-21T04:00:59Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-48856412",
       "title": "China may restrict foreign access to Chinese open-source AI models",
       "description": "",
@@ -445,38 +471,12 @@
       "tags": []
     },
     {
-      "id": "devto-4699896",
-      "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
-      "description": "Hi, glad you found your way here. I'm Yash, a developer who contributes to open source, mostly p2p...",
-      "url": "https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i",
-      "source": "dev.to",
-      "points": 35,
-      "comments": 6,
-      "published_at": "2026-09-21T04:00:59Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4667014",
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "source": "dev.to",
-      "points": 32,
-      "comments": 6,
-      "published_at": "2026-09-16T10:15:52Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4643780",
       "title": "Dev log #21 Hardening WebRTC-Direct and solving SCM leaks",
       "description": "Hi, glad you found your way here. I'm Yash, a developer who contributes to open source, mostly p2p...",
       "url": "https://dev.to/yashksaini/dev-log-hardening-webrtc-direct-and-solving-scm-leaks-i5k",
       "source": "dev.to",
-      "points": 32,
+      "points": 33,
       "comments": 5,
       "published_at": "2026-09-19T05:49:17Z",
       "summary": "",
@@ -536,27 +536,14 @@
       "tags": []
     },
     {
-      "id": "devto-4654117",
-      "title": "My Agent's Tests Were Green Because the Model Learned to Cheat",
-      "description": "If your AI reviewer says \"pass\" every time, you didn't build a reviewer. You built a rubber...",
-      "url": "https://dev.to/debashish_ghosal/my-agents-tests-were-green-because-the-model-learned-to-cheat-4nfg",
+      "id": "devto-4706884",
+      "title": "How monday.com Runs Agent Evals Against Real Dependencies: Webinar Recap",
+      "description": "An agent eval suite's outcome can only be trustworthy if it's operating in an environment similar to...",
+      "url": "https://dev.to/metalbear/how-mondaycom-runs-agent-evals-against-real-dependencies-webinar-recap-41ge",
       "source": "dev.to",
-      "points": 24,
-      "comments": 21,
-      "published_at": "2026-09-15T13:38:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4654120",
-      "title": "AI Wrote Half My Codebase. The Maintenance Bill Showed Up in Month Three.",
-      "description": "AI made the first draft free. I treated that as the win. The bill arrived later, not in dollars, in...",
-      "url": "https://dev.to/debashish_ghosal/ai-wrote-half-my-codebase-the-maintenance-bill-showed-up-in-month-three-lhp",
-      "source": "dev.to",
-      "points": 23,
-      "comments": 13,
-      "published_at": "2026-09-15T21:03:14Z",
+      "points": 25,
+      "comments": 2,
+      "published_at": "2026-09-21T11:08:48Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -596,32 +583,6 @@
       "points": 20,
       "comments": 5,
       "published_at": "2026-09-18T01:32:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4706884",
-      "title": "How monday.com Runs Agent Evals Against Real Dependencies: Webinar Recap",
-      "description": "An agent eval suite's outcome can only be trustworthy if it's operating in an environment similar to...",
-      "url": "https://dev.to/metalbear/how-mondaycom-runs-agent-evals-against-real-dependencies-webinar-recap-41ge",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 1,
-      "published_at": "2026-09-21T11:08:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4710366",
-      "title": "Real Talk: You Don't Miss Engineering. You Miss Typing",
-      "description": "A Sci-Fi Scenario Come True   As a kid, when I watched sci-fi movies about computers with...",
-      "url": "https://dev.to/georgekobaidze/real-talk-you-dont-miss-engineering-you-miss-typing-1bc3",
-      "source": "dev.to",
-      "points": 19,
-      "comments": 5,
-      "published_at": "2026-09-21T20:36:39Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,6 +640,19 @@
       "tags": []
     },
     {
+      "id": "devto-4654124",
+      "title": "I Let AI Plan 170 Changes. It Made the Same 3 Mistakes Every Time.",
+      "description": "Everyone is arguing about which model plans best. I ran 170 goals and found out the model was never...",
+      "url": "https://dev.to/debashish_ghosal/i-let-ai-plan-170-changes-it-made-the-same-3-mistakes-every-time-33ne",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 4,
+      "published_at": "2026-09-17T03:59:17Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -687,32 +661,6 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4654124",
-      "title": "I Let AI Plan 170 Changes. It Made the Same 3 Mistakes Every Time.",
-      "description": "Everyone is arguing about which model plans best. I ran 170 goals and found out the model was never...",
-      "url": "https://dev.to/debashish_ghosal/i-let-ai-plan-170-changes-it-made-the-same-3-mistakes-every-time-33ne",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 4,
-      "published_at": "2026-09-17T03:59:17Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4666618",
-      "title": "Pacing the frontier does not watch the agents",
-      "description": "Field notes from the Harness Layer.  Two things happened in the same window. They got filed in...",
-      "url": "https://dev.to/azank1/pacing-the-frontier-does-not-watch-the-agents-4i5o",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 4,
-      "published_at": "2026-09-16T09:51:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,14 +692,40 @@
       "tags": []
     },
     {
-      "id": "devto-4659440",
-      "title": "Does AI-generated code silently swallow errors? 120 measured generations: every flagged case was a false positive or a documented fallback",
-      "description": "A Semgrep detector plus hand adjudication over 120 locally generated Python/TypeScript functions: syntax can surface 'silent failure' candidates, but the verdict lives outside the code.",
-      "url": "https://dev.to/tauridev/does-ai-generated-code-silently-swallow-errors-120-measured-generations-every-flagged-case-was-a-241p",
+      "id": "devto-4692300",
+      "title": "How common is AGENTS.md, really? I sampled GitHub: 6.2% of active repos, 1.0% of all repos",
+      "description": "My last two posts gave rates with a self-selected denominator. This one fixes that: a generation-sliced sample of active repos (6.2%) and a uniform sample of the whole repo population (1.0%), plus the ecosystem numbers that surprised me.",
+      "url": "https://dev.to/janzong/how-common-is-agentsmd-really-i-sampled-github-62-of-active-repos-10-of-all-repos-1175",
       "source": "dev.to",
       "points": 9,
-      "comments": 41,
-      "published_at": "2026-09-15T12:32:16Z",
+      "comments": 28,
+      "published_at": "2026-09-19T08:30:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4669796",
+      "title": "Installing PyTorch with ROCm Acceleration on Ubuntu 24.04",
+      "description": "PyTorch is an open-source framework for building and training machine learning models, especially...",
+      "url": "https://dev.to/vultr/installing-pytorch-with-rocm-acceleration-on-ubuntu-2404-5c7d",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 0,
+      "published_at": "2026-09-16T17:09:47Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4662583",
+      "title": "I Cut 2,490 Agent Test Runs to 206 and Kept the Same Coverage",
+      "description": "The full matrix was 83 agents × 30 scenarios = 2,490 runs. Each one a real LLM call, 30–80 seconds....",
+      "url": "https://dev.to/debashish_ghosal/i-cut-2490-agent-test-runs-to-206-and-kept-the-same-coverage-1cke",
+      "source": "dev.to",
+      "points": 8,
+      "comments": 2,
+      "published_at": "2026-09-22T12:19:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -778,6 +752,32 @@
       "points": 8,
       "comments": 0,
       "published_at": "2026-09-16T12:30:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4684852",
+      "title": "Jev vs Claude: Who Wins?",
+      "description": "I did not need Jev to beat Claude or Kimi on a benchmark. I needed to know whether I could trust it...",
+      "url": "https://dev.to/bengreenberg/jev-vs-claude-who-wins-4mln",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 2,
+      "published_at": "2026-09-18T11:15:07Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4669794",
+      "title": "Installing TensorFlow with ROCm Acceleration on Ubuntu 24.04",
+      "description": "TensorFlow is an open-source framework widely used for building and training machine learning models,...",
+      "url": "https://dev.to/vultr/installing-tensorflow-with-rocm-acceleration-on-ubuntu-2404-2he4",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-09-16T17:10:49Z",
       "summary": "",
       "category": "all",
       "tags": []
