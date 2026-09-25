@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:33:57Z",
+  "updated_at": "2026-09-25T10:37:28Z",
   "count": 60,
   "articles": [
     {
@@ -237,19 +237,6 @@
       "tags": []
     },
     {
-      "id": "devto-4676493",
-      "title": "How to Use Jev: A practical guide to TypeSafe's System One model",
-      "description": "Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...",
-      "url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
-      "source": "dev.to",
-      "points": 236,
-      "comments": 4,
-      "published_at": "2026-09-17T12:24:54Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-36724739",
       "title": "Meta to release open-source commercial AI model",
       "description": "",
@@ -320,8 +307,8 @@
       "description": "A quick disclaimer before we dive in: when I say \"feelings,\" I mean state machines, bond...",
       "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
       "source": "dev.to",
-      "points": 77,
-      "comments": 27,
+      "points": 86,
+      "comments": 28,
       "published_at": "2026-09-20T11:15:55Z",
       "summary": "",
       "category": "all",
@@ -336,6 +323,19 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4678373",
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+      "source": "dev.to",
+      "points": 61,
+      "comments": 16,
+      "published_at": "2026-09-23T14:23:57Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -406,14 +406,14 @@
       "tags": []
     },
     {
-      "id": "devto-4678373",
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
-      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+      "id": "devto-4676985",
+      "title": "Polly Introduces an Open Source Maintenance Fee",
+      "description": "A few weeks ago, I wrote about open-source projects moving toward paid or dual-licensing models, and...",
+      "url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e",
       "source": "dev.to",
-      "points": 47,
-      "comments": 12,
-      "published_at": "2026-09-23T14:23:57Z",
+      "points": 46,
+      "comments": 20,
+      "published_at": "2026-09-24T07:07:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -425,7 +425,7 @@
       "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
       "source": "dev.to",
       "points": 46,
-      "comments": 16,
+      "comments": 19,
       "published_at": "2026-09-20T21:30:07Z",
       "summary": "",
       "category": "all",
@@ -484,19 +484,6 @@
       "tags": []
     },
     {
-      "id": "devto-4669606",
-      "title": "I'm 12. I asked for a co-founder. 24 hours later, we launched a holding company.",
-      "description": "I'm 12. I asked for a co-founder. 24 hours later, we launched a holding company. 🐯🤝   A few...",
-      "url": "https://dev.to/koda2026/im-12-i-asked-for-a-co-founder-24-hours-later-we-launched-a-holding-company-492m",
-      "source": "dev.to",
-      "points": 30,
-      "comments": 5,
-      "published_at": "2026-09-16T16:13:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -505,6 +492,19 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4727282",
+      "title": "I Compared 5 LLM Gateway Tools for Real-World Production Use",
+      "description": "When an LLM application starts handling real users, calling a model API is usually easy. The problems...",
+      "url": "https://dev.to/devstackcommunity/i-compared-5-llm-gateway-tools-for-real-world-production-use-4n5p",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 11,
+      "published_at": "2026-09-23T18:37:50Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -562,6 +562,19 @@
       "tags": []
     },
     {
+      "id": "devto-4662589",
+      "title": "7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fixes That Ended Them)",
+      "description": "You've been there. You run the eval, the number comes back, and something about it doesn't sit...",
+      "url": "https://dev.to/debashish_ghosal/7-agent-eval-mistakes-that-cost-me-weeks-and-the-one-line-fixes-that-ended-them-ho",
+      "source": "dev.to",
+      "points": 22,
+      "comments": 4,
+      "published_at": "2026-09-24T12:22:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4685805",
       "title": "From Solo Builder to Co-Founder: How I Launched a Tech Holding Company at 12 Years Old",
       "description": "Three weeks ago, I published an article that said: \"I'm 12. I built 4 apps. Now I'm stuck. I'm...",
@@ -575,19 +588,6 @@
       "tags": []
     },
     {
-      "id": "devto-4654126",
-      "title": "The Bottleneck Moved From Writing Code to Proving It",
-      "description": "The bottleneck moved, and most teams haven't noticed. It isn't writing anymore. It's proving.   I...",
-      "url": "https://dev.to/debashish_ghosal/the-bottleneck-moved-from-writing-code-to-proving-it-5bpm",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 5,
-      "published_at": "2026-09-18T01:32:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4654134",
       "title": "What Do You Do While AI Codes? I Make Mine Argue With Itself.",
       "description": "Be honest: what do you actually do while the agent types?   I used to just watch. Not read, watch....",
@@ -596,19 +596,6 @@
       "points": 19,
       "comments": 4,
       "published_at": "2026-09-19T06:31:24Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4676985",
-      "title": "Polly Introduces an Open Source Maintenance Fee",
-      "description": "A few weeks ago, I wrote about open-source projects moving toward paid or dual-licensing models, and...",
-      "url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e",
-      "source": "dev.to",
-      "points": 18,
-      "comments": 3,
-      "published_at": "2026-09-24T07:07:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -640,27 +627,14 @@
       "tags": []
     },
     {
-      "id": "devto-4679687",
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "source": "dev.to",
-      "points": 14,
-      "comments": 7,
-      "published_at": "2026-09-17T21:36:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4679323",
-      "title": "Algorithmic Trading: Debug Your Backtest Before Upgrading Your Model",
-      "description": "Debug algorithmic trading backtests with Python: catch look-ahead bias, compare complex models fairly, and test execution costs and order failures.",
-      "url": "https://dev.to/copyleftdev/algorithmic-trading-debug-your-backtest-before-upgrading-your-model-57gf",
+      "id": "devto-4678665",
+      "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
+      "description": "There is an API. It will tell you things about your writing that the dashboard will not.  I have been...",
+      "url": "https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac",
       "source": "dev.to",
       "points": 14,
       "comments": 2,
-      "published_at": "2026-09-17T19:27:55Z",
+      "published_at": "2026-09-24T13:38:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -679,6 +653,19 @@
       "tags": []
     },
     {
+      "id": "devto-4695306",
+      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
+      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
+      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 13,
+      "published_at": "2026-09-19T16:55:23Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4700520",
       "title": "Dojo Feed Case Study: How Organic Viral Engagement Validates Gamified Community Platforms",
       "description": "Community platforms face a critical challenge at launch: achieving sustainable engagement without...",
@@ -692,14 +679,14 @@
       "tags": []
     },
     {
-      "id": "devto-4695306",
-      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
-      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
-      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
+      "id": "devto-4685918",
+      "title": "164 disposable computers, one judging afternoon, and a question nobody had time to ask",
+      "description": "Does it build?   I have run hackathon judging the careful way. By that I mean: rubrics...",
+      "url": "https://dev.to/lolocoding/164-disposable-computers-one-judging-afternoon-and-a-question-nobody-had-time-to-ask-19da",
       "source": "dev.to",
       "points": 12,
-      "comments": 13,
-      "published_at": "2026-09-19T16:55:23Z",
+      "comments": 1,
+      "published_at": "2026-09-18T16:16:42Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -724,7 +711,7 @@
       "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
       "source": "dev.to",
       "points": 12,
-      "comments": 11,
+      "comments": 16,
       "published_at": "2026-09-22T16:59:06Z",
       "summary": "",
       "category": "all",
@@ -749,9 +736,22 @@
       "description": "My last two posts gave rates with a self-selected denominator. This one fixes that: a generation-sliced sample of active repos (6.2%) and a uniform sample of the whole repo population (1.0%), plus the ecosystem numbers that surprised me.",
       "url": "https://dev.to/janzong/how-common-is-agentsmd-really-i-sampled-github-62-of-active-repos-10-of-all-repos-1175",
       "source": "dev.to",
-      "points": 10,
-      "comments": 31,
+      "points": 11,
+      "comments": 32,
       "published_at": "2026-09-19T08:30:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4729834",
+      "title": "Git 2.55's reftable backend creates 10,000 refs in 40ms instead of 650ms",
+      "description": "Git's reftable ref backend cut a 10,000-branch bulk write from up to 650ms to about 40ms and shrank the ref store from 40MB to 272KB. Push 150 concurrent writers at it and roughly 40% failed outright with the default lock timeout.",
+      "url": "https://dev.to/alexgeorgiev17/git-255s-reftable-backend-creates-10000-refs-in-40ms-instead-of-650ms-inn",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 7,
+      "published_at": "2026-09-24T10:00:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -762,22 +762,22 @@
       "description": "A few weeks back I watched an agentic pipeline burn a month of budget in three days. The instinct...",
       "url": "https://dev.to/tokenlat/your-agents-cost-problem-isnt-the-model-its-the-steps-you-never-measured-38ag",
       "source": "dev.to",
-      "points": 8,
-      "comments": 6,
+      "points": 10,
+      "comments": 8,
       "published_at": "2026-09-22T02:47:08Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-4724302",
-      "title": "My OSS Projects: Piral",
-      "description": "This is the third post in my \"My Open-Source Projects\" series, where I go through some of the OSS...",
-      "url": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
+      "id": "devto-4732315",
+      "title": "Your model doesn't need more training. It needs a better search index.",
+      "description": "Intro   Every team that plugs an LLM into its business hits the same moment. Someone asks...",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-model-doesnt-need-more-training-it-needs-a-better-search-index-3mca",
       "source": "dev.to",
-      "points": 8,
-      "comments": 2,
-      "published_at": "2026-09-23T10:59:45Z",
+      "points": 9,
+      "comments": 11,
+      "published_at": "2026-09-24T09:40:25Z",
       "summary": "",
       "category": "all",
       "tags": []
