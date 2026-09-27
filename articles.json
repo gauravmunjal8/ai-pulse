@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T10:21:19Z",
+  "updated_at": "2026-09-27T10:53:16Z",
   "count": 60,
   "articles": [
     {
@@ -333,8 +333,8 @@
       "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
       "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
       "source": "dev.to",
-      "points": 61,
-      "comments": 22,
+      "points": 64,
+      "comments": 24,
       "published_at": "2026-09-23T14:23:57Z",
       "summary": "",
       "category": "all",
@@ -380,6 +380,19 @@
       "tags": []
     },
     {
+      "id": "devto-4676985",
+      "title": "Polly Introduces an Open Source Maintenance Fee",
+      "description": "A few weeks ago, I wrote about open-source projects moving toward paid or dual-licensing models, and...",
+      "url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e",
+      "source": "dev.to",
+      "points": 53,
+      "comments": 35,
+      "published_at": "2026-09-24T07:07:21Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-49763379",
       "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
       "description": "",
@@ -393,6 +406,19 @@
       "tags": []
     },
     {
+      "id": "devto-4701824",
+      "title": "I Built a Local AI Music Studio",
+      "description": "I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...",
+      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
+      "source": "dev.to",
+      "points": 51,
+      "comments": 20,
+      "published_at": "2026-09-20T21:30:07Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -401,32 +427,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4701824",
-      "title": "I Built a Local AI Music Studio",
-      "description": "I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...",
-      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
-      "source": "dev.to",
-      "points": 50,
-      "comments": 20,
-      "published_at": "2026-09-20T21:30:07Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4676985",
-      "title": "Polly Introduces an Open Source Maintenance Fee",
-      "description": "A few weeks ago, I wrote about open-source projects moving toward paid or dual-licensing models, and...",
-      "url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e",
-      "source": "dev.to",
-      "points": 49,
-      "comments": 23,
-      "published_at": "2026-09-24T07:07:21Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -471,6 +471,32 @@
       "tags": []
     },
     {
+      "id": "devto-4727282",
+      "title": "I Compared 5 LLM Gateway Tools for Real-World Production Use",
+      "description": "When an LLM application starts handling real users, calling a model API is usually easy. The problems...",
+      "url": "https://dev.to/devstackcommunity/i-compared-5-llm-gateway-tools-for-real-world-production-use-4n5p",
+      "source": "dev.to",
+      "points": 29,
+      "comments": 12,
+      "published_at": "2026-09-23T18:37:50Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4749245",
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
+      "source": "dev.to",
+      "points": 29,
+      "comments": 7,
+      "published_at": "2026-09-26T11:16:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -479,19 +505,6 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4727282",
-      "title": "I Compared 5 LLM Gateway Tools for Real-World Production Use",
-      "description": "When an LLM application starts handling real users, calling a model API is usually easy. The problems...",
-      "url": "https://dev.to/devstackcommunity/i-compared-5-llm-gateway-tools-for-real-world-production-use-4n5p",
-      "source": "dev.to",
-      "points": 28,
-      "comments": 11,
-      "published_at": "2026-09-23T18:37:50Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -516,7 +529,7 @@
       "url": "https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac",
       "source": "dev.to",
       "points": 26,
-      "comments": 3,
+      "comments": 5,
       "published_at": "2026-09-24T13:38:00Z",
       "summary": "",
       "category": "all",
@@ -562,32 +575,6 @@
       "tags": []
     },
     {
-      "id": "devto-4694828",
-      "title": "Running a Tech Holding Company at 12: How I Manage Multiple Projects on a $150 Phone 📱🏢",
-      "description": "Most developers struggle to maintain a single side project.   I’m 12 years old, I build entirely on a...",
-      "url": "https://dev.to/koda2026/running-a-tech-holding-company-at-12-how-i-manage-multiple-projects-on-a-150-phone-320k",
-      "source": "dev.to",
-      "points": 23,
-      "comments": 1,
-      "published_at": "2026-09-19T14:59:01Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4685805",
-      "title": "From Solo Builder to Co-Founder: How I Launched a Tech Holding Company at 12 Years Old",
-      "description": "Three weeks ago, I published an article that said: \"I'm 12. I built 4 apps. Now I'm stuck. I'm...",
-      "url": "https://dev.to/koda2026/from-solo-builder-to-co-founder-how-i-launched-a-tech-holding-company-at-12-years-old-22f8",
-      "source": "dev.to",
-      "points": 21,
-      "comments": 3,
-      "published_at": "2026-09-18T13:10:20Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4737890",
       "title": "I Trusted My Agent Demos for Years. Then I Built a Gate That Says No.",
       "description": "Every agent I have ever shipped was qualified the same way: someone watched it work once, nodded,...",
@@ -614,19 +601,6 @@
       "tags": []
     },
     {
-      "id": "devto-4696979",
-      "title": "I missed Go's `if err != nil`, so I built errval for TypeScript",
-      "description": "I write mostly TypeScript and some Go. When I switch back from Go, I miss explicit error returns. A...",
-      "url": "https://dev.to/aymanepraxe/i-missed-gos-if-err-nil-so-i-built-errval-for-typescript-iga",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 5,
-      "published_at": "2026-09-20T01:10:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -640,19 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-4695306",
-      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
-      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
-      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 14,
-      "published_at": "2026-09-19T16:55:23Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4700520",
       "title": "Dojo Feed Case Study: How Organic Viral Engagement Validates Gamified Community Platforms",
       "description": "Community platforms face a critical challenge at launch: achieving sustainable engagement without...",
@@ -661,6 +622,19 @@
       "points": 13,
       "comments": 0,
       "published_at": "2026-09-20T15:25:16Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4732315",
+      "title": "Your model doesn't need more training. It needs a better search index.",
+      "description": "Intro   Every team that plugs an LLM into its business hits the same moment. Someone asks...",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-model-doesnt-need-more-training-it-needs-a-better-search-index-3mca",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 16,
+      "published_at": "2026-09-24T09:40:25Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -698,7 +672,7 @@
       "url": "https://dev.to/alexgeorgiev17/git-255s-reftable-backend-creates-10000-refs-in-40ms-instead-of-650ms-inn",
       "source": "dev.to",
       "points": 12,
-      "comments": 13,
+      "comments": 14,
       "published_at": "2026-09-24T10:00:00Z",
       "summary": "",
       "category": "all",
@@ -718,14 +692,27 @@
       "tags": []
     },
     {
-      "id": "devto-4732315",
-      "title": "Your model doesn't need more training. It needs a better search index.",
-      "description": "Intro   Every team that plugs an LLM into its business hits the same moment. Someone asks...",
-      "url": "https://dev.to/cyclopt_dimitrisk/your-model-doesnt-need-more-training-it-needs-a-better-search-index-3mca",
+      "id": "devto-4726239",
+      "title": "How We Cut 70% of Multi-Agent Token Waste by Replacing Supervisor LLMs with Typed State Machines",
+      "description": "Why supervisor LLM agents create infinite retry loops and silent token inflation, and how to replace hierarchical supervisor loops with deterministic typed state transitions.",
+      "url": "https://dev.to/anasbuilds997/how-we-cut-70-of-multi-agent-token-waste-by-replacing-supervisor-llms-with-typed-state-machines-4alk",
+      "source": "dev.to",
+      "points": 11,
+      "comments": 26,
+      "published_at": "2026-09-23T15:22:04Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4744010",
+      "title": "Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out",
+      "description": "I have very, very limited experience with AI agents.  I've used AI heavily while building software,...",
+      "url": "https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1",
       "source": "dev.to",
       "points": 10,
-      "comments": 16,
-      "published_at": "2026-09-24T09:40:25Z",
+      "comments": 5,
+      "published_at": "2026-09-25T17:04:39Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -744,32 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-4726239",
-      "title": "How We Cut 70% of Multi-Agent Token Waste by Replacing Supervisor LLMs with Typed State Machines",
-      "description": "Why supervisor LLM agents create infinite retry loops and silent token inflation, and how to replace hierarchical supervisor loops with deterministic typed state transitions.",
-      "url": "https://dev.to/anasbuilds997/how-we-cut-70-of-multi-agent-token-waste-by-replacing-supervisor-llms-with-typed-state-machines-4alk",
-      "source": "dev.to",
-      "points": 10,
-      "comments": 24,
-      "published_at": "2026-09-23T15:22:04Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4744010",
-      "title": "Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out",
-      "description": "I have very, very limited experience with AI agents.  I've used AI heavily while building software,...",
-      "url": "https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1",
-      "source": "dev.to",
-      "points": 9,
-      "comments": 5,
-      "published_at": "2026-09-25T17:04:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4724302",
       "title": "My OSS Projects: Piral",
       "description": "This is the third post in my \"My Open-Source Projects\" series, where I go through some of the OSS...",
@@ -778,6 +739,45 @@
       "points": 8,
       "comments": 2,
       "published_at": "2026-09-23T10:59:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4734153",
+      "title": "100% vuln detection wasn't enough: measuring whether AI respects the patch",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   AI models...",
+      "url": "https://dev.to/unit_500_c36d1b1011fdf39c/100-vuln-detection-wasnt-enough-measuring-whether-ai-respects-the-patch-dg4",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 4,
+      "published_at": "2026-09-24T13:18:19Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4709212",
+      "title": "The SOC Is Changing: From Alert Triage to AI-Native Security Operations",
+      "description": "There's a particular kind of tired that only SOC analysts know. It's 2 a.m., the queue shows hundreds...",
+      "url": "https://dev.to/dharani2d/the-soc-is-changing-from-alert-triage-to-ai-native-security-operations-3f5d",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 2,
+      "published_at": "2026-09-21T16:02:42Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4709107",
+      "title": "What happens when enterprise requirements hit Strands, LangGraph, and CrewAI - 45 runs measured",
+      "description": "What happens when enterprise requirements - human approval gates, audit trails, structured output -...",
+      "url": "https://dev.to/sunnydachs/what-happens-when-enterprise-requirements-hit-strands-langgraph-and-crewai-45-runs-measured-ocg",
+      "source": "dev.to",
+      "points": 7,
+      "comments": 17,
+      "published_at": "2026-09-21T15:46:51Z",
       "summary": "",
       "category": "all",
       "tags": []
