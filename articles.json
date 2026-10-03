@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:25:11Z",
+  "updated_at": "2026-10-03T10:42:39Z",
   "count": 60,
   "articles": [
     {
@@ -302,6 +302,19 @@
       "tags": []
     },
     {
+      "id": "devto-4743843",
+      "title": "TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧",
+      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer exploring new possibilities with Jev 😸 (I'm also...",
+      "url": "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
+      "source": "dev.to",
+      "points": 77,
+      "comments": 6,
+      "published_at": "2026-09-30T14:34:27Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-21743950",
       "title": "2019’s Top Machine and Deep Learning Research Papers",
       "description": "",
@@ -315,26 +328,13 @@
       "tags": []
     },
     {
-      "id": "devto-4743843",
-      "title": "TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer exploring new possibilities with Jev 😸 (I'm also...",
-      "url": "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
-      "source": "dev.to",
-      "points": 63,
-      "comments": 4,
-      "published_at": "2026-09-30T14:34:27Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4754483",
       "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its Own Mistakes",
       "description": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A while...",
       "url": "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
       "source": "dev.to",
       "points": 57,
-      "comments": 27,
+      "comments": 26,
       "published_at": "2026-09-27T07:59:44Z",
       "summary": "",
       "category": "all",
@@ -362,6 +362,19 @@
       "points": 55,
       "comments": 60,
       "published_at": "2023-09-12T00:10:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4786527",
+      "title": "Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meetup at DDU, 15 Oct",
+      "description": "Most students hear about hackathons, open source and developer communities in their third or fourth...",
+      "url": "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
+      "source": "dev.to",
+      "points": 54,
+      "comments": 14,
+      "published_at": "2026-10-02T09:36:57Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -411,9 +424,22 @@
       "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
       "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
       "source": "dev.to",
-      "points": 45,
-      "comments": 8,
+      "points": 49,
+      "comments": 10,
       "published_at": "2026-09-26T11:16:56Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4788126",
+      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge  I fed 15 AI models a growing pile of...",
+      "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
+      "source": "dev.to",
+      "points": 40,
+      "comments": 24,
+      "published_at": "2026-10-02T15:34:23Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -463,8 +489,8 @@
       "description": "Two commands against the same data. Run them yourself:    $ curl -sS --get...",
       "url": "https://dev.to/kenielzep97/the-data-was-public-the-agent-path-wasnt-so-his-mock-became-my-documentation-413a",
       "source": "dev.to",
-      "points": 32,
-      "comments": 6,
+      "points": 33,
+      "comments": 11,
       "published_at": "2026-09-30T04:36:02Z",
       "summary": "",
       "category": "all",
@@ -497,6 +523,19 @@
       "tags": []
     },
     {
+      "id": "devto-4783260",
+      "title": "Hacktoberfest 2026 Stopped Counting PRs. Make Your First Ones Anyway, One a Day",
+      "description": "Hacktoberfest started today, and if you have taken part before, the first thing to know is that the...",
+      "url": "https://dev.to/devopsdaily/hacktoberfest-2026-stopped-counting-prs-make-your-first-ones-anyway-one-a-day-377b",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 1,
+      "published_at": "2026-10-01T15:04:37Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-41519502",
       "title": "NIST Draft Guidance Inherently Hostile to Open-Source AI Models",
       "description": "",
@@ -515,8 +554,8 @@
       "description": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   I tested...",
       "url": "https://dev.to/himanshu_748/tooltrap-tool-results-are-data-wasnt-enough-25oh",
       "source": "dev.to",
-      "points": 20,
-      "comments": 20,
+      "points": 21,
+      "comments": 21,
       "published_at": "2026-09-28T07:04:21Z",
       "summary": "",
       "category": "all",
@@ -544,19 +583,6 @@
       "points": 16,
       "comments": 2,
       "published_at": "2026-09-30T02:09:02Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4783260",
-      "title": "Hacktoberfest 2026 Stopped Counting PRs. Make Your First Ones Anyway, One a Day",
-      "description": "Hacktoberfest started today, and if you have taken part before, the first thing to know is that the...",
-      "url": "https://dev.to/devopsdaily/hacktoberfest-2026-stopped-counting-prs-make-your-first-ones-anyway-one-a-day-377b",
-      "source": "dev.to",
-      "points": 16,
-      "comments": 0,
-      "published_at": "2026-10-01T15:04:37Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,19 +653,6 @@
       "tags": []
     },
     {
-      "id": "devto-4783698",
-      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
-      "description": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, and how Socratic questioning plus topological scars prune doomed search trees at depth d=1.",
-      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 4,
-      "published_at": "2026-10-01T17:08:03Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4767394",
       "title": "Say Please (if only as a reminder)",
       "description": "I think I've found the simplest way to explain what a prompt can and can't do for safety. Put the...",
@@ -653,14 +666,14 @@
       "tags": []
     },
     {
-      "id": "devto-4744010",
-      "title": "Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out",
-      "description": "I have very, very limited experience with AI agents.  I've used AI heavily while building software,...",
-      "url": "https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1",
+      "id": "devto-4770398",
+      "title": "ProofSec: Benchmarking Epistemic Robustness and Evidence-Grounded Vulnerability Reasoning in Frontier LLM",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge    What happens when an LLM...",
+      "url": "https://dev.to/anuththara2007w/proofsec-benchmarking-epistemic-robustness-and-evidence-grounded-vulnerability-reasoning-in-24bm",
       "source": "dev.to",
       "points": 10,
-      "comments": 5,
-      "published_at": "2026-09-25T17:04:39Z",
+      "comments": 0,
+      "published_at": "2026-09-29T11:03:28Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -711,7 +724,7 @@
       "url": "https://dev.to/rudratosh/metas-prompt-injection-detector-caught-1-of-real-agent-attacks-one-config-change-made-it-99-2jom",
       "source": "dev.to",
       "points": 7,
-      "comments": 11,
+      "comments": 13,
       "published_at": "2026-09-29T17:32:13Z",
       "summary": "",
       "category": "all",
@@ -757,27 +770,14 @@
       "tags": []
     },
     {
-      "id": "hn-34521042",
-      "title": "Show HN: Genome - AI based Instagram post generation tool",
-      "description": "",
-      "url": "https://genome.build",
-      "source": "genome.build",
-      "points": 6,
-      "comments": 0,
-      "published_at": "2023-01-25T17:13:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4763252",
-      "title": "What Happens When an Agency Uses AI to Build Your Backend",
-      "description": "Over the last six months at EnactOn, we’ve started noticing a brand-new category of emergency audit...",
-      "url": "https://dev.to/vrunda_chauhan_a52cc23b11/what-happens-when-an-agency-uses-ai-to-build-your-backend-4pg",
+      "id": "devto-4766638",
+      "title": "My OSS Projects: Electron.NET",
+      "description": "This is the fourth post in my \"My Open-Source Projects\" series, where I go through some of the OSS...",
+      "url": "https://dev.to/florianrappl/my-oss-projects-electronnet-2cgl",
       "source": "dev.to",
-      "points": 6,
-      "comments": 2,
-      "published_at": "2026-09-28T11:12:55Z",
+      "points": 7,
+      "comments": 0,
+      "published_at": "2026-09-30T13:30:00Z",
       "summary": "",
       "category": "all",
       "tags": []
