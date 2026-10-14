@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T13:00:14Z",
+  "updated_at": "2026-10-14T10:41:07Z",
   "count": 60,
   "articles": [
     {
@@ -302,6 +302,19 @@
       "tags": []
     },
     {
+      "id": "devto-4819360",
+      "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
+      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...",
+      "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
+      "source": "dev.to",
+      "points": 97,
+      "comments": 46,
+      "published_at": "2026-10-10T15:49:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-4776935",
       "title": "To Retry or Not to Retry? That Is the Question.",
       "description": "This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...",
@@ -315,26 +328,13 @@
       "tags": []
     },
     {
-      "id": "devto-4819360",
-      "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...",
-      "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
-      "source": "dev.to",
-      "points": 93,
-      "comments": 45,
-      "published_at": "2026-10-10T15:49:58Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4792945",
       "title": "Migrating a Real TypeScript OSS Library from tsup to tsdown 🔧",
       "description": "The config migration was small. Preserving the package contract was the interesting part.   Hoi hoi!...",
       "url": "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80",
       "source": "dev.to",
-      "points": 74,
-      "comments": 26,
+      "points": 75,
+      "comments": 31,
       "published_at": "2026-10-07T15:59:28Z",
       "summary": "",
       "category": "all",
@@ -349,6 +349,19 @@
       "points": 66,
       "comments": 10,
       "published_at": "2019-12-09T16:32:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4832848",
+      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge           Table of Contents    One Eye,...",
+      "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
+      "source": "dev.to",
+      "points": 60,
+      "comments": 32,
+      "published_at": "2026-10-11T19:40:43Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -375,19 +388,6 @@
       "points": 55,
       "comments": 60,
       "published_at": "2023-09-12T00:10:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4832848",
-      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules",
-      "description": "This is a submission for the Kaggle Benchmarking Challenge           Table of Contents    One Eye,...",
-      "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
-      "source": "dev.to",
-      "points": 54,
-      "comments": 30,
-      "published_at": "2026-10-11T19:40:43Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -424,9 +424,22 @@
       "description": "Every October for the past twelve years, developers around the world have taken part in...",
       "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
       "source": "dev.to",
-      "points": 51,
+      "points": 52,
       "comments": 6,
       "published_at": "2026-10-11T19:43:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4821589",
+      "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...",
+      "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
+      "source": "dev.to",
+      "points": 51,
+      "comments": 26,
+      "published_at": "2026-10-09T12:26:09Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -445,14 +458,14 @@
       "tags": []
     },
     {
-      "id": "devto-4821589",
-      "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
-      "description": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...",
-      "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
+      "id": "devto-4842489",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
+      "description": "Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
+      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
       "source": "dev.to",
-      "points": 48,
-      "comments": 23,
-      "published_at": "2026-10-09T12:26:09Z",
+      "points": 42,
+      "comments": 38,
+      "published_at": "2026-10-13T07:15:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -497,14 +510,27 @@
       "tags": []
     },
     {
-      "id": "devto-4812597",
-      "title": "A Coding System That Refuses to Trust Its Own Output",
-      "description": "Derivative turns software requirements into executable Python, but generated code is never allowed to...",
-      "url": "https://dev.to/danielecangi/a-coding-system-that-refuses-to-trust-its-own-output-8dj",
+      "id": "devto-4840607",
+      "title": "Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.",
+      "description": "Every \"7 local models that replace Claude Code\" list opens the same way: a table of SWE-bench scores,...",
+      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
       "source": "dev.to",
-      "points": 31,
-      "comments": 27,
-      "published_at": "2026-10-07T13:35:57Z",
+      "points": 36,
+      "comments": 59,
+      "published_at": "2026-10-12T23:43:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4833968",
+      "title": "A Reader Showed Me What My Auditer Wasnt Counting.",
+      "description": "Send these two lines to my memory auditor:    ## Never deploy without human approval. Auto-deploy the...",
+      "url": "https://dev.to/kenielzep97/a-reader-showed-me-what-my-auditer-wasnt-counting-3o7b",
+      "source": "dev.to",
+      "points": 30,
+      "comments": 4,
+      "published_at": "2026-10-11T18:13:15Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -518,19 +544,6 @@
       "points": 29,
       "comments": 5,
       "published_at": "2023-11-08T12:16:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4842489",
-      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
-      "description": "Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
-      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
-      "source": "dev.to",
-      "points": 28,
-      "comments": 23,
-      "published_at": "2026-10-13T07:15:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -555,21 +568,8 @@
       "url": "https://dev.to/apples_one_cd174284bffb/12-of-13-ai-models-knew-the-new-name-and-still-wrote-the-old-one-2jla",
       "source": "dev.to",
       "points": 27,
-      "comments": 16,
+      "comments": 17,
       "published_at": "2026-10-10T15:38:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4823783",
-      "title": "Zero-Screen Dungeon Master: The Voice-Only RPG Where Your Real Walk Drives the Story",
-      "description": "This is a submission for the DEV Hacktoberfest Open-Source AI Challenge: Week 1 - Touch Grass.  🌿...",
-      "url": "https://dev.to/vidisha_gupta_/zero-screen-dungeon-master-the-voice-only-rpg-where-your-real-walk-drives-the-story-3m68",
-      "source": "dev.to",
-      "points": 27,
-      "comments": 4,
-      "published_at": "2026-10-09T14:21:13Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -627,19 +627,6 @@
       "tags": []
     },
     {
-      "id": "devto-4810304",
-      "title": "I built an AI that only works when my phone is in my pocket",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
-      "url": "https://dev.to/codeswithroh/i-built-an-ai-that-only-works-when-my-phone-is-in-my-pocket-3ipn",
-      "source": "dev.to",
-      "points": 25,
-      "comments": 17,
-      "published_at": "2026-10-07T05:56:15Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4819935",
       "title": "TouchGrass: The Open-AI Agent That Succeeds When You Stop Using It",
       "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass             ...",
@@ -658,7 +645,7 @@
       "description": "This is a submission for the Kaggle Benchmarking Challenge   \"The answer isn't always there. Does...",
       "url": "https://dev.to/shreyansh_agrahari_2009db/the-missing-piece-why-ai-models-hallucinate-answers-when-they-should-abstain-403",
       "source": "dev.to",
-      "points": 22,
+      "points": 23,
       "comments": 2,
       "published_at": "2026-10-10T23:22:46Z",
       "summary": "",
@@ -679,19 +666,6 @@
       "tags": []
     },
     {
-      "id": "devto-4825927",
-      "title": "Your AI Dashboard Is Green. Your Delivery Isn't.",
-      "description": "A diagnostic companion to DORA and DX metrics for SDMs and Directors   Faros AI looked at...",
-      "url": "https://dev.to/debashish_ghosal/your-ai-dashboard-is-green-your-delivery-isnt-1l3p",
-      "source": "dev.to",
-      "points": 18,
-      "comments": 9,
-      "published_at": "2026-10-10T06:23:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4812457",
       "title": "I built an offline AI that knows your last frost date, no internet, no API",
       "description": "An open-weight tabular model forecasts your last spring frost and a local Gemma writes the planting advice. Fully offline, no account, $0 to run.",
@@ -705,14 +679,14 @@
       "tags": []
     },
     {
-      "id": "devto-4840607",
-      "title": "Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.",
-      "description": "Every \"7 local models that replace Claude Code\" list opens the same way: a table of SWE-bench scores,...",
-      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
+      "id": "devto-4839261",
+      "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
+      "description": "You’ve read way too many versions of this paragraph already. Probably even this week:   “In today’s...",
+      "url": "https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n",
       "source": "dev.to",
       "points": 17,
-      "comments": 14,
-      "published_at": "2026-10-12T23:43:44Z",
+      "comments": 2,
+      "published_at": "2026-10-12T21:03:36Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -739,6 +713,32 @@
       "points": 15,
       "comments": 9,
       "published_at": "2026-10-08T06:31:39Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4812348",
+      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge  An AI agent benchmark for tool use should...",
+      "url": "https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 14,
+      "published_at": "2026-10-10T11:46:22Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4838502",
+      "title": "Do You Actually Need an LLM?",
+      "description": "I spent a weekend running two small language models against three jobs I would normally hand to a...",
+      "url": "https://dev.to/kenwalger/do-you-actually-need-an-llm-3n55",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 6,
+      "published_at": "2026-10-13T13:03:00Z",
       "summary": "",
       "category": "all",
       "tags": []
