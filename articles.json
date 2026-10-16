@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:24:28Z",
+  "updated_at": "2026-10-16T10:12:10Z",
   "count": 60,
   "articles": [
     {
@@ -307,9 +307,22 @@
       "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...",
       "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
       "source": "dev.to",
-      "points": 100,
-      "comments": 50,
+      "points": 107,
+      "comments": 51,
       "published_at": "2026-10-10T15:49:58Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4832848",
+      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge           Table of Contents    One Eye,...",
+      "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
+      "source": "dev.to",
+      "points": 67,
+      "comments": 34,
+      "published_at": "2026-10-11T19:40:43Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -328,19 +341,6 @@
       "tags": []
     },
     {
-      "id": "devto-4832848",
-      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules",
-      "description": "This is a submission for the Kaggle Benchmarking Challenge           Table of Contents    One Eye,...",
-      "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
-      "source": "dev.to",
-      "points": 61,
-      "comments": 34,
-      "published_at": "2026-10-11T19:40:43Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-26386432",
       "title": "Furious AI researcher creates a list of non-reproducible machine learning papers",
       "description": "",
@@ -354,6 +354,19 @@
       "tags": []
     },
     {
+      "id": "devto-4839229",
+      "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
+      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...",
+      "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
+      "source": "dev.to",
+      "points": 55,
+      "comments": 8,
+      "published_at": "2026-10-14T15:35:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-37475359",
       "title": "Meta wants its open source AI model to be as capable as OpenAI’s best model",
       "description": "",
@@ -362,6 +375,19 @@
       "points": 55,
       "comments": 60,
       "published_at": "2023-09-12T00:10:09Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4842489",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
+      "description": "Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
+      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
+      "source": "dev.to",
+      "points": 54,
+      "comments": 44,
+      "published_at": "2026-10-13T07:15:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -412,34 +438,21 @@
       "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
       "source": "dev.to",
       "points": 51,
-      "comments": 29,
+      "comments": 31,
       "published_at": "2026-10-09T12:26:09Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-4839229",
-      "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...",
-      "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
+      "id": "devto-4840607",
+      "title": "Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.",
+      "description": "Every \"7 local models that replace Claude Code\" list opens the same way: a table of SWE-bench scores,...",
+      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
       "source": "dev.to",
       "points": 51,
-      "comments": 8,
-      "published_at": "2026-10-14T15:35:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4842489",
-      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
-      "description": "Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
-      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
-      "source": "dev.to",
-      "points": 51,
-      "comments": 42,
-      "published_at": "2026-10-13T07:15:38Z",
+      "comments": 81,
+      "published_at": "2026-10-12T23:43:44Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -458,25 +471,12 @@
       "tags": []
     },
     {
-      "id": "devto-4840607",
-      "title": "Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.",
-      "description": "Every \"7 local models that replace Claude Code\" list opens the same way: a table of SWE-bench scores,...",
-      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
-      "source": "dev.to",
-      "points": 47,
-      "comments": 79,
-      "published_at": "2026-10-12T23:43:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4826975",
       "title": "WildProof: Go Outside With a Question, Come Back With Evidence",
       "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
       "url": "https://dev.to/dj29/wildproof-go-outside-with-a-question-come-back-with-evidence-574e",
       "source": "dev.to",
-      "points": 41,
+      "points": 42,
       "comments": 4,
       "published_at": "2026-10-10T06:46:29Z",
       "summary": "",
@@ -588,19 +588,6 @@
       "tags": []
     },
     {
-      "id": "devto-4819935",
-      "title": "TouchGrass: The Open-AI Agent That Succeeds When You Stop Using It",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass             ...",
-      "url": "https://dev.to/rajan_mishra_a9f78ad216b4/touchgrass-the-open-ai-agent-that-succeeds-when-you-stop-using-it-3k1e",
-      "source": "dev.to",
-      "points": 25,
-      "comments": 7,
-      "published_at": "2026-10-08T20:24:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4830586",
       "title": "The Missing Piece: Why AI Models Hallucinate Answers When They Should Abstain",
       "description": "This is a submission for the Kaggle Benchmarking Challenge   \"The answer isn't always there. Does...",
@@ -609,6 +596,32 @@
       "points": 24,
       "comments": 3,
       "published_at": "2026-10-10T23:22:46Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4829981",
+      "title": "RevSofia, a Car Meetup app that people will love to use",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "url": "https://dev.to/alexgeorgiev17/car-meets-in-sofia-get-planned-in-chaos-so-i-made-an-open-model-read-the-chat-for-us-24nm",
+      "source": "dev.to",
+      "points": 24,
+      "comments": 5,
+      "published_at": "2026-10-10T19:29:45Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4812348",
+      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge  An AI agent benchmark for tool use should...",
+      "url": "https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f",
+      "source": "dev.to",
+      "points": 23,
+      "comments": 19,
+      "published_at": "2026-10-10T11:46:22Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -645,7 +658,7 @@
       "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
       "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
       "source": "dev.to",
-      "points": 19,
+      "points": 20,
       "comments": 3,
       "published_at": "2026-10-14T12:04:00Z",
       "summary": "",
@@ -658,9 +671,22 @@
       "description": "An open-weight tabular model forecasts your last spring frost and a local Gemma writes the planting advice. Fully offline, no account, $0 to run.",
       "url": "https://dev.to/sarvar_04/i-built-an-offline-ai-that-knows-your-last-frost-date-no-internet-no-api-3b8e",
       "source": "dev.to",
-      "points": 18,
+      "points": 20,
       "comments": 2,
       "published_at": "2026-10-09T12:44:55Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4855086",
+      "title": "I Built an Open-Weight AI That Prices Etsy Shops, On Your Laptop",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    My friend...",
+      "url": "https://dev.to/sarvar_04/i-built-an-open-weight-ai-that-prices-etsy-shops-on-your-laptop-24dk",
+      "source": "dev.to",
+      "points": 20,
+      "comments": 0,
+      "published_at": "2026-10-15T12:03:16Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -671,8 +697,8 @@
       "description": "Here's a failure your test suite probably can't see.  An AI agent with a send_email tool summarizes a...",
       "url": "https://dev.to/rudratosh/your-ai-agent-said-it-blocked-the-attack-i-read-the-source-of-5-tools-that-check-if-its-lying-l1n",
       "source": "dev.to",
-      "points": 17,
-      "comments": 37,
+      "points": 18,
+      "comments": 49,
       "published_at": "2026-10-13T13:31:39Z",
       "summary": "",
       "category": "all",
@@ -705,19 +731,6 @@
       "tags": []
     },
     {
-      "id": "devto-4812348",
-      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
-      "description": "This is a submission for the Kaggle Benchmarking Challenge  An AI agent benchmark for tool use should...",
-      "url": "https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f",
-      "source": "dev.to",
-      "points": 15,
-      "comments": 16,
-      "published_at": "2026-10-10T11:46:22Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-4836992",
       "title": "How I got to open a PR on my daily tool, and bring Robotics Telemetry to it! 🤖🌸",
       "description": "Today I have the most exciting little milestone to share: I just submitted my very first feature PR...",
@@ -744,14 +757,14 @@
       "tags": []
     },
     {
-      "id": "devto-4829981",
-      "title": "RevSofia, a Car Meetup app that people will love to use",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
-      "url": "https://dev.to/alexgeorgiev17/car-meets-in-sofia-get-planned-in-chaos-so-i-made-an-open-model-read-the-chat-for-us-24nm",
+      "id": "devto-4846594",
+      "title": "I Built a Cozy 60 FPS AI Agent Bakery Game (Built with Gemma 4 & Antigravity) to Teach RAG, Guardrails & Multi-Agent Orchestration",
+      "description": "What I Built   Who said learning AI System Design has to be all dark cyberpunk terminal...",
+      "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
       "source": "dev.to",
       "points": 14,
-      "comments": 3,
-      "published_at": "2026-10-10T19:29:45Z",
+      "comments": 4,
+      "published_at": "2026-10-13T20:49:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -765,19 +778,6 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4846594",
-      "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
-      "description": "What I Built   Who said learning AI System Design has to be all dark cyberpunk terminal...",
-      "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 2,
-      "published_at": "2026-10-13T20:49:38Z",
       "summary": "",
       "category": "all",
       "tags": []
