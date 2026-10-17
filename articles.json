@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:12:10Z",
+  "updated_at": "2026-10-17T09:45:47Z",
   "count": 60,
   "articles": [
     {
@@ -308,7 +308,7 @@
       "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
       "source": "dev.to",
       "points": 107,
-      "comments": 51,
+      "comments": 54,
       "published_at": "2026-10-10T15:49:58Z",
       "summary": "",
       "category": "all",
@@ -320,7 +320,7 @@
       "description": "This is a submission for the Kaggle Benchmarking Challenge           Table of Contents    One Eye,...",
       "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
       "source": "dev.to",
-      "points": 67,
+      "points": 72,
       "comments": 34,
       "published_at": "2026-10-11T19:40:43Z",
       "summary": "",
@@ -341,6 +341,45 @@
       "tags": []
     },
     {
+      "id": "devto-4839229",
+      "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
+      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...",
+      "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
+      "source": "dev.to",
+      "points": 64,
+      "comments": 8,
+      "published_at": "2026-10-14T15:35:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4840607",
+      "title": "Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.",
+      "description": "Every \"7 local models that replace Claude Code\" list opens the same way: a table of SWE-bench scores,...",
+      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
+      "source": "dev.to",
+      "points": 59,
+      "comments": 85,
+      "published_at": "2026-10-12T23:43:44Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4842489",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
+      "description": "Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
+      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
+      "source": "dev.to",
+      "points": 57,
+      "comments": 52,
+      "published_at": "2026-10-13T07:15:38Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-26386432",
       "title": "Furious AI researcher creates a list of non-reproducible machine learning papers",
       "description": "",
@@ -354,19 +393,6 @@
       "tags": []
     },
     {
-      "id": "devto-4839229",
-      "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...",
-      "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
-      "source": "dev.to",
-      "points": 55,
-      "comments": 8,
-      "published_at": "2026-10-14T15:35:25Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-37475359",
       "title": "Meta wants its open source AI model to be as capable as OpenAI’s best model",
       "description": "",
@@ -375,19 +401,6 @@
       "points": 55,
       "comments": 60,
       "published_at": "2023-09-12T00:10:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4842489",
-      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
-      "description": "Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
-      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
-      "source": "dev.to",
-      "points": 54,
-      "comments": 44,
-      "published_at": "2026-10-13T07:15:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -432,32 +445,6 @@
       "tags": []
     },
     {
-      "id": "devto-4821589",
-      "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
-      "description": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...",
-      "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
-      "source": "dev.to",
-      "points": 51,
-      "comments": 31,
-      "published_at": "2026-10-09T12:26:09Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4840607",
-      "title": "Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.",
-      "description": "Every \"7 local models that replace Claude Code\" list opens the same way: a table of SWE-bench scores,...",
-      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
-      "source": "dev.to",
-      "points": 51,
-      "comments": 81,
-      "published_at": "2026-10-12T23:43:44Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-29680957",
       "title": "Ask HN: What cutting-edge technology do you use?",
       "description": "",
@@ -466,19 +453,6 @@
       "points": 50,
       "comments": 40,
       "published_at": "2021-12-25T06:21:11Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4826975",
-      "title": "WildProof: Go Outside With a Question, Come Back With Evidence",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
-      "url": "https://dev.to/dj29/wildproof-go-outside-with-a-question-come-back-with-evidence-574e",
-      "source": "dev.to",
-      "points": 42,
-      "comments": 4,
-      "published_at": "2026-10-10T06:46:29Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,19 +497,6 @@
       "tags": []
     },
     {
-      "id": "devto-4825344",
-      "title": "Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves",
-      "description": "I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...",
-      "url": "https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42",
-      "source": "dev.to",
-      "points": 29,
-      "comments": 11,
-      "published_at": "2026-10-09T20:37:48Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-38189378",
       "title": "Meta taps Hugging Face to spur adoption of open source AI models",
       "description": "",
@@ -570,6 +531,19 @@
       "points": 27,
       "comments": 17,
       "published_at": "2026-10-10T15:38:25Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4828666",
+      "title": "I Distilled a 397B Model Into a 4B One for $1.60. It Now Catches 28 of 33 Park Alerts That Should Stop Your Hike.",
+      "description": "A Qwen3.5-4B LoRA trained on Tinker reads all 627 live National Park Service alerts, is graded against the rangers' own labels, and prints one go/no-go trail card a week. Then it stops talking.",
+      "url": "https://dev.to/soumyadeepdey/i-distilled-a-397b-model-into-a-4b-one-for-160-it-now-catches-28-of-33-park-alerts-that-should-bic",
+      "source": "dev.to",
+      "points": 26,
+      "comments": 11,
+      "published_at": "2026-10-10T13:59:38Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -620,21 +594,34 @@
       "url": "https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f",
       "source": "dev.to",
       "points": 23,
-      "comments": 19,
+      "comments": 20,
       "published_at": "2026-10-10T11:46:22Z",
       "summary": "",
       "category": "all",
       "tags": []
     },
     {
-      "id": "devto-4828666",
-      "title": "I Distilled a 397B Model Into a 4B One for $1.60. It Now Catches 28 of 33 Park Alerts That Should Stop Your Hike.",
-      "description": "A Qwen3.5-4B LoRA trained on Tinker reads all 627 live National Park Service alerts, is graded against the rangers' own labels, and prints one go/no-go trail card a week. Then it stops talking.",
-      "url": "https://dev.to/soumyadeepdey/i-distilled-a-397b-model-into-a-4b-one-for-160-it-now-catches-28-of-33-park-alerts-that-should-bic",
+      "id": "devto-4785053",
+      "title": "The Bug Lives at the Seam, Not in the Logic",
+      "description": "The encrypted secret was bytes. It round-tripped perfectly in the in-memory store. The unit tests...",
+      "url": "https://dev.to/debashish_ghosal/the-bug-lives-at-the-seam-not-in-the-logic-48j4",
       "source": "dev.to",
       "points": 22,
-      "comments": 11,
-      "published_at": "2026-10-10T13:59:38Z",
+      "comments": 3,
+      "published_at": "2026-10-16T02:16:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4846084",
+      "title": "The Model Is the Easy Part",
+      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
+      "source": "dev.to",
+      "points": 21,
+      "comments": 3,
+      "published_at": "2026-10-14T12:04:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -648,32 +635,6 @@
       "points": 21,
       "comments": 3,
       "published_at": "2026-10-13T00:57:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4846084",
-      "title": "The Model Is the Easy Part",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 3,
-      "published_at": "2026-10-14T12:04:00Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-4812457",
-      "title": "I built an offline AI that knows your last frost date, no internet, no API",
-      "description": "An open-weight tabular model forecasts your last spring frost and a local Gemma writes the planting advice. Fully offline, no account, $0 to run.",
-      "url": "https://dev.to/sarvar_04/i-built-an-offline-ai-that-knows-your-last-frost-date-no-internet-no-api-3b8e",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 2,
-      "published_at": "2026-10-09T12:44:55Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -770,6 +731,19 @@
       "tags": []
     },
     {
+      "id": "devto-4856506",
+      "title": "RevCheck, compare the cars you want before you buy your next daily driver",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "url": "https://dev.to/alexgeorgiev17/revcheck-paste-two-used-car-listings-get-a-second-opinion-before-you-drive-across-town-1e7e",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 0,
+      "published_at": "2026-10-15T12:33:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-45080267",
       "title": "Who makes money from open-source AI models?",
       "description": "",
@@ -778,6 +752,32 @@
       "points": 14,
       "comments": 2,
       "published_at": "2025-08-31T04:01:39Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4856455",
+      "title": "It caught \"partner\" \"pareja\" in an IRS rule and missed \"return\" \"devolución\": an offline MT checker for translators",
+      "description": "An offline checker that ranks machine-translated segments by the risk of a major meaning error: a $1.22 Tinker LoRA, Gemma 4 on DigitalOcean, Sentry tracing.",
+      "url": "https://dev.to/p0rt/it-caught-partner-pareja-in-an-irs-rule-and-missed-return-devolucion-an-offline-mt-7ge",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 3,
+      "published_at": "2026-10-15T12:25:34Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4846844",
+      "title": "I spent three weekends trying to secure an AI agent. Here's everything that didn't work — and the ~600 lines that did.",
+      "description": "A few weeks ago I watched an AI agent get owned, lie to me about it, and pass its test.  Not in a...",
+      "url": "https://dev.to/rudratosh/i-spent-three-weekends-trying-to-secure-an-ai-agent-heres-everything-that-didnt-work-and-the-g5o",
+      "source": "dev.to",
+      "points": 13,
+      "comments": 10,
+      "published_at": "2026-10-13T22:38:26Z",
       "summary": "",
       "category": "all",
       "tags": []
