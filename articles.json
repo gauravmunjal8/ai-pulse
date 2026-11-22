@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:45:43Z",
+  "updated_at": "2026-11-22T13:39:28Z",
   "count": 60,
   "articles": [
     {
@@ -302,26 +302,13 @@
       "tags": []
     },
     {
-      "id": "devto-5036386",
-      "title": "Cat Mutilation Successful!! 🛸 Welcome New Members!! 🐈🎉",
-      "description": "Hoi hoi! 👋  Last week, we launched the Necoz organization here on DEV!                               ...",
-      "url": "https://dev.to/necoz/cat-mutilation-successful-welcome-new-members-4bj4",
-      "source": "dev.to",
-      "points": 113,
-      "comments": 44,
-      "published_at": "2026-11-15T10:01:42Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-5047522",
       "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
       "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs! 🦐  And...",
       "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
       "source": "dev.to",
-      "points": 108,
-      "comments": 28,
+      "points": 119,
+      "comments": 30,
       "published_at": "2026-11-18T17:27:52Z",
       "summary": "",
       "category": "all",
@@ -333,7 +320,7 @@
       "description": "Welcome to Issue #1 of DEVengers Weekly — our community-run digest spotlighting the developers,...",
       "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
       "source": "dev.to",
-      "points": 82,
+      "points": 96,
       "comments": 28,
       "published_at": "2026-11-17T14:18:20Z",
       "summary": "",
@@ -432,14 +419,27 @@
       "tags": []
     },
     {
-      "id": "devto-5039348",
-      "title": "Jira said Done. It wasn't, and the bug showed up later. So I made Jira check first.",
-      "description": "Picture this. The ticket moved to Done on Friday. The pull request was merged, CI was green, everyone...",
-      "url": "https://dev.to/wst2002rk/jira-said-done-it-wasnt-and-the-bug-showed-up-later-so-i-made-jira-check-first-9ed",
+      "id": "devto-5065259",
+      "title": "I built a VS Code start page for my Git repositories",
+      "description": "Why I built Repo Board, how it shows local Git status and linked worktrees, and how to make it your VS Code start page.",
+      "url": "https://dev.to/playfulprogramming/i-built-a-vs-code-start-page-for-my-git-repositories-5c6",
       "source": "dev.to",
-      "points": 44,
-      "comments": 35,
-      "published_at": "2026-11-15T05:05:40Z",
+      "points": 42,
+      "comments": 22,
+      "published_at": "2026-11-18T13:35:13Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-5082880",
+      "title": "A VS Code extension to turn any free chatbot in your browser into an AI agent",
+      "description": "If you've ever pasted ten files into ChatGPT, asked for a fix, then manually copied the result back...",
+      "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21",
+      "source": "dev.to",
+      "points": 42,
+      "comments": 46,
+      "published_at": "2026-11-21T11:49:40Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -484,14 +484,14 @@
       "tags": []
     },
     {
-      "id": "devto-5065259",
-      "title": "I built a VS Code start page for my Git repositories",
-      "description": "Why I built Repo Board, how it shows local Git status and linked worktrees, and how to make it your VS Code start page.",
-      "url": "https://dev.to/playfulprogramming/i-built-a-vs-code-start-page-for-my-git-repositories-5c6",
+      "id": "devto-5055580",
+      "title": "Once Upon Agentic AI (Part 2): Develop your own MCP server and cast its tools from Strands Agents",
+      "description": "Series: Once Upon Agentic AI.  Despite their new powers and fearless hearts, our heroes had not...",
+      "url": "https://dev.to/aws/once-upon-agentic-ai-part-2-develop-your-own-mcp-server-and-cast-its-tools-from-strands-agents-9ob",
       "source": "dev.to",
       "points": 31,
-      "comments": 22,
-      "published_at": "2026-11-18T13:35:13Z",
+      "comments": 7,
+      "published_at": "2026-11-17T08:35:35Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -523,6 +523,19 @@
       "tags": []
     },
     {
+      "id": "devto-5072558",
+      "title": "Can a plain table hijack an AI agent?",
+      "description": "Living repo: every case in this article is in agent-redteam...",
+      "url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
+      "source": "dev.to",
+      "points": 28,
+      "comments": 54,
+      "published_at": "2026-11-19T09:20:49Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-39677525",
       "title": "Jail time for open source AI models",
       "description": "",
@@ -544,19 +557,6 @@
       "points": 26,
       "comments": 7,
       "published_at": "2026-11-17T17:13:33Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-5039243",
-      "title": "I Told My Agent Who Sent the Message. It Mostly Stopped Saying We Were Talking.",
-      "description": "This is the line:    AUTOMATED SCHEDULER CHECK: sender=scheduler, not Keniel; Keniel is not...",
-      "url": "https://dev.to/kenielzep97/i-told-my-agent-who-sent-the-message-it-mostly-stopped-saying-we-were-talking-12o8",
-      "source": "dev.to",
-      "points": 26,
-      "comments": 28,
-      "published_at": "2026-11-15T03:48:10Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -588,19 +588,6 @@
       "tags": []
     },
     {
-      "id": "devto-5072558",
-      "title": "Can a plain table hijack an AI agent?",
-      "description": "Living repo: every case in this article is in agent-redteam...",
-      "url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
-      "source": "dev.to",
-      "points": 24,
-      "comments": 51,
-      "published_at": "2026-11-19T09:20:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-5044977",
       "title": "Introducing Sawala Mono: An Ergonomic Coding Font Built for Code Reviews and Terminal Workflows",
       "description": "Most of our time as software engineers isn't spent typing new code from scratch. We spend the...",
@@ -614,27 +601,27 @@
       "tags": []
     },
     {
+      "id": "devto-5068570",
+      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+      "description": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. E4B scored 0.927 to 0.944 on GSM8K; thinking took 2.24 to 2.47 times as long for at most 16 more problems; the drafter cut the time by 1.38 to 2.39 times and changed no score.",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5",
+      "source": "dev.to",
+      "points": 18,
+      "comments": 7,
+      "published_at": "2026-11-19T15:19:33Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-5073756",
       "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
       "description": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose.yml files via docker inspect, and adopts them as managed Stacks with zero downtime.",
       "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic",
       "source": "dev.to",
       "points": 18,
-      "comments": 3,
+      "comments": 4,
       "published_at": "2026-11-19T11:44:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-5068570",
-      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
-      "description": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. E4B scored 0.927 to 0.944 on GSM8K; thinking took 2.24 to 2.47 times as long for at most 16 more problems; the drafter cut the time by 1.38 to 2.39 times and changed no score.",
-      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5",
-      "source": "dev.to",
-      "points": 17,
-      "comments": 7,
-      "published_at": "2026-11-19T15:19:33Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -646,7 +633,7 @@
       "url": "https://dev.to/shinpr/my-codex-agents-were-posting-to-slack-as-me-18e4",
       "source": "dev.to",
       "points": 17,
-      "comments": 48,
+      "comments": 50,
       "published_at": "2026-11-15T14:01:00Z",
       "summary": "",
       "category": "all",
@@ -666,6 +653,19 @@
       "tags": []
     },
     {
+      "id": "devto-5089729",
+      "title": "cueback: What If Tutorials Waited for You?",
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   You're...",
+      "url": "https://dev.to/arjuncodess/cueback-what-if-tutorials-waited-for-you-4fec",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 0,
+      "published_at": "2026-11-21T18:08:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "devto-5040623",
       "title": "Your Webcam Is Your Health Check-Up",
       "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   Human Health...",
@@ -679,14 +679,14 @@
       "tags": []
     },
     {
-      "id": "devto-5038913",
-      "title": "Zombies, a Gunship and a Judgment Model: What Could Go Wrong?",
-      "description": "That's Jev, a judgment model, commanding an AC-130-style gunship over a zombie-infested downtown Los...",
-      "url": "https://dev.to/copyleftdev/zombies-a-gunship-and-a-judgment-model-what-could-go-wrong-2k95",
+      "id": "devto-5031605",
+      "title": "Test the npm Package, Not Just the Monorepo",
+      "description": "A tracing adapter can pass its internal tests while capturing nothing in an installed...",
+      "url": "https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e",
       "source": "dev.to",
-      "points": 14,
-      "comments": 1,
-      "published_at": "2026-11-15T02:17:57Z",
+      "points": 15,
+      "comments": 7,
+      "published_at": "2026-11-21T14:20:00Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -757,14 +757,14 @@
       "tags": []
     },
     {
-      "id": "devto-5036392",
-      "title": "Swizzle Runtime v0.1.0: How We Reached 209 tok/s and 43ms TTFT on a 4GB Laptop GPU in Pure Rust",
-      "description": "Autonomous coding agents, local developer tools, and edge robotics are bottlenecked by the...",
-      "url": "https://dev.to/paramveer_singh_53163a04c/swizzle-runtime-v010-how-we-reached-209-toks-and-43ms-ttft-on-a-4gb-laptop-gpu-in-pure-rust-4l7l",
+      "id": "devto-5048495",
+      "title": "The Rigor Ratchet: adversarial field notes from testing a frontier preview model on myself",
+      "description": "TL;DR. I adversarially tested Qwen4-Max-Preview (Alibaba's free preview, November 2026) by asking it...",
+      "url": "https://dev.to/toxy4ny/the-rigor-ratchet-adversarial-field-notes-from-testing-a-frontier-preview-model-on-myself-1n4c",
       "source": "dev.to",
-      "points": 9,
-      "comments": 5,
-      "published_at": "2026-11-14T14:55:59Z",
+      "points": 10,
+      "comments": 6,
+      "published_at": "2026-11-16T14:07:23Z",
       "summary": "",
       "category": "all",
       "tags": []
