@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T16:13:55Z",
+  "updated_at": "2026-11-26T15:52:09Z",
   "count": 60,
   "articles": [
     {
@@ -289,19 +289,6 @@
       "tags": []
     },
     {
-      "id": "devto-5047522",
-      "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs! 🦐  And...",
-      "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
-      "source": "dev.to",
-      "points": 142,
-      "comments": 42,
-      "published_at": "2026-11-18T17:27:52Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "hn-40786237",
       "title": "Not all 'open source' AI models are open: here's a ranking",
       "description": "",
@@ -321,7 +308,7 @@
       "url": "https://dev.to/necoz/necoz-is-building-a-new-house-all-cats-follow-me-530n",
       "source": "dev.to",
       "points": 111,
-      "comments": 52,
+      "comments": 54,
       "published_at": "2026-11-22T13:27:10Z",
       "summary": "",
       "category": "all",
@@ -333,8 +320,8 @@
       "description": "In 1991, a 21-year-old student in Helsinki posted a message online saying he was building a free...",
       "url": "https://dev.to/akhourianmolkumar/one-man-built-linux-in-a-bedroom-another-blew-up-three-rockets-both-are-my-idols-whos-yours-1e09",
       "source": "dev.to",
-      "points": 69,
-      "comments": 175,
+      "points": 77,
+      "comments": 197,
       "published_at": "2026-11-24T04:00:44Z",
       "summary": "",
       "category": "all",
@@ -393,6 +380,19 @@
       "tags": []
     },
     {
+      "id": "devto-5082880",
+      "title": "A VS Code extension to turn any free chatbot in your browser into an AI agent",
+      "description": "If you've ever pasted ten files into ChatGPT, asked for a fix, then manually copied the result back...",
+      "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21",
+      "source": "dev.to",
+      "points": 53,
+      "comments": 57,
+      "published_at": "2026-11-21T11:49:40Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-49763379",
       "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
       "description": "",
@@ -406,14 +406,14 @@
       "tags": []
     },
     {
-      "id": "devto-5082880",
-      "title": "A VS Code extension to turn any free chatbot in your browser into an AI agent",
-      "description": "If you've ever pasted ten files into ChatGPT, asked for a fix, then manually copied the result back...",
-      "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21",
+      "id": "devto-5110658",
+      "title": "10 Prompt Engineering Tools I Think Every Developer Should Know",
+      "description": "A prompt that works perfectly in a quick test can completely change its behavior when you add more...",
+      "url": "https://dev.to/devstackhub/10-prompt-engineering-tools-i-think-every-developer-should-know-1lia",
       "source": "dev.to",
       "points": 52,
-      "comments": 52,
-      "published_at": "2026-11-21T11:49:40Z",
+      "comments": 27,
+      "published_at": "2026-11-24T18:30:15Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -445,6 +445,19 @@
       "tags": []
     },
     {
+      "id": "devto-5105841",
+      "title": "How One Blind Reply on X Took Me to DeepMind's London HQ Twice",
+      "description": "Why I Stopped Overthinking Replies (and Deployments)   For the first time, I'm not writing...",
+      "url": "https://dev.to/startupcafe/how-one-blind-reply-on-x-took-me-to-deepminds-london-hq-twice-31ff",
+      "source": "dev.to",
+      "points": 37,
+      "comments": 19,
+      "published_at": "2026-11-24T07:16:26Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
       "id": "hn-48856412",
       "title": "China may restrict foreign access to Chinese open-source AI models",
       "description": "",
@@ -458,26 +471,13 @@
       "tags": []
     },
     {
-      "id": "devto-5072558",
-      "title": "Can a plain table hijack an AI agent?",
-      "description": "Living repo: every case in this article is in agent-redteam...",
-      "url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
-      "source": "dev.to",
-      "points": 32,
-      "comments": 57,
-      "published_at": "2026-11-19T09:20:49Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-5031605",
       "title": "Test the npm Package, Not Just the Monorepo",
       "description": "A tracing adapter can pass its internal tests while capturing nothing in an installed...",
       "url": "https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e",
       "source": "dev.to",
-      "points": 31,
-      "comments": 16,
+      "points": 33,
+      "comments": 17,
       "published_at": "2026-11-21T14:20:00Z",
       "summary": "",
       "category": "all",
@@ -503,7 +503,7 @@
       "url": "https://dev.to/harsh0641/i-tested-my-ml-model-honestly-it-beat-good-issue-labels-by-43-1n18",
       "source": "dev.to",
       "points": 28,
-      "comments": 6,
+      "comments": 9,
       "published_at": "2026-11-23T18:59:14Z",
       "summary": "",
       "category": "all",
@@ -523,14 +523,14 @@
       "tags": []
     },
     {
-      "id": "devto-5071051",
-      "title": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026",
-      "description": "I keep coming back to one small question: why do we ask a model to write a paragraph when all our...",
-      "url": "https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24",
+      "id": "devto-5115557",
+      "title": "Inside APIC: The Full Engineering Teardown of a Free Photo Editor & Background Remover That Runs 100% On Your Device",
+      "description": "Inside APIC            The complete engineering story behind the free, private, on-device...",
+      "url": "https://dev.to/akhouri-systems/inside-apic-the-full-engineering-teardown-of-a-free-photo-editor-background-remover-that-runs-5h33",
       "source": "dev.to",
       "points": 27,
-      "comments": 18,
-      "published_at": "2026-11-19T07:21:48Z",
+      "comments": 41,
+      "published_at": "2026-11-25T10:34:42Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -575,19 +575,6 @@
       "tags": []
     },
     {
-      "id": "devto-5105841",
-      "title": "How One Blind Reply on X Took Me to DeepMind's London HQ Twice",
-      "description": "Why I Stopped Overthinking Replies (and Deployments)   For the first time, I'm not writing...",
-      "url": "https://dev.to/startupcafe/how-one-blind-reply-on-x-took-me-to-deepminds-london-hq-twice-31ff",
-      "source": "dev.to",
-      "points": 24,
-      "comments": 14,
-      "published_at": "2026-11-24T07:16:26Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-5100030",
       "title": "What would you do with 15 minutes for your startup?",
       "description": "When I’m juggling work, applications, and building a startup on my own, I can come back after a busy...",
@@ -627,19 +614,6 @@
       "tags": []
     },
     {
-      "id": "devto-5073756",
-      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
-      "description": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose.yml files via docker inspect, and adopts them as managed Stacks with zero downtime.",
-      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic",
-      "source": "dev.to",
-      "points": 20,
-      "comments": 4,
-      "published_at": "2026-11-19T11:44:51Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-5089729",
       "title": "cueback: What If Tutorials Waited for You?",
       "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   You're...",
@@ -648,6 +622,32 @@
       "points": 17,
       "comments": 0,
       "published_at": "2026-11-21T18:08:05Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-4917679",
+      "title": "We Had Four Tests We Couldn't Run. We Refused to Fake Any of Them.",
+      "description": "From the agentdrill v0.1.0 release, part of agentic-suite: open-source, harness-agnostic security...",
+      "url": "https://dev.to/debashish_ghosal/we-had-four-tests-we-couldnt-run-we-refused-to-fake-any-of-them-a55",
+      "source": "dev.to",
+      "points": 16,
+      "comments": 10,
+      "published_at": "2026-11-24T07:00:00Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-5112544",
+      "title": "I Tested My Prompt Against Plain English. One Answer Changed the Result.",
+      "description": "A six-case pilot of a structured review prompt against plain English tied on a blinded second reading, and one ambiguous answer made the difference.",
+      "url": "https://dev.to/gnomeman4201/i-tested-my-prompt-against-plain-english-one-answer-changed-the-result-4m3o",
+      "source": "dev.to",
+      "points": 14,
+      "comments": 5,
+      "published_at": "2026-11-25T02:28:45Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -666,40 +666,27 @@
       "tags": []
     },
     {
-      "id": "devto-5112544",
-      "title": "I Tested My Prompt Against Plain English. One Answer Changed the Result.",
-      "description": "A six-case pilot of a structured review prompt against plain English tied on a blinded second reading, and one ambiguous answer made the difference.",
-      "url": "https://dev.to/gnomeman4201/i-tested-my-prompt-against-plain-english-one-answer-changed-the-result-4m3o",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 2,
-      "published_at": "2026-11-25T02:28:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
-      "id": "devto-5073509",
-      "title": "Comparing 8 AI MVP Development Platforms in 2026: What Works in the Browser vs What Breaks in Production",
-      "description": "A startup idea used to require a dedicated engineering team, months of upfront development, and...",
-      "url": "https://dev.to/vrunda_chauhan_a52cc23b11/comparing-8-ai-mvp-development-platforms-in-2026-what-works-in-the-browser-vs-what-breaks-in-484i",
-      "source": "dev.to",
-      "points": 13,
-      "comments": 2,
-      "published_at": "2026-11-19T11:08:45Z",
-      "summary": "",
-      "category": "all",
-      "tags": []
-    },
-    {
       "id": "devto-5105807",
       "title": "Your agent isn't breaking the rules. Your rules were never enforced.",
       "description": "A refund agent has one rule in its prompt: never approve above 200 without sign-off. Nobody changes...",
       "url": "https://dev.to/tokenlat/your-agent-isnt-breaking-the-rules-your-rules-were-never-enforced-2ngo",
       "source": "dev.to",
       "points": 12,
-      "comments": 14,
+      "comments": 16,
       "published_at": "2026-11-24T07:12:14Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-5112111",
+      "title": "Gemma 4 Function Calls on an 8 GB RTX 3050: The Setting Matters More Than the Size",
+      "description": "On an 8 GB card, the setting decides function calling more than the model size does. With Google's sampling settings and thinking off, E4B answers 1 tool request in 9 in prose; with thinking on, 1 in 100. With the setting right, E2B, E4B and the 12B are level on 840 problems.",
+      "url": "https://dev.to/gde/gemma-4-function-calls-on-an-8-gb-rtx-3050-the-setting-matters-more-than-the-size-53a5",
+      "source": "dev.to",
+      "points": 12,
+      "comments": 1,
+      "published_at": "2026-11-25T17:46:32Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -711,8 +698,21 @@
       "url": "https://dev.to/kameh0use/git-bisect-doesnt-work-on-lockfiles-so-i-built-whichdep-4d37",
       "source": "dev.to",
       "points": 12,
-      "comments": 12,
+      "comments": 13,
       "published_at": "2026-11-24T15:24:30Z",
+      "summary": "",
+      "category": "all",
+      "tags": []
+    },
+    {
+      "id": "devto-5112102",
+      "title": "Thinking on Constrained Deployments: Gemma E2B on 4GB 1650",
+      "description": "A 4 GB laptop card gives the same answers as an 8 GB desktop card, at 1.63 times the time. On grade-school math, thinking doubles the time and moves no score beyond chance.",
+      "url": "https://dev.to/gde/thinking-on-constrained-deployments-gemma-e2b-on-4gb-1650-487c",
+      "source": "dev.to",
+      "points": 10,
+      "comments": 0,
+      "published_at": "2026-11-25T16:27:11Z",
       "summary": "",
       "category": "all",
       "tags": []
@@ -724,7 +724,7 @@
       "url": "https://dev.to/kartik-nvjk/i-let-my-agent-call-its-tools-in-parallel-one-of-them-needed-another-ones-answer-phg",
       "source": "dev.to",
       "points": 10,
-      "comments": 3,
+      "comments": 4,
       "published_at": "2026-11-23T16:49:06Z",
       "summary": "",
       "category": "all",
